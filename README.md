@@ -1,8 +1,8 @@
 # 🐸 Canadian Tech Internships & Co-ops
 
-A live list of open Canadian tech co-op and internship postings, updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers.
+A live list of open Canadian tech co-op and internship postings, updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**316 open** · 1 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**317 open** · 0 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Newest postings first. 🔒 = closed.
 
@@ -11,6 +11,7 @@ Newest postings first. 🔒 = closed.
 | RBC | 2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months) | TORONTO, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000-1) | 2026-10-05 | Winter 2027 |
 | RBC | 2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months) | TORONTO, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1) | 2026-10-05 | Winter 2027 |
 | Altera | High Level Synthesis Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254) | 2026-10-02 | Winter 2026 |
+| Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193) | 2026-10-02 | Winter 2026 |
 | Cadence Design Systems | Digital ASIC Design / Verification Engineer Intern/Co-op | Toronto, ON, Canada | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320) | 2026-10-02 | Winter 2026 |
 | Definity Financial | Operations Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | 2026-10-02 | Winter 2027 |
 | Harvey | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | 2026-10-02 | Winter 2027 |
@@ -324,7 +325,6 @@ Newest postings first. 🔒 = closed.
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | Winter 2026 |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | Summer 2026 |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | Summer 2026 |
-| Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2026 |
 
 ## About the data
 
