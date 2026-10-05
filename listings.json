@@ -352,17 +352,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "MCCR Policy AI Applications Intern - GRM",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Stripe",
     "role": "Data Analyst Intern",
     "location": "Toronto, ON, Canada",
@@ -3482,6 +3471,17 @@
     "term": "Winter 2026",
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193",
     "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-05"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "MCCR Policy AI Applications Intern - GRM",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696-3",
+    "date_posted": "2026-10-01",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-05"
