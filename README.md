@@ -1,10 +1,10 @@
 # 🐸 Canadian Tech Internships & Co-ops
 
-Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 2027 and 2028: software engineering (backend, frontend, full-stack), data science, AI/ML, DevOps, IT, product, hardware engineering and more, in Toronto, Montreal, Vancouver, Ottawa, Waterloo, Calgary and other Canadian cities, plus remote roles open to applicants in Canada.
+Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 2027 and 2028: software engineering (backend, frontend, full-stack), data science, AI/ML, DevOps, IT, product, hardware engineering and more, in Toronto, Montreal, Vancouver, Ottawa, Waterloo, Calgary and other Canadian cities, plus remote roles open to applicants in Canada - [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers.
 
-**316 open** · 1 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**317 open** · 0 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
