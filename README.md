@@ -1,6 +1,6 @@
 # 🐸 Canadian Tech Internships & Co-ops
 
-A live list of open Canadian tech co-op and internship postings, updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers.
+A live list of open Canadian tech co-op and internship postings, updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
 **317 open** · 0 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
