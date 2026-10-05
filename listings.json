@@ -1,5 +1,49 @@
 [
   {
+    "company": "Capital One",
+    "role": "Data Scientist Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "GoTo Group",
+    "role": "Software Developer Intern - Contacts",
+    "location": "Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Hitachi Energy",
+    "role": "Electrical Component Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Khan Academy",
+    "role": "Software Engineer Intern",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Summer 2027",
+    "link": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Lumentum",
     "role": "Embedded Software Developer Co-op - Optical Circuit Switch",
     "location": "Ottawa, ON, Canada",
@@ -38,6 +82,50 @@
     "location": "Toronto, Ontario, Canada",
     "term": "Winter 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "AI Developer Intern - Grm - Innovation & AI Center of Excellence",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "AI Developer Intern - Innovation & AI Center of Excellence",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Semtech",
+    "role": "Software Developer Co-op - Web/Cloud Application",
+    "location": "Richmond, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Solink",
+    "role": "Software Engineer Co-op - Apps",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "open",
