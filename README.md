@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**330 open** · 4 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**336 open** · 4 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,12 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) | 2026-10-06 | – |
+| Astera Labs | Design-for-Test Engineer Intern | Toronto, ON, Canada, San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) | 2026-10-06 | – |
+| Astera Labs | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) | 2026-10-06 | – |
+| Astera Labs | Physical Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | 2026-10-06 | – |
+| Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) | 2026-10-06 | – |
+| Astera Labs | System Validation Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) | 2026-10-06 | – |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434575009) | 2026-10-06 | Winter 2027 |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | 2026-10-06 | Winter 2027 |
 | RBC | 2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months) | Toronto, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000-1) | 2026-10-06 | Winter 2027 |
