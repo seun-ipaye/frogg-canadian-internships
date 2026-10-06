@@ -539,17 +539,6 @@
     "date_closed": null
   },
   {
-    "company": "Apple",
-    "role": "Data Scientist Co-op - Sales Business Analytics",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.apple.com/en-us/details/200686205",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Canadian Tire",
     "role": "Business Analyst Student",
     "location": "Mississauga, ON, Canada",
@@ -863,17 +852,6 @@
     "location": "Calgary, AB, Canada",
     "term": "Unspecified",
     "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "GoTo Group",
-    "role": "Software Engineer Intern - C3PO",
-    "location": "Remote in Canada",
-    "term": "Winter 2026",
-    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3614,6 +3592,28 @@
     "term": "Winter 2026",
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03193",
     "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-05"
+  },
+  {
+    "company": "Apple",
+    "role": "Data Scientist Co-op - Sales Business Analytics",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.apple.com/en-us/details/200686205",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-05"
+  },
+  {
+    "company": "GoTo Group",
+    "role": "Software Engineer Intern - C3PO",
+    "location": "Remote in Canada",
+    "term": "Winter 2026",
+    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245",
+    "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-05"
