@@ -3663,17 +3663,6 @@
     "date_closed": null
   },
   {
-    "company": "Tenstorrent",
-    "role": "AI Compiler Software Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2026",
-    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
-    "date_posted": "2026-03-10",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ernst & Young",
     "role": "Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques",
     "location": "Edmonton, AB, Canada",
@@ -3735,6 +3724,17 @@
     "term": "Winter 2027",
     "link": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
     "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-06"
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "AI Compiler Software Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2026",
+    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007",
+    "date_posted": "2026-03-10",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-06"

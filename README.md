@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**339 open** · 5 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**338 open** · 6 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -357,13 +357,13 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Research Internship | Montreal, QC, Canada, London, UK, Toronto, ON, Canada +1 more | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | 2026-05-01 | Winter 2026 |
 | Cohere | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 2026-05-01 | Winter 2026 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
-| Tenstorrent | AI Compiler Software Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) | 2026-03-10 | Summer 2026 |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | NYC, Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-02-25 | Summer 2026 |
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | Winter 2026 |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | Summer 2026 |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | Summer 2026 |
 | Alexion | 🔒 Development Operations AI & Automation Enablement Co-op Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
+| Tenstorrent | 🔒 AI Compiler Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-03-10 | Summer 2026 |
 | Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2026 |
 | Apple | 🔒 Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | 🔒 Closed | 2026-09-30 | – |
 | GoTo Group | 🔒 Software Engineer Intern - C3PO | Remote in Canada | 🔒 Closed | 2026-09-24 | Winter 2026 |
