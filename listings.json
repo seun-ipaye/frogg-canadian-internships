@@ -66,6 +66,17 @@
     "date_closed": null
   },
   {
+    "company": "MistyWest",
+    "role": "Engineering Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/mistywest/j/5D68DE0118/apply",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Moment Energy",
     "role": "Firmware Engineering Co-op",
     "location": "Surrey, BC, Canada",
@@ -88,24 +99,35 @@
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months)",
-    "location": "Toronto, Ontario, Canada",
+    "company": "StackAdapt",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Remote in Canada",
     "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000-1",
+    "link": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
     "date_posted": "2026-10-06",
-    "date_found": "2026-10-05",
+    "date_found": "2026-10-06",
     "status": "open",
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
-    "location": "Toronto, Ontario, Canada",
+    "company": "StackAdapt",
+    "role": "Software Engineer Backend Intern",
+    "location": "Remote in Canada",
     "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
+    "link": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009",
     "date_posted": "2026-10-06",
-    "date_found": "2026-10-05",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "StackAdapt",
+    "role": "Software Engineer Intern",
+    "location": "Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
     "status": "open",
     "date_closed": null
   },
@@ -181,6 +203,28 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000-1",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "open",
@@ -715,17 +759,6 @@
     "date_closed": null
   },
   {
-    "company": "Alexion",
-    "role": "Development Operations AI & Automation Enablement Co-op Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Hardware Design and Verification Intern - PCBA",
     "location": "Ottawa, ON, Canada",
@@ -858,17 +891,6 @@
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937",
-    "date_posted": "2026-09-26",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Acuity",
     "role": "Firmware Development Intern",
     "location": "Brossard, QC, Canada",
@@ -925,21 +947,10 @@
   },
   {
     "company": "RBC",
-    "role": "2027 CFO Winter Process Re-Engineering Intern (4 Months)",
+    "role": "2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months)",
     "location": "Toronto, Ontario, Canada",
     "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Process-Re-Engineering-Intern--4-Months-_R-0000188575",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "RBC",
-    "role": "2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860-1",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937",
     "date_posted": "2026-09-25",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1006,6 +1017,28 @@
     "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
     "term": "Summer 2027",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 CFO Winter Process Re-Engineering Intern (4 Months)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Process-Re-Engineering-Intern--4-Months-_R-0000188575",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860-1",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3694,6 +3727,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Alexion",
+    "role": "Development Operations AI & Automation Enablement Co-op Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-06"
   },
   {
     "company": "Altera",
