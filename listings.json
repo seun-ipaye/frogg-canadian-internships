@@ -1,5 +1,16 @@
 [
   {
+    "company": "AltaGas",
+    "role": "Data Analytics & Process Automation Co-op",
+    "location": "Calgary, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Astera Labs",
     "role": "Design Verification Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -66,6 +77,50 @@
     "date_closed": null
   },
   {
+    "company": "CAE",
+    "role": "Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Data Specialist Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Full Stack Developer Intern - Training Center Operations Experience",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Capital One",
+    "role": "Full Stack Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CIBC",
     "role": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
     "location": "Toronto, ON, Canada",
@@ -88,6 +143,17 @@
     "date_closed": null
   },
   {
+    "company": "Ciena",
+    "role": "Hardware Design Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "General Motors",
     "role": "Vehicle Experience Software Developer Co-op",
     "location": "Markham, ON, Canada",
@@ -104,6 +170,28 @@
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "McKesson",
+    "role": "Java Full Stack Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "McKesson",
+    "role": "Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
     "status": "open",
@@ -3296,6 +3384,17 @@
     "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983",
     "date_posted": "2026-07-27",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TechInsights",
+    "role": "Software Developer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026",
+    "date_posted": "2026-07-24",
+    "date_found": "2026-10-06",
     "status": "open",
     "date_closed": null
   },

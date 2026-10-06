@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**340 open** · 9 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**349 open** · 9 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,16 +24,24 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| AltaGas | Data Analytics & Process Automation Co-op | Calgary, AB, Canada | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1) | 2026-10-06 | Winter 2027 |
 | Astera Labs | Design Verification Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005) | 2026-10-06 | – |
 | Astera Labs | Design-for-Test Engineer Intern | Toronto, ON, Canada, San Jose, CA | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) | 2026-10-06 | – |
 | Astera Labs | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005) | 2026-10-06 | – |
 | Astera Labs | Physical Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005) | 2026-10-06 | – |
 | Astera Labs | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) | 2026-10-06 | – |
 | Astera Labs | System Validation Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) | 2026-10-06 | – |
+| CAE | Artificial Intelligence Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) | 2026-10-06 | – |
+| CAE | Data Specialist Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) | 2026-10-06 | – |
+| CAE | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | 2026-10-06 | – |
+| Capital One | Full Stack Software Engineer Intern | Toronto, ON, Canada | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143) | 2026-10-06 | Summer 2027 |
 | CIBC | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595) | 2026-10-06 | Winter 2027 |
 | CIBC | Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1) | 2026-10-06 | Winter 2027 |
+| Ciena | Hardware Design Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782) | 2026-10-06 | Winter 2027 |
 | General Motors | Vehicle Experience Software Developer Co-op | Markham, ON, Canada | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872) | 2026-10-06 | Winter 2027 |
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
+| McKesson | Java Full Stack Developer Intern | Montreal, QC, Canada | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176) | 2026-10-06 | Winter 2027 |
+| McKesson | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) | 2026-10-06 | – |
 | MistyWest | Engineering Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | 2026-10-06 | Winter 2027 |
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434575009) | 2026-10-06 | Winter 2027 |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | 2026-10-06 | Winter 2027 |
@@ -324,6 +332,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | 2026-08-02 | Fall 2026 |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | 2026-07-31 | Fall 2026 |
 | Textron | Information Systems Quality Intern - Quality Systems Information Technology | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983) | 2026-07-27 | – |
+| TechInsights | Software Developer Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | 2026-07-24 | – |
 | Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002) | 2026-07-22 | Fall 2026 |
 | Georgian Partners Growth | AI/ML Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) | 2026-07-21 | Fall 2027 |
 | ShyftLabs | AI Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | 2026-07-21 | Fall 2026 |
