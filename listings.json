@@ -3267,17 +3267,6 @@
     "date_closed": null
   },
   {
-    "company": "Epic Games",
-    "role": "Machine Learning Intern - Special Projects - Epic Research Group",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-    "date_posted": "2026-08-07",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Yotta Labs",
     "role": "Research Engineer Intern - AI Systems",
     "location": "Remote in USA; Remote in Canada",
@@ -3768,6 +3757,17 @@
     "term": "Summer 2027",
     "link": "https://careers.amd.com/jobs/90297?icims=1",
     "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-06"
+  },
+  {
+    "company": "Epic Games",
+    "role": "Machine Learning Intern - Special Projects - Epic Research Group",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+    "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-06"
