@@ -2871,17 +2871,6 @@
     "date_closed": null
   },
   {
-    "company": "North American Construction Group",
-    "role": "Full Stack Developer Co-op - Acheson",
-    "location": "Acheson, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-nacg.icims.com/jobs/17153/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RTX",
     "role": "Data Analyst Intern - Spare Parts Services",
     "location": "Longueuil, QC, Canada",
@@ -3911,6 +3900,17 @@
     "term": "Winter 2027",
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849",
     "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-06"
+  },
+  {
+    "company": "North American Construction Group",
+    "role": "Full Stack Developer Co-op - Acheson",
+    "location": "Acheson, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-nacg.icims.com/jobs/17153/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-06"
