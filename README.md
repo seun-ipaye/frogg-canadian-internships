@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**353 open** · 14 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**352 open** · 15 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -54,7 +54,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | The Semios Group | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) | 2026-10-06 | Winter 2027 |
 | AltaGas | Digital Intern - NextGen AI & Data | Calgary, AB, Canada | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312) | 2026-10-05 | Winter 2027 |
 | Capital One | Data Scientist Intern | Toronto, ON, Canada | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1) | 2026-10-05 | Summer 2027 |
-| GoTo Group | Software Developer Intern - Contacts | Remote in Canada | [Apply](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249) | 2026-10-05 | – |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | 2026-10-05 | Summer 2027 |
 | Khan Academy | Software Engineer Intern | Remote in USA, Remote in Canada | [Apply](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | 2026-10-05 | Summer 2027 |
 | Lumentum | Embedded Software Developer Co-op - Optical Circuit Switch | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | 2026-10-05 | Winter 2027 |
@@ -379,6 +378,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | AMD | 🔒 Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | Capital One | 🔒 Full Stack Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Summer 2027 |
+| GoTo Group | 🔒 Software Developer Intern - Contacts | Remote in Canada | 🔒 Closed | 2026-10-05 | – |
 | Intel | 🔒 Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
 | TD Bank | 🔒 Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | Alexion | 🔒 Development Operations AI & Automation Enablement Co-op Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
