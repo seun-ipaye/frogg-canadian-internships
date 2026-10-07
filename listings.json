@@ -1012,17 +1012,6 @@
     "date_closed": null
   },
   {
-    "company": "TD Bank",
-    "role": "Data Analytics & Insights Intern Co-op",
-    "location": "Montreal, QC, Canada; Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "General Motors",
     "role": "Infotainment Software Developer Co-op",
     "location": "Markham, ON, Canada",
@@ -3859,6 +3848,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "TD Bank",
+    "role": "Data Analytics & Insights Intern Co-op",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-07"
   },
   {
     "company": "Alexion",

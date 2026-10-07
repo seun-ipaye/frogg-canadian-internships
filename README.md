@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**351 open** · 10 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**350 open** · 11 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -116,7 +116,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | L3Harris Technologies | Systems Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1434804100/?ats=successfactors) | 2026-09-29 | – |
 | OLG | Performance Analyst Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student_R26_00615) | 2026-09-29 | – |
 | Sony Interactive Entertainment | Technical Designer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004) | 2026-09-29 | – |
-| TD Bank | Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914) | 2026-09-29 | Winter 2027 |
 | General Motors | Infotainment Software Developer Co-op | Markham, ON, Canada | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159) | 2026-09-28 | Winter 2027 |
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471) | 2026-09-28 | Summer 2027 |
 | Moment Energy | Data Scientist Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) | 2026-09-26 | Winter 2027 |
@@ -375,6 +374,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | – |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
+| TD Bank | 🔒 Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | Alexion | 🔒 Development Operations AI & Automation Enablement Co-op Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | AMD | 🔒 Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | Epic Games | 🔒 Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | 🔒 Closed | 2026-08-07 | Winter 2027 |
