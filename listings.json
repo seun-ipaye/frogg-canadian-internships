@@ -2398,17 +2398,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Developer Intern - Clients - Front End Technologies",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lyft",
     "role": "Data Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -3911,6 +3900,17 @@
     "term": "Unspecified",
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Thermal-Mechanical-Engineering-Undergraduate-Intern--GPU-Platforms_JR0287516",
     "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-07"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Intern - Clients - Front End Technologies",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-07"

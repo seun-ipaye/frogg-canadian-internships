@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**352 open** · 15 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**351 open** · 16 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -242,7 +242,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Definity Financial | Business Intelligence Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354) | 2026-09-11 | Winter 2027 |
-| Kinaxis | Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false) | 2026-09-11 | Winter 2027 |
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | 2026-09-11 | Summer 2027 |
 | Lyft | Data Science Intern - Algorithms | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | 2026-09-11 | Summer 2027 |
 | Lyft | Software Developer Intern - Backend | Montreal, QC, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) | 2026-09-11 | – |
@@ -380,6 +379,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Capital One | 🔒 Full Stack Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Summer 2027 |
 | GoTo Group | 🔒 Software Developer Intern - Contacts | Remote in Canada | 🔒 Closed | 2026-10-05 | – |
 | Intel | 🔒 Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
+| Kinaxis | 🔒 Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | TD Bank | 🔒 Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | Alexion | 🔒 Development Operations AI & Automation Enablement Co-op Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | AMD | 🔒 Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
