@@ -3004,17 +3004,6 @@
   },
   {
     "company": "AMD",
-    "role": "Hardware Design Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers.amd.com/jobs/91360?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
     "role": "Hardware Design Verification Engineer Intern/Co-op",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -3065,6 +3054,17 @@
     "link": "https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RTX",
+    "role": "Aerospace Engineering Intern - APU Programs Support",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
   },
@@ -3859,6 +3859,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AMD",
+    "role": "Hardware Design Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91360?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-07"
   },
   {
     "company": "TD Bank",

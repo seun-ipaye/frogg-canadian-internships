@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**351 open** · 11 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**351 open** · 12 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -297,12 +297,12 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90301?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Firmware Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91320?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90372?icims=1) | 2026-09-01 | Summer 2027 |
-| AMD | Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91360?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90379?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90383?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91363?icims=1) | 2026-09-01 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
 | Grass Valley | Software Development Intern | Montreal, QC, Canada | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) | 2026-09-01 | Winter 2027 |
+| RTX | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) | 2026-09-01 | Winter 2027 |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | 2026-09-01 | Winter 2027 |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) | 2026-09-01 | Summer 2027 |
 | General Motors | Data Engineering Software Developer Co-op | Markham, ON, Canada, Oshawa, ON, Canada | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) | 2026-08-31 | Winter 2027 |
@@ -375,6 +375,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | – |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
+| AMD | 🔒 Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | TD Bank | 🔒 Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | Alexion | 🔒 Development Operations AI & Automation Enablement Co-op Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | AMD | 🔒 Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
