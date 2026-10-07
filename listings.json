@@ -1474,17 +1474,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "ASIC Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Danaher",
     "role": "Hardware Engineer Co-op",
     "location": "Concord, Vaughan, ON, Canada",
@@ -2750,6 +2739,17 @@
     "date_closed": null
   },
   {
+    "company": "Kinaxis",
+    "role": "Software Developer Co-op/Intern - Core Algorithms",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-07",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "AMD",
     "role": "ASIC Verification Engineer Intern/Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3879,6 +3879,17 @@
     "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-07"
+  },
+  {
+    "company": "Ciena",
+    "role": "ASIC Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-07"
   },
