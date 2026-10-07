@@ -110,6 +110,17 @@
     "date_closed": null
   },
   {
+    "company": "CAE",
+    "role": "Software Developer Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Capital One",
     "role": "Full Stack Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -3120,6 +3131,17 @@
     "link": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true",
     "date_posted": "2026-08-27",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marsh",
+    "role": "Summer Analyst Intern - Data and Analytics",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
+    "date_posted": "2026-08-27",
+    "date_found": "2026-10-06",
     "status": "open",
     "date_closed": null
   },
