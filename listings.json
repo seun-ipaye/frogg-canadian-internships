@@ -924,17 +924,6 @@
     "date_closed": null
   },
   {
-    "company": "L3Harris Technologies",
-    "role": "Systems Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1435297900/?ats=successfactors",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Hardware Design and Verification Intern - PCBA",
     "location": "Ottawa, ON, Canada",
@@ -1138,17 +1127,6 @@
     "location": "Brossard, QC, Canada",
     "term": "Unspecified",
     "link": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Cenovus Energy",
-    "role": "Information Technology Student - Data Science and Software",
-    "location": "Calgary, AB, Canada",
-    "term": "Unspecified",
-    "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3872,6 +3850,17 @@
     "date_closed": null
   },
   {
+    "company": "Cenovus Energy",
+    "role": "Information Technology Student - Data Science and Software",
+    "location": "Calgary, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-08"
+  },
+  {
     "company": "Intact",
     "role": "Android Developer Intern Co-op - Winter 2027",
     "location": "Montreal, QC, Canada",
@@ -3889,6 +3878,17 @@
     "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors",
     "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-08"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Systems Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1435297900/?ats=successfactors",
+    "date_posted": "2026-09-30",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-08"

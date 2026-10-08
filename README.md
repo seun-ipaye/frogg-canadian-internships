@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**352 open** · 23 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**350 open** · 25 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -108,7 +108,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) | 2026-09-30 | – |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254600/?ats=successfactors) | 2026-09-30 | – |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254800/?ats=successfactors) | 2026-09-30 | – |
-| L3Harris Technologies | Systems Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435297900/?ats=successfactors) | 2026-09-30 | – |
 | Ciena | Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | 2026-09-29 | Winter 2027 |
 | Electronic Arts | AI Engineer Intern - AI Platform | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223) | 2026-09-29 | – |
 | Foresters Financial | Software Engineer Co-op Student | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329) | 2026-09-29 | – |
@@ -128,7 +127,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Nokia | Operations Analytics Co-op Intern - Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) | 2026-09-25 | Winter 2027 |
 | RBC | 2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months) | Toronto, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937) | 2026-09-25 | – |
 | Acuity | Hardware Development Intern - Hardware | Brossard, QC, Canada | [Apply](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-%28hardware%29-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) | 2026-09-24 | – |
-| Cenovus Energy | Information Technology Student - Data Science and Software | Calgary, AB, Canada | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--IT--Data-Science-and-Software--Calgary--May-2027-_R-411145) | 2026-09-24 | – |
 | Marvell | Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | 2026-09-24 | Summer 2027 |
 | Marvell | Analog Design Intern Co-op - BS | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788) | 2026-09-24 | – |
 | Marvell | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | 2026-09-24 | Summer 2027 |
@@ -376,8 +374,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | – |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
+| Cenovus Energy | 🔒 Information Technology Student - Data Science and Software | Calgary, AB, Canada | 🔒 Closed | 2026-09-24 | – |
 | Intact | 🔒 Android Developer Intern Co-op - Winter 2027 | Montreal, QC, Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
 | L3Harris Technologies | 🔒 Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
+| L3Harris Technologies | 🔒 Systems Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-30 | – |
 | RTX | 🔒 Customer Data Management and Analysis Intern | Longueuil, QC, Canada | 🔒 Closed | 2026-08-26 | Winter 2027 |
 | AMD | 🔒 Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | Capital One | 🔒 Full Stack Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Summer 2027 |
