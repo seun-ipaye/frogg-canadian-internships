@@ -254,17 +254,6 @@
   },
   {
     "company": "McKesson",
-    "role": "Java Full Stack Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "McKesson",
     "role": "Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
@@ -3890,6 +3879,17 @@
     "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1435297900/?ats=successfactors",
     "date_posted": "2026-09-30",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-08"
+  },
+  {
+    "company": "McKesson",
+    "role": "Java Full Stack Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-08"
   },
