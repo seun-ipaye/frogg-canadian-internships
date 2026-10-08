@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**353 open** · 22 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**352 open** · 23 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -257,7 +257,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428467500/?ats=successfactors) | 2026-09-10 | – |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428467800/?ats=successfactors) | 2026-09-10 | – |
 | L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428468700/?ats=successfactors) | 2026-09-10 | Summer 2027 |
-| L3Harris Technologies | Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428469000/?ats=successfactors) | 2026-09-10 | – |
 | GoMaterials | Data Quality Intern - Winter 2027 | Montreal, QC, Canada | [Apply](https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply) | 2026-09-09 | Winter 2027 |
 | Grass Valley | Software Development Intern - Core Platform | Montreal, QC, Canada | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) | 2026-09-09 | Winter 2027 |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | 2026-09-09 | Summer 2027 |
@@ -378,6 +377,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | Intact | 🔒 Android Developer Intern Co-op - Winter 2027 | Montreal, QC, Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
+| L3Harris Technologies | 🔒 Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
 | RTX | 🔒 Customer Data Management and Analysis Intern | Longueuil, QC, Canada | 🔒 Closed | 2026-08-26 | Winter 2027 |
 | AMD | 🔒 Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | Capital One | 🔒 Full Stack Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Summer 2027 |

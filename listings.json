@@ -2563,17 +2563,6 @@
     "date_closed": null
   },
   {
-    "company": "L3Harris Technologies",
-    "role": "Electro-Optical Engineering Co-Op - Waterdown - CAN",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "GoMaterials",
     "role": "Data Quality Intern - Winter 2027",
     "location": "Montreal, QC, Canada",
@@ -3889,6 +3878,17 @@
     "term": "Winter 2027",
     "link": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Android-Developer--4-months-Internship-Coop--Winter-2027---_R155691",
     "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-08"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Electro-Optical Engineering Co-Op - Waterdown - CAN",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors",
+    "date_posted": "2026-09-10",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-08"
