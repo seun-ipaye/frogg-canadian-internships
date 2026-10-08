@@ -3124,17 +3124,6 @@
     "date_closed": null
   },
   {
-    "company": "RTX",
-    "role": "Customer Data Management and Analysis Intern",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
-    "date_posted": "2026-08-26",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Zip",
     "role": "Software Engineer Intern - Winter 2027",
     "location": "Toronto, ON, Canada",
@@ -3881,6 +3870,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "RTX",
+    "role": "Customer Data Management and Analysis Intern",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
+    "date_posted": "2026-08-26",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-08"
   },
   {
     "company": "AMD",
