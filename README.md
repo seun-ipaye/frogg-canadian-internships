@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**354 open** · 19 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**353 open** · 20 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -82,7 +82,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Marvell | Firmware Engineer Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | 2026-10-02 | Summer 2027 |
 | Montreal Institute for Learning Algorithms | AI Safety Research Intern - AI Safety | Montreal, QC, Canada | [Apply](https://apply.workable.com/mila-2/j/1E81635604/apply) | 2026-10-02 | – |
 | Nokia | Automation Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | 2026-10-02 | Winter 2027 |
-| Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | 2026-10-02 | – |
 | Autodesk | AI Data Developer Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082) | 2026-10-01 | Winter 2027 |
 | Autodesk | AI Data Developer Intern - Winter | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) | 2026-10-01 | Winter 2027 |
 | Autodesk | AI/ML Platform Intern | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) | 2026-10-01 | Winter 2027 |
@@ -385,6 +384,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Intel | 🔒 Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
 | Kinaxis | 🔒 Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Pomerleau | 🔒 AI Product Analyst Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-09 | – |
+| Solink | 🔒 Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-10-02 | – |
 | Solink | 🔒 Software Engineer Co-op - Apps | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Sun Life | 🔒 Associate Software Engineer Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-01 | – |
 | TD Bank | 🔒 Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |

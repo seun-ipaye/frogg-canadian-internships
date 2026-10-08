@@ -638,17 +638,6 @@
     "date_closed": null
   },
   {
-    "company": "Solink",
-    "role": "Software Engineer Co-op - Agents",
-    "location": "Ottawa, ON, Canada; Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Autodesk",
     "role": "AI Data Developer Intern",
     "location": "Toronto, ON, Canada",
@@ -3966,6 +3955,17 @@
     "term": "Unspecified",
     "link": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620",
     "date_posted": "2026-09-09",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-07"
+  },
+  {
+    "company": "Solink",
+    "role": "Software Engineer Co-op - Agents",
+    "location": "Ottawa, ON, Canada; Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-07"
