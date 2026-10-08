@@ -1,5 +1,16 @@
 [
   {
+    "company": "PSP Investments",
+    "role": "GenAI and Digital Workplace Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Tenstorrent",
     "role": "AI Software Intern",
     "location": "Toronto, ON, Canada",
@@ -1380,17 +1391,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Fall 2026",
     "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Intel",
-    "role": "Firmware Development Undergraduate Engineering Co-op",
-    "location": "Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
     "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3844,6 +3844,17 @@
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Android-Developer--4-months-Internship-Coop--Winter-2027---_R155691",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-08"
+  },
+  {
+    "company": "Intel",
+    "role": "Firmware Development Undergraduate Engineering Co-op",
+    "location": "Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
     "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "closed",

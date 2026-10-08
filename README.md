@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**347 open** · 28 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**347 open** · 29 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| PSP Investments | GenAI and Digital Workplace Intern | Montreal, QC, Canada | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) | 2026-10-08 | Winter 2027 |
 | Tenstorrent | AI Software Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | 2026-10-08 | – |
 | Autodesk | Research Intern - AI Research | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1) | 2026-10-07 | Summer 2027 |
 | Autodesk | Research Intern - AI Research | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373) | 2026-10-07 | Summer 2027 |
@@ -150,7 +151,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Entrust | Software Development Intern | Ottawa, ON, Canada | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359) | 2026-09-23 | Winter 2027 |
 | Entrust | Software Development Intern - Citizen Remote Identity Verification | Ottawa, ON, Canada | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360) | 2026-09-23 | Winter 2027 |
 | Hitachi Energy | Electrical Component Engineering Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279) | 2026-09-23 | Fall 2026 |
-| Intel | Firmware Development Undergraduate Engineering Co-op | Remote in Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) | 2026-09-23 | Winter 2027 |
 | Mackenzie Investments | Intern | Toronto, ON, Canada | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false) | 2026-09-23 | Winter 2027 |
 | Qualcomm | Firmware Development Intern - PAL | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) | 2026-09-23 | Summer 2027 |
 | Teledyne | Industrialization and Statistical Analysis Intern | Bromont, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708) | 2026-09-23 | – |
@@ -374,6 +374,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Altera | 🔒 High Level Synthesis Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
 | Cenovus Energy | 🔒 Information Technology Student - Data Science and Software | Calgary, AB, Canada | 🔒 Closed | 2026-09-24 | – |
 | Intact | 🔒 Android Developer Intern Co-op - Winter 2027 | Montreal, QC, Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
+| Intel | 🔒 Firmware Development Undergraduate Engineering Co-op | Remote in Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
 | L3Harris Technologies | 🔒 Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
 | L3Harris Technologies | 🔒 Systems Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-30 | – |
 | Later | 🔒 AI Automation Engineer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-06-24 | – |
