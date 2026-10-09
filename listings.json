@@ -99,17 +99,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Data Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Business-Analyst-Intern--4-months-_R-0000186987",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Varian",
     "role": "Software Developer Co-op",
     "location": "Winnipeg, MB, Canada",
@@ -3945,6 +3934,17 @@
     "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-Dveloppeur-se--Full-Stack-Java---Java-Developer-Intern----Hiver-Winter-2027_JR0155176",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-08"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---CLAO--Business-Analyst-Intern--4-months-_R-0000186987",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-08"
   },
