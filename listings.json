@@ -506,17 +506,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Data Analyst Co-op - Personal Banking",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Semtech",
     "role": "Software Developer Co-op - Web/Cloud Application",
     "location": "Richmond, BC, Canada",
@@ -753,17 +742,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Autodesk",
-    "role": "Software Development Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
     "date_posted": "2026-10-01",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3839,12 +3817,34 @@
     "date_closed": null
   },
   {
+    "company": "Autodesk",
+    "role": "Software Development Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
     "company": "CIBC",
     "role": "AI and Data Analytics and Reporting Analyst Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748",
     "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Data Analyst Co-op - Personal Banking",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking---8-months-_R-0000189535",
+    "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-09"
