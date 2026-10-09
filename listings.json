@@ -2541,17 +2541,6 @@
     "date_closed": null
   },
   {
-    "company": "Lumentum",
-    "role": "Optical Verification Engineer Intern Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Entrust",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -3856,6 +3845,17 @@
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748",
     "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
+    "company": "Lumentum",
+    "role": "Optical Verification Engineer Intern Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193",
+    "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-09"
