@@ -1,5 +1,49 @@
 [
   {
+    "company": "Electronic Arts",
+    "role": "C++ Software Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Gameplay Software Engineer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Elk Valley Resources",
     "role": "Business Administration Co-op - Maintenance Excellence",
     "location": "Sparwood, BC, Canada",
@@ -2750,17 +2794,6 @@
     "date_closed": null
   },
   {
-    "company": "Teledyne",
-    "role": "LiDAR Data Analyst Co-op",
-    "location": "Concord, Vaughan, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Amgen",
     "role": "Business Analyst Co-op",
     "location": "Burnaby, BC, Canada",
@@ -2768,6 +2801,17 @@
     "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807",
     "date_posted": "2026-09-02",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Software Engineering Intern - AI, Automation and Business Intelligence",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
+    "date_posted": "2026-09-02",
+    "date_found": "2026-10-09",
     "status": "open",
     "date_closed": null
   },
@@ -3900,6 +3944,17 @@
     "term": "Winter 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Winter-2027-Co-op-Student---Data-Analyst--Personal-Banking--4--8--12-months-_R-0000184514-1",
     "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
+    "company": "Teledyne",
+    "role": "LiDAR Data Analyst Co-op",
+    "location": "Concord, Vaughan, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Concord-ON-TDY/LiDAR-Data-Analyst--Co-op-_REQ36378",
+    "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-09"
