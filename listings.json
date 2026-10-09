@@ -2541,28 +2541,6 @@
     "date_closed": null
   },
   {
-    "company": "Capital One",
-    "role": "Data Analytics Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Capital One",
-    "role": "Data Scientist Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumentum",
     "role": "Optical Verification Engineer Intern Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3840,11 +3818,33 @@
   },
   {
     "company": "Capital One",
+    "role": "Data Analytics Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
+    "company": "Capital One",
     "role": "Data Scientist Intern",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
     "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
+    "company": "Capital One",
+    "role": "Data Scientist Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
+    "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-09"
