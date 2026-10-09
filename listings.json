@@ -1452,17 +1452,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TechInsights",
     "role": "Circuit Analysis Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3845,6 +3834,17 @@
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748",
     "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-09"
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Firmware-Engineer-Intern_2603751",
+    "date_posted": "2026-09-22",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-09"
