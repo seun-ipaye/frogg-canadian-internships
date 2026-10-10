@@ -1936,6 +1936,17 @@
     "date_closed": null
   },
   {
+    "company": "AMD",
+    "role": "Technical Marketing Performance Analysis Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91953?icims=1",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Apera AI",
     "role": "Machine Learning Applied Scientist Co-op",
     "location": "Vancouver, BC, Canada",
@@ -2949,6 +2960,17 @@
   },
   {
     "company": "AMD",
+    "role": "Firmware Engineer Intern/Co-op - Long Term",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/90297?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "AMD",
     "role": "Graphics Software Engineer Intern/Co-op",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -3021,6 +3043,28 @@
     "link": "https://careers.amd.com/jobs/91363?icims=1",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "AMD",
+    "role": "Product Management Intern/Co-op - Multiple Teams",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/90411?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "AMD",
+    "role": "Software Engineer Intern/Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91367?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-10",
     "status": "open",
     "date_closed": null
   },
@@ -4285,17 +4329,6 @@
     "term": "Winter 2027",
     "link": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
     "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-06"
-  },
-  {
-    "company": "AMD",
-    "role": "Firmware Engineer Intern/Co-op - Long Term",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.amd.com/jobs/90297?icims=1",
-    "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-06"
