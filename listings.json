@@ -3015,17 +3015,6 @@
   },
   {
     "company": "AMD",
-    "role": "Hardware Design Verification Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.amd.com/jobs/90379?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
     "role": "Machine Learning/Artificial Intelligence Intern/Co-op",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -3903,6 +3892,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AMD",
+    "role": "Hardware Design Verification Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/90379?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-10"
   },
   {
     "company": "Cadence Design Systems",
