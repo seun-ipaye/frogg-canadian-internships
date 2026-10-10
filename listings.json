@@ -1,5 +1,16 @@
 [
   {
+    "company": "Magnet Forensics",
+    "role": "Software Developer Co-op",
+    "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply",
+    "date_posted": "2026-10-10",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Electronic Arts",
     "role": "C++ Software Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -71,6 +82,39 @@
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Workday",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Workday",
+    "role": "Product Manager Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Workday",
+    "role": "Software Development Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
     "status": "open",
