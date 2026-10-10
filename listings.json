@@ -2949,6 +2949,28 @@
   },
   {
     "company": "AMD",
+    "role": "Graphics Software Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/90305?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "AMD",
+    "role": "Graphics Software Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91359?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "AMD",
     "role": "Hardware Design Engineer Intern/Co-op",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
