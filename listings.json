@@ -638,17 +638,6 @@
     "date_closed": null
   },
   {
-    "company": "Cadence Design Systems",
-    "role": "Digital ASIC Design / Verification Engineer Intern/Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Operations Analyst Co-op Intern",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
@@ -3837,6 +3826,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Cadence Design Systems",
+    "role": "Digital ASIC Design / Verification Engineer Intern/Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-10"
   },
   {
     "company": "Sun Life",
