@@ -1056,17 +1056,6 @@
     "date_closed": null
   },
   {
-    "company": "General Motors",
-    "role": "Infotainment Software Developer Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Soft IP ASIC Engineer Intern",
     "location": "Ottawa, ON, Canada",
@@ -3892,6 +3881,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "General Motors",
+    "role": "Infotainment Software Developer Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-11"
   },
   {
     "company": "AMD",
