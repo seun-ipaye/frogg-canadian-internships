@@ -1,5 +1,16 @@
 [
   {
+    "company": "Resource Innovations",
+    "role": "Energy Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/resource-innovations/j/4CAAA40639/apply",
+    "date_posted": "2026-10-11",
+    "date_found": "2026-10-11",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Magnet Forensics",
     "role": "Software Developer Co-op",
     "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
@@ -1051,6 +1062,17 @@
     "term": "Unspecified",
     "link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004",
     "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "General Motors",
+    "role": "Infotainment Software Developer Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
+    "date_posted": "2026-09-28",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -3881,17 +3903,6 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
-  },
-  {
-    "company": "General Motors",
-    "role": "Infotainment Software Developer Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-11"
   },
   {
     "company": "AMD",
