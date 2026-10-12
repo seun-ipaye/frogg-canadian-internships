@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**350 open** · 52 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**349 open** · 53 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -31,7 +31,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Electronic Arts | Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231) | 2026-10-09 | Summer 2027 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225) | 2026-10-09 | Summer 2027 |
 | Elk Valley Resources | Business Administration Co-op - Maintenance Excellence | Sparwood, BC, Canada | [Apply](https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply) | 2026-10-09 | Winter 2027 |
-| Motorola | Design Validation Co-op | Vancouver, BC, Canada | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631) | 2026-10-09 | – |
 | Varian | Performance Engineering Assistant Co-op | Ottawa, ON, Canada | [Apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160) | 2026-10-09 | – |
 | Workday | Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | 2026-10-09 | Winter 2027 |
 | Workday | Product Manager Intern | Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) | 2026-10-09 | Winter 2027 |
@@ -376,6 +375,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | CIBC | 🔒 Software/Application Developer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-22 | Winter 2027 |
 | Marvell | 🔒 Firmware Engineer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
+| Motorola | 🔒 Design Validation Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | – |
 | RBC | 🔒 2027 CFO Winter Process Re-Engineering Intern (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | – |
 | RBC | 🔒 2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-26 | – |
 | Marsh | 🔒 Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 🔒 Closed | 2026-08-27 | Summer 2027 |

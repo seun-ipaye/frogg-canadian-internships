@@ -77,17 +77,6 @@
     "date_closed": null
   },
   {
-    "company": "Motorola",
-    "role": "Design Validation Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Varian",
     "role": "Performance Engineering Assistant Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3868,6 +3857,17 @@
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
     "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-12"
+  },
+  {
+    "company": "Motorola",
+    "role": "Design Validation Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-10-12"
   },
