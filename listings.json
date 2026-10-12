@@ -1,5 +1,82 @@
 [
   {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Cert Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Cert Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Certification Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Databricks",
+    "role": "Software Engineer Intern",
+    "location": "SF; Bellevue, WA; Mountain View, CA; Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://boards.greenhouse.io/embed/job_app?token=6865687002",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Resource Innovations",
     "role": "Energy Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -214,17 +291,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Motorola",
-    "role": "Software Developer – Embedded Appliances Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581",
     "date_posted": "2026-10-07",
     "date_found": "2026-10-07",
     "status": "open",
@@ -1976,6 +2042,17 @@
     "link": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821",
     "date_posted": "2026-09-16",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Quantum and Chemistry Research Intern - Quantum and AI for Chemistry",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-12",
     "status": "open",
     "date_closed": null
   },
@@ -3868,6 +3945,17 @@
     "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-10-12"
+  },
+  {
+    "company": "Motorola",
+    "role": "Software Developer – Embedded Appliances Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Embedded-Appliances-Co-Op_R69581",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-12"
   },
