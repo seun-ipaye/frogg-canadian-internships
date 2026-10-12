@@ -1463,17 +1463,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Software/Application Developer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Danaher",
     "role": "Hardware Engineer Co-op",
     "location": "Concord, Vaughan, ON, Canada",
@@ -3870,6 +3859,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Software/Application Developer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-12"
   },
   {
     "company": "RBC",
