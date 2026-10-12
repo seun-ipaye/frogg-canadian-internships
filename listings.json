@@ -3157,17 +3157,6 @@
     "date_closed": null
   },
   {
-    "company": "Marsh",
-    "role": "Summer Analyst Intern - Data and Analytics",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
-    "date_posted": "2026-08-27",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Elk Valley Resources",
     "role": "Geographic Information Systems Co-op",
     "location": "Calgary, AB, Canada",
@@ -3903,6 +3892,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Marsh",
+    "role": "Summer Analyst Intern - Data and Analytics",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Toronto---Bremner/Oliver-Wyman---Summer-Analyst-2027---Data-and-Analytics--DNA----Toronto_R_363727-1",
+    "date_posted": "2026-08-27",
+    "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-11"
   },
   {
     "company": "AMD",
