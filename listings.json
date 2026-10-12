@@ -1111,17 +1111,6 @@
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937",
-    "date_posted": "2026-09-26",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Acuity",
     "role": "Firmware Development Intern",
     "location": "Brossard, QC, Canada",
@@ -1160,17 +1149,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "RBC",
-    "role": "2027 CFO Winter Process Re-Engineering Intern (4 Months)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Process-Re-Engineering-Intern--4-Months-_R-0000188575",
     "date_posted": "2026-09-25",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3892,6 +3870,28 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 CFO Winter Process Re-Engineering Intern (4 Months)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Process-Re-Engineering-Intern--4-Months-_R-0000188575",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-12"
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Corporate-Treasury--Winter-Risk-Initiatives---Infrastructure--Intern--4-Months-_R-0000188937",
+    "date_posted": "2026-09-26",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-12"
   },
   {
     "company": "Marsh",
