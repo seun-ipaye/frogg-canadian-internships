@@ -1,5 +1,16 @@
 [
   {
+    "company": "1Password",
+    "role": "Data Intern - Product Analytics",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Aptiv",
     "role": "Cloud Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -15,7 +26,29 @@
     "role": "Cloud Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
     "status": "open",
@@ -71,6 +104,61 @@
     "location": "SF; Bellevue, WA; Mountain View, CA; Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://boards.greenhouse.io/embed/job_app?token=6865687002",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "AI Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Data Engineering Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Data Engineering Co-op",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Software Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Software Engineering Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
     "status": "open",
