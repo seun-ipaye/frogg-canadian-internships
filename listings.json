@@ -716,17 +716,6 @@
   },
   {
     "company": "Marvell",
-    "role": "Firmware Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
     "role": "Firmware Engineer Intern Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
@@ -3867,6 +3856,17 @@
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
     "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-12"
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-12"
