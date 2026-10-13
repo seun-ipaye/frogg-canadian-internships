@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**364 open** · 58 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**365 open** · 58 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -328,6 +328,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Autodesk | AI Developer Intern | Montreal, QC, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) | 2026-08-19 | Winter 2027 |
 | Autodesk | AI Developer Intern - Creative Technology | Montreal, QC, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) | 2026-08-19 | Winter 2027 |
 | Kepler Communications | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | 2026-08-19 | Winter 2027 |
+| NVIDIA | Software Engineering Intern | Canada, Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-19 | Summer 2027 |
 | Capital One | Backend Software Engineer Intern - Team Interstellar | Toronto, ON, Canada | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) | 2026-08-17 | Winter 2027 |
 | Capital One | Full Stack Software Engineer Intern - Team Integrated Sprout | Toronto, ON, Canada | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) | 2026-08-17 | Winter 2027 |
 | Capital One | Full Stack Software Engineer Intern - Team Pickle | Toronto, ON, Canada | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) | 2026-08-17 | Winter 2027 |
