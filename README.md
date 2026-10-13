@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**363 open** · 63 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**362 open** · 64 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -345,7 +345,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | 2026-07-31 | Fall 2026 |
 | Textron | Information Systems Quality Intern - Quality Systems Information Technology | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983) | 2026-07-27 | – |
 | TechInsights | Software Developer Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | 2026-07-24 | – |
-| Later | Software Development Co-op - Later Influence | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8643138002) | 2026-07-22 | Fall 2026 |
 | Georgian Partners Growth | AI/ML Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) | 2026-07-21 | Fall 2027 |
 | ShyftLabs | AI Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply) | 2026-07-21 | Fall 2026 |
 | Google | Student Researcher | Toronto, ON, Canada, Kitchener, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | 2026-07-20 | – |
@@ -393,6 +392,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Motors | 🔒 Infotainment Software Developer Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
 | General Motors | 🔒 Vehicle Experience Software Developer Co-op | Markham, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Intact | 🔒 Software Developer 1 Intern/Co-op - Winter 2027 | St. John's, NL, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
+| Later | 🔒 Software Development Co-op - Later Influence | Vancouver, BC, Canada | 🔒 Closed | 2026-07-22 | Fall 2026 |
 | Lumentum | 🔒 Optical Verification Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | RTX | 🔒 Numerical Methods Intern - Advanced Software Development | Longueuil, QC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | Sun Life | 🔒 Data Analyst Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
