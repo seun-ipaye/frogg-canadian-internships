@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**362 open** · 64 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**361 open** · 65 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -86,7 +86,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Moment Energy | Firmware Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434575009) | 2026-10-06 | Winter 2027 |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | 2026-10-06 | Winter 2027 |
 | StackAdapt | Machine Learning Engineer Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) | 2026-10-06 | Winter 2027 |
-| StackAdapt | Software Engineer Backend Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) | 2026-10-06 | Winter 2027 |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | 2026-10-06 | – |
 | The Semios Group | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) | 2026-10-06 | Winter 2027 |
 | AltaGas | Digital Intern - NextGen AI & Data | Calgary, AB, Canada | [Apply](https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312) | 2026-10-05 | Winter 2027 |
@@ -395,6 +394,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Later | 🔒 Software Development Co-op - Later Influence | Vancouver, BC, Canada | 🔒 Closed | 2026-07-22 | Fall 2026 |
 | Lumentum | 🔒 Optical Verification Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | RTX | 🔒 Numerical Methods Intern - Advanced Software Development | Longueuil, QC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
+| StackAdapt | 🔒 Software Engineer Backend Intern | Remote in Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Sun Life | 🔒 Data Analyst Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Sun Life | 🔒 Student Associate Software Engineer Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Fall 2026 |
 | Zip | 🔒 Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-08-25 | Winter 2027 |
