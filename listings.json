@@ -22,11 +22,77 @@
     "date_closed": null
   },
   {
+    "company": "Canadian Tire",
+    "role": "Product Strategy Student Intern",
+    "location": "Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "D2L",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.d2l.com/careers/jobs/?job_id=8279317&gh_jid=8279317",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Technical Artist Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Pharmacy Operations Co-op",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Pharmacy-Operations_JR26081581",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Pebl",
+    "role": "Software Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
     "term": "Winter 2027",
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Sun Life",
+    "role": "AI Developer Student Intern",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
     "status": "open",
@@ -715,6 +781,17 @@
     "date_closed": null
   },
   {
+    "company": "GoTo Group",
+    "role": "Software Developer Intern - Contacts",
+    "location": "Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Hitachi Energy",
     "role": "Electrical Component Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -962,6 +1039,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Autodesk",
+    "role": "Software Development Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
     "date_posted": "2026-10-01",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2739,6 +2827,17 @@
     "date_closed": null
   },
   {
+    "company": "Capital One",
+    "role": "Data Scientist Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Entrust",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -3256,6 +3355,17 @@
     "date_closed": null
   },
   {
+    "company": "RTX",
+    "role": "Customer Data Management and Analysis Intern",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
+    "date_posted": "2026-08-26",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Google",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada",
@@ -3296,6 +3406,17 @@
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
     "date_posted": "2026-08-19",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Workforce Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
+    "date_posted": "2026-08-19",
+    "date_found": "2026-10-13",
     "status": "open",
     "date_closed": null
   },
@@ -4235,17 +4356,6 @@
     "date_closed": "2026-10-09"
   },
   {
-    "company": "Autodesk",
-    "role": "Software Development Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-09"
-  },
-  {
     "company": "Capital One",
     "role": "Data Analytics Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -4263,17 +4373,6 @@
     "term": "Summer 2027",
     "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
     "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-09"
-  },
-  {
-    "company": "Capital One",
-    "role": "Data Scientist Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
-    "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-09"
@@ -4466,17 +4565,6 @@
     "date_closed": "2026-10-08"
   },
   {
-    "company": "RTX",
-    "role": "Customer Data Management and Analysis Intern",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
-    "date_posted": "2026-08-26",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-08"
-  },
-  {
     "company": "AMD",
     "role": "Hardware Design Engineer Intern/Co-op",
     "location": "Markham, ON, Canada",
@@ -4505,17 +4593,6 @@
     "term": "Winter 2027",
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
     "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-07"
-  },
-  {
-    "company": "GoTo Group",
-    "role": "Software Developer Intern - Contacts",
-    "location": "Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
-    "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-07"
