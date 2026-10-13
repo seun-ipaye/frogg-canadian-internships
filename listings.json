@@ -11,6 +11,28 @@
     "date_closed": null
   },
   {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Sun Life",
+    "role": "Student Associate Software Engineer Intern",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Fall 2026",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer--Fall--2026-_JR00128496",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "1Password",
     "role": "Data Intern - Product Analytics",
     "location": "Remote in USA; Remote in Canada",
@@ -594,17 +616,6 @@
     "date_closed": null
   },
   {
-    "company": "General Motors",
-    "role": "Vehicle Experience Software Developer Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumentum",
     "role": "Embedded Software Engineer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -748,17 +759,6 @@
     "date_closed": null
   },
   {
-    "company": "Lumentum",
-    "role": "Optical Verification Engineer Co-op Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RBC",
     "role": "2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months)",
     "location": "Toronto, Ontario, Canada",
@@ -885,6 +885,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
     "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1194,17 +1205,6 @@
     "term": "Unspecified",
     "link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004",
     "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "General Motors",
-    "role": "Infotainment Software Developer Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
-    "date_posted": "2026-09-28",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -4037,12 +4037,45 @@
     "date_closed": "2026-10-13"
   },
   {
+    "company": "General Motors",
+    "role": "Infotainment Software Developer Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Infotainment-Software-Developer_JR-202621159",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-13"
+  },
+  {
+    "company": "General Motors",
+    "role": "Vehicle Experience Software Developer Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-13"
+  },
+  {
     "company": "Intact",
     "role": "Software Developer 1 Intern/Co-op - Winter 2027",
     "location": "St. John's, NL, Canada",
     "term": "Winter 2027",
     "link": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972",
     "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-13"
+  },
+  {
+    "company": "Lumentum",
+    "role": "Optical Verification Engineer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
+    "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-13"
@@ -4065,17 +4098,6 @@
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
     "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-12"
-  },
-  {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-12"
