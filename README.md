@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**366 open** · 60 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**363 open** · 63 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -239,7 +239,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Superhuman | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true) | 2026-09-15 | Summer 2027 |
 | Tesla | Actuator Test Engineer Intern - Optimus | Langley, BC, Canada | [Apply](https://www.tesla.com/careers/search/job/283634) | 2026-09-15 | Winter 2027 |
 | BDO Canada | Data & Analytics Co-op Intern | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada +4 more | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061) | 2026-09-14 | Winter 2027 |
-| Ciena | Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631) | 2026-09-14 | Winter 2027 |
 | Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | 2026-09-14 | Winter 2027 |
 | Equitable Bank | Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply) | 2026-09-14 | Winter 2027 |
 | Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) | 2026-09-14 | Winter 2027 |
@@ -317,13 +316,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
 | Grass Valley | Software Development Intern | Montreal, QC, Canada | [Apply](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) | 2026-09-01 | Winter 2027 |
 | RTX | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) | 2026-09-01 | Winter 2027 |
-| RTX | Numerical Methods Intern - Advanced Software Development | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187) | 2026-09-01 | Winter 2027 |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | 2026-09-01 | Winter 2027 |
 | Trane Technologies | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | [Apply](https://careers.tranetechnologies.com/global/en/job/JR-7608) | 2026-09-01 | Summer 2027 |
 | General Motors | Data Engineering Software Developer Co-op | Markham, ON, Canada, Oshawa, ON, Canada | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353) | 2026-08-31 | Winter 2027 |
 | AMI | Computer Vision Scientist Intern - Geometry and 3D Vision | Montreal, QC, Canada, Paris, France, NYC | [Apply](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true) | 2026-08-27 | Fall 2026 |
 | Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) | 2026-08-26 | Summer 2027 |
-| Zip | Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true) | 2026-08-25 | Winter 2027 |
 | Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | 2026-08-24 | Summer 2027 |
 | RTX | Customer First Centre Intern - Customer First Centre - Technical Helpdesk | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Centre-Priorit-Clients---Internship---Winter-2027---Customer-First-Centre--Technical-helpdesk_01867386) | 2026-08-24 | Winter 2027 |
 | Autodesk | AI Developer Intern | Montreal, QC, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1) | 2026-08-19 | Winter 2027 |
@@ -392,12 +389,15 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | Autodesk | 🔒 AI Data Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Autodesk | 🔒 AI/ML Platform Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
+| Ciena | 🔒 Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON, Canada | 🔒 Closed | 2026-09-14 | Winter 2027 |
 | General Motors | 🔒 Infotainment Software Developer Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
 | General Motors | 🔒 Vehicle Experience Software Developer Co-op | Markham, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Intact | 🔒 Software Developer 1 Intern/Co-op - Winter 2027 | St. John's, NL, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | Lumentum | 🔒 Optical Verification Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
+| RTX | 🔒 Numerical Methods Intern - Advanced Software Development | Longueuil, QC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | Sun Life | 🔒 Data Analyst Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Sun Life | 🔒 Student Associate Software Engineer Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Fall 2026 |
+| Zip | 🔒 Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-08-25 | Winter 2027 |
 | CIBC | 🔒 Software/Application Developer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-22 | Winter 2027 |
 | Motorola | 🔒 Design Validation Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | – |
 | Motorola | 🔒 Software Developer – Embedded Appliances Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-07 | – |
