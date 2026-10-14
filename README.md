@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**366 open** · 72 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**365 open** · 73 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -179,7 +179,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Vanderlande Industries | Software Development Intern | Québec City, QC, Canada | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Quebec-Canada/Stage---Dveloppement-logiciel_JR38017) | 2026-09-22 | – |
 | Vanderlande Industries | Software Development Intern | Québec City, QC, Canada | [Apply](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Quebec-Canada/Stage---Dveloppement-logiciel_JR38019) | 2026-09-22 | – |
 | CAE | Business Intelligence Analyst & Developer Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-917---Stagaire-en-analyste-et-dveloppeur-en-Intelligence-d-affaires_123723) | 2026-09-21 | – |
-| CAE | C++ Backend Developer Intern - Image Generator | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-925---Dveloppeur-se--C-----Back-end--_123655) | 2026-09-21 | – |
 | CAE | C++ CGF Unreal Developer Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656) | 2026-09-21 | – |
 | CAE | Integration Specialist Defense & Security Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963) | 2026-09-21 | – |
 | CAE | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | 2026-09-21 | – |
@@ -392,6 +391,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
+| CAE | 🔒 C++ Backend Developer Intern - Image Generator | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | Canadian Tire | 🔒 Business Analyst Student | Mississauga, ON, Canada | 🔒 Closed | 2026-09-30 | – |
 | CIBC | 🔒 Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | CIBC | 🔒 Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
