@@ -671,17 +671,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Hardware Design Co-op",
     "location": "Ottawa, ON, Canada",
@@ -4097,6 +4086,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "CIBC",
+    "role": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
     "status": "closed",
