@@ -418,17 +418,6 @@
     "date_closed": null
   },
   {
-    "company": "Varian",
-    "role": "Performance Engineering Assistant Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Workday",
     "role": "Machine Learning Engineer Intern",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
@@ -4154,6 +4143,17 @@
     "link": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "Varian",
+    "role": "Performance Engineering Assistant Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Performance-Engineering-Assistant-Co-op_R-31160",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-10-14"
   },
