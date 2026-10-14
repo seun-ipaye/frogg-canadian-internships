@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**374 open** · 61 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**372 open** · 63 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -31,7 +31,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Canadian Tire | Product Strategy Student Intern | Oakville, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | 2026-10-13 | Winter 2027 |
 | D2L | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://www.d2l.com/careers/jobs/?job_id=8279317&gh_jid=8279317) | 2026-10-13 | Winter 2027 |
 | Electronic Arts | Technical Artist Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) | 2026-10-13 | Summer 2027 |
-| Manulife Financial | Pharmacy Operations Co-op | Waterloo, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Pharmacy-Operations_JR26081581) | 2026-10-13 | Winter 2027 |
 | Pebl | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | 2026-10-13 | – |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | 2026-10-13 | Winter 2027 |
 | Sun Life | AI Developer Student Intern | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1) | 2026-10-13 | – |
@@ -131,7 +130,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Stripe | Data Scientist Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | 2026-10-01 | – |
 | The Home Depot | AI Machine Learning Developer Intern | Toronto, ON, Canada | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) | 2026-10-01 | Winter 2027 |
 | The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) | 2026-10-01 | Winter 2027 |
-| Canadian Tire | Business Analyst Student | Mississauga, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Business-Analyst-Student-----12-months----Winter-Term-2027_JR166202) | 2026-09-30 | – |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216227) | 2026-09-30 | – |
 | Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) | 2026-09-30 | – |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254600/?ats=successfactors) | 2026-09-30 | – |
@@ -399,6 +397,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
+| Canadian Tire | 🔒 Business Analyst Student | Mississauga, ON, Canada | 🔒 Closed | 2026-09-30 | – |
+| Manulife Financial | 🔒 Pharmacy Operations Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
 | Autodesk | 🔒 AI Data Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Autodesk | 🔒 AI/ML Platform Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Ciena | 🔒 Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON, Canada | 🔒 Closed | 2026-09-14 | Winter 2027 |
