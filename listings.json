@@ -3542,17 +3542,6 @@
     "date_closed": null
   },
   {
-    "company": "TechInsights",
-    "role": "Software Developer Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026",
-    "date_posted": "2026-07-24",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Georgian Partners Growth",
     "role": "AI/ML Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4142,6 +4131,17 @@
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009",
     "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "TechInsights",
+    "role": "Software Developer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026",
+    "date_posted": "2026-07-24",
     "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-14"
