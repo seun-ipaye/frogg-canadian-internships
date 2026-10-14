@@ -22,6 +22,17 @@
     "date_closed": null
   },
   {
+    "company": "Kensington",
+    "role": "Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Later",
     "role": "Data Science Co-op",
     "location": "Vancouver, BC, Canada",
@@ -38,6 +49,17 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Software Engineer Intern",
+    "location": "Waterloo, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
     "status": "open",
@@ -1739,17 +1761,6 @@
   },
   {
     "company": "CAE",
-    "role": "Business Intelligence Analyst & Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-917---Stagaire-en-analyste-et-dveloppeur-en-Intelligence-d-affaires_123723",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CAE",
     "role": "C++ CGF Unreal Developer Intern",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
@@ -3399,39 +3410,6 @@
     "date_closed": null
   },
   {
-    "company": "Capital One",
-    "role": "Full Stack Software Engineer Intern - Team Integrated Sprout",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
-    "date_posted": "2026-08-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Capital One",
-    "role": "Full Stack Software Engineer Intern - Team Pickle",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
-    "date_posted": "2026-08-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Capital One",
-    "role": "Mobile Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
-    "date_posted": "2026-08-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Thomson Reuters",
     "role": "Applied Research Intern - NLP/ML/GenAI",
     "location": "Toronto, ON, Canada",
@@ -4060,6 +4038,17 @@
   },
   {
     "company": "CAE",
+    "role": "Business Intelligence Analyst & Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-917---Stagaire-en-analyste-et-dveloppeur-en-Intelligence-d-affaires_123723",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "CAE",
     "role": "C++ Backend Developer Intern - Image Generator",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
@@ -4098,6 +4087,39 @@
     "term": "Winter 2027",
     "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
     "date_posted": "2026-09-08",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "Capital One",
+    "role": "Full Stack Software Engineer Intern - Team Integrated Sprout",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
+    "date_posted": "2026-08-17",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "Capital One",
+    "role": "Full Stack Software Engineer Intern - Team Pickle",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+    "date_posted": "2026-08-17",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "Capital One",
+    "role": "Mobile Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
+    "date_posted": "2026-08-17",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-14"
