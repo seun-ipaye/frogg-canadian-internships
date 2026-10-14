@@ -33,17 +33,6 @@
     "date_closed": null
   },
   {
-    "company": "SPS Commerce",
-    "role": "Software Engineer Intern",
-    "location": "Brampton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001352",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-14",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Tenstorrent",
     "role": "Systems Intern - Multiple Teams",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
@@ -4132,6 +4121,17 @@
     "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student_R26_00615",
     "date_posted": "2026-09-29",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "SPS Commerce",
+    "role": "Software Engineer Intern",
+    "location": "Brampton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001352",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
     "status": "closed",
     "date_closed": "2026-10-14"
   },

@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**367 open** · 71 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**366 open** · 72 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -27,7 +27,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | 2026-10-14 | Winter 2027 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) | 2026-10-14 | Summer 2027 |
 | Profound Medical | Software Development Co-op | Mississauga, ON, Canada | [Apply](https://profoundmedical.bamboohr.com/careers/353/) | 2026-10-14 | – |
-| SPS Commerce | Software Engineer Intern | Brampton, ON, Canada | [Apply](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001352) | 2026-10-14 | – |
 | Tenstorrent | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | 2026-10-14 | – |
 | Accenture | Canada Indigenous Technology Apprentice - Fnim | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada +1 more | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) | 2026-10-13 | – |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 | – |
@@ -400,6 +399,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Manulife Financial | 🔒 Pharmacy Operations Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
 | Marvell | 🔒 Data Center Silicon Hardware Engineering Intern - Winter 2027 | Toronto, ON, Canada, Ottawa, ON, Canada | 🔒 Closed | 2026-09-14 | Winter 2027 |
 | OLG | 🔒 Performance Analyst Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-09-29 | – |
+| SPS Commerce | 🔒 Software Engineer Intern | Brampton, ON, Canada | 🔒 Closed | 2026-10-14 | – |
 | StackAdapt | 🔒 Machine Learning Engineer Intern | Remote in Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Varian | 🔒 Performance Engineering Assistant Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-09 | – |
 | Autodesk | 🔒 AI Data Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
