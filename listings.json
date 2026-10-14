@@ -781,17 +781,6 @@
     "date_closed": null
   },
   {
-    "company": "GoTo Group",
-    "role": "Software Developer Intern - Contacts",
-    "location": "Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi Energy",
     "role": "Electrical Component Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4099,6 +4088,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "GoTo Group",
+    "role": "Software Developer Intern - Contacts",
+    "location": "Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-14"
   },
