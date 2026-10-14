@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**372 open** · 61 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**375 open** · 60 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | 2026-10-14 | Winter 2027 |
+| Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) | 2026-10-14 | Summer 2027 |
 | Accenture | Canada Indigenous Technology Apprentice - Fnim | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada +1 more | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767) | 2026-10-13 | – |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 | – |
 | Canadian Tire | Product Strategy Student Intern | Oakville, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980) | 2026-10-13 | Winter 2027 |
@@ -370,6 +372,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Human Computer Lab | Electrical Engineer Intern | Toronto, ON, Canada, SF | [Apply](https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true) | 2026-07-01 | Fall 2026 |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada, SF | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | 2026-07-01 | Fall 2026 |
 | Marvell | Analog Engineer Intern - PhD | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426) | 2026-06-27 | – |
+| Later | AI Automation Engineer Co-op | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8604889002) | 2026-06-24 | – |
 | Cadence Design Systems | Analog/Mixed-Signal IC Design Co-op/Intern | Montreal, QC, Canada | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993) | 2026-06-20 | – |
 | Textron | Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165) | 2026-06-18 | Fall 2026 |
 | Clio | Software Developer Co-op | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) | 2026-06-16 | Fall 2026 |
@@ -435,7 +438,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Intel | 🔒 Firmware Development Undergraduate Engineering Co-op | Remote in Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
 | L3Harris Technologies | 🔒 Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
 | L3Harris Technologies | 🔒 Systems Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-30 | – |
-| Later | 🔒 AI Automation Engineer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-06-24 | – |
 | McKesson | 🔒 Java Full Stack Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Credit Modeling and Methodology Analyst Intern - GRM | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Data Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Winter 2027 |

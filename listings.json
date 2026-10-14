@@ -1,5 +1,27 @@
 [
   {
+    "company": "Astera Labs",
+    "role": "Firmware Engineer Co-op Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Accenture",
     "role": "Canada Indigenous Technology Apprentice - Fnim",
     "location": "Toronto, ON, Canada; Calgary, AB, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada",
@@ -3806,6 +3828,17 @@
     "date_closed": null
   },
   {
+    "company": "Later",
+    "role": "AI Automation Engineer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/later/jobs/8604889002",
+    "date_posted": "2026-06-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Cadence Design Systems",
     "role": "Analog/Mixed-Signal IC Design Co-op/Intern",
     "location": "Montreal, QC, Canada",
@@ -4516,17 +4549,6 @@
     "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1435297900/?ats=successfactors",
     "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-08"
-  },
-  {
-    "company": "Later",
-    "role": "AI Automation Engineer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/later/jobs/8604889002",
-    "date_posted": "2026-06-24",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-08"
