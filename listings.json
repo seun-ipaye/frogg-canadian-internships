@@ -1760,17 +1760,6 @@
     "date_closed": null
   },
   {
-    "company": "Vanderlande Industries",
-    "role": "Software Development Intern",
-    "location": "Québec City, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Quebec-Canada/Stage---Dveloppement-logiciel_JR38017",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CAE",
     "role": "C++ CGF Unreal Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -4242,6 +4231,17 @@
     "link": "https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026",
     "date_posted": "2026-07-24",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "Vanderlande Industries",
+    "role": "Software Development Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Quebec-Canada/Stage---Dveloppement-logiciel_JR38017",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-14"
   },
