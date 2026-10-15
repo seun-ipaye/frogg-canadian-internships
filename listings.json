@@ -2244,17 +2244,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "AI Engineer Intern - Winter 2027",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Farm Credit Canada",
     "role": "Data Analyst Student - Business Reporting",
     "location": "Regina, SK, Canada",
@@ -4099,6 +4088,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
     "date_posted": "2026-08-19",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "Ciena",
+    "role": "AI Engineer Intern - Winter 2027",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-15"
   },

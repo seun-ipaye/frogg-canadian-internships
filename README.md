@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**372 open** · 84 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**371 open** · 85 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -228,7 +228,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Apera AI | Software Developer Co-op - C++ | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007) | 2026-09-16 | Winter 2027 |
 | Apera AI | Software Developer Co-op - Full Stack | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007) | 2026-09-16 | Winter 2027 |
 | Brookfield | Business Management Intern - Tech & Data | Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern_R2052618-1) | 2026-09-16 | – |
-| Ciena | AI Engineer Intern - Winter 2027 | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667) | 2026-09-16 | Winter 2027 |
 | Farm Credit Canada | Data Analyst Student - Business Reporting | Regina, SK, Canada | [Apply](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1) | 2026-09-16 | – |
 | Farm Credit Canada | Data Analyst Student - Valuations | Drummondville, QC, Canada, Montreal, QC, Canada, Winnipeg, MB, Canada +4 more | [Apply](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821) | 2026-09-16 | – |
 | NVIDIA | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | 2026-09-16 | Summer 2027 |
@@ -397,6 +396,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
 | Bree | Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | 2026-02-17 | – |
 | Bank of Montreal | 🔒 Workforce Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
+| Ciena | 🔒 AI Engineer Intern - Winter 2027 | Ottawa, ON, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
 | Clio | 🔒 Software Developer Co-op | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | 🔒 Closed | 2026-06-16 | Fall 2026 |
 | Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
