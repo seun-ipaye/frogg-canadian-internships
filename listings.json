@@ -1,5 +1,16 @@
 [
   {
+    "company": "Boeing",
+    "role": "Data Science Intern",
+    "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Interac",
     "role": "Product Intern - Money Movement",
     "location": "Toronto, ON, Canada",
@@ -2845,6 +2856,17 @@
     "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Associate Product Manager Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-15",
     "status": "open",
     "date_closed": null
   },
