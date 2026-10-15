@@ -22,6 +22,28 @@
     "date_closed": null
   },
   {
+    "company": "Ciena",
+    "role": "Embedded Software Developer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intel",
+    "role": "Compiler Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Interac",
     "role": "Product Intern - Money Movement",
     "location": "Toronto, ON, Canada",
@@ -3047,17 +3069,6 @@
     "date_closed": null
   },
   {
-    "company": "Mirego",
-    "role": "Software Developer Intern",
-    "location": "Québec City, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "DSP Firmware Engineer Co-op/Intern",
     "location": "Ottawa, ON, Canada",
@@ -4143,6 +4154,17 @@
     "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "Mirego",
+    "role": "Software Developer Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-15"
   },

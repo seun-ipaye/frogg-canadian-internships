@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**369 open** · 93 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**370 open** · 94 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -26,6 +26,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | --- | --- | --- | --- | --- | --- |
 | Boeing | Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) | 2026-10-15 | Winter 2027 |
 | Boeing | Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159) | 2026-10-15 | Winter 2027 |
+| Ciena | Embedded Software Developer Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | 2026-10-15 | Winter 2027 |
+| Intel | Compiler Engineer Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | 2026-10-15 | – |
 | Interac | Product Intern - Money Movement | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386) | 2026-10-15 | Winter 2027 |
 | Motorola Solutions | Electronics Design Co-op | Vancouver, BC, Canada | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811) | 2026-10-15 | – |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | 2026-10-15 | Winter 2027 |
@@ -301,7 +303,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Geotab | Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008) | 2026-09-03 | Winter 2027 |
 | Geotab | Software Developer Intern | Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) | 2026-09-03 | Winter 2027 |
 | Geotab | Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) | 2026-09-03 | Winter 2027 |
-| Mirego | Software Developer Intern | Québec City, QC, Canada | [Apply](https://jobs.lever.co/mirego/b5d63a2b-c4b6-4a14-9e2a-bb8a23ed92b1/apply) | 2026-09-03 | – |
 | Nokia | DSP Firmware Engineer Co-op/Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) | 2026-09-03 | Winter 2027 |
 | RTX | Data Analyst Intern - Spare Parts Services | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182) | 2026-09-03 | Winter 2027 |
 | Amgen | Business Analyst Co-op | Burnaby, BC, Canada | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807) | 2026-09-02 | Winter 2027 |
@@ -401,6 +402,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Definity Financial | 🔒 Analyst Co-op Intern - Consumer Insights & Market Research | Toronto, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | General Motors | 🔒 Data Engineering Software Developer Co-op | Markham, ON, Canada, Oshawa, ON, Canada | 🔒 Closed | 2026-08-31 | Winter 2027 |
 | Loblaw Companies | 🔒 Associate Product Manager Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
+| Mirego | 🔒 Software Developer Intern | Québec City, QC, Canada | 🔒 Closed | 2026-09-03 | – |
 | Moment Energy | 🔒 R&D Technician Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-10-15 | – |
 | RTX | 🔒 Customer Data Management and Analysis Intern | Longueuil, QC, Canada | 🔒 Closed | 2026-08-26 | Winter 2027 |
 | Superhuman | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Summer 2027 |
