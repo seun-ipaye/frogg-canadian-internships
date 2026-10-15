@@ -1838,17 +1838,6 @@
   },
   {
     "company": "CAE",
-    "role": "C++ CGF Unreal Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CAE",
     "role": "Integration Specialist Defense & Security Intern",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
@@ -2823,17 +2812,6 @@
     "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Loblaw Companies",
-    "role": "Associate Product Manager Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-15",
     "status": "open",
     "date_closed": null
   },
@@ -4027,6 +4005,17 @@
   },
   {
     "company": "CAE",
+    "role": "C++ CGF Unreal Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "CAE",
     "role": "Unreal Engine Developer Intern - Se - Engin Unreal",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
@@ -4077,6 +4066,17 @@
     "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
     "date_posted": "2026-08-31",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Associate Product Manager Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Associate-Product-Manager---Co-op-Student_R2000694175-1",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-10-15"
   },
