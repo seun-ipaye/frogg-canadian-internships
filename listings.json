@@ -1,5 +1,16 @@
 [
   {
+    "company": "Moment Energy",
+    "role": "R&D Technician Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4452550009",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-14",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Astera Labs",
     "role": "Firmware Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -2051,17 +2062,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Qualcomm",
-    "role": "Analog Design Intern - Hardware Engineering",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721140914",
     "date_posted": "2026-09-17",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4186,6 +4186,17 @@
     "term": "Unspecified",
     "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student_R26_00615",
     "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-14"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Analog Design Intern - Hardware Engineering",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721140914",
+    "date_posted": "2026-09-17",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-14"
