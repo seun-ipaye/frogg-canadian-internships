@@ -1903,17 +1903,6 @@
     "date_closed": null
   },
   {
-    "company": "CAE",
-    "role": "Unreal Engine Developer Intern - Se - Engin Unreal",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-900---Dveloppeur-se--Engin-Unreal_123654",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Rodan Energy Solutions",
     "role": "AI Solutions Co-op",
     "location": "Mississauga, ON, Canada",
@@ -4055,6 +4044,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
     "date_posted": "2026-08-19",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "CAE",
+    "role": "Unreal Engine Developer Intern - Se - Engin Unreal",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-900---Dveloppeur-se--Engin-Unreal_123654",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-15"
   },
