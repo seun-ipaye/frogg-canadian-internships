@@ -3366,17 +3366,6 @@
     "date_closed": null
   },
   {
-    "company": "Bank of Montreal",
-    "role": "Workforce Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
-    "date_posted": "2026-08-19",
-    "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kepler Communications",
     "role": "Embedded Software Engineer Intern - January 2027 - 4 months",
     "location": "Toronto, ON, Canada",
@@ -4002,6 +3991,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Workforce Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
+    "date_posted": "2026-08-19",
+    "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-15"
   },
   {
     "company": "Autodesk",
