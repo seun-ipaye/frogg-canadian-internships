@@ -2453,17 +2453,6 @@
     "date_closed": null
   },
   {
-    "company": "Superhuman",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Tesla",
     "role": "Actuator Test Engineer Intern - Optimus",
     "location": "Langley, BC, Canada",
@@ -4110,6 +4099,17 @@
     "link": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577",
     "date_posted": "2026-06-16",
     "date_found": "2026-10-07",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "Superhuman",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-15"
   },
