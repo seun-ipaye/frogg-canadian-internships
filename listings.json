@@ -44,6 +44,50 @@
     "date_closed": null
   },
   {
+    "company": "Nokia",
+    "role": "Embedded C/C++ Software Developer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SPS Commerce",
+    "role": "Software Engineer Intern",
+    "location": "Brampton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TechInsights",
+    "role": "Software Development Co-op Student",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Tower Research Capital",
+    "role": "Machine Learning Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Astera Labs",
     "role": "Firmware Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -2812,6 +2856,28 @@
     "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TD Bank",
+    "role": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TD Bank",
+    "role": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-15",
     "status": "open",
     "date_closed": null
   },

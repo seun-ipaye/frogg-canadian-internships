@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**363 open** · 93 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**369 open** · 93 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -28,6 +28,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Boeing | Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159) | 2026-10-15 | Winter 2027 |
 | Interac | Product Intern - Money Movement | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386) | 2026-10-15 | Winter 2027 |
 | Motorola Solutions | Electronics Design Co-op | Vancouver, BC, Canada | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811) | 2026-10-15 | – |
+| Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | 2026-10-15 | Winter 2027 |
+| SPS Commerce | Software Engineer Intern | Brampton, ON, Canada | [Apply](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353) | 2026-10-15 | – |
+| TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) | 2026-10-15 | – |
+| Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) | 2026-10-15 | – |
 | Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | 2026-10-14 | Winter 2027 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) | 2026-10-14 | Summer 2027 |
 | Interac | Business Systems & AI Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | 2026-10-14 | Winter 2027 |
@@ -280,6 +284,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kinaxis | Developer Intern - AI Solutions | Ottawa, ON, Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | 2026-09-09 | Winter 2027 |
 | Pomerleau | GIS Data Analyst Intern | Montreal, QC, Canada, Québec City, QC, Canada | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695) | 2026-09-09 | – |
 | Bird Construction | Business Intelligence Student | Winnipeg, MB, Canada, Calgary, AB, Canada, Edmonton, AB, Canada +1 more | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) | 2026-09-08 | – |
+| TD Bank | Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027 | Toronto, ON, Canada | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711) | 2026-09-08 | Winter 2027 |
+| TD Bank | Portfolio Analytics Developer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223) | 2026-09-08 | Winter 2027 |
 | Entrust | Software Developer Intern | Ottawa, ON, Canada | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358) | 2026-09-07 | Winter 2027 |
 | Brave | Software Engineer Intern - Waterloo University | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8161945) | 2026-09-04 | Fall 2026 |
 | Bree | Software Engineer Co-op - Backend | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true) | 2026-09-04 | Winter 2027 |
