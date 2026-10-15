@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**370 open** · 84 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**372 open** · 84 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,9 +24,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Boeing | Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) | 2026-10-15 | Winter 2027 |
 | Boeing | Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159) | 2026-10-15 | Winter 2027 |
 | Interac | Product Intern - Money Movement | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386) | 2026-10-15 | Winter 2027 |
 | Moment Energy | R&D Technician Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4452550009) | 2026-10-15 | – |
+| Motorola Solutions | Electronics Design Co-op | Vancouver, BC, Canada | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811) | 2026-10-15 | – |
 | Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | 2026-10-14 | Winter 2027 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) | 2026-10-14 | Summer 2027 |
 | Interac | Business Systems & AI Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | 2026-10-14 | Winter 2027 |
