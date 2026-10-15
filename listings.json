@@ -33,17 +33,6 @@
     "date_closed": null
   },
   {
-    "company": "Moment Energy",
-    "role": "R&D Technician Co-op",
-    "location": "Surrey, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4452550009",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-14",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Motorola Solutions",
     "role": "Electronics Design Co-op",
     "location": "Vancouver, BC, Canada",
@@ -2575,17 +2564,6 @@
   },
   {
     "company": "Definity Financial",
-    "role": "Analyst Co-op Intern - Consumer Insights & Market Research",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Definity Financial",
     "role": "Business Intelligence Co-op",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
     "term": "Winter 2027",
@@ -4081,6 +4059,17 @@
     "date_closed": "2026-10-15"
   },
   {
+    "company": "Definity Financial",
+    "role": "Analyst Co-op Intern - Consumer Insights & Market Research",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
     "company": "General Motors",
     "role": "Data Engineering Software Developer Co-op",
     "location": "Markham, ON, Canada; Oshawa, ON, Canada",
@@ -4088,6 +4077,17 @@
     "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
     "date_posted": "2026-08-31",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "Moment Energy",
+    "role": "R&D Technician Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4452550009",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-14",
     "status": "closed",
     "date_closed": "2026-10-15"
   },
