@@ -3300,17 +3300,6 @@
     "date_closed": null
   },
   {
-    "company": "Remarcable",
-    "role": "Full Stack Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/application?embed=true",
-    "date_posted": "2026-09-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RTX",
     "role": "Data Analyst Intern - Global Sales",
     "location": "Saint-Hubert, Longueuil, QC, Canada",
@@ -4244,6 +4233,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Remarcable",
+    "role": "Full Stack Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/application?embed=true",
+    "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-16"
   },
   {
     "company": "Rockwell Automation",
