@@ -110,17 +110,6 @@
     "date_closed": null
   },
   {
-    "company": "SPS Commerce",
-    "role": "Software Engineer Intern",
-    "location": "Brampton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TechInsights",
     "role": "Software Development Co-op Student",
     "location": "Ottawa, ON, Canada",
@@ -4101,6 +4090,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "SPS Commerce",
+    "role": "Software Engineer Intern",
+    "location": "Brampton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-16"
   },
   {
     "company": "Bank of Montreal",
