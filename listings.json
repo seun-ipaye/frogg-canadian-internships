@@ -1155,6 +1155,17 @@
     "date_closed": null
   },
   {
+    "company": "Intel",
+    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kinaxis",
     "role": "AI/ML Researcher Intern",
     "location": "Remote in Canada",
@@ -2091,28 +2102,6 @@
   },
   {
     "company": "Rockwell Automation",
-    "role": "Robotics Integration and Development Co-op - OTTO",
-    "location": "Waterloo, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Rockwell Automation",
-    "role": "Robotics Integration and Development Co-op - OTTO",
-    "location": "Waterloo, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721-1",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Rockwell Automation",
     "role": "Robotics Research Co-op - Data Engineering",
     "location": "Waterloo, ON, Canada",
     "term": "Unspecified",
@@ -2196,6 +2185,17 @@
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
     "date_posted": "2026-09-17",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "National Bank of Canada",
+    "role": "Analyst Intern - Credit Risk Analytics",
+    "location": "Canada",
+    "term": "Unspecified",
+    "link": "https://bnc.avature.net/en_CA/careers/JobDetail/35546",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-16",
     "status": "open",
     "date_closed": null
   },
@@ -4092,6 +4092,28 @@
     "date_closed": null
   },
   {
+    "company": "Rockwell Automation",
+    "role": "Robotics Integration and Development Co-op - OTTO",
+    "location": "Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-16"
+  },
+  {
+    "company": "Rockwell Automation",
+    "role": "Robotics Integration and Development Co-op - OTTO",
+    "location": "Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721-1",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-16"
+  },
+  {
     "company": "SPS Commerce",
     "role": "Software Engineer Intern",
     "location": "Brampton, ON, Canada",
@@ -4175,17 +4197,6 @@
     "term": "Winter 2027",
     "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353",
     "date_posted": "2026-08-31",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-15"
-  },
-  {
-    "company": "Intel",
-    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-15"
