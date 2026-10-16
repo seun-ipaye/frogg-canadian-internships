@@ -1,5 +1,27 @@
 [
   {
+    "company": "Alliaxis",
+    "role": "Manufacturing Excellence Co-op Student",
+    "location": "Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "BC Pensions",
     "role": "Application Developer Co-op",
     "location": "Victoria, BC, Canada",
@@ -11,6 +33,83 @@
     "date_closed": null
   },
   {
+    "company": "Behaviour Interactive",
+    "role": "Product Management Intern - 7 Days to Die",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "D2L",
+    "role": "Software Developer Co-op - Custom Development Services",
+    "location": "Kitchener, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Eaton",
+    "role": "C++ Developer Intern - Research & Development Engineering",
+    "location": "Brossard, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://eaton.eightfold.ai/careers/job/687239542740",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "AI/ML Software Engineer Co-op Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Analytics Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Kepler Communications",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "KPMG",
+    "role": "AI Builder Intern/Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.kpmg.ca/jobs/34407?icims=1",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Moment Energy",
     "role": "Test Engineering Co-op",
     "location": "Surrey, BC, Canada",
@@ -18,6 +117,39 @@
     "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4455115009",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Automotive Engineering Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721615591",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Synopsys",
+    "role": "Technical-Engineering Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://synopsys.avature.net/careers/JobDetail/19195",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Waabi",
+    "role": "Safety Methodologies Intern Co-op",
+    "location": "Toronto, ON, Canada; SF; Pittsburgh, PA",
+    "term": "Summer 2027",
+    "link": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
     "status": "open",
     "date_closed": null
   },
@@ -260,6 +392,28 @@
     "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "National Bank of Canada",
+    "role": "Artificial Intelligence Developer Intern",
+    "location": "Canada",
+    "term": "Unspecified",
+    "link": "https://bnc.avature.net/en_CA/careers/JobDetail/36120",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "National Bank of Canada",
+    "role": "Artificial Intelligence Scientist Intern",
+    "location": "Canada",
+    "term": "Unspecified",
+    "link": "https://bnc.avature.net/en_CA/careers/JobDetail/36110",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-16",
     "status": "open",
     "date_closed": null
   },
