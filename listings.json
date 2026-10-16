@@ -4070,17 +4070,6 @@
     "date_closed": null
   },
   {
-    "company": "Bree",
-    "role": "Software Engineer – Machine Learning Intern/Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application",
-    "date_posted": "2026-02-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Bank of Montreal",
     "role": "Workforce Analyst Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -4088,6 +4077,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
     "date_posted": "2026-08-19",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-15"
+  },
+  {
+    "company": "Bree",
+    "role": "Software Engineer – Machine Learning Intern/Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application",
+    "date_posted": "2026-02-17",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-15"
   },
