@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**380 open** · 103 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**379 open** · 104 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -89,7 +89,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Manulife Financial | Data Engineering Co-op | Waterloo, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | 2026-10-12 | Winter 2027 |
 | Manulife Financial | Software Engineer Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1) | 2026-10-12 | Winter 2027 |
 | Manulife Financial | Software Engineering Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) | 2026-10-12 | Winter 2027 |
-| Resource Innovations | Energy Engineering Intern | Toronto, ON, Canada | [Apply](https://apply.workable.com/resource-innovations/j/4CAAA40639/apply) | 2026-10-11 | Winter 2027 |
 | Magnet Forensics | Software Developer Co-op | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | 2026-10-10 | Winter 2027 |
 | Electronic Arts | C++ Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) | 2026-10-09 | Winter 2027 |
 | Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) | 2026-10-09 | Summer 2027 |
@@ -407,6 +406,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Khan Academy | 🔒 Software Engineer Intern | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-05 | Summer 2027 |
 | Profound Medical | 🔒 Software Development Co-op | Mississauga, ON, Canada | 🔒 Closed | 2026-10-14 | – |
 | RBC | 🔒 2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
+| Resource Innovations | 🔒 Energy Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-11 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Quantum Technologies Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Quantum Technologies Intern - 8 Months | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Winter 2027 |
 | Remarcable | 🔒 Full Stack Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
