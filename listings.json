@@ -418,17 +418,6 @@
     "date_closed": null
   },
   {
-    "company": "Profound Medical",
-    "role": "Software Development Co-op",
-    "location": "Mississauga, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://profoundmedical.bamboohr.com/careers/353/",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-14",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RTX",
     "role": "Repair & Overhaul Customer Solutions Group Intern",
     "location": "Saint-Hubert, Longueuil, QC, Canada",
@@ -4200,6 +4189,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Profound Medical",
+    "role": "Software Development Co-op",
+    "location": "Mississauga, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://profoundmedical.bamboohr.com/careers/353/",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
+    "status": "closed",
+    "date_closed": "2026-10-17"
   },
   {
     "company": "RBC",
