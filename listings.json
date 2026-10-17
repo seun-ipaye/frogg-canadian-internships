@@ -1188,17 +1188,6 @@
     "date_closed": null
   },
   {
-    "company": "Khan Academy",
-    "role": "Software Engineer Intern",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Summer 2027",
-    "link": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumentum",
     "role": "Embedded Software Developer Co-op - Optical Circuit Switch",
     "location": "Ottawa, ON, Canada",
@@ -4189,6 +4178,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Khan Academy",
+    "role": "Software Engineer Intern",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Summer 2027",
+    "link": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-17"
   },
   {
     "company": "Profound Medical",
