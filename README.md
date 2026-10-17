@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**379 open** · 104 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**378 open** · 105 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -270,7 +270,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | 2026-09-11 | Winter 2027 |
 | Armstrong Fluid Technology | Test Engineering Co-op | Toronto, ON, Canada | [Apply](https://armstrongfluidtechnology.bamboohr.com/careers/1001/) | 2026-09-11 | – |
 | Blue Robotics | Electronics Design Co-op | Victoria, BC, Canada | [Apply](https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8) | 2026-09-11 | Summer 2027 |
-| Ciena | NPI Hardware Co-op - 8 month | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Business Intelligence Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354) | 2026-09-11 | Winter 2027 |
@@ -403,6 +402,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | NYC, Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-02-25 | – |
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | – |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
+| Ciena | 🔒 NPI Hardware Co-op - 8 month | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Khan Academy | 🔒 Software Engineer Intern | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-05 | Summer 2027 |
 | Profound Medical | 🔒 Software Development Co-op | Mississauga, ON, Canada | 🔒 Closed | 2026-10-14 | – |
 | RBC | 🔒 2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |

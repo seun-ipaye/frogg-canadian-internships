@@ -2706,17 +2706,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "NPI Hardware Co-op - 8 month",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Business Intelligence Co-op",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
@@ -4167,6 +4156,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "NPI Hardware Co-op - 8 month",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-17"
   },
   {
     "company": "Khan Academy",
