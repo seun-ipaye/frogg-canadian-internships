@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**385 open** · 98 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**384 open** · 99 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -180,7 +180,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ciena | Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752) | 2026-09-25 | Winter 2027 |
 | Kinaxis | Developer Intern - Back End Technologies | Ottawa, ON, Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false) | 2026-09-25 | Winter 2027 |
 | Nokia | Operations Analytics Co-op Intern - Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) | 2026-09-25 | Winter 2027 |
-| RBC | 2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months | Toronto, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Quantum-Computing-Specialist--8-Months_R-0000188860-1) | 2026-09-25 | Winter 2027 |
 | Acuity | Hardware Development Intern - Hardware | Brossard, QC, Canada | [Apply](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-%28hardware%29-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) | 2026-09-24 | – |
 | Marvell | Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | 2026-09-24 | Summer 2027 |
 | Marvell | Analog Design Intern Co-op - BS | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788) | 2026-09-24 | – |
@@ -409,6 +408,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | NYC, Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-02-25 | – |
 | Corpay | Software Developer – Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-02-21 | – |
 | Aptiv | Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-02-20 | – |
+| RBC | 🔒 2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
 | Remarcable | 🔒 Full Stack Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
 | Rockwell Automation | 🔒 Robotics Integration and Development Co-op - OTTO | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
 | Rockwell Automation | 🔒 Robotics Integration and Development Co-op - OTTO | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
