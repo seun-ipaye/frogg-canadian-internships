@@ -1474,17 +1474,6 @@
     "date_closed": null
   },
   {
-    "company": "The Home Depot",
-    "role": "AI Machine Learning Developer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "Software Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -4143,6 +4132,17 @@
     "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-18"
+  },
+  {
+    "company": "The Home Depot",
+    "role": "AI Machine Learning Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-18"
   },
