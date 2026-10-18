@@ -2971,17 +2971,6 @@
   },
   {
     "company": "TD Bank",
-    "role": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "TD Bank",
     "role": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -4156,6 +4145,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "TD Bank",
+    "role": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/TDAM-Portfolio-Analytics-Data-Analyst-Intern-Co-Op--Winter-202-_R_1506711",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-18"
   },
   {
     "company": "Ciena",
