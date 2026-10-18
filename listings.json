@@ -2563,17 +2563,6 @@
     "date_closed": null
   },
   {
-    "company": "Tesla",
-    "role": "Actuator Test Engineer Intern - Optimus",
-    "location": "Langley, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.tesla.com/careers/search/job/283634",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "BDO Canada",
     "role": "Data & Analytics Co-op Intern",
     "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada; Halifax Regional Municipality, NS, Canada",
@@ -4143,6 +4132,17 @@
     "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/161-Bay-Street-Corporate-Toronto-Ontario/TD-Asset-Management-Portfolio-Analytics-Developer-Intern-Co-Op--Winter-2027-_R_1509223",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-18"
+  },
+  {
+    "company": "Tesla",
+    "role": "Actuator Test Engineer Intern - Optimus",
+    "location": "Langley, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.tesla.com/careers/search/job/283634",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-18"
   },
