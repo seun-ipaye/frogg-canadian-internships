@@ -374,17 +374,6 @@
     "date_closed": null
   },
   {
-    "company": "Motorola Solutions",
-    "role": "Electronics Design Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Embedded C/C++ Software Developer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -4198,6 +4187,17 @@
     "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Motorola Solutions",
+    "role": "Electronics Design Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-10-19"
   },
