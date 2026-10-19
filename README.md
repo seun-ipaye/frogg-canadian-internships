@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**361 open** · 128 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**360 open** · 129 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -135,7 +135,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Solink | Software Engineer Co-op - Apps | Ottawa, ON, Canada | [Apply](https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true) | 2026-10-05 | Winter 2027 |
 | SOTI | Data Scientist Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | 2026-10-05 | Winter 2027 |
 | Definity Financial | Operations Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410) | 2026-10-02 | Winter 2027 |
-| Harvey | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true) | 2026-10-02 | Winter 2027 |
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | 2026-10-02 | Summer 2027 |
 | Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | 2026-10-02 | – |
 | Kinaxis | AI/ML Researcher Intern | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | 2026-10-02 | Winter 2027 |
@@ -392,6 +391,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Autodesk | 🔒 Product Management Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-19 | Winter 2027 |
 | D2L | 🔒 Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | Geotab | 🔒 Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
+| Harvey | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Manulife Financial | 🔒 Technology Enablement Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | RBC | 🔒 2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | RBC | 🔒 2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |

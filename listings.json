@@ -1221,17 +1221,6 @@
     "date_closed": null
   },
   {
-    "company": "Harvey",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi Energy",
     "role": "Hardware Test Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -4043,6 +4032,17 @@
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008",
     "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Harvey",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-19"
