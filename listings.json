@@ -1991,39 +1991,6 @@
     "date_closed": null
   },
   {
-    "company": "Rodan Energy Solutions",
-    "role": "AI Solutions Co-op",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Rodan Energy Solutions",
-    "role": "Data Operations Engineer AI Co-op - Winter 2027",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/baC6tVrSpB/Data-Operations-Engineer-AI-Coop-Student-Winter-2027",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Rodan Energy Solutions",
-    "role": "Data Science Co-op",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/Bn4sqYBZPe/Data-Science-Coop-Student-Winter-2027",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern - Back End",
     "location": "Mississauga, ON, Canada",
@@ -4120,6 +4087,39 @@
     "term": "Winter 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
     "date_posted": "2026-10-06",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Rodan Energy Solutions",
+    "role": "AI Solutions Co-op",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Rodan Energy Solutions",
+    "role": "Data Operations Engineer AI Co-op - Winter 2027",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/baC6tVrSpB/Data-Operations-Engineer-AI-Coop-Student-Winter-2027",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Rodan Energy Solutions",
+    "role": "Data Science Co-op",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/Bn4sqYBZPe/Data-Science-Coop-Student-Winter-2027",
+    "date_posted": "2026-09-21",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-19"
