@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**364 open** · 125 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**363 open** · 126 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -26,7 +26,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | --- | --- | --- | --- | --- | --- |
 | FanDuel | Product Co-op | Toronto, ON, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) | 2026-10-19 | Winter 2027 |
 | HeyGen | Software Engineer Intern | Toronto, ON, Canada, SF, LA +1 more | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | 2026-10-19 | Winter 2027 |
-| Royal Bank of Canada | Data Scientist Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-3) | 2026-10-19 | Winter 2027 |
 | University of Ottawa | Teaching Assistant Intern | Ottawa, ON, Canada | [Apply](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054) | 2026-10-19 | Winter 2027 |
 | Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | 2026-10-16 | Winter 2027 |
 | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) | 2026-10-16 | – |
@@ -401,6 +400,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Rodan Energy Solutions | 🔒 Data Science Co-op | Mississauga, ON, Canada | 🔒 Closed | 2026-09-21 | Winter 2027 |
 | Royal Bank of Canada | 🔒 AI Developer Intern - Grm - Innovation & AI Center of Excellence | Toronto, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Royal Bank of Canada | 🔒 AI Developer Intern - Innovation & AI Center of Excellence | Toronto, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
+| Royal Bank of Canada | 🔒 Data Scientist Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Sun Life | 🔒 AI Developer Student Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | – |
 | Aptiv | 🔒 Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-02-20 | – |
 | TD Bank | 🔒 Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
