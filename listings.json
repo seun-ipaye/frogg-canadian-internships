@@ -2201,17 +2201,6 @@
   },
   {
     "company": "Apera AI",
-    "role": "Software Developer Co-op - C++",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Apera AI",
     "role": "Software Developer Co-op - Full Stack",
     "location": "Vancouver, BC, Canada",
     "term": "Winter 2027",
@@ -3980,6 +3969,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Apera AI",
+    "role": "Software Developer Co-op - C++",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
   },
   {
     "company": "Autodesk",
