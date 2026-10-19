@@ -1,5 +1,38 @@
 [
   {
+    "company": "CIBC",
+    "role": "Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Citco",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "FanDuel",
     "role": "Product Co-op",
     "location": "Toronto, ON, Canada",
@@ -18,6 +51,61 @@
     "link": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-18",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "AI Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "AI Intern - AI",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "ASIC Verification Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Machine Learning AISW Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721636765",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "QDSP Hardware Physical Design Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721636316",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
     "status": "open",
     "date_closed": null
   },
@@ -3212,17 +3300,6 @@
     "date_closed": null
   },
   {
-    "company": "Grass Valley",
-    "role": "Software Development Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RTX",
     "role": "Aerospace Engineering Intern - APU Programs Support",
     "location": "Longueuil, QC, Canada",
@@ -4032,6 +4109,17 @@
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008",
     "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Grass Valley",
+    "role": "Software Development Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development",
+    "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-19"
