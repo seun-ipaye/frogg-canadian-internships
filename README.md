@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**374 open** · 110 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**375 open** · 110 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -364,6 +364,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | DRW | AI/ML Research Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991171) | 2026-07-13 | Summer 2028 |
 | DRW | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 2026-07-13 | Summer 2028 |
 | Orennia | Analytics Intern | Calgary, AB, Canada | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) | 2026-07-07 | Fall 2026 |
+| Aptiv | Engineer Intern | Kanata, Ottawa, ON, Canada, Kitchener, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | 2026-07-04 | Fall 2026 |
 | Marvell | Analog Engineer Intern | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1) | 2026-07-04 | Fall 2026 |
 | Marvell | Analog Engineer Intern | Vancouver, BC, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1) | 2026-07-04 | Fall 2026 |
 | Marvell | Silicon Photonics Intern | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1) | 2026-07-04 | Fall 2026 |
