@@ -1,5 +1,27 @@
 [
   {
+    "company": "Accenture",
+    "role": "MES & Supply Chain Systems Co-op Analyst",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "AstraZeneca",
+    "role": "Patient Data Insights Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CIBC",
     "role": "Analytics Co-op",
     "location": "Toronto, ON, Canada",
@@ -16,6 +38,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Services Business Intelligence & Analytics Intern",
+    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
     "status": "open",
@@ -71,6 +104,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Nuovo Photography",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
     "status": "open",
@@ -489,17 +533,6 @@
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
     "link": "https://apply.careers.microsoft.com/careers/job/1970393557040927",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-14",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Motorola Solutions",
-    "role": "Design Validation Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
     "status": "open",
@@ -1386,6 +1419,17 @@
     "date_closed": null
   },
   {
+    "company": "Solink",
+    "role": "Software Engineer Co-op - Agents",
+    "location": "Ottawa, ON, Canada; Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Autodesk",
     "role": "Software Developer Intern",
     "location": "Toronto, ON, Canada",
@@ -1602,17 +1646,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721302471",
     "date_posted": "2026-09-28",
     "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "RTX",
-    "role": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
   },
@@ -2882,6 +2915,17 @@
     "date_closed": null
   },
   {
+    "company": "Loblaw Companies",
+    "role": "Applied Machine Learning Co-op",
+    "location": "Brampton, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Entrust",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -4147,6 +4191,17 @@
     "date_closed": "2026-10-19"
   },
   {
+    "company": "Motorola Solutions",
+    "role": "Design Validation Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
     "company": "RBC",
     "role": "2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months)",
     "location": "Toronto, Ontario, Canada",
@@ -4231,6 +4286,17 @@
     "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---ECCO--Data-Scientist-Intern--4-Months-_R-0000185186-3",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "RTX",
+    "role": "Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats--analyse-des-ventes-et-marketing---Internship---Winter-2027---Contract-Administration--Sales-Analysis---Marketing_01878336",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-19"
   },
@@ -5341,17 +5407,6 @@
     "term": "Unspecified",
     "link": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620",
     "date_posted": "2026-09-09",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-07"
-  },
-  {
-    "company": "Solink",
-    "role": "Software Engineer Co-op - Agents",
-    "location": "Ottawa, ON, Canada; Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
-    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-07"
