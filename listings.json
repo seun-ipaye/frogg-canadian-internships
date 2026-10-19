@@ -1177,17 +1177,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "AI Developer Intern - Innovation & AI Center of Excellence",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Semtech",
     "role": "Software Developer Co-op - Web/Cloud Application",
     "location": "Richmond, BC, Canada",
@@ -4119,6 +4108,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "AI Developer Intern - Innovation & AI Center of Excellence",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "closed",
