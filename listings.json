@@ -3036,17 +3036,6 @@
     "date_closed": null
   },
   {
-    "company": "Geotab",
-    "role": "Product Coordinator Intern - Driver Compliance",
-    "location": "Toronto, ON, Canada; Oakville, ON, Canada; Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008",
-    "date_posted": "2026-09-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RTX",
     "role": "Data Analyst Intern - Global Sales",
     "location": "Saint-Hubert, Longueuil, QC, Canada",
@@ -4044,6 +4033,17 @@
     "link": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-19"
+  },
+  {
+    "company": "Geotab",
+    "role": "Product Coordinator Intern - Driver Compliance",
+    "location": "Toronto, ON, Canada; Oakville, ON, Canada; Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008",
+    "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-19"
   },
