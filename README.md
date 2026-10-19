@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**366 open** · 123 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**364 open** · 125 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -32,7 +32,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) | 2026-10-16 | – |
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) | 2026-10-16 | Winter 2027 |
 | Behaviour Interactive | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | [Apply](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | 2026-10-16 | Winter 2027 |
-| D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | [Apply](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | 2026-10-16 | Winter 2027 |
 | Eaton | C++ Developer Intern - Research & Development Engineering | Brossard, QC, Canada | [Apply](https://eaton.eightfold.ai/careers/job/687239542740) | 2026-10-16 | – |
 | Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | 2026-10-16 | Summer 2027 |
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | 2026-10-16 | Summer 2027 |
@@ -206,7 +205,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CAE | Software Developer Intern - Immersive | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1) | 2026-09-21 | – |
 | CAE | Software Developer Intern - Software | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688) | 2026-09-21 | – |
 | SOTI | Software Developer Intern - Back End | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549) | 2026-09-21 | – |
-| Autodesk | Product Management Intern | Montreal, QC, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-2) | 2026-09-19 | Winter 2027 |
 | Amazon | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | 2026-09-18 | Winter 2027 |
 | BGIS | Asset Management Analyst Intern | Whitchurch-Stouffville, ON, Canada, Toronto, ON, Canada, North York, ON, Canada +4 more | [Apply](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080) | 2026-09-18 | – |
 | NERv Technology Inc. D.B.A. FluidAI Medical | Data and AI Engineering Associate | Kitchener, ON, Canada | [Apply](https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52) | 2026-09-18 | – |
@@ -393,6 +391,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Autodesk | 🔒 AI Data Developer Intern - Winter | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Autodesk | 🔒 AI/ML Platform Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Autodesk | 🔒 Product Management Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-19 | Winter 2027 |
+| Autodesk | 🔒 Product Management Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-19 | Winter 2027 |
+| D2L | 🔒 Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | Manulife Financial | 🔒 Technology Enablement Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | RBC | 🔒 2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | RBC | 🔒 2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
