@@ -253,17 +253,6 @@
     "date_closed": null
   },
   {
-    "company": "Eaton",
-    "role": "C++ Developer Intern - Research & Development Engineering",
-    "location": "Brossard, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://eaton.eightfold.ai/careers/job/687239542740",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "AI/ML Software Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -4090,6 +4079,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Eaton",
+    "role": "C++ Developer Intern - Research & Development Engineering",
+    "location": "Brossard, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://eaton.eightfold.ai/careers/job/687239542740",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-20"
   },
   {
     "company": "RTX",
