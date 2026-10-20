@@ -1,5 +1,27 @@
 [
   {
+    "company": "GeoSpectrum Technologies",
+    "role": "Software Developer Co-op",
+    "location": "Dartmouth, NS, Canada",
+    "term": "Unspecified",
+    "link": "https://geospectrum.bamboohr.com/careers/286/",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Steel",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "TD Bank",
     "role": "Wealth Operations Automation Intern Co-op",
     "location": "Toronto, ON, Canada",
@@ -2926,17 +2948,6 @@
     "date_closed": null
   },
   {
-    "company": "Loblaw Companies",
-    "role": "Applied Machine Learning Co-op",
-    "location": "Brampton, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Entrust",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -4110,6 +4121,17 @@
     "link": "https://eaton.eightfold.ai/careers/job/687239542740",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Applied Machine Learning Co-op",
+    "location": "Brampton, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-19",
     "status": "closed",
     "date_closed": "2026-10-20"
   },
