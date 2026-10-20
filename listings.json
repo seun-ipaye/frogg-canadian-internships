@@ -1,5 +1,27 @@
 [
   {
+    "company": "Altera",
+    "role": "FPGA IP Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Quartus User Interface Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "GeoSpectrum Technologies",
     "role": "Software Developer Co-op",
     "location": "Dartmouth, NS, Canada",
@@ -11,11 +33,33 @@
     "date_closed": null
   },
   {
+    "company": "Hitachi",
+    "role": "AI Intern Supply Chain",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Semtech",
     "role": "PCB Layout Intern",
     "location": "Burlington, ON, Canada",
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
     "status": "open",
@@ -381,17 +425,6 @@
     "link": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Altera",
-    "role": "FPGA IP Design Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
     "status": "open",
     "date_closed": null
   },
@@ -1701,6 +1734,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
     "date_posted": "2026-09-25",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intuit",
+    "role": "Software Developer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-20",
     "status": "open",
     "date_closed": null
   },
@@ -3070,17 +3114,6 @@
   },
   {
     "company": "RTX",
-    "role": "Data Analyst Intern - Spare Parts Services",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "RTX",
     "role": "Performance Indicator Development and Process and Project Management Internship",
     "location": "Longueuil, QC, Canada",
     "term": "Winter 2027",
@@ -3410,17 +3443,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "AI Developer Intern - Creative Technology",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
-    "date_posted": "2026-08-19",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kepler Communications",
     "role": "Embedded Software Engineer Intern - January 2027 - 4 months",
     "location": "Toronto, ON, Canada",
@@ -3459,17 +3481,6 @@
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
-    "date_posted": "2026-08-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Autodesk",
-    "role": "Software Developer Intern - Interactive Graphics, Media & Entertainment",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
     "date_posted": "2026-08-11",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4048,12 +4059,45 @@
     "date_closed": null
   },
   {
+    "company": "Altera",
+    "role": "FPGA IP Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "AI Developer Intern - Creative Technology",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
+    "date_posted": "2026-08-19",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
     "company": "Autodesk",
     "role": "Cloud Developer Intern - Fcap",
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
     "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Software Developer Intern - Interactive Graphics, Media & Entertainment",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
+    "date_posted": "2026-08-11",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-20"
@@ -4132,6 +4176,17 @@
     "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "RTX",
+    "role": "Data Analyst Intern - Spare Parts Services",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-donnes--Services-de-pices-de-rechange---Internship---Winter-2027---Data-Analyst--Spare-Parts-Services_01872182",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-20"
   },
