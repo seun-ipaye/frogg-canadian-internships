@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**372 open** · 139 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**371 open** · 140 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -212,7 +212,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Electronic Arts | Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222) | 2026-09-22 | Summer 2027 |
 | L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1432400300/?ats=successfactors) | 2026-09-22 | – |
 | TechInsights | Circuit Analysis Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/bKNlLKEsBR/Circuit-Analysis-Coop-Student-Winter-2027) | 2026-09-22 | Winter 2027 |
-| CAE | Integration Specialist Defense & Security Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963) | 2026-09-21 | – |
 | CAE | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | 2026-09-21 | – |
 | CAE | Software Developer Intern - Immersive | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1) | 2026-09-21 | – |
 | CAE | Software Developer Intern - Software | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688) | 2026-09-21 | – |
@@ -396,6 +395,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | NYC, Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-02-25 | – |
+| CAE | 🔒 Integration Specialist Defense & Security Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | Eaton | 🔒 C++ Developer Intern - Research & Development Engineering | Brossard, QC, Canada | 🔒 Closed | 2026-10-16 | – |
 | Entrust | 🔒 Software Developer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-07 | Winter 2027 |
 | Haven Studios | 🔒 Technical Design Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-29 | – |

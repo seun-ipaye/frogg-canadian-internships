@@ -2069,17 +2069,6 @@
   },
   {
     "company": "CAE",
-    "role": "Integration Specialist Defense & Security Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CAE",
     "role": "Software Developer Intern - Content Creation Tools",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
@@ -4090,6 +4079,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Integration Specialist Defense & Security Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
   },
   {
     "company": "Eaton",
