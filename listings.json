@@ -462,17 +462,6 @@
     "date_closed": null
   },
   {
-    "company": "Boeing",
-    "role": "Data Science Intern",
-    "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Embedded Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -3987,6 +3976,17 @@
     "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
     "term": "Winter 2027",
     "link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Boeing",
+    "role": "Data Science Intern",
+    "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
     "status": "closed",
