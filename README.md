@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**354 open** · 166 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**352 open** · 168 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -245,7 +245,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | L3Harris Technologies | FPGA Software Tool Developer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127100/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | Full Stack Developer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430129400/?ats=successfactors) | 2026-09-15 | – |
-| L3Harris Technologies | Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430128900/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430130200/?ats=successfactors) | 2026-09-15 | – |
 | Nokia | Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | 2026-09-15 | Winter 2027 |
 | Nokia | Incubation Developer Student Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968) | 2026-09-15 | – |
@@ -276,7 +275,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | 2026-09-10 | Winter 2027 |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428467500/?ats=successfactors) | 2026-09-10 | – |
 | L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428467800/?ats=successfactors) | 2026-09-10 | – |
-| L3Harris Technologies | Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428468700/?ats=successfactors) | 2026-09-10 | Summer 2027 |
 | GoMaterials | Data Quality Intern - Winter 2027 | Montreal, QC, Canada | [Apply](https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply) | 2026-09-09 | Winter 2027 |
 | Grass Valley | Software Development Intern - Core Platform | Montreal, QC, Canada | [Apply](https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C) | 2026-09-09 | Winter 2027 |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | 2026-09-09 | Summer 2027 |
@@ -386,6 +384,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ciena | 🔒 Modem Hardware Engineer Intern/Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-10 | Winter 2027 |
 | GeoSpectrum Technologies | 🔒 Software Developer Co-op | Dartmouth, NS, Canada | 🔒 Closed | 2026-10-20 | – |
 | Intel | 🔒 Compiler Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-15 | – |
+| L3Harris Technologies | 🔒 Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | Summer 2027 |
+| L3Harris Technologies | 🔒 Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | Nexthop.ai | 🔒 Software Engineer Intern | Burnaby, BC, Canada | 🔒 Closed | 2026-09-15 | – |
 | Picton Mahoney Asset Management | 🔒 Data Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | – |
 | Royal Bank of Canada | 🔒 Retail Risk Modeling Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | Winter 2027 |

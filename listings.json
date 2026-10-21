@@ -2435,17 +2435,6 @@
     "role": "Software Engineering Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430128900/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
@@ -2768,17 +2757,6 @@
     "link": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors",
     "date_posted": "2026-09-10",
     "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Electro-Optical Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-08",
     "status": "open",
     "date_closed": null
   },
@@ -3978,6 +3956,28 @@
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Electro-Optical Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors",
+    "date_posted": "2026-09-10",
+    "date_found": "2026-10-08",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430128900/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-21"
   },
