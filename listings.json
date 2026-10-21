@@ -33,17 +33,6 @@
     "date_closed": null
   },
   {
-    "company": "GeoSpectrum Technologies",
-    "role": "Software Developer Co-op",
-    "location": "Dartmouth, NS, Canada",
-    "term": "Unspecified",
-    "link": "https://geospectrum.bamboohr.com/careers/286/",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi",
     "role": "AI Intern Supply Chain",
     "location": "Toronto, ON, Canada",
@@ -3967,6 +3956,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
     "date_posted": "2026-09-10",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "GeoSpectrum Technologies",
+    "role": "Software Developer Co-op",
+    "location": "Dartmouth, NS, Canada",
+    "term": "Unspecified",
+    "link": "https://geospectrum.bamboohr.com/careers/286/",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
     "status": "closed",
     "date_closed": "2026-10-21"
   },
