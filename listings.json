@@ -55,17 +55,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Retail Risk Modeling Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Semtech",
     "role": "PCB Layout Intern",
     "location": "Burlington, ON, Canada",
@@ -2475,17 +2464,6 @@
     "date_closed": null
   },
   {
-    "company": "Nexthop.ai",
-    "role": "Software Engineer Intern",
-    "location": "Burnaby, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://nexthopai.bamboohr.com/careers/64/",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Hardware Engineer Co-op Intern - IP Routing",
     "location": "Ottawa, ON, Canada",
@@ -2601,17 +2579,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Armstrong Fluid Technology",
-    "role": "Test Engineering Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://armstrongfluidtechnology.bamboohr.com/careers/1001/",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3960,6 +3927,17 @@
     "date_closed": "2026-10-21"
   },
   {
+    "company": "Armstrong Fluid Technology",
+    "role": "Test Engineering Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://armstrongfluidtechnology.bamboohr.com/careers/1001/",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
     "company": "Boeing",
     "role": "Data Science Intern",
     "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
@@ -4004,11 +3982,33 @@
     "date_closed": "2026-10-21"
   },
   {
+    "company": "Nexthop.ai",
+    "role": "Software Engineer Intern",
+    "location": "Burnaby, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://nexthopai.bamboohr.com/careers/64/",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
     "company": "Picton Mahoney Asset Management",
     "role": "Data Engineer Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://pictonmahoney.bamboohr.com/careers/387/",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Retail Risk Modeling Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
     "status": "closed",
