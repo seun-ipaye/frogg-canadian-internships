@@ -1265,17 +1265,6 @@
     "date_closed": null
   },
   {
-    "company": "CAE",
-    "role": "Software Developer Co-op",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Hardware Design Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3443,17 +3432,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "AI Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
-    "date_posted": "2026-08-19",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kepler Communications",
     "role": "Embedded Software Engineer Intern - January 2027 - 4 months",
     "location": "Toronto, ON, Canada",
@@ -3487,17 +3465,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "Software Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
-    "date_posted": "2026-08-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "ResponsiveAds",
     "role": "Full-Stack Developer Intern - ResponsiveAds - Studio 4",
     "location": "Vancouver, BC, Canada",
@@ -3514,17 +3481,6 @@
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
-    "date_posted": "2026-08-07",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Autodesk",
-    "role": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
     "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4082,6 +4038,17 @@
   },
   {
     "company": "Autodesk",
+    "role": "AI Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-1",
+    "date_posted": "2026-08-19",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
     "role": "AI Developer Intern - Creative Technology",
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
@@ -4098,6 +4065,28 @@
     "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
     "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+    "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1",
+    "date_posted": "2026-08-11",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-20"
@@ -4132,6 +4121,17 @@
     "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963",
     "date_posted": "2026-09-21",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "CAE",
+    "role": "Software Developer Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-20"
   },
