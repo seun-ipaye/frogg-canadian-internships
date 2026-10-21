@@ -23,10 +23,32 @@
   },
   {
     "company": "CIBC",
+    "role": "AI and Quantum Scientist Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
     "role": "Analyst Co-op - Enterprise Data and Records",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Analyst Co-op - Enterprise Data and Records",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
     "status": "open",
@@ -99,11 +121,33 @@
     "date_closed": null
   },
   {
+    "company": "GeoSpectrum Technologies",
+    "role": "Software Developer Co-op",
+    "location": "Dartmouth, NS, Canada",
+    "term": "Unspecified",
+    "link": "https://geospectrum.bamboohr.com/careers/286/",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Hitachi",
     "role": "AI Intern Supply Chain",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Picton Mahoney Asset Management",
+    "role": "Data Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://pictonmahoney.bamboohr.com/careers/387/",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
     "status": "open",
@@ -1149,17 +1193,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Varian",
-    "role": "Software Developer Co-op",
-    "location": "Winnipeg, MB, Canada",
-    "term": "Unspecified",
-    "link": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142",
     "date_posted": "2026-10-07",
     "date_found": "2026-10-07",
     "status": "open",
@@ -2486,6 +2519,17 @@
     "date_closed": null
   },
   {
+    "company": "Nexthop.ai",
+    "role": "Software Engineer Intern",
+    "location": "Burnaby, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://nexthopai.bamboohr.com/careers/64/",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Nokia",
     "role": "Hardware Engineer Co-op Intern - IP Routing",
     "location": "Ottawa, ON, Canada",
@@ -2856,6 +2900,17 @@
     "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Analyst Co-op Student - Product Information Management",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Analyst--Product-Information-Management---Co-op-Student_R2000697260-1",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-21",
     "status": "open",
     "date_closed": null
   },
@@ -3982,17 +4037,6 @@
     "date_closed": "2026-10-21"
   },
   {
-    "company": "GeoSpectrum Technologies",
-    "role": "Software Developer Co-op",
-    "location": "Dartmouth, NS, Canada",
-    "term": "Unspecified",
-    "link": "https://geospectrum.bamboohr.com/careers/286/",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
     "company": "Intel",
     "role": "Compiler Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4026,28 +4070,6 @@
     "date_closed": "2026-10-21"
   },
   {
-    "company": "Nexthop.ai",
-    "role": "Software Engineer Intern",
-    "location": "Burnaby, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://nexthopai.bamboohr.com/careers/64/",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Picton Mahoney Asset Management",
-    "role": "Data Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://pictonmahoney.bamboohr.com/careers/387/",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
     "company": "Royal Bank of Canada",
     "role": "Retail Risk Modeling Analyst Intern",
     "location": "Toronto, ON, Canada",
@@ -4077,6 +4099,17 @@
     "link": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Varian",
+    "role": "Software Developer Co-op",
+    "location": "Winnipeg, MB, Canada",
+    "term": "Unspecified",
+    "link": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-21"
   },
