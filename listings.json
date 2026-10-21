@@ -1353,17 +1353,6 @@
     "date_closed": null
   },
   {
-    "company": "AltaGas",
-    "role": "Digital Intern - NextGen AI & Data",
-    "location": "Calgary, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi Energy",
     "role": "Electrical Component Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -2816,17 +2805,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Modem Hardware Engineer Intern/Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Geotab",
     "role": "Embedded Developer Intern - Engine Data Reliability",
     "location": "Oakville, ON, Canada",
@@ -3982,6 +3960,17 @@
     "date_closed": null
   },
   {
+    "company": "AltaGas",
+    "role": "Digital Intern - NextGen AI & Data",
+    "location": "Calgary, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
     "company": "Anthropic",
     "role": "Anthropic Fellows Program - AI Safety",
     "location": "London, UK; SF; Ontario, Canada; Berkeley, CA; United States",
@@ -4000,6 +3989,17 @@
     "link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Ciena",
+    "role": "Modem Hardware Engineer Intern/Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
+    "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-21"
   },
