@@ -2343,17 +2343,6 @@
     "date_closed": null
   },
   {
-    "company": "Definity Financial",
-    "role": "Technology Solutions Co-op Intern - Data Platform & Engineering",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "DoorDash",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -3933,6 +3922,17 @@
     "term": "Winter 2027",
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
     "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Definity Financial",
+    "role": "Technology Solutions Co-op Intern - Data Platform & Engineering",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324",
+    "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-21"
