@@ -1,10 +1,76 @@
 [
   {
+    "company": "Bank of Montreal",
+    "role": "Data & AI Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "AI and Quantum Scientist Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Analyst Co-op - Enterprise Data and Records",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Product Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
     "role": "Business Strategy & Product Management Intern - AI",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Display Systems Engineer Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721661677",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721661830",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
     "status": "open",
@@ -3223,17 +3289,6 @@
     "date_closed": null
   },
   {
-    "company": "Trane Technologies",
-    "role": "AI Intern - AI Product Management - AI Controls Integration",
-    "location": "Montreal, QC, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "AMI",
     "role": "Computer Vision Scientist Intern - Geometry and 3D Vision",
     "location": "Montreal, QC, Canada; Paris, France; NYC",
@@ -4010,6 +4065,17 @@
     "term": "Unspecified",
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
     "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Trane Technologies",
+    "role": "AI Intern - AI Product Management - AI Controls Integration",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
+    "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-21"
