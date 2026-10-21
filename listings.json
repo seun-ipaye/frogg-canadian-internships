@@ -1518,17 +1518,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "Software Development Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Intel",
     "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -3476,28 +3465,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "Cloud Developer Intern - Fcap",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
-    "date_posted": "2026-08-07",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Autodesk",
-    "role": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
-    "date_posted": "2026-08-07",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Epic Games",
     "role": "Machine Learning Intern",
     "location": "Canada; United Kingdom; United States",
@@ -4063,6 +4030,17 @@
     "role": "Cloud Developer Intern - Fcap",
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2",
+    "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Cloud Developer Intern - Fcap",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1",
     "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
@@ -4075,6 +4053,17 @@
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400",
+    "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3",
     "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
     "status": "closed",
@@ -4109,6 +4098,17 @@
     "term": "Winter 2027",
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
     "date_posted": "2026-08-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-20"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Software Development Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
+    "date_posted": "2026-10-01",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-20"
