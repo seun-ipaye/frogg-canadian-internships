@@ -473,17 +473,6 @@
     "date_closed": null
   },
   {
-    "company": "Intel",
-    "role": "Compiler Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Interac",
     "role": "Product Intern - Money Movement",
     "location": "Toronto, ON, Canada",
@@ -4000,6 +3989,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
     "date_posted": "2026-09-10",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-21"
+  },
+  {
+    "company": "Intel",
+    "role": "Compiler Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-10-21"
   },
