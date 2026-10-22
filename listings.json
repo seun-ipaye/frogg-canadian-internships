@@ -1,10 +1,153 @@
 [
   {
+    "company": "1Password",
+    "role": "Developer Intern - Extension Excellence",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Front-End Platform",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Machine Identity",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Provisioning",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Vault Team",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aon",
+    "role": "Actuarial Intern - Client Consulting",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.aon.com/jobs/106879?icims=1",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP Certification Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Certification Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Linux Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Linux Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "BC Pensions",
+    "role": "Junior Information Management Analyst Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CIBC",
     "role": "Machine Learning Engineer Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Software Developer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intel",
+    "role": "Compiler Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "open",
@@ -34,6 +177,17 @@
   },
   {
     "company": "Qualcomm",
+    "role": "AI and DSP Applications Engineer Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721686396",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
     "role": "Applied AI Engineering Intern - Hardware Systems",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
@@ -49,6 +203,28 @@
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Synopsys",
+    "role": "Technical-Engineering Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://synopsys.avature.net/careers/JobDetail/19182",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Veeda AI",
+    "role": "Software Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "open",
@@ -2129,6 +2305,17 @@
     "term": "Unspecified",
     "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708",
     "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Software/Application Developer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
+    "date_posted": "2026-09-22",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -5443,17 +5630,6 @@
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-13"
-  },
-  {
-    "company": "CIBC",
-    "role": "Software/Application Developer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-12"
   },
   {
     "company": "Motorola",

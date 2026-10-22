@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**362 open** · 178 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**379 open** · 177 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,11 +24,27 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| 1Password | Developer Intern - Extension Excellence | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true) | 2026-10-22 | Winter 2027 |
+| 1Password | Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | 2026-10-22 | Winter 2027 |
+| 1Password | Developer Intern - Machine Identity | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true) | 2026-10-22 | Winter 2027 |
+| 1Password | Developer Intern - Provisioning | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true) | 2026-10-22 | Winter 2027 |
+| 1Password | Developer Intern - Vault Team | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true) | 2026-10-22 | Winter 2027 |
+| Aon | Actuarial Intern - Client Consulting | Toronto, ON, Canada | [Apply](https://jobs.aon.com/jobs/106879?icims=1) | 2026-10-22 | Winter 2027 |
+| Aptiv | HVP Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) | 2026-10-22 | – |
+| Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) | 2026-10-22 | – |
+| Aptiv | Linux Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | 2026-10-22 | – |
+| Aptiv | Linux Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) | 2026-10-22 | – |
+| BC Pensions | Junior Information Management Analyst Co-op | Victoria, BC, Canada | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229) | 2026-10-22 | Winter 2027 |
 | CIBC | Machine Learning Engineer Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | 2026-10-22 | – |
+| Ciena | Software Developer Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) | 2026-10-22 | Winter 2027 |
+| Intel | Compiler Engineering Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | 2026-10-22 | – |
 | Kensington | Marketing Analytics Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) | 2026-10-22 | – |
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false) | 2026-10-22 | Winter 2027 |
+| Qualcomm | AI and DSP Applications Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) | 2026-10-22 | Summer 2027 |
+| Synopsys | Technical-Engineering Intern | Markham, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19182) | 2026-10-22 | Summer 2027 |
+| Veeda AI | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | 2026-10-22 | – |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | 2026-10-21 | – |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | 2026-10-21 | – |
 | CIBC | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) | 2026-10-21 | – |
@@ -218,6 +234,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Mackenzie Investments | Intern | Toronto, ON, Canada | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false) | 2026-09-23 | Winter 2027 |
 | Qualcomm | Firmware Development Intern - PAL | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) | 2026-09-23 | Summer 2027 |
 | Teledyne | Industrialization and Statistical Analysis Intern | Bromont, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708) | 2026-09-23 | – |
+| CIBC | Software/Application Developer Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) | 2026-09-22 | Winter 2027 |
 | Danaher | Hardware Engineer Co-op | Concord, Vaughan, ON, Canada | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537) | 2026-09-22 | – |
 | Electronic Arts | AI Engineer Intern - Creative Innovations - Character Pipelines | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236) | 2026-09-22 | – |
 | Electronic Arts | Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222) | 2026-09-22 | Summer 2027 |
@@ -519,7 +536,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Sun Life | 🔒 Data Analyst Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Sun Life | 🔒 Student Associate Software Engineer Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Fall 2026 |
 | Zip | 🔒 Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-08-25 | Winter 2027 |
-| CIBC | 🔒 Software/Application Developer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-22 | Winter 2027 |
 | Motorola | 🔒 Design Validation Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | – |
 | Motorola | 🔒 Software Developer – Embedded Appliances Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-07 | – |
 | RBC | 🔒 2027 CFO Winter Process Re-Engineering Intern (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | – |
