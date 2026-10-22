@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**363 open** · 172 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**366 open** · 173 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,7 +24,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
-| Qualcomm | Camera Design Implementation Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721664170) | 2026-10-22 | Summer 2027 |
+| Kensington | Marketing Analytics Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) | 2026-10-22 | – |
+| Nutanix | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false) | 2026-10-22 | Winter 2027 |
+| Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) | 2026-10-22 | Summer 2027 |
+| Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) | 2026-10-22 | Summer 2027 |
 | Bank of Montreal | Data & AI Analyst Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | 2026-10-21 | Winter 2027 |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | 2026-10-21 | – |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | 2026-10-21 | – |
@@ -390,6 +393,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AltaGas | 🔒 Data Analytics & Process Automation Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | CAE | 🔒 Software Developer Intern - Immersive | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | Qualcomm | 🔒 Applied AI Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
+| Qualcomm | 🔒 Camera Design Implementation Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | AltaGas | 🔒 Digital Intern - NextGen AI & Data | Calgary, AB, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Anthropic | 🔒 Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | 🔒 Closed | 2026-04-10 | – |
 | Armstrong Fluid Technology | 🔒 Test Engineering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-11 | – |

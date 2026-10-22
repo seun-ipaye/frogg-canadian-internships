@@ -1,12 +1,45 @@
 [
   {
+    "company": "Kensington",
+    "role": "Marketing Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Nutanix",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Applied AI Engineering Intern - Hardware Systems",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Qualcomm",
     "role": "Camera Design Implementation Intern",
-    "location": "Markham, ON, Canada",
+    "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721664170",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721678727",
     "date_posted": "2026-10-22",
-    "date_found": "2026-10-21",
+    "date_found": "2026-10-22",
     "status": "open",
     "date_closed": null
   },
@@ -4020,6 +4053,17 @@
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721664194",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-10-22"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Camera Design Implementation Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721664170",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-21",
     "status": "closed",
