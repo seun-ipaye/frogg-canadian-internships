@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**364 open** · 176 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**363 open** · 177 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -293,7 +293,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kinaxis | Developer Intern - AI Solutions | Ottawa, ON, Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | 2026-09-09 | Winter 2027 |
 | Pomerleau | GIS Data Analyst Intern | Montreal, QC, Canada, Québec City, QC, Canada | [Apply](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695) | 2026-09-09 | – |
 | Bird Construction | Business Intelligence Student | Winnipeg, MB, Canada, Calgary, AB, Canada, Edmonton, AB, Canada +1 more | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) | 2026-09-08 | – |
-| Loblaw Companies | Analyst Co-op Student - Product Information Management | Toronto, ON, Canada | [Apply](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/500-Lake-Shore-Blvd-W-Toronto-ON/Analyst--Product-Information-Management---Co-op-Student_R2000697260-1) | 2026-09-08 | Winter 2027 |
 | Brave | Software Engineer Intern - Waterloo University | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8161945) | 2026-09-04 | Fall 2026 |
 | Bree | Software Engineer Co-op - Backend | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true) | 2026-09-04 | Winter 2027 |
 | Bree | Software Engineer Co-op - Product | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true) | 2026-09-04 | Winter 2027 |
@@ -393,6 +392,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CAE | 🔒 Software Developer Intern - Immersive | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | Hewlett Packard Enterprise | 🔒 Software Development Intern - AI-Assisted Development | Saint-Laurent, Montreal, QC, Canada | 🔒 Closed | 2026-10-21 | Summer 2027 |
 | Hewlett Packard Enterprise | 🔒 Software Development Intern - AI-Assisted Development | Saint-Laurent, Montreal, QC, Canada | 🔒 Closed | 2026-10-21 | Summer 2027 |
+| Loblaw Companies | 🔒 Analyst Co-op Student - Product Information Management | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
 | Qualcomm | 🔒 Applied AI Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | Qualcomm | 🔒 Camera Design Implementation Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | AltaGas | 🔒 Digital Intern - NextGen AI & Data | Calgary, AB, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
