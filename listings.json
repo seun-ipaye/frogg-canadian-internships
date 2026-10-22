@@ -55,17 +55,6 @@
     "date_closed": null
   },
   {
-    "company": "Bank of Montreal",
-    "role": "Data & AI Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "AI and Quantum Scientist Co-op",
     "location": "Toronto, ON, Canada",
@@ -4022,6 +4011,17 @@
     "link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/XMLNAME-2027-Data-Analytics---AltaGas---2027-Process-Automation-Co-op-Student_R7321-1",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-10-22"
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Data & AI Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
     "status": "closed",
     "date_closed": "2026-10-22"
   },
