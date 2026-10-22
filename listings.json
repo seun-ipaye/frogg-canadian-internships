@@ -132,6 +132,17 @@
     "date_closed": null
   },
   {
+    "company": "CIBC",
+    "role": "Machine Learning Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Ciena",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -214,6 +225,17 @@
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
     "link": "https://synopsys.avature.net/careers/JobDetail/19182",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada; Canada",
+    "term": "Unspecified",
+    "link": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "open",
@@ -3219,6 +3241,17 @@
     "link": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false",
     "date_posted": "2026-09-04",
     "date_found": "2026-10-07",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer & IT Specialist Co-op - Global Asset Management",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-22",
     "status": "open",
     "date_closed": null
   },
