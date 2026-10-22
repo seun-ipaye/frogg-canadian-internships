@@ -1,17 +1,6 @@
 [
   {
     "company": "Qualcomm",
-    "role": "Applied AI Engineer Intern",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721664194",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Qualcomm",
     "role": "Camera Design Implementation Intern",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -4022,6 +4011,17 @@
     "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1",
     "date_posted": "2026-09-21",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-22"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Applied AI Engineer Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721664194",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-21",
     "status": "closed",
     "date_closed": "2026-10-22"
   },

@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**364 open** · 171 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**363 open** · 172 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,7 +24,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
-| Qualcomm | Applied AI Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721664194) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Camera Design Implementation Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721664170) | 2026-10-22 | Summer 2027 |
 | Bank of Montreal | Data & AI Analyst Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651) | 2026-10-21 | Winter 2027 |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | 2026-10-21 | – |
@@ -390,6 +389,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | NYC, Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-02-25 | – |
 | AltaGas | 🔒 Data Analytics & Process Automation Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | CAE | 🔒 Software Developer Intern - Immersive | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
+| Qualcomm | 🔒 Applied AI Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | AltaGas | 🔒 Digital Intern - NextGen AI & Data | Calgary, AB, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | Anthropic | 🔒 Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | 🔒 Closed | 2026-04-10 | – |
 | Armstrong Fluid Technology | 🔒 Test Engineering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-11 | – |
