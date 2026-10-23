@@ -429,6 +429,17 @@
     "date_closed": null
   },
   {
+    "company": "Astera Labs",
+    "role": "Firmware Engineer Co-op Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Interac",
     "role": "Business Systems & AI Intern",
     "location": "Toronto, ON, Canada",
@@ -539,11 +550,33 @@
     "date_closed": null
   },
   {
+    "company": "Electronic Arts",
+    "role": "Technical Artist Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Pebl",
     "role": "Software Engineering Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
     "status": "open",
@@ -557,6 +590,127 @@
     "link": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Engineering Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Cert Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Cert Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Certification Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-13",
     "status": "open",
     "date_closed": null
   },
@@ -627,6 +781,17 @@
     "date_closed": null
   },
   {
+    "company": "Magnet Forensics",
+    "role": "Software Developer Co-op",
+    "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply",
+    "date_posted": "2026-10-10",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Electronic Arts",
     "role": "C++ Software Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -649,6 +814,28 @@
     "date_closed": null
   },
   {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Elk Valley Resources",
     "role": "Business Administration Co-op - Maintenance Excellence",
     "location": "Sparwood, BC, Canada",
@@ -660,11 +847,66 @@
     "date_closed": null
   },
   {
+    "company": "Workday",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Workday",
+    "role": "Product Manager Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Workday",
+    "role": "Software Development Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Manulife Financial",
     "role": "Grit Intern",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Product Management & Risk Technology Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875",
     "date_posted": "2026-10-08",
     "date_found": "2026-10-08",
     "status": "open",
@@ -3477,83 +3719,6 @@
   },
   {
     "company": "Aptiv",
-    "role": "Cloud Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Cloud Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Cloud Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Cloud Software Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Cloud Software Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Engineering Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
     "role": "HVP Certification Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
@@ -3565,45 +3730,12 @@
   },
   {
     "company": "Aptiv",
-    "role": "HVP/Cert Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "HVP/Cert Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
     "role": "HVP/Certification Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "HVP/Certification Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3626,28 +3758,6 @@
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Aptiv",
-    "role": "Software Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Astera Labs",
-    "role": "Firmware Engineer Co-op Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-13",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3818,28 +3928,6 @@
   },
   {
     "company": "Electronic Arts",
-    "role": "Software Engineer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Electronic Arts",
-    "role": "Software Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Electronic Arts",
     "role": "Software Engineer Intern",
     "location": "Vancouver, BC, Canada",
     "term": "Unspecified",
@@ -3861,17 +3949,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Electronic Arts",
-    "role": "Technical Artist Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
-    "date_posted": "2026-10-13",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Epic Games",
     "role": "Machine Learning Intern",
     "location": "Canada; United Kingdom; United States",
@@ -3879,17 +3956,6 @@
     "link": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
     "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Equitable Bank",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4026,17 +4092,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Magnet Forensics",
-    "role": "Software Developer Co-op",
-    "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply",
-    "date_posted": "2026-10-10",
-    "date_found": "2026-10-09",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Manulife Financial",
     "role": "AI Co-op",
     "location": "Toronto, ON, Canada",
@@ -4044,17 +4099,6 @@
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Manulife Financial",
-    "role": "Product Management & Risk Technology Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4238,17 +4282,6 @@
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
-    "date_posted": "2026-10-13",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "SOTI",
-    "role": "Software Developer Intern",
-    "location": "Mississauga, ON, Canada",
     "term": "Unspecified",
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
     "date_posted": "2026-10-20",
@@ -4319,39 +4352,6 @@
     "link": "https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Workday",
-    "role": "Machine Learning Engineer Intern",
-    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Workday",
-    "role": "Product Manager Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Workday",
-    "role": "Software Development Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
