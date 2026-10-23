@@ -385,11 +385,44 @@
     "date_closed": null
   },
   {
+    "company": "BC Pensions",
+    "role": "Application Developer Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Moment Energy",
+    "role": "Test Engineering Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4455115009",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Ciena",
     "role": "Embedded Software Developer Intern",
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intel",
+    "role": "Compiler Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
     "status": "open",
@@ -412,6 +445,17 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TechInsights",
+    "role": "Software Development Co-op Student",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
     "status": "open",
@@ -451,11 +495,44 @@
     "date_closed": null
   },
   {
+    "company": "Interac",
+    "role": "Payments Product Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Interac",
+    "role": "Technical Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kensington",
     "role": "Analytics Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Later",
+    "role": "Data Science Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
     "status": "open",
@@ -524,6 +601,17 @@
     "link": "https://bnc.avature.net/en_CA/careers/JobDetail/36110",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Systems Intern - Multiple Teams",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
     "status": "open",
     "date_closed": null
   },
@@ -3774,17 +3862,6 @@
   },
   {
     "company": "BC Pensions",
-    "role": "Application Developer Co-op",
-    "location": "Victoria, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-15",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "BC Pensions",
     "role": "Junior Information Management Analyst Co-op",
     "location": "Victoria, BC, Canada",
     "term": "Winter 2027",
@@ -3994,45 +4071,12 @@
   },
   {
     "company": "Intel",
-    "role": "Compiler Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Intel",
     "role": "Compiler Engineering Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Interac",
-    "role": "Payments Product Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-15",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Interac",
-    "role": "Technical Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4081,17 +4125,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Later",
-    "role": "Data Science Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-14",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Manulife Financial",
     "role": "AI Co-op",
     "location": "Toronto, ON, Canada",
@@ -4110,17 +4143,6 @@
     "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Moment Energy",
-    "role": "Test Engineering Co-op",
-    "location": "Surrey, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4455115009",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4319,28 +4341,6 @@
     "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "TechInsights",
-    "role": "Software Development Co-op Student",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Tenstorrent",
-    "role": "Systems Intern - Multiple Teams",
-    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-14",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
