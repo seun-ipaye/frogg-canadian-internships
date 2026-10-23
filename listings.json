@@ -3357,17 +3357,6 @@
   {
     "company": "Geotab",
     "role": "Software Developer Intern",
-    "location": "Toronto, ON, Canada; Oakville, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Geotab",
-    "role": "Software Developer Intern",
     "location": "Oakville, ON, Canada; Waterloo, ON, Canada",
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
@@ -4329,6 +4318,17 @@
     "term": "Summer 2027",
     "link": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
     "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Geotab",
+    "role": "Software Developer Intern",
+    "location": "Toronto, ON, Canada; Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008",
+    "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
