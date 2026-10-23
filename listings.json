@@ -2013,17 +2013,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Hardware Design and Verification Intern - PCBA",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "AI Engineer Intern - AI Platform",
     "location": "Vancouver, BC, Canada",
@@ -4286,6 +4275,17 @@
     "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ottawa-150-Elgin-St-Corp/Canada-Indigenous--FNIM--Technology-Apprenticeship-Program_R00362767",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Design and Verification Intern - PCBA",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
