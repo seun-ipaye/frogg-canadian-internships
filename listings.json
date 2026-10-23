@@ -770,6 +770,28 @@
     "date_closed": null
   },
   {
+    "company": "Hitachi Energy",
+    "role": "Electrical Component Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Lumentum",
+    "role": "Embedded Software Developer Co-op - Optical Circuit Switch",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Semtech",
     "role": "Software Developer Co-op - Web/Cloud Application",
     "location": "Richmond, BC, Canada",
@@ -781,11 +803,77 @@
     "date_closed": null
   },
   {
+    "company": "SOTI",
+    "role": "Data Scientist Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Definity Financial",
+    "role": "Operations Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Hitachi Energy",
+    "role": "Hardware Test Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intel",
+    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kinaxis",
     "role": "AI/ML Researcher Intern",
     "location": "Remote in Canada",
     "term": "Winter 2027",
     "link": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
     "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "open",
@@ -814,6 +902,50 @@
     "date_closed": null
   },
   {
+    "company": "Solink",
+    "role": "Software Engineer Co-op - Agents",
+    "location": "Ottawa, ON, Canada; Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intel",
+    "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "ALM Data Management & Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "IC Validation Engineer Intern Co-op - BS/MS",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Pinterest",
     "role": "Machine Learning Intern",
     "location": "Toronto, ON, Canada",
@@ -831,6 +963,61 @@
     "term": "Unspecified",
     "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
     "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Stripe",
+    "role": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Stripe",
+    "role": "Data Scientist Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Foresters Financial",
+    "role": "Software Engineer Co-op - AI",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Manufacturing Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Manufacturing Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors",
+    "date_posted": "2026-09-30",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -2805,6 +2992,17 @@
     "date_closed": null
   },
   {
+    "company": "Ribbon",
+    "role": "UI Engineer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965",
+    "date_posted": "2026-06-30",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Marvell",
     "role": "Analog Engineer Intern - PhD",
     "location": "Toronto, ON, Canada",
@@ -3487,17 +3685,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Definity Financial",
-    "role": "Operations Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Electronic Arts",
     "role": "AI/ML Software Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -3597,17 +3784,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Foresters Financial",
-    "role": "Software Engineer Co-op - AI",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "GoMaterials",
     "role": "Data Quality Intern - Winter 2027",
     "location": "Montreal, QC, Canada",
@@ -3631,33 +3807,11 @@
   },
   {
     "company": "Hitachi Energy",
-    "role": "Electrical Component Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Hitachi Energy",
     "role": "Electrical Component Engineering Intern",
     "location": "Toronto, ON, Canada",
     "term": "Fall 2026",
     "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
     "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Hitachi Energy",
-    "role": "Hardware Test Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
-    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3681,28 +3835,6 @@
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Intel",
-    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Intel",
-    "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3773,28 +3905,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "L3Harris Technologies",
-    "role": "Manufacturing Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Manufacturing Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Later",
     "role": "Data Science Co-op",
     "location": "Vancouver, BC, Canada",
@@ -3802,17 +3912,6 @@
     "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Lumentum",
-    "role": "Embedded Software Developer Co-op - Optical Circuit Switch",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3851,17 +3950,6 @@
   },
   {
     "company": "Manulife Financial",
-    "role": "ALM Data Management & Analytics Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Manulife Financial",
     "role": "Product Management & Risk Technology Intern",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -3879,39 +3967,6 @@
     "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Marvell",
-    "role": "IC Validation Engineer Intern Co-op - BS/MS",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4126,32 +4181,10 @@
   },
   {
     "company": "Solink",
-    "role": "Software Engineer Co-op - Agents",
-    "location": "Ottawa, ON, Canada; Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Solink",
     "role": "Software Engineer Co-op - Apps",
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "SOTI",
-    "role": "Data Scientist Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "closed",
@@ -4176,28 +4209,6 @@
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Stripe",
-    "role": "Data Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://stripe.com/jobs/search?gh_jid=8194287",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Stripe",
-    "role": "Data Scientist Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://stripe.com/jobs/search?gh_jid=8194285",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
