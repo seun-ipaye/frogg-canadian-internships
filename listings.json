@@ -99,17 +99,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Machine Learning Engineer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -258,17 +247,6 @@
     "location": "Dartmouth, NS, Canada",
     "term": "Unspecified",
     "link": "https://geospectrum.bamboohr.com/careers/286/",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Hitachi",
-    "role": "AI Intern Supply Chain",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
     "status": "open",
@@ -803,17 +781,6 @@
     "date_closed": null
   },
   {
-    "company": "Hitachi Energy",
-    "role": "Hardware Test Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "AI/ML Researcher Intern",
     "location": "Remote in Canada",
@@ -902,6 +869,83 @@
     "date_closed": null
   },
   {
+    "company": "L3Harris Technologies",
+    "role": "Systems Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Lumentum",
+    "role": "Reliability Test Automation Engineer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Signal Integrity Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Fall 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Silicon Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721302528",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Soft IP ASIC Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721302471",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Moment Energy",
+    "role": "Data Scientist Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4421775009",
+    "date_posted": "2026-09-26",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Acuity",
+    "role": "Firmware Development Intern",
+    "location": "Brossard, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Ciena",
     "role": "Hardware Design and Verification Intern - PCBA",
     "location": "Ottawa, ON, Canada",
@@ -958,10 +1002,43 @@
   },
   {
     "company": "Marvell",
+    "role": "Analog and Mixed Signal Layout Engineer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Design Intern Co-op - BS",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
     "role": "Analog Design Intern Co-op - Master’s",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1024,6 +1101,17 @@
   },
   {
     "company": "Semtech",
+    "role": "Applications Engineering Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Semtech",
     "role": "Digital IC Design Engineering Intern - Signal Integrity Products Group",
     "location": "Burlington, ON, Canada",
     "term": "Unspecified",
@@ -1061,6 +1149,17 @@
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/IC-Packaging-Design-Intern_REQ3619",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Semtech",
+    "role": "Validation Engineering Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3014,17 +3113,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Acuity",
-    "role": "Firmware Development Intern",
-    "location": "Brossard, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Aptiv",
     "role": "Cloud Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -3355,6 +3443,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "CIBC",
+    "role": "Machine Learning Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Ciena",
     "role": "Services Business Intelligence & Analytics Intern",
     "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
@@ -3520,6 +3619,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Hitachi",
+    "role": "AI Intern Supply Chain",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Hitachi Energy",
     "role": "Electrical Component Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -3537,6 +3647,17 @@
     "term": "Fall 2026",
     "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
     "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Hitachi Energy",
+    "role": "Hardware Test Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3674,17 +3795,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "L3Harris Technologies",
-    "role": "Systems Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Later",
     "role": "Data Science Co-op",
     "location": "Vancouver, BC, Canada",
@@ -3774,39 +3884,6 @@
   },
   {
     "company": "Marvell",
-    "role": "Analog and Mixed Signal Layout Engineer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Marvell",
-    "role": "Analog Design Intern Co-op - BS",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Marvell",
-    "role": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Marvell",
     "role": "Firmware Engineer Intern",
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
@@ -3846,17 +3923,6 @@
     "link": "https://apply.workable.com/mistywest/j/5D68DE0118/apply",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Moment Energy",
-    "role": "Data Scientist Co-op",
-    "location": "Surrey, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4421775009",
-    "date_posted": "2026-09-26",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4048,28 +4114,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Qualcomm",
-    "role": "Soft IP ASIC Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721302471",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Semtech",
-    "role": "Applications Engineering Intern",
-    "location": "Burlington, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Semtech",
     "role": "PCB Layout Intern",
     "location": "Burlington, ON, Canada",
@@ -4077,17 +4121,6 @@
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Semtech",
-    "role": "Validation Engineering Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
