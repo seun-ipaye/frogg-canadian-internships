@@ -111,17 +111,6 @@
   },
   {
     "company": "Aptiv",
-    "role": "Linux Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
     "role": "Linux Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
@@ -236,17 +225,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
-    "role": "Business Strategy & Product Management Intern - AI",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
     "status": "open",
@@ -368,17 +346,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Ciena",
-    "role": "Services Business Intelligence & Analytics Intern",
-    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
     "status": "open",
@@ -627,17 +594,6 @@
     "date_closed": null
   },
   {
-    "company": "SOTI",
-    "role": "Software Developer Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
-    "date_posted": "2026-10-13",
-    "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "1Password",
     "role": "Data Intern - Product Analytics",
     "location": "Remote in USA; Remote in Canada",
@@ -654,17 +610,6 @@
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
-    "role": "HVP/Cert Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
     "status": "open",
@@ -1606,12 +1551,23 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
+    "company": "Amazon",
+    "role": "Machine Learning Systems Software Development Engineer Intern - Annapurna Labs",
+    "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
-    "date_posted": "2026-09-14",
+    "link": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Definity Financial",
+    "role": "Business Intelligence Co-op",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
+    "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -1622,6 +1578,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Lyft",
+    "role": "Data Science Intern - Algorithms",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1705,6 +1672,17 @@
     "date_closed": null
   },
   {
+    "company": "Qualcomm",
+    "role": "Machine Learning Compiler & Performance Engineering Intern - Systems",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721064018",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Exegy",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -1722,6 +1700,17 @@
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
     "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Grass Valley",
+    "role": "Software Development Intern - Core Platform",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C",
+    "date_posted": "2026-09-09",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -1755,6 +1744,17 @@
     "term": "Unspecified",
     "link": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3695",
     "date_posted": "2026-09-09",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bird Construction",
+    "role": "Business Intelligence Student",
+    "location": "Winnipeg, MB, Canada; Calgary, AB, Canada; Edmonton, AB, Canada; Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
+    "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -2860,17 +2860,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Amazon",
-    "role": "Machine Learning Systems Software Development Engineer Intern - Annapurna Labs",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Apera AI",
     "role": "Machine Learning Applied Scientist Co-op",
     "location": "Vancouver, BC, Canada",
@@ -2970,6 +2959,28 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Aptiv",
+    "role": "HVP/Cert Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
+    "role": "Linux Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Astera Labs",
     "role": "Firmware Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -3042,17 +3053,6 @@
     "term": "Unspecified",
     "link": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080",
     "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Bird Construction",
-    "role": "Business Intelligence Student",
-    "location": "Winnipeg, MB, Canada; Calgary, AB, Canada; Edmonton, AB, Canada; Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
-    "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3157,6 +3157,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Ciena",
+    "role": "Services Business Intelligence & Analytics Intern",
+    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Citco",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -3164,17 +3175,6 @@
     "link": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Definity Financial",
-    "role": "Business Intelligence Co-op",
-    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3372,17 +3372,6 @@
     "term": "Unspecified",
     "link": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
     "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Grass Valley",
-    "role": "Software Development Intern - Core Platform",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://grassvalley.applytojob.com/apply/r0V942NWEh/Stagiaire-Dveloppement-De-Logiciel-C-Intern-Software-Development-C",
-    "date_posted": "2026-09-09",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3630,17 +3619,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Lyft",
-    "role": "Data Science Intern - Algorithms",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Magnet Forensics",
     "role": "Software Developer Co-op",
     "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
@@ -3685,6 +3663,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
+    "role": "Business Strategy & Product Management Intern - AI",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Marvell",
     "role": "Analog and Mixed Signal Layout Engineer Intern Co-op",
     "location": "Toronto, ON, Canada",
@@ -3702,6 +3691,17 @@
     "term": "Unspecified",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
     "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Marvell",
+    "role": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
+    "date_posted": "2026-09-14",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3961,17 +3961,6 @@
   },
   {
     "company": "Qualcomm",
-    "role": "Machine Learning Compiler & Performance Engineering Intern - Systems",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721064018",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Qualcomm",
     "role": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
@@ -4088,6 +4077,17 @@
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
