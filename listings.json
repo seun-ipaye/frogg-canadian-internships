@@ -606,17 +606,6 @@
   },
   {
     "company": "Aptiv",
-    "role": "Cloud Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
     "role": "HVP/Cert Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
@@ -634,17 +623,6 @@
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
-    "role": "Software Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-13",
     "status": "open",
     "date_closed": null
   },
@@ -777,17 +755,6 @@
     "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
     "date_posted": "2026-10-08",
     "date_found": "2026-10-08",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Autodesk",
-    "role": "Research Intern - AI Research",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
   },
@@ -946,17 +913,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Montreal Institute for Learning Algorithms",
     "role": "AI Safety Research Intern - AI Safety",
     "location": "Montreal, QC, Canada",
@@ -996,17 +952,6 @@
     "term": "Unspecified",
     "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
     "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Foresters Financial",
-    "role": "Software Engineer Co-op - AI",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
-    "date_posted": "2026-09-30",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -1243,17 +1188,6 @@
     "date_closed": null
   },
   {
-    "company": "Entrust",
-    "role": "Software Development Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Mackenzie Investments",
     "role": "Intern",
     "location": "Toronto, ON, Canada",
@@ -1441,6 +1375,39 @@
     "date_closed": null
   },
   {
+    "company": "Apera AI",
+    "role": "Machine Learning Applied Scientist Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Apera AI",
+    "role": "Software Developer Co-op - Full Stack",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Brookfield",
+    "role": "Business Management Intern - Tech & Data",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern_R2052618-1",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Farm Credit Canada",
     "role": "Data Analyst Student - Business Reporting",
     "location": "Regina, SK, Canada",
@@ -1496,6 +1463,83 @@
     "date_closed": null
   },
   {
+    "company": "Equitable Bank",
+    "role": "Credit Risk Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Data Scientist Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "FPGA Designer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "FPGA Software Tool Developer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Full Stack Developer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Nokia",
     "role": "Hardware Engineer Co-op Intern - IP Routing",
     "location": "Ottawa, ON, Canada",
@@ -1514,6 +1558,28 @@
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721109229",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Sensors Subsystem Engineering Intern - Multiple Teams",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721109168",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-23",
     "status": "open",
     "date_closed": null
   },
@@ -1540,11 +1606,55 @@
     "date_closed": null
   },
   {
+    "company": "Equitable Bank",
+    "role": "Commercial Lending AI Engineer Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Retail Lending AI Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Google",
+    "role": "Student Researcher - BS/MS",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Google",
     "role": "Student Researcher - PhD",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
     "term": "Unspecified",
     "link": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
     "date_posted": "2026-09-14",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2860,28 +2970,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Apera AI",
-    "role": "Machine Learning Applied Scientist Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Apera AI",
-    "role": "Software Developer Co-op - Full Stack",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Aptiv",
     "role": "Cloud Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -2898,6 +2986,17 @@
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704380",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
+    "role": "Cloud Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
     "status": "closed",
@@ -2981,6 +3080,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Aptiv",
+    "role": "Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Astera Labs",
     "role": "Firmware Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -2999,6 +3109,17 @@
     "link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Research Intern - AI Research",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3053,17 +3174,6 @@
     "term": "Unspecified",
     "link": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080",
     "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Brookfield",
-    "role": "Business Management Intern - Tech & Data",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Intern_R2052618-1",
-    "date_posted": "2026-09-16",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3279,6 +3389,17 @@
   },
   {
     "company": "Entrust",
+    "role": "Software Development Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Entrust",
     "role": "Software Development Intern - Citizen Remote Identity Verification",
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
@@ -3301,50 +3422,6 @@
   },
   {
     "company": "Equitable Bank",
-    "role": "Commercial Lending AI Engineer Intern - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
-    "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Equitable Bank",
-    "role": "Credit Risk Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Equitable Bank",
-    "role": "Data Scientist Intern - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Equitable Bank",
-    "role": "Retail Lending AI Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply",
-    "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Equitable Bank",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -3355,23 +3432,23 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Foresters Financial",
+    "role": "Software Engineer Co-op - AI",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "GoMaterials",
     "role": "Data Quality Intern - Winter 2027",
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply",
     "date_posted": "2026-09-09",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Google",
-    "role": "Student Researcher - BS/MS",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614",
-    "date_posted": "2026-09-14",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3499,39 +3576,6 @@
   },
   {
     "company": "L3Harris Technologies",
-    "role": "FPGA Designer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "FPGA Software Tool Developer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Full Stack Developer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
     "role": "Manufacturing Engineering Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
@@ -3557,30 +3601,8 @@
     "role": "Software Engineer Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
     "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
-    "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3697,22 +3719,22 @@
   },
   {
     "company": "Marvell",
-    "role": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+    "role": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
     "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
-    "date_posted": "2026-09-14",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
+    "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
   {
     "company": "Marvell",
-    "role": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
-    "date_posted": "2026-09-24",
+    "role": "Firmware Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3978,17 +4000,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721636316",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Qualcomm",
-    "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721109229",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
