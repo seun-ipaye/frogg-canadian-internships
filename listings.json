@@ -2497,17 +2497,6 @@
     "date_closed": null
   },
   {
-    "company": "CAE",
-    "role": "Software Developer Intern - Operating System Image & Configuration",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Amazon",
     "role": "Software Development Engineer Intern - Summer 2027",
     "location": "Vancouver, BC, Canada",
@@ -3274,17 +3263,6 @@
     "link": "https://jobs.smartrecruiters.com/GDMSI/744000147537709",
     "date_posted": "2026-09-04",
     "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Geotab",
-    "role": "Software Developer Intern - Mygeotab",
-    "location": "Toronto, ON, Canada; Oakville, ON, Canada; Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383412008",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
   },
@@ -4268,6 +4246,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "CAE",
+    "role": "Software Developer Intern - Operating System Image & Configuration",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Ciena",
     "role": "Hardware Design and Verification Intern - PCBA",
     "location": "Ottawa, ON, Canada",
@@ -4329,6 +4318,17 @@
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5350915008",
     "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Geotab",
+    "role": "Software Developer Intern - Mygeotab",
+    "location": "Toronto, ON, Canada; Oakville, ON, Canada; Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383412008",
+    "date_posted": "2026-09-04",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
