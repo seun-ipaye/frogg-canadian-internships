@@ -639,17 +639,6 @@
   },
   {
     "company": "Manulife Financial",
-    "role": "AI Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Manulife Financial",
     "role": "AI Intern - AI",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -4233,6 +4222,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "AI Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678-1",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-23"
   },
   {
     "company": "AltaGas",
