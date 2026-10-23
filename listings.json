@@ -99,28 +99,6 @@
     "date_closed": null
   },
   {
-    "company": "Aptiv",
-    "role": "HVP/Certification Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
-    "role": "Linux Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Machine Learning Engineer Co-op",
     "location": "Toronto, ON, Canada",
@@ -605,28 +583,6 @@
     "date_closed": null
   },
   {
-    "company": "Aptiv",
-    "role": "HVP/Cert Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
-    "role": "HVP/Certification Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Databricks",
     "role": "Software Engineer Intern",
     "location": "SF; Bellevue, WA; Mountain View, CA; Vancouver, BC, Canada",
@@ -748,17 +704,6 @@
     "date_closed": null
   },
   {
-    "company": "PSP Investments",
-    "role": "GenAI and Digital Workplace Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Astera Labs",
     "role": "Design Verification Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -825,17 +770,6 @@
     "date_closed": null
   },
   {
-    "company": "CAE",
-    "role": "Artificial Intelligence Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Hardware Design Co-op",
     "location": "Ottawa, ON, Canada",
@@ -854,28 +788,6 @@
     "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Hitachi Energy",
-    "role": "Electrical Component Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Lumentum",
-    "role": "Embedded Software Developer Co-op - Optical Circuit Switch",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
   },
@@ -1188,11 +1100,44 @@
     "date_closed": null
   },
   {
+    "company": "Entrust",
+    "role": "Software Development Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Entrust",
+    "role": "Software Development Intern - Citizen Remote Identity Verification",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Mackenzie Investments",
     "role": "Intern",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Firmware Development Intern - PAL",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721229661",
     "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1254,6 +1199,17 @@
     "date_closed": null
   },
   {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "TechInsights",
     "role": "Circuit Analysis Co-op",
     "location": "Ottawa, ON, Canada",
@@ -1265,6 +1221,28 @@
     "date_closed": null
   },
   {
+    "company": "CAE",
+    "role": "Software Developer Intern - Content Creation Tools",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Software Developer Intern - Operating System Image & Configuration",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Amazon",
     "role": "Software Development Engineer Intern - Summer 2027",
     "location": "Vancouver, BC, Canada",
@@ -1272,6 +1250,61 @@
     "link": "https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
     "date_posted": "2026-09-18",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "BGIS",
+    "role": "Asset Management Analyst Intern",
+    "location": "Whitchurch-Stouffville, ON, Canada; Toronto, ON, Canada; North York, ON, Canada; Richmond Hill, ON, Canada; Scarborough, ON, Canada; Vaughan, ON, Canada; Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
+    "role": "Data and AI Engineering Associate",
+    "location": "Kitchener, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Digital Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721156182",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Low Power AI Software Development Intern - Interim Engineering Intern - Software",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721143440",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "MSIP Digital Design Verification Engineering Intern - HW",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721156800",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-23",
     "status": "open",
     "date_closed": null
   },
@@ -1331,6 +1364,28 @@
     "date_closed": null
   },
   {
+    "company": "4AG Robotics",
+    "role": "AI Co-op Student",
+    "location": "Salmon Arm, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "4AG Robotics",
+    "role": "Robotics Software Co-op",
+    "location": "Salmon Arm, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Marvell",
     "role": "Analog Layout Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -1349,6 +1404,28 @@
     "link": "https://bnc.avature.net/en_CA/careers/JobDetail/35546",
     "date_posted": "2026-09-17",
     "date_found": "2026-10-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721141411",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721142985",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
   },
@@ -2915,28 +2992,6 @@
     "date_closed": null
   },
   {
-    "company": "4AG Robotics",
-    "role": "AI Co-op Student",
-    "location": "Salmon Arm, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "4AG Robotics",
-    "role": "Robotics Software Co-op",
-    "location": "Salmon Arm, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Accenture",
     "role": "Canada Indigenous Technology Apprentice - Fnim",
     "location": "Toronto, ON, Canada; Calgary, AB, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada",
@@ -3070,10 +3125,54 @@
   },
   {
     "company": "Aptiv",
+    "role": "HVP/Cert Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Certification Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
+    "role": "HVP/Certification Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
     "role": "Linux Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
+    "role": "Linux Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "closed",
@@ -3168,13 +3267,13 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "BGIS",
-    "role": "Asset Management Analyst Intern",
-    "location": "Whitchurch-Stouffville, ON, Canada; Toronto, ON, Canada; North York, ON, Canada; Richmond Hill, ON, Canada; Scarborough, ON, Canada; Vaughan, ON, Canada; Markham, ON, Canada",
+    "company": "CAE",
+    "role": "Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
     "term": "Unspecified",
-    "link": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3197,17 +3296,6 @@
     "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "CAE",
-    "role": "Software Developer Intern - Content Creation Tools",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3388,28 +3476,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Entrust",
-    "role": "Software Development Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Entrust",
-    "role": "Software Development Intern - Citizen Remote Identity Verification",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Epic Games",
     "role": "Machine Learning Intern",
     "location": "Canada; United Kingdom; United States",
@@ -3449,6 +3515,17 @@
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply",
     "date_posted": "2026-09-09",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Hitachi Energy",
+    "role": "Electrical Component Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
+    "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -3598,17 +3675,6 @@
   },
   {
     "company": "L3Harris Technologies",
-    "role": "Software Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "L3Harris Technologies",
     "role": "Systems Engineering Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
@@ -3626,6 +3692,17 @@
     "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Lumentum",
+    "role": "Embedded Software Developer Co-op - Optical Circuit Switch",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3817,17 +3894,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
-    "role": "Data and AI Engineering Associate",
-    "location": "Kitchener, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Nexthop.ai",
     "role": "Software Engineer Intern",
     "location": "Burnaby, BC, Canada",
@@ -3857,6 +3923,17 @@
     "link": "https://pictonmahoney.bamboohr.com/careers/387/",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "PSP Investments",
+    "role": "GenAI and Digital Workplace Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3928,43 +4005,10 @@
   },
   {
     "company": "Qualcomm",
-    "role": "Firmware Development Intern - PAL",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721229661",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Qualcomm",
-    "role": "Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721141411",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Qualcomm",
     "role": "IP Applications Engineering Intern - Interim Engineering Intern - HW",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721156615",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Qualcomm",
-    "role": "Low Power AI Software Development Intern - Interim Engineering Intern - Software",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721143440",
     "date_posted": "2026-09-18",
     "date_found": "2026-10-05",
     "status": "closed",
@@ -3978,17 +4022,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721636765",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Qualcomm",
-    "role": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721142985",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
