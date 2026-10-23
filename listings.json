@@ -1,5 +1,27 @@
 [
   {
+    "company": "Amazon",
+    "role": "Applied Science Intern - PhD Student Science",
+    "location": "Toronto, ON, Canada; Burnaby, BC, Canada; Pitt Meadows, BC, Canada; Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Amazon",
+    "role": "Systems Development Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-22",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "1Password",
     "role": "Developer Intern - Extension Excellence",
     "location": "Remote in USA; Remote in Canada",
@@ -2937,17 +2959,6 @@
     "date_closed": null
   },
   {
-    "company": "Blue Robotics",
-    "role": "Electronics Design Co-op",
-    "location": "Victoria, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Business Intelligence Co-op",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
@@ -4242,6 +4253,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data---AI-Analyst--Winter-2027--Co-op-Internship----4-Months_R260029651",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-10-22"
+  },
+  {
+    "company": "Blue Robotics",
+    "role": "Electronics Design Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-22"
   },
