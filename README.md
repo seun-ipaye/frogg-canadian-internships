@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**329 open** · 234 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**300 open** · 263 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -37,7 +37,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) | 2026-10-22 | – |
 | Aptiv | Linux Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | 2026-10-22 | – |
 | Aptiv | Linux Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) | 2026-10-22 | – |
-| BC Pensions | Junior Information Management Analyst Co-op | Victoria, BC, Canada | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229) | 2026-10-22 | Winter 2027 |
 | CIBC | Machine Learning Engineer Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721) | 2026-10-22 | – |
 | CIBC | Machine Learning Engineer Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1) | 2026-10-22 | – |
 | Ciena | Software Developer Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1) | 2026-10-22 | Winter 2027 |
@@ -46,7 +45,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Nutanix | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false) | 2026-10-22 | Winter 2027 |
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) | 2026-10-22 | Summer 2027 |
 | RTX | Business Intelligence and Governance Analyst Intern | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) | 2026-10-22 | Winter 2027 |
-| Synopsys | Technical-Engineering Intern | Markham, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19182) | 2026-10-22 | Summer 2027 |
 | Texas Instruments | Software Engineer Intern | Toronto, ON, Canada, Canada | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) | 2026-10-22 | – |
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | 2026-10-22 | – |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | 2026-10-21 | – |
@@ -80,11 +78,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | University of Ottawa | Teaching Assistant Intern | Ottawa, ON, Canada | [Apply](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054) | 2026-10-19 | Winter 2027 |
 | Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | 2026-10-16 | Winter 2027 |
 | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320) | 2026-10-16 | – |
-| Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | 2026-10-16 | Summer 2027 |
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | 2026-10-16 | Summer 2027 |
-| Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) | 2026-10-16 | Winter 2027 |
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) | 2026-10-16 | – |
-| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19195) | 2026-10-16 | Summer 2027 |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, SF, Pittsburgh, PA | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | 2026-10-16 | Summer 2027 |
 | Ciena | Embedded Software Developer Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | 2026-10-15 | Winter 2027 |
 | Intel | Compiler Engineer Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | 2026-10-15 | – |
@@ -92,7 +87,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | 2026-10-15 | Winter 2027 |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) | 2026-10-15 | – |
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) | 2026-10-15 | – |
-| Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287) | 2026-10-14 | Summer 2027 |
 | Interac | Business Systems & AI Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | 2026-10-14 | Winter 2027 |
 | Interac | Technical Analyst Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394) | 2026-10-14 | Winter 2027 |
 | Kensington | Analytics Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) | 2026-10-14 | – |
@@ -111,8 +105,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Aptiv | Cloud Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376) | 2026-10-12 | – |
 | Aptiv | Cloud Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383) | 2026-10-12 | – |
 | Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375) | 2026-10-12 | – |
-| Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381) | 2026-10-12 | – |
-| Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361) | 2026-10-12 | – |
 | Aptiv | HVP/Cert Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert---Engineering-Intern_J000704374) | 2026-10-12 | – |
 | Aptiv | HVP/Cert Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineering-Intern_J000704372) | 2026-10-12 | – |
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert-Engineering-Intern_J000704377) | 2026-10-12 | – |
@@ -123,7 +115,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Manulife Financial | Data Engineering Co-op | Waterloo, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1) | 2026-10-12 | Winter 2027 |
 | Manulife Financial | Software Engineer Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1) | 2026-10-12 | Winter 2027 |
 | Manulife Financial | Software Engineering Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1) | 2026-10-12 | Winter 2027 |
-| Magnet Forensics | Software Developer Co-op | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply) | 2026-10-10 | Winter 2027 |
 | Electronic Arts | C++ Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) | 2026-10-09 | Winter 2027 |
 | Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) | 2026-10-09 | Summer 2027 |
 | Electronic Arts | Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231) | 2026-10-09 | Summer 2027 |
@@ -132,7 +123,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Workday | Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | 2026-10-09 | Winter 2027 |
 | Workday | Product Manager Intern | Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) | 2026-10-09 | Winter 2027 |
 | Workday | Software Development Engineer Intern | Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807) | 2026-10-09 | Winter 2027 |
-| Equitable Bank | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | 2026-10-08 | Winter 2027 |
 | Manulife Financial | Grit Intern | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) | 2026-10-08 | Summer 2027 |
 | Manulife Financial | Product Management & Risk Technology Intern | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | 2026-10-08 | Winter 2027 |
 | Manulife Financial | Software Engineering Co-op | Waterloo, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1) | 2026-10-08 | Winter 2027 |
@@ -153,16 +143,13 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
 | McKesson | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) | 2026-10-06 | – |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | 2026-10-06 | – |
-| The Semios Group | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) | 2026-10-06 | Winter 2027 |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | 2026-10-05 | Summer 2027 |
 | Lumentum | Embedded Software Developer Co-op - Optical Circuit Switch | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | 2026-10-05 | Winter 2027 |
 | Semtech | Software Developer Co-op - Web/Cloud Application | Richmond, BC, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644) | 2026-10-05 | – |
 | SOTI | Data Scientist Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | 2026-10-05 | Winter 2027 |
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | 2026-10-02 | Summer 2027 |
-| Intel | GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | 2026-10-02 | – |
 | Kinaxis | AI/ML Researcher Intern | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | 2026-10-02 | Winter 2027 |
 | Marvell | Firmware Engineer Intern | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | 2026-10-02 | Winter 2027 |
-| Marvell | Firmware Engineer Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | 2026-10-02 | Summer 2027 |
 | Montreal Institute for Learning Algorithms | AI Safety Research Intern - AI Safety | Montreal, QC, Canada | [Apply](https://apply.workable.com/mila-2/j/1E81635604/apply) | 2026-10-02 | – |
 | Nokia | Automation Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | 2026-10-02 | Winter 2027 |
 | Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | 2026-10-02 | – |
@@ -171,15 +158,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) | 2026-10-01 | – |
 | Pinterest | Machine Learning Intern | Toronto, ON, Canada | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | 2026-10-01 | Summer 2027 |
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) | 2026-10-01 | – |
-| Stripe | Data Analyst Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | 2026-10-01 | Winter 2027 |
 | Stripe | Data Scientist Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | 2026-10-01 | – |
 | Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) | 2026-09-30 | – |
-| L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254600/?ats=successfactors) | 2026-09-30 | – |
-| L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254800/?ats=successfactors) | 2026-09-30 | – |
 | Ciena | Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | 2026-09-29 | Winter 2027 |
 | Electronic Arts | AI Engineer Intern - AI Platform | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223) | 2026-09-29 | – |
 | Foresters Financial | Software Engineer Co-op Student | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329) | 2026-09-29 | – |
-| L3Harris Technologies | Systems Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1434804100/?ats=successfactors) | 2026-09-29 | – |
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471) | 2026-09-28 | Summer 2027 |
 | Ciena | Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752) | 2026-09-25 | Winter 2027 |
 | Intuit | Software Developer Co-op | Toronto, ON, Canada | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680) | 2026-09-25 | Winter 2027 |
@@ -193,7 +176,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Semtech | Analog Design Engineer Intern - Signal Integrity Products Group | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | 2026-09-24 | Summer 2027 |
 | Semtech | Analog Design Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) | 2026-09-24 | Summer 2027 |
 | Semtech | Applications Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615) | 2026-09-24 | – |
-| Semtech | Applications Engineering Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616) | 2026-09-24 | – |
 | Semtech | Digital IC Design Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621) | 2026-09-24 | – |
 | Semtech | Digital IC Design Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | 2026-09-24 | Summer 2027 |
 | Semtech | Firmware Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | 2026-09-24 | Summer 2027 |
@@ -210,7 +192,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Danaher | Hardware Engineer Co-op | Concord, Vaughan, ON, Canada | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537) | 2026-09-22 | – |
 | Electronic Arts | AI Engineer Intern - Creative Innovations - Character Pipelines | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236) | 2026-09-22 | – |
 | Electronic Arts | Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222) | 2026-09-22 | Summer 2027 |
-| L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1432400300/?ats=successfactors) | 2026-09-22 | – |
 | TechInsights | Circuit Analysis Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/bKNlLKEsBR/Circuit-Analysis-Coop-Student-Winter-2027) | 2026-09-22 | Winter 2027 |
 | Amazon | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | 2026-09-18 | Winter 2027 |
 | Qualcomm | IP Applications Engineering Intern - Interim Engineering Intern - HW | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156615) | 2026-09-18 | Summer 2027 |
@@ -230,13 +211,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | NVIDIA | Quantum and Chemistry Research Intern - Quantum and AI for Chemistry | Toronto, ON, Canada | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) | 2026-09-16 | Summer 2027 |
 | Altera | Quartus Compiler Software Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108) | 2026-09-15 | – |
 | DoorDash | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) | 2026-09-15 | Summer 2027 |
-| Equitable Bank | Data Scientist Intern - Winter 2027 | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply) | 2026-09-15 | Winter 2027 |
 | L3Harris Technologies | FPGA Designer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127300/?ats=successfactors) | 2026-09-15 | – |
-| L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430129400/?ats=successfactors) | 2026-09-15 | – |
-| L3Harris Technologies | Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430130200/?ats=successfactors) | 2026-09-15 | – |
 | Nokia | Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600) | 2026-09-15 | Winter 2027 |
 | Nokia | Incubation Developer Student Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968) | 2026-09-15 | – |
-| Qualcomm | Sensors Subsystem Engineering Intern - Low-Power AI - Audio | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721109229) | 2026-09-15 | Summer 2027 |
 | BDO Canada | Data & Analytics Co-op Intern | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada +4 more | [Apply](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061) | 2026-09-14 | Winter 2027 |
 | Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | 2026-09-14 | Winter 2027 |
 | Equitable Bank | Retail Lending AI Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply) | 2026-09-14 | Winter 2027 |
@@ -244,7 +221,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Marvell | Data Center Silicon Hardware Engineering Intern - Winter 2027 | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525) | 2026-09-14 | Winter 2027 |
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Business Intelligence Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) | 2026-09-11 | Winter 2027 |
-| Definity Financial | Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349) | 2026-09-11 | Winter 2027 |
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | 2026-09-11 | Summer 2027 |
 | Lyft | Data Science Intern - Algorithms | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | 2026-09-11 | Summer 2027 |
 | Lyft | Software Developer Intern - Backend | Montreal, QC, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002) | 2026-09-11 | – |
@@ -256,8 +232,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Nokia | Optical Test Intern Co-op | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964) | 2026-09-11 | Winter 2027 |
 | Exegy | Software Developer Intern | Montreal, QC, Canada | [Apply](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true) | 2026-09-10 | – |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | 2026-09-10 | Winter 2027 |
-| L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428467500/?ats=successfactors) | 2026-09-10 | – |
-| L3Harris Technologies | Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1428467800/?ats=successfactors) | 2026-09-10 | – |
 | GoMaterials | Data Quality Intern - Winter 2027 | Montreal, QC, Canada | [Apply](https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/apply) | 2026-09-09 | Winter 2027 |
 | Hexagon AB | Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | [Apply](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | 2026-09-09 | Summer 2027 |
 | Kinaxis | Developer Intern - AI Solutions | Ottawa, ON, Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | 2026-09-09 | Winter 2027 |
@@ -279,7 +253,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Geotab | Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) | 2026-09-03 | Winter 2027 |
 | Nokia | DSP Firmware Engineer Co-op/Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) | 2026-09-03 | Winter 2027 |
 | RTX | Performance Indicator Development and Process and Project Management Internship | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284) | 2026-09-03 | Winter 2027 |
-| Amgen | Business Analyst Co-op | Burnaby, BC, Canada | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807) | 2026-09-02 | Winter 2027 |
 | CAE | Software Engineering Intern - AI, Automation and Business Intelligence | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) | 2026-09-02 | Winter 2027 |
 | General Dynamics UK | Software Developer Co-op - 16-Months | Calgary, AB, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) | 2026-09-02 | Winter 2027 |
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | 2026-09-02 | Winter 2027 |
@@ -290,7 +263,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91313?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Firmware Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91320?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90297?icims=1) | 2026-09-01 | Summer 2027 |
-| AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90367?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90383?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91363?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | [Apply](https://careers.amd.com/jobs/90411?icims=1) | 2026-09-01 | Summer 2027 |
@@ -306,7 +278,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | NVIDIA | Software Engineering Intern | Canada, Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-19 | Summer 2027 |
 | Thomson Reuters | Applied Research Intern - NLP/ML/GenAI | Toronto, ON, Canada | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) | 2026-08-17 | Fall 2026 |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) | 2026-08-11 | Fall 2026 |
-| Epic Games | Machine Learning Intern | Canada, United Kingdom, United States | [Apply](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | 2026-08-07 | Summer 2027 |
 | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | 2026-08-07 | Winter 2027 |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | 2026-08-02 | Fall 2026 |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | 2026-07-31 | Fall 2026 |
@@ -359,33 +330,56 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | 🔒 Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | AMD | 🔒 Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
+| AMD | 🔒 Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
+| Amgen | 🔒 Business Analyst Co-op | Burnaby, BC, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
 | Apera AI | 🔒 Machine Learning Applied Scientist Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
 | Apera AI | 🔒 Software Developer Co-op - Full Stack | Vancouver, BC, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
 | Aptiv | 🔒 Cloud Engineer Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-12 | – |
+| Aptiv | 🔒 Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-12 | – |
 | Aptiv | 🔒 Engineer Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-12 | – |
+| Aptiv | 🔒 Engineering Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-12 | – |
 | Astera Labs | 🔒 Firmware Engineer Co-op Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
 | BC Pensions | 🔒 Application Developer Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
+| BC Pensions | 🔒 Junior Information Management Analyst Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Behaviour Interactive | 🔒 Product Management Intern - 7 Days to Die | Montreal, QC, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | BGIS | 🔒 Asset Management Analyst Intern | Whitchurch-Stouffville, ON, Canada, Toronto, ON, Canada, North York, ON, Canada +4 more | 🔒 Closed | 2026-09-18 | – |
 | Bird Construction | 🔒 Business Intelligence Student | Winnipeg, MB, Canada, Calgary, AB, Canada, Edmonton, AB, Canada +1 more | 🔒 Closed | 2026-09-08 | – |
 | CAE | 🔒 Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | Citco | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | – |
+| Definity Financial | 🔒 Commercial Insurance Portfolio Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Definity Financial | 🔒 Operations Analyst Co-op Intern | Toronto, ON, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
+| Electronic Arts | 🔒 AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Electronic Arts | 🔒 Software Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-09-30 | – |
+| Electronic Arts | 🔒 Software Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-14 | Summer 2027 |
 | Electronic Arts | 🔒 Technical Artist Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-13 | Summer 2027 |
+| Epic Games | 🔒 Machine Learning Intern | Canada, United Kingdom, United States | 🔒 Closed | 2026-08-07 | Summer 2027 |
 | Equitable Bank | 🔒 Commercial Lending AI Engineer Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-14 | Winter 2027 |
 | Equitable Bank | 🔒 Credit Risk Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
+| Equitable Bank | 🔒 Data Scientist Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
+| Equitable Bank | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-08 | Winter 2027 |
 | Google | 🔒 Student Researcher - BS/MS | Montreal, QC, Canada | 🔒 Closed | 2026-09-14 | – |
 | Grass Valley | 🔒 Software Development Intern - Core Platform | Montreal, QC, Canada | 🔒 Closed | 2026-09-09 | Winter 2027 |
 | Hitachi Energy | 🔒 Electrical Component Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-23 | Fall 2026 |
+| Intel | 🔒 GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
 | Interac | 🔒 Payments Product Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
+| Kepler Communications | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | KPMG | 🔒 AI Builder Intern/Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
+| L3Harris Technologies | 🔒 Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
+| L3Harris Technologies | 🔒 Electrical Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
 | L3Harris Technologies | 🔒 FPGA Software Tool Developer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | L3Harris Technologies | 🔒 Full Stack Developer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
+| L3Harris Technologies | 🔒 Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-30 | – |
+| L3Harris Technologies | 🔒 Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-30 | – |
+| L3Harris Technologies | 🔒 Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
+| L3Harris Technologies | 🔒 Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-22 | – |
+| L3Harris Technologies | 🔒 Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
+| L3Harris Technologies | 🔒 Systems Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-29 | – |
 | Later | 🔒 Data Science Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
+| Magnet Forensics | 🔒 Software Developer Co-op | Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada | 🔒 Closed | 2026-10-10 | Winter 2027 |
 | Manulife Financial | 🔒 AI Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Marvell | 🔒 Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Summer 2027 |
 | Marvell | 🔒 Analog Design Intern Co-op - BS | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | – |
+| Marvell | 🔒 Firmware Engineer Intern Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Summer 2027 |
 | MistyWest | 🔒 Engineering Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Moment Energy | 🔒 Data Scientist Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-09-26 | Winter 2027 |
 | Moment Energy | 🔒 Firmware Engineering Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
@@ -403,12 +397,18 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | 🔒 Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | 🔒 Closed | 2026-09-11 | Summer 2027 |
 | Qualcomm | 🔒 Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW | Toronto, ON, Canada | 🔒 Closed | 2026-09-17 | Summer 2027 |
 | Qualcomm | 🔒 QDSP Hardware Physical Design Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-19 | Summer 2027 |
+| Qualcomm | 🔒 Sensors Subsystem Engineering Intern - Low-Power AI - Audio | Markham, ON, Canada | 🔒 Closed | 2026-09-15 | Summer 2027 |
 | Qualcomm | 🔒 Silicon Validation Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-18 | Summer 2027 |
+| Semtech | 🔒 Applications Engineering Intern | Burlington, ON, Canada | 🔒 Closed | 2026-09-24 | – |
 | Semtech | 🔒 PCB Layout Intern | Burlington, ON, Canada | 🔒 Closed | 2026-10-20 | – |
 | Semtech | 🔒 Validation Engineering Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-24 | Summer 2027 |
 | Solink | 🔒 Software Engineer Co-op - Apps | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | SOTI | 🔒 Software Developer Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-20 | – |
+| Stripe | 🔒 Data Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
+| Synopsys | 🔒 Technical-Engineering Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
+| Synopsys | 🔒 Technical-Engineering Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Tenstorrent | 🔒 Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada | 🔒 Closed | 2026-10-14 | – |
+| The Semios Group | 🔒 Software Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | AltaGas | 🔒 Data Analytics & Process Automation Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Bank of Montreal | 🔒 Data & AI Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | Winter 2027 |
 | Blue Robotics | 🔒 Electronics Design Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-09-11 | Summer 2027 |

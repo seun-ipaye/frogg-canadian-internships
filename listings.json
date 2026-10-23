@@ -143,17 +143,6 @@
     "date_closed": null
   },
   {
-    "company": "BC Pensions",
-    "role": "Junior Information Management Analyst Co-op",
-    "location": "Victoria, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Machine Learning Engineer Co-op",
     "location": "Toronto, ON, Canada",
@@ -236,17 +225,6 @@
     "location": "Longueuil, QC, Canada",
     "term": "Winter 2027",
     "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Synopsys",
-    "role": "Technical-Engineering Intern",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://synopsys.avature.net/careers/JobDetail/19182",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "open",
@@ -617,32 +595,10 @@
   },
   {
     "company": "Electronic Arts",
-    "role": "AI/ML Software Engineer Co-op Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Electronic Arts",
     "role": "Analytics Intern",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Kepler Communications",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
     "status": "open",
@@ -656,17 +612,6 @@
     "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4455115009",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Synopsys",
-    "role": "Technical-Engineering Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://synopsys.avature.net/careers/JobDetail/19195",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
     "status": "open",
     "date_closed": null
   },
@@ -744,17 +689,6 @@
     "link": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Electronic Arts",
-    "role": "Software Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-13",
     "status": "open",
     "date_closed": null
   },
@@ -958,28 +892,6 @@
   },
   {
     "company": "Aptiv",
-    "role": "Cloud Software Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
-    "role": "Engineering Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aptiv",
     "role": "HVP/Cert Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
@@ -1089,17 +1001,6 @@
     "date_closed": null
   },
   {
-    "company": "Magnet Forensics",
-    "role": "Software Developer Co-op",
-    "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply",
-    "date_posted": "2026-10-10",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "C++ Software Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -1184,17 +1085,6 @@
     "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Equitable Bank",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
     "status": "open",
     "date_closed": null
   },
@@ -1419,17 +1309,6 @@
     "date_closed": null
   },
   {
-    "company": "The Semios Group",
-    "role": "Software Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi Energy",
     "role": "Electrical Component Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -1485,17 +1364,6 @@
     "date_closed": null
   },
   {
-    "company": "Intel",
-    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "AI/ML Researcher Intern",
     "location": "Remote in Canada",
@@ -1512,17 +1380,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
     "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1618,17 +1475,6 @@
   },
   {
     "company": "Stripe",
-    "role": "Data Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://stripe.com/jobs/search?gh_jid=8194287",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Stripe",
     "role": "Data Scientist Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -1644,28 +1490,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Manufacturing Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Manufacturing Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors",
     "date_posted": "2026-09-30",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1699,17 +1523,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Systems Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors",
     "date_posted": "2026-09-29",
     "date_found": "2026-10-05",
     "status": "open",
@@ -1853,17 +1666,6 @@
     "location": "Burlington, ON, Canada",
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3615",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Semtech",
-    "role": "Applications Engineering Intern",
-    "location": "Burlington, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2040,17 +1842,6 @@
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
     "date_posted": "2026-09-22",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2266,44 +2057,11 @@
     "date_closed": null
   },
   {
-    "company": "Equitable Bank",
-    "role": "Data Scientist Intern - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "L3Harris Technologies",
     "role": "FPGA Designer Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2326,17 +2084,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Qualcomm",
-    "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721109229",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2414,17 +2161,6 @@
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
     "term": "Winter 2027",
     "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Definity Financial",
-    "role": "Commercial Insurance Portfolio Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2546,28 +2282,6 @@
     "location": "Oakville, ON, Canada",
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Electrical Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Electrical Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors",
     "date_posted": "2026-09-10",
     "date_found": "2026-10-05",
     "status": "open",
@@ -2805,17 +2519,6 @@
     "date_closed": null
   },
   {
-    "company": "Amgen",
-    "role": "Business Analyst Co-op",
-    "location": "Burnaby, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807",
-    "date_posted": "2026-09-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CAE",
     "role": "Software Engineering Intern - AI, Automation and Business Intelligence",
     "location": "Montreal, QC, Canada",
@@ -2922,17 +2625,6 @@
     "link": "https://careers.amd.com/jobs/90297?icims=1",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
-    "role": "Hardware Design Engineer Intern/Co-op - Long Term",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.amd.com/jobs/90367?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-09",
     "status": "open",
     "date_closed": null
   },
@@ -3097,17 +2789,6 @@
     "term": "Fall 2026",
     "link": "https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply",
     "date_posted": "2026-08-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Epic Games",
-    "role": "Machine Learning Intern",
-    "location": "Canada; United Kingdom; United States",
-    "term": "Summer 2027",
-    "link": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
-    "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -3685,6 +3366,28 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "AMD",
+    "role": "Hardware Design Engineer Intern/Co-op - Long Term",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/90367?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Amgen",
+    "role": "Business Analyst Co-op",
+    "location": "Burnaby, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807",
+    "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Apera AI",
     "role": "Machine Learning Applied Scientist Co-op",
     "location": "Vancouver, BC, Canada",
@@ -3719,10 +3422,32 @@
   },
   {
     "company": "Aptiv",
+    "role": "Cloud Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704381",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
     "role": "Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704362",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Aptiv",
+    "role": "Engineering Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704361",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-13",
     "status": "closed",
@@ -3747,6 +3472,17 @@
     "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "BC Pensions",
+    "role": "Junior Information Management Analyst Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3807,12 +3543,34 @@
   },
   {
     "company": "Definity Financial",
+    "role": "Commercial Insurance Portfolio Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9349",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Definity Financial",
     "role": "Operations Analyst Co-op Intern",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
     "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "AI/ML Software Engineer Co-op Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3829,12 +3587,34 @@
   },
   {
     "company": "Electronic Arts",
+    "role": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Electronic Arts",
     "role": "Technical Artist Co-op",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Epic Games",
+    "role": "Machine Learning Intern",
+    "location": "Canada; United Kingdom; United States",
+    "term": "Summer 2027",
+    "link": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+    "date_posted": "2026-08-07",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3857,6 +3637,28 @@
     "link": "https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Data Scientist Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3894,6 +3696,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Intel",
+    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Interac",
     "role": "Payments Product Intern",
     "location": "Toronto, ON, Canada",
@@ -3905,6 +3718,17 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Kepler Communications",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "KPMG",
     "role": "AI Builder Intern/Co-op",
     "location": "Toronto, ON, Canada",
@@ -3912,6 +3736,28 @@
     "link": "https://careers.kpmg.ca/jobs/34407?icims=1",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Electrical Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors",
+    "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Electrical Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467800/?ats=successfactors",
+    "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3938,6 +3784,72 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "L3Harris Technologies",
+    "role": "Manufacturing Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Manufacturing Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Systems Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Later",
     "role": "Data Science Co-op",
     "location": "Vancouver, BC, Canada",
@@ -3945,6 +3857,17 @@
     "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Magnet Forensics",
+    "role": "Software Developer Co-op",
+    "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply",
+    "date_posted": "2026-10-10",
+    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3977,6 +3900,17 @@
     "term": "Unspecified",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
     "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -4170,11 +4104,33 @@
   },
   {
     "company": "Qualcomm",
+    "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721109229",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Qualcomm",
     "role": "Silicon Validation Intern",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721143274",
     "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Semtech",
+    "role": "Applications Engineering Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Applications-Engineering-Intern_REQ3616",
+    "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
@@ -4224,6 +4180,39 @@
     "date_closed": "2026-10-23"
   },
   {
+    "company": "Stripe",
+    "role": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Synopsys",
+    "role": "Technical-Engineering Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://synopsys.avature.net/careers/JobDetail/19182",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Synopsys",
+    "role": "Technical-Engineering Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://synopsys.avature.net/careers/JobDetail/19195",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
     "company": "Tenstorrent",
     "role": "Systems Intern - Multiple Teams",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
@@ -4231,6 +4220,17 @@
     "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "The Semios Group",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
