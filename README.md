@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**385 open** · 194 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**398 open** · 194 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -27,11 +27,23 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 2026-10-23 | Winter 2027 |
 | 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 2026-10-23 | Winter 2027 |
 | 1Password | Product Management Intern - End User Experience | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | 2026-10-23 | Winter 2027 |
+| AMA | Architecture Research Intern - Optimization & Decision Modelling | Edmonton, AB, Canada | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1) | 2026-10-23 | – |
+| AMA | Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | 2026-10-23 | – |
 | Amazon | Applied Science Intern - PhD Student Science | Toronto, ON, Canada, Burnaby, BC, Canada, Pitt Meadows, BC, Canada +1 more | [Apply](https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting) | 2026-10-23 | – |
 | Amazon | Systems Development Engineer Intern | Vancouver, BC, Canada | [Apply](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | 2026-10-23 | Summer 2027 |
+| American Express | AI Engineer Intern - Enterprise Technology Services | Toronto, ON, Canada | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | 2026-10-23 | Summer 2027 |
+| Boson Ai | MScAC Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | 2026-10-23 | Summer 2027 |
 | GE Vernova | Product Management Intern | Markham, ON, Canada | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | 2026-10-23 | Summer 2027 |
 | GE Vernova | Product Management Intern | Markham, ON, Canada | [Apply](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | 2026-10-23 | Summer 2027 |
 | Marvell | Design Verification Intern | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/CA-ON---Ontario---Toronto/Design-Verification-Intern_2603984) | 2026-10-23 | Winter 2027 |
+| RSM | Business Intelligence Consulting Intern | Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | 2026-10-23 | Summer 2027 |
+| SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | 2026-10-23 | Winter 2027 |
+| SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | 2026-10-23 | Summer 2027 |
+| SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | 2026-10-23 | Summer 2027 |
+| TELUS Digital | Software Engineering Intern Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true) | 2026-10-23 | Summer 2027 |
+| Thales | Tools and Process Development Intern | Montreal, QC, Canada | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) | 2026-10-23 | – |
+| Trimble | Navigation & Machine Learning Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | 2026-10-23 | Summer 2027 |
+| Trimble | Software Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | 2026-10-23 | Summer 2027 |
 | 1Password | Developer Intern - Extension Excellence | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true) | 2026-10-22 | Winter 2027 |
 | 1Password | Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | 2026-10-22 | Winter 2027 |
 | 1Password | Developer Intern - Machine Identity | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true) | 2026-10-22 | Winter 2027 |
@@ -296,6 +308,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Google | Student Researcher - BS/MS | Montreal, QC, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | 2026-09-14 | – |
 | Google | Student Researcher - PhD | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) | 2026-09-14 | – |
 | Marvell | Data Center Silicon Hardware Engineering Intern - Winter 2027 | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525) | 2026-09-14 | Winter 2027 |
+| Sun Life | Software Engineer Co-op | Waterloo, ON, Canada | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612) | 2026-09-14 | – |
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | 2026-09-11 | Winter 2027 |
 | Definity Financial | Business Intelligence Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351) | 2026-09-11 | Winter 2027 |
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | 2026-09-11 | Summer 2027 |
