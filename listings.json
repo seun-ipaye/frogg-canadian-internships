@@ -682,6 +682,50 @@
     "date_closed": null
   },
   {
+    "company": "PSP Investments",
+    "role": "GenAI and Digital Workplace Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "AI Software Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Autodesk",
+    "role": "Research Intern - AI Research",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Autodesk",
+    "role": "Research Intern - AI Research",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Astera Labs",
     "role": "Design Verification Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -727,6 +771,17 @@
   },
   {
     "company": "Astera Labs",
+    "role": "Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Astera Labs",
     "role": "Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software",
     "location": "Vancouver, BC, Canada",
     "term": "Unspecified",
@@ -748,6 +803,39 @@
     "date_closed": null
   },
   {
+    "company": "CAE",
+    "role": "Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Data Specialist Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CAE",
+    "role": "Full Stack Developer Intern - Training Center Operations Experience",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Ciena",
     "role": "Hardware Design Co-op",
     "location": "Ottawa, ON, Canada",
@@ -759,11 +847,77 @@
     "date_closed": null
   },
   {
+    "company": "Lumentum",
+    "role": "Embedded Software Engineer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "McKesson",
     "role": "Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
     "link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "MistyWest",
+    "role": "Engineering Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/mistywest/j/5D68DE0118/apply",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Moment Energy",
+    "role": "Firmware Engineering Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4434575009",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Moment Energy",
+    "role": "Software Engineering Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Tenstorrent",
+    "role": "Hardware Intern - AI HW & System on a Chip",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "The Semios Group",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
     "status": "open",
@@ -797,6 +951,17 @@
     "location": "Richmond, BC, Canada",
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644",
+    "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Solink",
+    "role": "Software Engineer Co-op - Apps",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3498,28 +3663,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Autodesk",
-    "role": "Research Intern - AI Research",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Autodesk",
-    "role": "Research Intern - AI Research",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "BC Pensions",
     "role": "Application Developer Co-op",
     "location": "Victoria, BC, Canada",
@@ -3549,39 +3692,6 @@
     "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "CAE",
-    "role": "Artificial Intelligence Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "CAE",
-    "role": "Data Specialist Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "CAE",
-    "role": "Full Stack Developer Intern - Training Center Operations Experience",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -3916,17 +4026,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Lumentum",
-    "role": "Embedded Software Engineer Co-op Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Magnet Forensics",
     "role": "Software Developer Co-op",
     "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
@@ -3971,39 +4070,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "MistyWest",
-    "role": "Engineering Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/mistywest/j/5D68DE0118/apply",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Moment Energy",
-    "role": "Firmware Engineering Co-op",
-    "location": "Surrey, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4434575009",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Moment Energy",
-    "role": "Software Engineering Co-op",
-    "location": "Surrey, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "Moment Energy",
     "role": "Test Engineering Co-op",
     "location": "Surrey, BC, Canada",
@@ -4044,17 +4110,6 @@
     "link": "https://pictonmahoney.bamboohr.com/careers/387/",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "PSP Investments",
-    "role": "GenAI and Digital Workplace Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
@@ -4180,17 +4235,6 @@
     "date_closed": "2026-10-23"
   },
   {
-    "company": "Solink",
-    "role": "Software Engineer Co-op - Apps",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
@@ -4258,45 +4302,12 @@
   },
   {
     "company": "Tenstorrent",
-    "role": "AI Software Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Tenstorrent",
-    "role": "Hardware Intern - AI HW & System on a Chip",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Tenstorrent",
     "role": "Systems Intern - Multiple Teams",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
     "term": "Unspecified",
     "link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-14",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "The Semios Group",
-    "role": "Software Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
