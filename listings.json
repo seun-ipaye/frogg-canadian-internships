@@ -2079,17 +2079,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "AI/ML Researcher Intern",
-    "location": "Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Firmware Engineer Intern",
     "location": "Ottawa, ON, Canada",
@@ -2376,17 +2365,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Developer Intern - Back End Technologies",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Operations Analytics Co-op Intern - Intern",
     "location": "Ottawa, ON, Canada",
@@ -2623,17 +2601,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Mackenzie Investments",
-    "role": "Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false",
     "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3377,28 +3344,6 @@
     "date_closed": null
   },
   {
-    "company": "Hexagon AB",
-    "role": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-09",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Kinaxis",
-    "role": "Developer Intern - AI Solutions",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-09",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Pomerleau",
     "role": "GIS Data Analyst Intern",
     "location": "Montreal, QC, Canada; Québec City, QC, Canada",
@@ -3487,17 +3432,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Software Developer Co-op/Intern - Core Algorithms",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-07",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Royal Bank of Canada",
     "role": "Developer & IT Specialist Co-op - Global Asset Management",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
@@ -3514,17 +3448,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Summer 2027",
     "link": "https://careers.amd.com/jobs/91207?icims=1",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Atlassian",
-    "role": "Software Engineer Intern",
-    "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
     "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4466,6 +4389,17 @@
     "date_closed": "2026-10-24"
   },
   {
+    "company": "Atlassian",
+    "role": "Software Engineer Intern",
+    "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
     "company": "Electronic Arts",
     "role": "Rendering Engineer Intern - Apex Legends",
     "location": "Vancouver, BC, Canada",
@@ -4477,12 +4411,78 @@
     "date_closed": "2026-10-24"
   },
   {
+    "company": "Hexagon AB",
+    "role": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-09",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
     "company": "Intel",
     "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
     "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "AI/ML Researcher Intern",
+    "location": "Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Intern - AI Solutions",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-09",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Intern - Back End Technologies",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Software Developer Co-op/Intern - Core Algorithms",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-07",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
+    "company": "Mackenzie Investments",
+    "role": "Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-24"
