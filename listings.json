@@ -1,16 +1,5 @@
 [
   {
-    "company": "Aptiv",
-    "role": "Engineering Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010",
-    "date_posted": "2026-10-24",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "1Password",
     "role": "Developer Intern - Credential Brokering",
     "location": "Remote in USA; Remote in Canada",
@@ -4420,6 +4409,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Aptiv",
+    "role": "Engineering Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010",
+    "date_posted": "2026-10-24",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-24"
   },
   {
     "company": "Accenture",
