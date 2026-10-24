@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**401 open** · 198 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**402 open** · 199 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -33,6 +33,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Amazon | Applied Science Intern - PhD Student Science | Toronto, ON, Canada, Burnaby, BC, Canada, Pitt Meadows, BC, Canada +1 more | [Apply](https://amazon.jobs/en/jobs/10564588/2027-applied-science-internship-canada-phd-student-science-recruiting) | 2026-10-23 | – |
 | Amazon | Systems Development Engineer Intern | Vancouver, BC, Canada | [Apply](https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027) | 2026-10-23 | Summer 2027 |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Toronto, ON, Canada | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) | 2026-10-23 | Summer 2027 |
+| Aptiv | Cloud Software Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) | 2026-10-23 | – |
+| Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367) | 2026-10-23 | – |
 | Boson Ai | MScAC Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | 2026-10-23 | Summer 2027 |
 | Citi | Technology Analyst Intern - Application Development | Mississauga, ON, Canada | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) | 2026-10-23 | Summer 2027 |
 | GE Vernova | Product Management Intern | Markham, ON, Canada | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | 2026-10-23 | Summer 2027 |
@@ -264,7 +266,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | Software/Application Developer Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) | 2026-09-22 | Winter 2027 |
 | Danaher | Hardware Engineer Co-op | Concord, Vaughan, ON, Canada | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537) | 2026-09-22 | – |
 | Electronic Arts | AI Engineer Intern - Creative Innovations - Character Pipelines | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236) | 2026-09-22 | – |
-| Electronic Arts | Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222) | 2026-09-22 | Summer 2027 |
 | L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1432400300/?ats=successfactors) | 2026-09-22 | – |
 | TechInsights | Circuit Analysis Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/bKNlLKEsBR/Circuit-Analysis-Coop-Student-Winter-2027) | 2026-09-22 | Winter 2027 |
 | CAE | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | 2026-09-21 | – |
@@ -426,6 +427,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
 | Aptiv | 🔒 Engineering Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-24 | – |
+| Electronic Arts | 🔒 Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | 🔒 Closed | 2026-09-22 | Summer 2027 |
 | Intel | 🔒 GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
 | Accenture | 🔒 Canada Indigenous Technology Apprentice - Fnim | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada +1 more | 🔒 Closed | 2026-10-13 | – |
 | CAE | 🔒 Software Developer Intern - Operating System Image & Configuration | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
