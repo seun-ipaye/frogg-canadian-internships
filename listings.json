@@ -2013,17 +2013,6 @@
     "date_closed": null
   },
   {
-    "company": "Intel",
-    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "AI/ML Researcher Intern",
     "location": "Remote in Canada",
@@ -4418,6 +4407,17 @@
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010",
     "date_posted": "2026-10-24",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-24"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-24"
   },
