@@ -416,6 +416,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Astera Labs | Firmware Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) | 2026-06-02 | – |
 | Magna | Junior Full Stack Developer Co-op | Oakville, ON, Canada | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | 2026-05-30 | – |
 | Nuclear Promise X | Software Developer Intern - Digital Transformation | Canada | [Apply](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/application) | 2026-05-19 | Fall 2026 |
+| Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | Toronto, ON, Canada, NYC | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-05-16 | – |
 | Corpay | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866) | 2026-05-16 | – |
 | Cohere | Machine Learning Intern/Co-op | Canada, United Kingdom, United States | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) | 2026-05-13 | Fall 2026 |
 | Acceldata | Field Engineering Co-op | Kitchener, ON, Canada | [Apply](https://jobs.lever.co/acceldata/d69a1a62-284c-47d1-b74f-ea02dffad32f/apply) | 2026-05-09 | Fall 2026 |
@@ -425,7 +426,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 2026-05-01 | Fall 2026 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
-| Brookfield | Artificial Intelligence Intern - Renewable Power & Transition | NYC, Toronto, ON, Canada | [Apply](https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/New-York-New-York/Artificial-Intelligence-Intern--Renewable-Power---Transition_R2048741) | 2026-02-25 | – |
 | Accenture | 🔒 Canada Indigenous Technology Apprentice - Fnim | Toronto, ON, Canada, Calgary, AB, Canada, Ottawa, ON, Canada +1 more | 🔒 Closed | 2026-10-13 | – |
 | CAE | 🔒 Software Developer Intern - Operating System Image & Configuration | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | Ciena | 🔒 Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
