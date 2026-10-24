@@ -2783,17 +2783,6 @@
     "date_closed": null
   },
   {
-    "company": "Sun Life",
-    "role": "Full Stack Developer Intern",
-    "location": "Toronto, ON, Canada; Waterford, Ireland",
-    "term": "Unspecified",
-    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "The Brattle Group",
     "role": "Energy Analyst Intern - Economics - Multiple Teams",
     "location": "Toronto, ON, Canada",
@@ -4614,6 +4603,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721143274",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-23"
+  },
+  {
+    "company": "Sun Life",
+    "role": "Full Stack Developer Intern",
+    "location": "Toronto, ON, Canada; Waterford, Ireland",
+    "term": "Unspecified",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897",
     "date_posted": "2026-09-18",
     "date_found": "2026-10-05",
     "status": "closed",
