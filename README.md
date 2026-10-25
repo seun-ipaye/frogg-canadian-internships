@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**398 open** · 206 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**395 open** · 209 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -131,13 +131,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, SF, Pittsburgh, PA | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | 2026-10-16 | Summer 2027 |
 | Ciena | Embedded Software Developer Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | 2026-10-15 | Winter 2027 |
 | Intel | Compiler Engineer Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | 2026-10-15 | – |
-| Interac | Product Intern - Money Movement | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386) | 2026-10-15 | Winter 2027 |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | 2026-10-15 | Winter 2027 |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) | 2026-10-15 | – |
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) | 2026-10-15 | – |
 | Astera Labs | Firmware Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | 2026-10-14 | Winter 2027 |
-| Interac | Business Systems & AI Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393) | 2026-10-14 | Winter 2027 |
-| Interac | Payments Product Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389) | 2026-10-14 | Winter 2027 |
 | Interac | Technical Analyst Intern | Toronto, ON, Canada | [Apply](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394) | 2026-10-14 | Winter 2027 |
 | Kensington | Analytics Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007) | 2026-10-14 | – |
 | Later | Data Science Co-op | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8889650002) | 2026-10-14 | Winter 2027 |
@@ -422,6 +419,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 2026-05-01 | Fall 2026 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
+| Interac | 🔒 Business Systems & AI Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
+| Interac | 🔒 Payments Product Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
+| Interac | 🔒 Product Intern - Money Movement | Toronto, ON, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
 | Aptiv | 🔒 Engineering Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-24 | – |
 | Atlassian | 🔒 Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | 🔒 Closed | 2026-09-03 | Summer 2027 |
 | Electronic Arts | 🔒 Rendering Engineer Intern - Apex Legends | Vancouver, BC, Canada | 🔒 Closed | 2026-09-22 | Summer 2027 |

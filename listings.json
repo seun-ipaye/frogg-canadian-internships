@@ -1177,17 +1177,6 @@
     "date_closed": null
   },
   {
-    "company": "Interac",
-    "role": "Product Intern - Money Movement",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Embedded C/C++ Software Developer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -1228,28 +1217,6 @@
     "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005",
     "date_posted": "2026-10-14",
     "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Interac",
-    "role": "Business Systems & AI Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Interac",
-    "role": "Payments Product Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-15",
     "status": "open",
     "date_closed": null
   },
@@ -4376,6 +4343,39 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Interac",
+    "role": "Business Systems & AI Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-25"
+  },
+  {
+    "company": "Interac",
+    "role": "Payments Product Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Payments-Product-intern_REQ-2389",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-25"
+  },
+  {
+    "company": "Interac",
+    "role": "Product Intern - Money Movement",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2386",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-10-25"
   },
   {
     "company": "Aptiv",
