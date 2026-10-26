@@ -2178,17 +2178,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Firmware Engineer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Montreal Institute for Learning Algorithms",
     "role": "AI Safety Research Intern - AI Safety",
     "location": "Montreal, QC, Canada",
@@ -3575,17 +3564,6 @@
     "date_closed": null
   },
   {
-    "company": "Amgen",
-    "role": "Business Analyst Co-op",
-    "location": "Burnaby, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807",
-    "date_posted": "2026-09-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CAE",
     "role": "Software Engineering Intern - AI, Automation and Business Intelligence",
     "location": "Montreal, QC, Canada",
@@ -3802,17 +3780,6 @@
     "link": "https://jobs.smartrecruiters.com/GDMSI/744000146822449",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Geotab",
-    "role": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
-    "location": "Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-14",
     "status": "open",
     "date_closed": null
   },
@@ -4422,6 +4389,17 @@
     "date_closed": null
   },
   {
+    "company": "Amgen",
+    "role": "Business Analyst Co-op",
+    "location": "Burnaby, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807",
+    "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
     "company": "AstraZeneca",
     "role": "Patient Data Insights Intern",
     "location": "Mississauga, ON, Canada",
@@ -4440,6 +4418,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
     "date_posted": "2026-09-22",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Geotab",
+    "role": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-14",
     "status": "closed",
     "date_closed": "2026-10-26"
   },
@@ -4494,6 +4483,17 @@
     "term": "Unspecified",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
     "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Marvell",
+    "role": "Firmware Engineer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-26"
