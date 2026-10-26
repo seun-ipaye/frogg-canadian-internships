@@ -847,17 +847,6 @@
     "date_closed": null
   },
   {
-    "company": "AstraZeneca",
-    "role": "Patient Data Insights Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Analytics Co-op",
     "location": "Toronto, ON, Canada",
@@ -1695,17 +1684,6 @@
   },
   {
     "company": "Manulife Financial",
-    "role": "Grit Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Manulife Financial",
     "role": "Product Management & Risk Technology Intern",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -2321,17 +2299,6 @@
     "date_closed": null
   },
   {
-    "company": "Intuit",
-    "role": "Software Developer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Operations Analytics Co-op Intern - Intern",
     "location": "Ottawa, ON, Canada",
@@ -2591,17 +2558,6 @@
     "term": "Unspecified",
     "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708",
     "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CIBC",
-    "role": "Software/Application Developer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
-    "date_posted": "2026-09-22",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -4048,17 +4004,6 @@
     "date_closed": null
   },
   {
-    "company": "Ribbon",
-    "role": "UI Engineer Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965",
-    "date_posted": "2026-06-30",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Analog Engineer Intern - PhD",
     "location": "Toronto, ON, Canada",
@@ -4343,6 +4288,61 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AstraZeneca",
+    "role": "Patient Data Insights Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "CIBC",
+    "role": "Software/Application Developer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Intuit",
+    "role": "Software Developer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Grit Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Ribbon",
+    "role": "UI Engineer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965",
+    "date_posted": "2026-06-30",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-26"
   },
   {
     "company": "Interac",
