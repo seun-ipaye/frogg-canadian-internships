@@ -56,6 +56,17 @@
   },
   {
     "company": "CIBC",
+    "role": "AI Scientist Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
     "role": "Business Analyst Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -67,10 +78,32 @@
   },
   {
     "company": "CIBC",
+    "role": "Business Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
     "role": "Governance Solutions Analyst Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Governance Solutions Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -302,6 +335,39 @@
     "location": "Montreal, QC, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern - Android",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern - Server",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Sun Life",
+    "role": "Software Engineer Co-op - Security",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -3890,6 +3956,17 @@
     "link": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true",
     "date_posted": "2026-08-27",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Alberta Investment Management Corporation",
+    "role": "Quantitative Analytics & Reporting Intern",
+    "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
+    "date_posted": "2026-08-26",
+    "date_found": "2026-10-26",
     "status": "open",
     "date_closed": null
   },

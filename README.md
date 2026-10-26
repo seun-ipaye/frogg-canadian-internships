@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**406 open** · 227 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**413 open** · 227 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -29,8 +29,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | 2026-10-26 | Summer 2027 |
 | Autodesk | Product Manager Intern - Manufacturing | Toronto, ON, Canada | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management---Manufacturing_26WD101861-2) | 2026-10-26 | Winter 2027 |
 | CIBC | AI Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) | 2026-10-26 | – |
+| CIBC | AI Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1) | 2026-10-26 | – |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) | 2026-10-26 | – |
+| CIBC | Business Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1) | 2026-10-26 | – |
 | CIBC | Governance Solutions Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-1) | 2026-10-26 | – |
+| CIBC | Governance Solutions Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2) | 2026-10-26 | – |
 | Royal Bank of Canada | AI & Stress Testing Analytics Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3) | 2026-10-26 | Winter 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Halifax Regional Municipality, NS, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Data-Engineer--RBC-Amplify-2027--Halifax_R-0000191195-1) | 2026-10-26 | Summer 2027 |
@@ -52,6 +55,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern - RBC Amplify | Montreal, QC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) | 2026-10-26 | Summer 2027 |
+| SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) | 2026-10-26 | Summer 2027 |
+| SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) | 2026-10-26 | Summer 2027 |
+| Sun Life | Software Engineer Co-op - Security | Toronto, ON, Canada | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065) | 2026-10-26 | Winter 2027 |
 | Intuit | Software Developer Co-op - Front End | Toronto, ON, Canada | [Apply](https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392) | 2026-10-25 | Winter 2027 |
 | 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 2026-10-23 | Winter 2027 |
 | 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 2026-10-23 | Winter 2027 |
@@ -378,6 +384,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | RTX | Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035) | 2026-09-01 | Winter 2027 |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | 2026-09-01 | Winter 2027 |
 | AMI | Computer Vision Scientist Intern - Geometry and 3D Vision | Montreal, QC, Canada, Paris, France, NYC | [Apply](https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true) | 2026-08-27 | Fall 2026 |
+| Alberta Investment Management Corporation | Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891) | 2026-08-26 | – |
 | Elk Valley Resources | Geographic Information Systems Co-op | Calgary, AB, Canada | [Apply](https://jobs.lever.co/evr/5e458beb-48ae-4035-b9d2-684047241896/apply) | 2026-08-26 | Summer 2027 |
 | Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | 2026-08-24 | Summer 2027 |
 | Kepler Communications | Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | 2026-08-19 | Winter 2027 |
