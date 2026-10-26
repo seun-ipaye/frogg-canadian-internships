@@ -451,17 +451,6 @@
     "date_closed": null
   },
   {
-    "company": "TD Bank",
-    "role": "Life & Health Product Management Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TELUS Digital",
     "role": "Software Engineering Intern Co-op",
     "location": "Vancouver, BC, Canada",
@@ -4505,6 +4494,17 @@
     "term": "Unspecified",
     "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965",
     "date_posted": "2026-06-30",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "TD Bank",
+    "role": "Life & Health Product Management Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721",
+    "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-10-26"
