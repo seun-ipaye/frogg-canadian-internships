@@ -1100,17 +1100,6 @@
     "date_closed": null
   },
   {
-    "company": "KPMG",
-    "role": "AI Builder Intern/Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://careers.kpmg.ca/jobs/34407?icims=1",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Moment Energy",
     "role": "Test Engineering Co-op",
     "location": "Surrey, BC, Canada",
@@ -4308,6 +4297,17 @@
     "link": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-4-or-8-months/27595/101130613680",
     "date_posted": "2026-09-25",
     "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "KPMG",
+    "role": "AI Builder Intern/Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.kpmg.ca/jobs/34407?icims=1",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
     "status": "closed",
     "date_closed": "2026-10-26"
   },
