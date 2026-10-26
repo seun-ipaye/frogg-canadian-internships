@@ -2145,17 +2145,6 @@
     "date_closed": null
   },
   {
-    "company": "Montreal Institute for Learning Algorithms",
-    "role": "AI Safety Research Intern - AI Safety",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://apply.workable.com/mila-2/j/1E81635604/apply",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Automation Engineer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -4482,6 +4471,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Montreal Institute for Learning Algorithms",
+    "role": "AI Safety Research Intern - AI Safety",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://apply.workable.com/mila-2/j/1E81635604/apply",
     "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
