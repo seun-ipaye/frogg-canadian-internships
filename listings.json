@@ -3520,17 +3520,6 @@
     "date_closed": null
   },
   {
-    "company": "Loblaw Companies",
-    "role": "Technology Transformation Co-op - Technology Transformation",
-    "location": "Brampton, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Brave",
     "role": "Software Engineer Intern - Waterloo University",
     "location": "Remote in Canada",
@@ -4550,6 +4539,17 @@
     "link": "https://jobs.smartrecruiters.com/GDMSI/744000147537709",
     "date_posted": "2026-09-04",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Technology Transformation Co-op - Technology Transformation",
+    "location": "Brampton, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-26",
     "status": "closed",
     "date_closed": "2026-10-27"
   },
