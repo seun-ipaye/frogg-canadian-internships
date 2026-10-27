@@ -3081,17 +3081,6 @@
   },
   {
     "company": "Farm Credit Canada",
-    "role": "Data Analyst Student - Business Reporting",
-    "location": "Regina, SK, Canada",
-    "term": "Unspecified",
-    "link": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Farm Credit Canada",
     "role": "Data Analyst Student - Valuations",
     "location": "Drummondville, QC, Canada; Montreal, QC, Canada; Winnipeg, MB, Canada; Edmonton, AB, Canada; Regina, SK, Canada; Essex, ON, Canada; Rivière-du-Loup, QC, Canada",
     "term": "Unspecified",
@@ -4519,6 +4508,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Farm Credit Canada",
+    "role": "Data Analyst Student - Business Reporting",
+    "location": "Regina, SK, Canada",
+    "term": "Unspecified",
+    "link": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-27"
   },
   {
     "company": "TD Bank",
