@@ -3619,17 +3619,6 @@
     "date_closed": null
   },
   {
-    "company": "RTX",
-    "role": "Performance Indicator Development and Process and Project Management Internship",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CAE",
     "role": "Software Engineering Intern - AI, Automation and Business Intelligence",
     "location": "Montreal, QC, Canada",
@@ -4550,6 +4539,17 @@
     "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "RTX",
+    "role": "Performance Indicator Development and Process and Project Management Internship",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-d-indicateurs-de-performance-et-gestion-des-processus-et-projets---Internship---Winter-2027--Development-of-Performance-Indicators-and-Process-and-Project-Management_01867284",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-20",
     "status": "closed",
     "date_closed": "2026-10-27"
   },
