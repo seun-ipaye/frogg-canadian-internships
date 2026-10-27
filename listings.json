@@ -1155,17 +1155,6 @@
     "date_closed": null
   },
   {
-    "company": "TD Bank",
-    "role": "Wealth Operations Automation Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Accenture",
     "role": "MES & Supply Chain Systems Co-op Analyst",
     "location": "Toronto, ON, Canada",
@@ -4530,6 +4519,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "TD Bank",
+    "role": "Wealth Operations Automation Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-27"
   },
   {
     "company": "1Password",
