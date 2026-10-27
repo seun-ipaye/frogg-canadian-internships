@@ -902,17 +902,6 @@
     "date_closed": null
   },
   {
-    "company": "Nutanix",
-    "role": "Software Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "AI and DSP Applications Engineer Intern",
     "location": "Markham, ON, Canada",
@@ -2458,17 +2447,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Systems Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors",
     "date_posted": "2026-09-29",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4543,6 +4521,17 @@
     "date_closed": "2026-10-27"
   },
   {
+    "company": "L3Harris Technologies",
+    "role": "Systems Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Systems-Engineering-Test-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1434804100/?ats=successfactors",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
     "company": "Loblaw Companies",
     "role": "Technology Transformation Co-op - Technology Transformation",
     "location": "Brampton, ON, Canada",
@@ -4550,6 +4539,17 @@
     "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "Nutanix",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-10-27"
   },
