@@ -3553,17 +3553,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Developer & IT Specialist Co-op - Global Asset Management",
-    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "AMD",
     "role": "ASIC Verification Engineer Intern/Co-op",
     "location": "Ottawa, ON, Canada",
@@ -4538,6 +4527,17 @@
     "term": "Winter 2027",
     "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
     "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer & IT Specialist Co-op - Global Asset Management",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669",
+    "date_posted": "2026-09-04",
     "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-10-27"
