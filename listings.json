@@ -44,17 +44,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "Product Manager Intern - Manufacturing",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management---Manufacturing_26WD101861-2",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "AI Scientist Co-op",
     "location": "Toronto, ON, Canada",
@@ -115,17 +104,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "AI & Stress Testing Analytics Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -1096,17 +1074,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721661830",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Altera",
-    "role": "FPGA IP Design Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
     "status": "open",
     "date_closed": null
   },
@@ -4576,6 +4543,17 @@
     "date_closed": "2026-10-26"
   },
   {
+    "company": "Altera",
+    "role": "FPGA IP Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
     "company": "Amgen",
     "role": "Business Analyst Co-op",
     "location": "Burnaby, BC, Canada",
@@ -4594,6 +4572,17 @@
     "link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/Patient-Data-Insights-Intern_R-262150",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Autodesk",
+    "role": "Product Manager Intern - Manufacturing",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Product-Management---Manufacturing_26WD101861-2",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
     "status": "closed",
     "date_closed": "2026-10-26"
   },
@@ -4737,6 +4726,17 @@
     "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965",
     "date_posted": "2026-06-30",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-10-26"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "AI & Stress Testing Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
     "status": "closed",
     "date_closed": "2026-10-26"
   },
