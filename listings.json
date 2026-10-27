@@ -1397,17 +1397,6 @@
     "date_closed": null
   },
   {
-    "company": "Behaviour Interactive",
-    "role": "Product Management Intern - 7 Days to Die",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "AI/ML Software Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -3597,17 +3586,6 @@
     "date_closed": null
   },
   {
-    "company": "General Dynamics UK",
-    "role": "Systems Engineering Co-op - TacNET 8",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.smartrecruiters.com/GDMSI/744000147537709",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Royal Bank of Canada",
     "role": "Developer & IT Specialist Co-op - Global Asset Management",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
@@ -3635,17 +3613,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.smartrecruiters.com/GDMSI/744000147019949",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "General Dynamics UK",
-    "role": "Software Engineering Co-op - Months",
-    "location": "Calgary, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.smartrecruiters.com/GDMSI/744000147563929",
     "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4532,6 +4499,17 @@
     "date_closed": null
   },
   {
+    "company": "Behaviour Interactive",
+    "role": "Product Management Intern - 7 Days to Die",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
     "company": "Farm Credit Canada",
     "role": "Data Analyst Student - Business Reporting",
     "location": "Regina, SK, Canada",
@@ -4550,6 +4528,28 @@
     "link": "https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821",
     "date_posted": "2026-09-16",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "General Dynamics UK",
+    "role": "Software Engineering Co-op - Months",
+    "location": "Calgary, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.smartrecruiters.com/GDMSI/744000147563929",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "General Dynamics UK",
+    "role": "Systems Engineering Co-op - TacNET 8",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.smartrecruiters.com/GDMSI/744000147537709",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-10-27"
   },
