@@ -354,17 +354,6 @@
   {
     "company": "Royal Bank of Canada",
     "role": "Developer Intern",
-    "location": "Bedford, NS, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1",
@@ -4693,6 +4682,17 @@
     "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669",
     "date_posted": "2026-09-04",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-27"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Bedford, NS, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
     "status": "closed",
     "date_closed": "2026-10-27"
   },
