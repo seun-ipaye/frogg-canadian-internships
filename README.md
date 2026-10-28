@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**413 open** · 249 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**412 open** · 250 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -316,7 +316,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Altera | Quartus Compiler Software Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108) | 2026-09-15 | – |
 | DoorDash | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) | 2026-09-15 | Summer 2027 |
 | Equitable Bank | Credit Risk Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) | 2026-09-15 | Winter 2027 |
-| Equitable Bank | Data Scientist Intern - Winter 2027 | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply) | 2026-09-15 | Winter 2027 |
 | L3Harris Technologies | FPGA Designer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127300/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | FPGA Software Tool Developer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127100/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | Full Stack Developer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) | 2026-09-15 | – |
@@ -439,6 +438,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
 | CIBC | 🔒 Governance Solutions Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
 | CIBC | 🔒 Governance Solutions Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
+| Equitable Bank | 🔒 Data Scientist Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
 | Lumentum | 🔒 Reliability Test Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Data Engineer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |

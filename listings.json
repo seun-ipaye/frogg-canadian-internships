@@ -3212,17 +3212,6 @@
     "date_closed": null
   },
   {
-    "company": "Equitable Bank",
-    "role": "Data Scientist Intern - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "L3Harris Technologies",
     "role": "FPGA Designer Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
@@ -4561,6 +4550,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-10-28"
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Data Scientist Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/b152bad3-df48-4049-9d44-ba7e57ea6499/apply",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-28"
   },
