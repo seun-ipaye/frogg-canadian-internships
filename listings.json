@@ -1430,17 +1430,6 @@
     "date_closed": null
   },
   {
-    "company": "Altera",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "BC Pensions",
     "role": "Application Developer Co-op",
     "location": "Victoria, BC, Canada",
@@ -4530,6 +4519,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03320",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-28"
   },
   {
     "company": "CIBC",
