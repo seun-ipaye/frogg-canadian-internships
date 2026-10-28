@@ -2563,17 +2563,6 @@
     "date_closed": null
   },
   {
-    "company": "Lumentum",
-    "role": "Reliability Test Automation Engineer Co-op Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Signal Integrity Intern Co-op",
     "location": "Toronto, ON, Canada",
@@ -4572,6 +4561,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-10-28"
+  },
+  {
+    "company": "Lumentum",
+    "role": "Reliability Test Automation Engineer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Reliability-Test-Automation-Engineer--Co-op-Intern-_20261382",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-10-28"
   },
