@@ -1,5 +1,16 @@
 [
   {
+    "company": "Manulife Financial",
+    "role": "Operations & Data Analyst Co-op",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
+    "date_posted": "2026-10-28",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "NUVACORE",
     "role": "CPU Software Intern",
     "location": "Markham, ON, Canada",
@@ -7,6 +18,28 @@
     "link": "https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply",
     "date_posted": "2026-10-28",
     "date_found": "2026-10-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Camera Design Engineering Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721829439",
+    "date_posted": "2026-10-28",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Deep Learning Research Intern - Interim Engineering Intern - Systems",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721828828",
+    "date_posted": "2026-10-28",
+    "date_found": "2026-10-28",
     "status": "open",
     "date_closed": null
   },
@@ -3575,6 +3608,17 @@
     "date_closed": null
   },
   {
+    "company": "TD Bank",
+    "role": "Data Engineer Intern/Co-op - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Brave",
     "role": "Software Engineer Intern - Waterloo University",
     "location": "Remote in Canada",
@@ -3956,6 +4000,28 @@
     "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
     "date_posted": "2026-08-26",
     "date_found": "2026-10-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CCLIM - Quantitative Equity",
+    "role": "Quantitative Equity Analyst Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383968009",
+    "date_posted": "2026-08-26",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CCLIM - Quantitative Equity",
+    "role": "Quantitative Equity Developer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383943009",
+    "date_posted": "2026-08-26",
+    "date_found": "2026-10-28",
     "status": "open",
     "date_closed": null
   },
@@ -4495,6 +4561,17 @@
     "link": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application",
     "date_posted": "2026-05-01",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CCLIM - Quantitative Equity",
+    "role": "Quantitative Equity Alpha Research Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009",
+    "date_posted": "2026-04-21",
+    "date_found": "2026-10-28",
     "status": "open",
     "date_closed": null
   },
