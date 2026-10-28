@@ -253,17 +253,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Governance Solutions Analyst Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Royal Bank of Canada",
     "role": "Data Engineer Intern",
     "location": "Calgary, AB, Canada",
@@ -4596,6 +4585,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Governance Solutions Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Governance-Solutions-Analyst-Co-op_2622047-2",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-10-28"
   },
   {
     "company": "Altera",
