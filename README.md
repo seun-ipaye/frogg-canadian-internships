@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**415 open** · 244 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**418 open** · 244 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -162,6 +162,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) | 2026-10-16 | Winter 2027 |
 | Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | 2026-10-16 | Summer 2027 |
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | 2026-10-16 | Summer 2027 |
+| General Magic | AI Engineer Co-op | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) | 2026-10-16 | – |
+| General Magic | Backend Engineer Co-op | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true) | 2026-10-16 | – |
+| General Magic | Design Engineer Co-op | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) | 2026-10-16 | – |
 | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) | 2026-10-16 | Winter 2027 |
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) | 2026-10-16 | – |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) | 2026-10-16 | Summer 2027 |
