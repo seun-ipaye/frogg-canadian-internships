@@ -1551,6 +1551,17 @@
     "date_closed": null
   },
   {
+    "company": "Capital de Recherche Tower",
+    "role": "Machine Learning Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://www.tower-research.ca/postes-vacants/?gh_jid=8286965",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Ciena",
     "role": "Embedded Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -3131,6 +3142,17 @@
     "link": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
     "date_posted": "2026-09-17",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Capital de Recherche Tower",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-29",
     "status": "open",
     "date_closed": null
   },
