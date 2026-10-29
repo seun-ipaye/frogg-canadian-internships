@@ -1,5 +1,38 @@
 [
   {
+    "company": "Bank of Montreal",
+    "role": "Quantitative Trading Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "AI Developer Co-op - Bilingual",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Analyst Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Cenovus Energy",
     "role": "Student Risk Analytics Intern",
     "location": "Calgary, AB, Canada",
@@ -1540,6 +1573,28 @@
     "date_closed": null
   },
   {
+    "company": "SiTime",
+    "role": "ASIC Digital Verification Engineer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4452852009",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SiTime",
+    "role": "ASIC Digital Verification Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Waabi",
     "role": "Safety Methodologies Intern Co-op",
     "location": "Toronto, ON, Canada; SF; Pittsburgh, PA",
@@ -2383,6 +2438,17 @@
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TobogganLabs",
+    "role": "Data Science Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003",
+    "date_posted": "2026-10-04",
+    "date_found": "2026-10-29",
     "status": "open",
     "date_closed": null
   },
