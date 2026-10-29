@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**436 open** · 256 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**435 open** · 257 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -27,7 +27,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | 2026-10-29 | Summer 2027 |
 | CIBC | AI Developer Co-op - Bilingual | Montreal, QC, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) | 2026-10-29 | Winter 2027 |
 | CIBC | Analyst Co-op | Montreal, QC, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369) | 2026-10-29 | Winter 2027 |
-| Royal Bank of Canada | Model Risk Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3) | 2026-10-29 | Winter 2027 |
 | Cenovus Energy | Student Risk Analytics Intern | Calgary, AB, Canada | [Apply](https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263) | 2026-10-28 | Summer 2027 |
 | Manulife Financial | Operations & Data Analyst Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348) | 2026-10-28 | – |
 | NUVACORE | CPU Software Intern | Markham, ON, Canada | [Apply](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) | 2026-10-28 | – |
@@ -461,6 +460,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
 | Definity Financial | 🔒 Business Intelligence Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
+| Royal Bank of Canada | 🔒 Model Risk Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
 | Altera | 🔒 Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
 | CIBC | 🔒 Governance Solutions Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
