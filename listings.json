@@ -1001,17 +1001,6 @@
     "date_closed": null
   },
   {
-    "company": "Nutanix",
-    "role": "Software Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "AI and DSP Applications Engineer Intern",
     "location": "Markham, ON, Canada",
@@ -1545,17 +1534,6 @@
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721615591",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Synopsys",
-    "role": "Technical-Engineering Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://synopsys.avature.net/careers/JobDetail/19195",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
     "status": "open",
@@ -4719,6 +4697,17 @@
     "date_closed": "2026-10-28"
   },
   {
+    "company": "Nutanix",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-10-28"
+  },
+  {
     "company": "Royal Bank of Canada",
     "role": "Data Engineer Intern",
     "location": "Halifax Regional Municipality, NS, Canada",
@@ -4737,6 +4726,17 @@
     "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-10-28"
+  },
+  {
+    "company": "Synopsys",
+    "role": "Technical-Engineering Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://synopsys.avature.net/careers/JobDetail/19195",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
     "status": "closed",
     "date_closed": "2026-10-28"
   },

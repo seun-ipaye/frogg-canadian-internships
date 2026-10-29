@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**422 open** · 253 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**420 open** · 255 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -115,7 +115,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Intel | Compiler Engineering Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933) | 2026-10-22 | – |
 | Kensington | Marketing Analytics Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007) | 2026-10-22 | – |
 | KRAFTON | UI Programming Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) | 2026-10-22 | – |
-| Nutanix | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false) | 2026-10-22 | Winter 2027 |
 | Qualcomm | AI and DSP Applications Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721686396) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) | 2026-10-22 | Summer 2027 |
@@ -165,7 +164,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) | 2026-10-16 | Winter 2027 |
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) | 2026-10-16 | – |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) | 2026-10-16 | Summer 2027 |
-| Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19195) | 2026-10-16 | Summer 2027 |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, SF, Pittsburgh, PA | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | 2026-10-16 | Summer 2027 |
 | Ciena | Embedded Software Developer Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | 2026-10-15 | Winter 2027 |
 | Intel | Compiler Engineer Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | 2026-10-15 | – |
@@ -453,8 +451,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Equitable Bank | 🔒 Data Scientist Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
 | Kepler Communications | 🔒 Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
 | Lumentum | 🔒 Reliability Test Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
+| Nutanix | 🔒 Software Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Data Engineer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
+| Synopsys | 🔒 Technical-Engineering Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Texas Instruments | 🔒 Software Engineer Intern | Toronto, ON, Canada, Canada | 🔒 Closed | 2026-10-22 | – |
 | Altera | 🔒 Quartus User Interface Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | – |
 | Amazon | 🔒 Systems Development Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
