@@ -2277,6 +2277,17 @@
     "date_closed": null
   },
   {
+    "company": "Coveo",
+    "role": "Software Developer Intern - Solutions Engineering Core Team",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Lumentum",
     "role": "Embedded Software Engineer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -2464,6 +2475,28 @@
     "date_closed": null
   },
   {
+    "company": "Coveo",
+    "role": "Corporate Business Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Coveo",
+    "role": "Corporate Business Intelligence Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Intel",
     "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -2592,6 +2625,28 @@
     "link": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329",
     "date_posted": "2026-09-29",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Coveo",
+    "role": "Frontend Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-28",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Coveo",
+    "role": "Frontend Developer Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-28",
     "status": "open",
     "date_closed": null
   },

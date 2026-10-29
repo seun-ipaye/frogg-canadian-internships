@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**418 open** · 252 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**423 open** · 252 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -231,6 +231,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CAE | Artificial Intelligence Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) | 2026-10-06 | – |
 | CAE | Data Specialist Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) | 2026-10-06 | – |
 | CAE | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | 2026-10-06 | – |
+| Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) | 2026-10-06 | Winter 2027 |
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
 | McKesson | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) | 2026-10-06 | – |
 | MistyWest | Engineering Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | 2026-10-06 | Winter 2027 |
@@ -248,6 +249,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Marvell | Firmware Engineer Intern | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | 2026-10-02 | Winter 2027 |
 | Nokia | Automation Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | 2026-10-02 | Winter 2027 |
 | Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | 2026-10-02 | – |
+| Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) | 2026-10-01 | Winter 2027 |
+| Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) | 2026-10-01 | Winter 2027 |
 | Intel | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | 2026-10-01 | – |
 | Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | 2026-10-01 | Winter 2027 |
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) | 2026-10-01 | – |
@@ -260,6 +263,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254800/?ats=successfactors) | 2026-09-30 | – |
 | Electronic Arts | AI Engineer Intern - AI Platform | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223) | 2026-09-29 | – |
 | Foresters Financial | Software Engineer Co-op Student | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto/Software-Engineer-Co-op-Student--4-months-contract-_R-2329) | 2026-09-29 | – |
+| Coveo | Frontend Developer Intern | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002) | 2026-09-28 | Winter 2027 |
+| Coveo | Frontend Developer Intern | Québec City, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002) | 2026-09-28 | Winter 2027 |
 | Marvell | Signal Integrity Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/CA-ON---Toronto---TOR/Hardware-Validation-Intern--MS---2027-Co-Op_2603755) | 2026-09-28 | Fall 2027 |
 | Qualcomm | Silicon Engineering Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302528) | 2026-09-28 | Summer 2027 |
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471) | 2026-09-28 | Summer 2027 |
