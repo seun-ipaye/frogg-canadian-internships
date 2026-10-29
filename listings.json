@@ -1,5 +1,16 @@
 [
   {
+    "company": "Altera",
+    "role": "Software Engineer Intern - Factory Apps",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Bank of Montreal",
     "role": "Quantitative Trading Analyst Co-op",
     "location": "Toronto, ON, Canada",
@@ -27,6 +38,72 @@
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Embedded Software Engineer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Characterization Automation Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "AI Software Engineering Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721862429",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "AI Software Systems Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721862430",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Deep Learning Research Intern - Embodied AI - Interim Engineering Intern - Systems",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721858024",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Sun Life",
+    "role": "Data Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
     "status": "open",
@@ -2772,17 +2849,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Hardware Design and Verification Intern - PCBA",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Operations Analytics Co-op Intern - Intern",
     "location": "Ottawa, ON, Canada",
@@ -4748,6 +4814,17 @@
     "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373-1",
     "date_posted": "2026-10-07",
     "date_found": "2026-10-07",
+    "status": "closed",
+    "date_closed": "2026-10-29"
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Design and Verification Intern - PCBA",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-29"
   },
