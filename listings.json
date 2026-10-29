@@ -3104,17 +3104,6 @@
   {
     "company": "Connor, Clark & Lunn Financial Group",
     "role": "Investment Analytics Engineering Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Connor, Clark & Lunn Financial Group",
-    "role": "Investment Analytics Engineering Intern",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009",
@@ -4772,6 +4761,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Connor, Clark & Lunn Financial Group",
+    "role": "Investment Analytics Engineering Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-10-29"
   },
   {
     "company": "Definity Financial",
