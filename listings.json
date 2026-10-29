@@ -3773,17 +3773,6 @@
     "date_closed": null
   },
   {
-    "company": "TD Bank",
-    "role": "Data Engineer Intern/Co-op - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Brave",
     "role": "Software Engineer Intern - Waterloo University",
     "location": "Remote in Canada",
@@ -4803,6 +4792,17 @@
     "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-10-29"
+  },
+  {
+    "company": "TD Bank",
+    "role": "Data Engineer Intern/Co-op - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-Co-op---Intern---Winter-2027-_R_1509826",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-28",
     "status": "closed",
     "date_closed": "2026-10-29"
   },
