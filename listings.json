@@ -33,6 +33,17 @@
     "date_closed": null
   },
   {
+    "company": "Royal Bank of Canada",
+    "role": "Model Risk Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Model-Risk-Intern--4-Months-_R-0000185788-3",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Cenovus Energy",
     "role": "Student Risk Analytics Intern",
     "location": "Calgary, AB, Canada",
@@ -2090,6 +2101,28 @@
     "date_closed": null
   },
   {
+    "company": "ProCogia",
+    "role": "AI Applied & Agentic AI Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://procogia.com/about-us/careers/?gh_jid=5448664008",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "ProCogia",
+    "role": "LLM Research Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Fall 2026",
+    "link": "https://procogia.com/about-us/careers/?gh_jid=5448685008",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Workday",
     "role": "Machine Learning Engineer Intern",
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
@@ -3080,6 +3113,28 @@
     "date_closed": null
   },
   {
+    "company": "Connor, Clark & Lunn Financial Group",
+    "role": "Investment Analytics Engineering Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Connor, Clark & Lunn Financial Group",
+    "role": "Investment Analytics Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Amazon",
     "role": "Software Development Engineer Intern - Summer 2027",
     "location": "Vancouver, BC, Canada",
@@ -3547,17 +3602,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Definity Financial",
-    "role": "Business Intelligence Co-op",
-    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4191,6 +4235,17 @@
     "date_closed": null
   },
   {
+    "company": "Spaceium",
+    "role": "Electrical Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/spaceium/jobs/4368438009",
+    "date_posted": "2026-08-13",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "ResponsiveAds",
     "role": "Full-Stack Developer Intern - ResponsiveAds - Studio 4",
     "location": "Vancouver, BC, Canada",
@@ -4488,6 +4543,17 @@
     "date_closed": null
   },
   {
+    "company": "ProCogia",
+    "role": "Statistical Programming Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Fall 2026",
+    "link": "https://procogia.com/about-us/careers/?gh_jid=5265312008",
+    "date_posted": "2026-06-16",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Cadence Design Systems",
     "role": "Analog/Mixed-Signal IC Design Co-Op/Intern",
     "location": "Montreal, QC, Canada",
@@ -4583,6 +4649,17 @@
     "link": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793",
     "date_posted": "2026-05-30",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Spaceium",
+    "role": "Electrical Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/spaceium/jobs/4258525009",
+    "date_posted": "2026-05-25",
+    "date_found": "2026-10-29",
     "status": "open",
     "date_closed": null
   },
@@ -4717,6 +4794,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Definity Financial",
+    "role": "Business Intelligence Co-op",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-29"
   },
   {
     "company": "Altera",
