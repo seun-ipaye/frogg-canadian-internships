@@ -22,6 +22,17 @@
     "date_closed": null
   },
   {
+    "company": "Blackberry",
+    "role": "Application Engineering Student Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CIBC",
     "role": "AI Developer Co-op - Bilingual",
     "location": "Montreal, QC, Canada",
@@ -66,6 +77,17 @@
     "date_closed": null
   },
   {
+    "company": "Geotab",
+    "role": "Data Governance & Operations Data Analyst Intern",
+    "location": "Toronto, ON, Canada; Burnaby, BC, Canada; Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Qualcomm",
     "role": "AI Software Engineering Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -99,11 +121,55 @@
     "date_closed": null
   },
   {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Sun Life",
     "role": "Data Analyst Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Synopsys",
+    "role": "Technical Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://synopsys.avature.net/careers/JobDetail/19523",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "TMX Group",
+    "role": "Analyst – Market Insights Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Waterworth",
+    "role": "Computer Science Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/waterworth/j/D450C48C96/apply",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
     "status": "open",
@@ -1558,6 +1624,17 @@
     "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-15",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Behaviour Interactive",
+    "role": "Product Management Intern - 7 Days to Die",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
     "status": "open",
     "date_closed": null
   },
@@ -5034,17 +5111,6 @@
     "link": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-22",
-    "status": "closed",
-    "date_closed": "2026-10-27"
-  },
-  {
-    "company": "Behaviour Interactive",
-    "role": "Product Management Intern - 7 Days to Die",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
     "status": "closed",
     "date_closed": "2026-10-27"
   },
