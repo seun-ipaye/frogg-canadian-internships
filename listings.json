@@ -3421,17 +3421,6 @@
     "date_closed": null
   },
   {
-    "company": "Qualcomm",
-    "role": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721142985",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Tower Research Capital",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -4945,6 +4934,17 @@
     "term": "Winter 2027",
     "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351",
     "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-29"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721142985",
+    "date_posted": "2026-09-17",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-29"
