@@ -33,17 +33,6 @@
     "date_closed": null
   },
   {
-    "company": "Blackberry",
-    "role": "Application Engineering Student Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "AI Developer Co-op - Bilingual",
     "location": "Montreal, QC, Canada",
@@ -4869,6 +4858,17 @@
     "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
     "date_posted": "2026-10-07",
     "date_found": "2026-10-07",
+    "status": "closed",
+    "date_closed": "2026-10-30"
+  },
+  {
+    "company": "Blackberry",
+    "role": "Application Engineering Student Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
     "status": "closed",
     "date_closed": "2026-10-30"
   },
