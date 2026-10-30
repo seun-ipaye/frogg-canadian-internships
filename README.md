@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**444 open** · 268 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**443 open** · 269 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -135,7 +135,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) | 2026-10-22 | Summer 2027 |
 | RTX | Business Intelligence and Governance Analyst Intern | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337-1) | 2026-10-22 | Winter 2027 |
-| Synopsys | Technical-Engineering Intern | Markham, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19182) | 2026-10-22 | Summer 2027 |
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | 2026-10-22 | – |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | 2026-10-21 | – |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1) | 2026-10-21 | – |
@@ -472,6 +471,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Autodesk | 🔒 Research Intern - AI Research | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Summer 2027 |
 | Loblaw Companies | 🔒 Supply Chain Business Intelligence Co-op | Brampton, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
 | RTX | 🔒 Aerospace Engineering Intern - APU Programs Support | Longueuil, QC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
+| Synopsys | 🔒 Technical-Engineering Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | Altera | 🔒 Quartus Compiler Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | Autodesk | 🔒 Research Intern - AI Research | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Summer 2027 |
 | Ciena | 🔒 Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
