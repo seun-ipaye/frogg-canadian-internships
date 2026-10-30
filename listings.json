@@ -1,5 +1,38 @@
 [
   {
+    "company": "AltaLink",
+    "role": "Project Support Co-op",
+    "location": "Calgary, AB, Canada",
+    "term": "Fall 2027",
+    "link": "https://apply.workable.com/altalink/j/59D87FBB0C/apply",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Hardware Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CIBC",
     "role": "Project Analyst Co-op",
     "location": "Toronto, ON, Canada",
@@ -33,11 +66,66 @@
     "date_closed": null
   },
   {
+    "company": "Definity Financial",
+    "role": "Direct Channel Operations Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "NAV CANADA",
     "role": "Aviation Predictive Analytics Co-op",
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "OLG",
+    "role": "Front End Developer Student Intern",
+    "location": "Toronto, ON, Canada; Sault Ste. Marie, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Camera HW ASIC Verification Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721829462",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Camera Systems Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721876037",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721874877",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
     "status": "open",
@@ -104,6 +192,28 @@
     "location": "Ontario, Canada",
     "term": "Unspecified",
     "link": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Stripe",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://stripe.com/jobs/search?gh_jid=8333122",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Stripe",
+    "role": "PhD Machine Learning Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://stripe.com/jobs/search?gh_jid=8328664",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
     "status": "open",
@@ -1481,6 +1591,17 @@
     "link": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Accenture",
+    "role": "MES & Supply Chain Systems Co-op Analyst",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
     "status": "open",
     "date_closed": null
   },
@@ -4948,17 +5069,6 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
-  },
-  {
-    "company": "Accenture",
-    "role": "MES & Supply Chain Systems Co-op Analyst",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "closed",
-    "date_closed": "2026-10-30"
   },
   {
     "company": "Autodesk",

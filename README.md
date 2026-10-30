@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**450 open** · 271 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**461 open** · 270 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,16 +24,26 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| AltaLink | Project Support Co-op | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) | 2026-10-30 | Fall 2027 |
+| Altera | FPGA Development Tools Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394) | 2026-10-30 | – |
+| Altera | Hardware Design Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367) | 2026-10-30 | – |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) | 2026-10-30 | Winter 2027 |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) | 2026-10-30 | Winter 2027 |
 | Ciena | Mixed Signal Designer Intern | Remote in Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989) | 2026-10-30 | – |
+| Definity Financial | Direct Channel Operations Co-op Intern | Toronto, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) | 2026-10-30 | Winter 2027 |
 | NAV CANADA | Aviation Predictive Analytics Co-op | Ottawa, ON, Canada | [Apply](https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599) | 2026-10-30 | – |
+| OLG | Front End Developer Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665) | 2026-10-30 | Winter 2027 |
+| Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) | 2026-10-30 | Summer 2027 |
+| Qualcomm | Camera Systems Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) | 2026-10-30 | Summer 2027 |
+| Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) | 2026-10-30 | Winter 2027 |
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) | 2026-10-30 | Summer 2027 |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791) | 2026-10-30 | – |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792) | 2026-10-30 | – |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793) | 2026-10-30 | – |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794) | 2026-10-30 | – |
 | Revvity | Full-stack AI Developer Intern | Ontario, Canada | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795) | 2026-10-30 | – |
+| Stripe | Machine Learning Engineer Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) | 2026-10-30 | Summer 2027 |
+| Stripe | PhD Machine Learning Engineer Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) | 2026-10-30 | Summer 2027 |
 | Altera | Software Engineer Intern - Factory Apps | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) | 2026-10-29 | – |
 | Bank of Montreal | Quantitative Trading Analyst Co-op | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657) | 2026-10-29 | Summer 2027 |
 | CIBC | AI Developer Co-op - Bilingual | Montreal, QC, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) | 2026-10-29 | Winter 2027 |
@@ -159,6 +169,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Semtech | PCB Layout Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632) | 2026-10-20 | – |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604) | 2026-10-20 | – |
 | Steel | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | 2026-10-20 | Summer 2027 |
+| Accenture | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351) | 2026-10-19 | Winter 2027 |
 | CIBC | Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1) | 2026-10-19 | – |
 | CIBC | Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2) | 2026-10-19 | – |
 | CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) | 2026-10-19 | Winter 2027 |
@@ -474,7 +485,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Ernst & Young | Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques | Edmonton, AB, Canada | [Apply](https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | 2026-03-05 | Fall 2026 |
-| Accenture | 🔒 MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Autodesk | 🔒 Research Intern - AI Research | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Summer 2027 |
 | Blackberry | 🔒 Application Engineering Student Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-29 | – |
 | Loblaw Companies | 🔒 Supply Chain Business Intelligence Co-op | Brampton, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
