@@ -3839,17 +3839,6 @@
     "date_closed": null
   },
   {
-    "company": "Loblaw Companies",
-    "role": "Supply Chain Business Intelligence Co-op",
-    "location": "Brampton, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain-Business-Intelligence---Co-op-Student_R2000697069",
-    "date_posted": "2026-09-08",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Brave",
     "role": "Software Engineer Intern - Waterloo University",
     "location": "Remote in Canada",
@@ -4858,6 +4847,17 @@
     "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-30"
+  },
+  {
+    "company": "Loblaw Companies",
+    "role": "Supply Chain Business Intelligence Co-op",
+    "location": "Brampton, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain-Business-Intelligence---Co-op-Student_R2000697069",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-27",
     "status": "closed",
     "date_closed": "2026-10-30"
   },
