@@ -2332,17 +2332,6 @@
     "date_closed": null
   },
   {
-    "company": "Autodesk",
-    "role": "Research Intern - AI Research",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-10-07",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Varian",
     "role": "Software Developer Co-op",
     "location": "Winnipeg, MB, Canada",
@@ -3839,6 +3828,28 @@
     "date_closed": null
   },
   {
+    "company": "BitGo",
+    "role": "Product Management Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "BitGo",
+    "role": "Software Engineer Intern - Custody",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Brave",
     "role": "Software Engineer Intern - Waterloo University",
     "location": "Remote in Canada",
@@ -3912,6 +3923,28 @@
     "link": "https://careers.amd.com/jobs/91207?icims=1",
     "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "BitGo",
+    "role": "Software Engineer Intern - Prime Trade",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "BitGo",
+    "role": "Software Engineer Intern - Settlement Systems/Go Network",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-30",
     "status": "open",
     "date_closed": null
   },
@@ -4180,17 +4213,6 @@
     "date_closed": null
   },
   {
-    "company": "RTX",
-    "role": "Aerospace Engineering Intern - APU Programs Support",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-07",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Stripe",
     "role": "Software Engineer Intern - Summer or Winter",
     "location": "Toronto, ON, Canada",
@@ -4423,12 +4445,34 @@
   },
   {
     "company": "DRW",
+    "role": "AI/ML Research Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
+    "date_posted": "2026-07-13",
+    "date_found": "2026-10-30",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "DRW",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
     "term": "Summer 2028",
     "link": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
     "date_posted": "2026-07-13",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991197",
+    "date_posted": "2026-07-13",
+    "date_found": "2026-10-30",
     "status": "open",
     "date_closed": null
   },
@@ -4851,6 +4895,17 @@
     "date_closed": "2026-10-30"
   },
   {
+    "company": "Autodesk",
+    "role": "Research Intern - AI Research",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-10-07",
+    "status": "closed",
+    "date_closed": "2026-10-30"
+  },
+  {
     "company": "Loblaw Companies",
     "role": "Supply Chain Business Intelligence Co-op",
     "location": "Brampton, ON, Canada",
@@ -4858,6 +4913,17 @@
     "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain-Business-Intelligence---Co-op-Student_R2000697069",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-10-30"
+  },
+  {
+    "company": "RTX",
+    "role": "Aerospace Engineering Intern - APU Programs Support",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-30"
   },
