@@ -1760,17 +1760,6 @@
     "date_closed": null
   },
   {
-    "company": "Alliaxis",
-    "role": "Manufacturing Excellence Co-op Student",
-    "location": "Oakville, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "BC Pensions",
     "role": "Application Developer Co-op",
     "location": "Victoria, BC, Canada",
@@ -2845,17 +2834,6 @@
     "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
     "date_posted": "2026-10-01",
     "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Intel",
-    "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
   },
@@ -5071,12 +5049,34 @@
     "date_closed": "2026-10-31"
   },
   {
+    "company": "Alliaxis",
+    "role": "Manufacturing Excellence Co-op Student",
+    "location": "Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-10-31"
+  },
+  {
     "company": "Intel",
     "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
     "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-10-31"
+  },
+  {
+    "company": "Intel",
+    "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "date_posted": "2026-10-01",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-31"

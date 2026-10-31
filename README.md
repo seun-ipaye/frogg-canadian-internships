@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**460 open** · 275 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**458 open** · 277 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -184,7 +184,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) | 2026-10-19 | Summer 2027 |
 | Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636765) | 2026-10-19 | Summer 2027 |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) | 2026-10-19 | Summer 2027 |
-| Alliaxis | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | 2026-10-16 | Winter 2027 |
 | BC Pensions | Application Developer Co-op | Victoria, BC, Canada | [Apply](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227) | 2026-10-16 | Winter 2027 |
 | Behaviour Interactive | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | [Apply](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | 2026-10-16 | Winter 2027 |
 | Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | 2026-10-16 | Summer 2027 |
@@ -283,7 +282,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | 2026-10-02 | – |
 | Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) | 2026-10-01 | Winter 2027 |
 | Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) | 2026-10-01 | Winter 2027 |
-| Intel | Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | 2026-10-01 | – |
 | Manulife Financial | ALM Data Management & Analytics Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) | 2026-10-01 | Winter 2027 |
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) | 2026-10-01 | – |
 | Pinterest | Machine Learning Intern | Toronto, ON, Canada | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | 2026-10-01 | Summer 2027 |
@@ -485,7 +483,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Accenture | 🔒 MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
+| Alliaxis | 🔒 Manufacturing Excellence Co-op Student | Oakville, ON, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | Intel | 🔒 GPU & AI Accelerator Hardware Design Undergraduate Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
+| Intel | 🔒 Graphics Hardware Validation Undergraduate Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | – |
 | University of Ottawa | 🔒 Teaching Assistant Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
 | Autodesk | 🔒 Research Intern - AI Research | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Summer 2027 |
