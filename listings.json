@@ -1584,17 +1584,6 @@
     "date_closed": null
   },
   {
-    "company": "Accenture",
-    "role": "MES & Supply Chain Systems Co-op Analyst",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Analytics Co-op",
     "location": "Toronto, ON, Canada",
@@ -5047,6 +5036,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Accenture",
+    "role": "MES & Supply Chain Systems Co-op Analyst",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-31"
   },
   {
     "company": "Altera",
