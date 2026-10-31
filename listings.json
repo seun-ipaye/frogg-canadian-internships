@@ -5049,17 +5049,6 @@
     "date_closed": null
   },
   {
-    "company": "Ernst & Young",
-    "role": "Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques",
-    "location": "Edmonton, AB, Canada",
-    "term": "Fall 2026",
-    "link": "https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-    "date_posted": "2026-03-05",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Altera",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -5089,6 +5078,17 @@
     "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Application-Engineering-Student_20260335",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-10-30"
+  },
+  {
+    "company": "Ernst & Young",
+    "role": "Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques",
+    "location": "Edmonton, AB, Canada",
+    "term": "Fall 2026",
+    "link": "https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+    "date_posted": "2026-03-05",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-30"
   },
