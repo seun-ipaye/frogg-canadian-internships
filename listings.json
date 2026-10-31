@@ -584,17 +584,6 @@
   },
   {
     "company": "Altera",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Altera",
     "role": "Technical Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -5069,6 +5058,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-10-30"
   },
   {
     "company": "Autodesk",
