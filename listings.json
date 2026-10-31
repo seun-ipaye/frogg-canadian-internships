@@ -2783,17 +2783,6 @@
     "date_closed": null
   },
   {
-    "company": "Intel",
-    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Firmware Engineer Intern",
     "location": "Ottawa, ON, Canada",
@@ -5045,6 +5034,17 @@
     "link": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-10-31"
+  },
+  {
+    "company": "Intel",
+    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-31"
   },
