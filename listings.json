@@ -429,17 +429,6 @@
     "date_closed": null
   },
   {
-    "company": "Altera",
-    "role": "IP Design Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Data Analyst Co-op",
     "location": "Toronto, ON, Canada",
@@ -5025,6 +5014,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "IP Design Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-Intern_R03322",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-01"
   },
   {
     "company": "Manulife Financial",
