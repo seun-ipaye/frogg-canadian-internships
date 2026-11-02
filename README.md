@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**452 open** · 284 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**450 open** · 286 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -101,7 +101,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | Developer Intern - RBC Amplify | Montreal, QC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) | 2026-10-26 | Summer 2027 |
-| Sun Life | Software Engineer Co-op - Security | Toronto, ON, Canada | [Apply](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065) | 2026-10-26 | Winter 2027 |
 | Videotron | Engineering Intern | Montreal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/Videotron/744000157818080) | 2026-10-26 | Winter 2027 |
 | 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 2026-10-23 | Winter 2027 |
 | 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 2026-10-23 | Winter 2027 |
@@ -298,7 +297,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Soft IP ASIC Engineer Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721302471) | 2026-09-28 | Summer 2027 |
 | Moment Energy | Data Scientist Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4421775009) | 2026-09-26 | Winter 2027 |
 | Acuity | Firmware Development Intern | Brossard, QC, Canada | [Apply](https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors) | 2026-09-25 | – |
-| Nokia | Operations Analytics Co-op Intern - Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) | 2026-09-25 | Winter 2027 |
 | Acuity | Hardware Development Intern - Hardware | Brossard, QC, Canada | [Apply](https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-%28hardware%29-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors) | 2026-09-24 | – |
 | Marvell | Analog and Mixed Signal Layout Engineer Intern Co-op | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790) | 2026-09-24 | Summer 2027 |
 | Marvell | Analog Design Intern Co-op - Master’s | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862) | 2026-09-24 | Summer 2027 |
@@ -480,7 +478,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Nokia | 🔒 Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
 | Nokia | 🔒 Incubation Developer Student Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-15 | – |
+| Nokia | 🔒 Operations Analytics Co-op Intern - Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
 | Nokia | 🔒 Optical Test Intern Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
+| Sun Life | 🔒 Software Engineer Co-op - Security | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Winter 2027 |
 | Altera | 🔒 IP Design Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | Manulife Financial | 🔒 ALM Data Management & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Accenture | 🔒 MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
