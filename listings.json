@@ -1167,17 +1167,6 @@
   },
   {
     "company": "1Password",
-    "role": "Developer Intern - Extension Excellence",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
     "role": "Developer Intern - Front-End Platform",
     "location": "Remote in USA; Remote in Canada",
     "term": "Winter 2027",
@@ -4926,6 +4915,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Extension Excellence",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
   },
   {
     "company": "1Password",
