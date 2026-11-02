@@ -3652,28 +3652,6 @@
     "date_closed": null
   },
   {
-    "company": "Nokia",
-    "role": "Hardware Engineer Co-op Intern - IP Routing",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Nokia",
-    "role": "Incubation Developer Student Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
     "location": "Markham, ON, Canada",
@@ -5011,6 +4989,28 @@
     "term": "Winter 2027",
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965",
     "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Nokia",
+    "role": "Hardware Engineer Co-op Intern - IP Routing",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Nokia",
+    "role": "Incubation Developer Student Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39968",
+    "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-02"
