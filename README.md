@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**448 open** · 289 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**446 open** · 293 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Semtech | Product Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) | 2026-11-02 | – |
+| Semtech | Test Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | 2026-11-02 | – |
 | Tecsys | Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) | 2026-11-02 | – |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) | 2026-11-01 | – |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) | 2026-10-30 | Fall 2027 |
@@ -103,8 +105,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) | 2026-10-26 | Summer 2027 |
 | Videotron | Engineering Intern | Montreal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/Videotron/744000157818080) | 2026-10-26 | Winter 2027 |
-| 1Password | Developer Intern - Credential Brokering | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true) | 2026-10-23 | Winter 2027 |
-| 1Password | Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true) | 2026-10-23 | Winter 2027 |
 | 1Password | Product Management Intern - End User Experience | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | 2026-10-23 | Winter 2027 |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | 2026-10-23 | – |
 | AMA | Architecture Research Intern - Optimization & Decision Modelling | Edmonton, AB, Canada | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1) | 2026-10-23 | – |
@@ -131,8 +131,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Thales | Tools and Process Development Intern | Montreal, QC, Canada | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) | 2026-10-23 | – |
 | Trimble | Navigation & Machine Learning Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | 2026-10-23 | Summer 2027 |
 | Trimble | Software Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | 2026-10-23 | Summer 2027 |
-| 1Password | Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | 2026-10-22 | Winter 2027 |
-| 1Password | Developer Intern - Vault Team | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true) | 2026-10-22 | Winter 2027 |
 | Aon | Actuarial Intern - Client Consulting | Toronto, ON, Canada | [Apply](https://jobs.aon.com/jobs/106879?icims=1) | 2026-10-22 | Winter 2027 |
 | Aptiv | HVP Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) | 2026-10-22 | – |
 | Aptiv | HVP/Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379) | 2026-10-22 | – |
@@ -472,9 +470,13 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 2026-05-01 | Fall 2026 |
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
+| 1Password | 🔒 Developer Intern - Credential Brokering | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-23 | Winter 2027 |
+| 1Password | 🔒 Developer Intern - Developer Interfaces | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-23 | Winter 2027 |
 | 1Password | 🔒 Developer Intern - Extension Excellence | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
+| 1Password | 🔒 Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | 1Password | 🔒 Developer Intern - Machine Identity | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | 1Password | 🔒 Developer Intern - Provisioning | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
+| 1Password | 🔒 Developer Intern - Vault Team | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Nokia | 🔒 Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Nokia | 🔒 Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |

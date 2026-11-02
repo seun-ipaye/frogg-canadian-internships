@@ -1,5 +1,27 @@
 [
   {
+    "company": "Semtech",
+    "role": "Product Engineer Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Semtech",
+    "role": "Test Engineer Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Tecsys",
     "role": "Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -870,28 +892,6 @@
   },
   {
     "company": "1Password",
-    "role": "Developer Intern - Credential Brokering",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
-    "role": "Developer Intern - Developer Interfaces",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
     "role": "Product Management Intern - End User Experience",
     "location": "Remote in USA; Remote in Canada",
     "term": "Winter 2027",
@@ -1173,28 +1173,6 @@
     "link": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
-    "role": "Developer Intern - Front-End Platform",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
-    "role": "Developer Intern - Vault Team",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
     "status": "open",
     "date_closed": null
   },
@@ -4929,10 +4907,43 @@
   },
   {
     "company": "1Password",
+    "role": "Developer Intern - Credential Brokering",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Developer Interfaces",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "1Password",
     "role": "Developer Intern - Extension Excellence",
     "location": "Remote in USA; Remote in Canada",
     "term": "Winter 2027",
     "link": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Front-End Platform",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "closed",
@@ -4955,6 +4966,17 @@
     "location": "Remote in USA; Remote in Canada",
     "term": "Winter 2027",
     "link": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Vault Team",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "closed",
