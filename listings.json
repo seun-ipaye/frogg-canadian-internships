@@ -99,17 +99,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Mixed Signal Designer Intern",
-    "location": "Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Direct Channel Operations Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -4968,6 +4957,17 @@
     "link": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Ciena",
+    "role": "Mixed Signal Designer Intern",
+    "location": "Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
     "status": "closed",
     "date_closed": "2026-11-02"
   },
