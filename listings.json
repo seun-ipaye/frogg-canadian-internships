@@ -330,17 +330,6 @@
     "date_closed": null
   },
   {
-    "company": "Geotab",
-    "role": "Data Governance & Operations Data Analyst Intern",
-    "location": "Toronto, ON, Canada; Burnaby, BC, Canada; Oakville, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "AI Software Engineering Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -4979,6 +4968,17 @@
     "link": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Geotab",
+    "role": "Data Governance & Operations Data Analyst Intern",
+    "location": "Toronto, ON, Canada; Burnaby, BC, Canada; Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
     "status": "closed",
     "date_closed": "2026-11-02"
   },
