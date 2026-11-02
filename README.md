@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**450 open** · 286 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**448 open** · 288 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -132,8 +132,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Trimble | Software Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963) | 2026-10-23 | Summer 2027 |
 | 1Password | Developer Intern - Extension Excellence | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true) | 2026-10-22 | Winter 2027 |
 | 1Password | Developer Intern - Front-End Platform | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true) | 2026-10-22 | Winter 2027 |
-| 1Password | Developer Intern - Machine Identity | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true) | 2026-10-22 | Winter 2027 |
-| 1Password | Developer Intern - Provisioning | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true) | 2026-10-22 | Winter 2027 |
 | 1Password | Developer Intern - Vault Team | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true) | 2026-10-22 | Winter 2027 |
 | Aon | Actuarial Intern - Client Consulting | Toronto, ON, Canada | [Apply](https://jobs.aon.com/jobs/106879?icims=1) | 2026-10-22 | Winter 2027 |
 | Aptiv | HVP Certification Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378) | 2026-10-22 | – |
@@ -474,6 +472,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 2026-05-01 | Fall 2026 |
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
+| 1Password | 🔒 Developer Intern - Machine Identity | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
+| 1Password | 🔒 Developer Intern - Provisioning | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Nokia | 🔒 Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Nokia | 🔒 Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |

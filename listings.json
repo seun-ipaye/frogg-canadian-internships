@@ -1189,28 +1189,6 @@
   },
   {
     "company": "1Password",
-    "role": "Developer Intern - Machine Identity",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
-    "role": "Developer Intern - Provisioning",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "1Password",
     "role": "Developer Intern - Vault Team",
     "location": "Remote in USA; Remote in Canada",
     "term": "Winter 2027",
@@ -4948,6 +4926,28 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Machine Identity",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "1Password",
+    "role": "Developer Intern - Provisioning",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-02"
   },
   {
     "company": "Nokia",
