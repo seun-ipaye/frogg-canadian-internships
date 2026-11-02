@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**456 open** · 280 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**454 open** · 282 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -278,7 +278,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Hitachi Energy | Hardware Test Engineering Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | 2026-10-02 | Summer 2027 |
 | Kinaxis | Intern Developer - Back End Technologies | Ottawa, ON, Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35372?icims=1) | 2026-10-02 | Winter 2027 |
 | Marvell | Firmware Engineer Intern | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | 2026-10-02 | Winter 2027 |
-| Nokia | Automation Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168) | 2026-10-02 | Winter 2027 |
 | Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | 2026-10-02 | – |
 | Coveo | Corporate Business Intelligence Intern | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002) | 2026-10-01 | Winter 2027 |
 | Coveo | Corporate Business Intelligence Intern | Québec City, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002) | 2026-10-01 | Winter 2027 |
@@ -376,7 +375,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Lyft | Software Engineer Intern - Backend | Montreal, QC, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) | 2026-09-11 | Summer 2027 |
 | Lyft | Software Engineer Intern - Fullstack | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) | 2026-09-11 | Summer 2027 |
 | Lyft | Software Engineer Intern - Machine Learning | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | 2026-09-11 | Summer 2027 |
-| Nokia | Optical Test Intern Co-op | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964) | 2026-09-11 | Winter 2027 |
 | Qualcomm | Machine Learning Compiler & Performance Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721064018) | 2026-09-11 | Summer 2027 |
 | Exegy | Software Developer Intern | Montreal, QC, Canada | [Apply](https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application?embed=true) | 2026-09-10 | – |
 | Geotab | Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) | 2026-09-10 | Winter 2027 |
@@ -480,7 +478,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Software Engineer Intern | Toronto, ON, Canada, SF, NYC | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) | 2026-05-01 | Fall 2026 |
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
+| Nokia | 🔒 Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
+| Nokia | 🔒 Optical Test Intern Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Altera | 🔒 IP Design Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | Manulife Financial | 🔒 ALM Data Management & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | Accenture | 🔒 MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |

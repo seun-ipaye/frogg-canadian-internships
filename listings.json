@@ -2794,17 +2794,6 @@
     "date_closed": null
   },
   {
-    "company": "Nokia",
-    "role": "Automation Engineer Co-op Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Solink",
     "role": "Software Engineer Co-op - Agents",
     "location": "Ottawa, ON, Canada; Remote in Canada",
@@ -3866,17 +3855,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Nokia",
-    "role": "Optical Test Intern Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "open",
@@ -5017,10 +4995,32 @@
   },
   {
     "company": "Nokia",
+    "role": "Automation Engineer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Nokia",
     "role": "Data Scientist Co-op/Intern",
     "location": "Ottawa, ON, Canada",
     "term": "Winter 2027",
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965",
+    "date_posted": "2026-09-11",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Nokia",
+    "role": "Optical Test Intern Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
     "status": "closed",
