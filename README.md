@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**444 open** · 295 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**443 open** · 296 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -233,7 +233,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Electronic Arts | Gameplay Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216230) | 2026-10-09 | Summer 2027 |
 | Electronic Arts | Software Engineer Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231) | 2026-10-09 | Summer 2027 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225) | 2026-10-09 | Summer 2027 |
-| Elk Valley Resources | Business Administration Co-op - Maintenance Excellence | Sparwood, BC, Canada | [Apply](https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply) | 2026-10-09 | Winter 2027 |
 | ProCogia | AI Applied & Agentic AI Intern | Vancouver, BC, Canada | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448664008) | 2026-10-09 | – |
 | ProCogia | LLM Research Intern | Vancouver, BC, Canada | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448685008) | 2026-10-09 | Fall 2026 |
 | Workday | Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | 2026-10-09 | Winter 2027 |
@@ -476,6 +475,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | 1Password | 🔒 Developer Intern - Provisioning | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | 1Password | 🔒 Developer Intern - Vault Team | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Ciena | 🔒 Mixed Signal Designer Intern | Remote in Canada | 🔒 Closed | 2026-10-30 | – |
+| Elk Valley Resources | 🔒 Business Administration Co-op - Maintenance Excellence | Sparwood, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
 | Geotab | 🔒 Data Governance & Operations Data Analyst Intern | Toronto, ON, Canada, Burnaby, BC, Canada, Oakville, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Nokia | 🔒 Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |

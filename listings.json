@@ -2299,17 +2299,6 @@
     "date_closed": null
   },
   {
-    "company": "Elk Valley Resources",
-    "role": "Business Administration Co-op - Maintenance Excellence",
-    "location": "Sparwood, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "ProCogia",
     "role": "AI Applied & Agentic AI Intern",
     "location": "Vancouver, BC, Canada",
@@ -4968,6 +4957,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Elk Valley Resources",
+    "role": "Business Administration Co-op - Maintenance Excellence",
+    "location": "Sparwood, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-11-02"
   },
