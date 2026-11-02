@@ -1,5 +1,38 @@
 [
   {
+    "company": "Bank of Montreal",
+    "role": "UX/UI Designer Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "UX/UI Designer Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op)",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Semtech",
     "role": "Product Engineer Intern",
     "location": "Burlington, ON, Canada",
@@ -27,6 +60,28 @@
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
     "link": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Textron",
+    "role": "Information Technology Intern - Information Technology",
+    "location": "Mirabel, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Zimmer Biomet Holdings",
+    "role": "Software Developer Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.zimmerbiomet.com/us/en/job/13309",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
     "status": "open",
@@ -2684,6 +2739,17 @@
     "date_closed": null
   },
   {
+    "company": "Intel",
+    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kinaxis",
     "role": "Intern Developer - Back End Technologies",
     "location": "Ottawa, ON, Canada",
@@ -5100,17 +5166,6 @@
     "link": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
-    "status": "closed",
-    "date_closed": "2026-10-31"
-  },
-  {
-    "company": "Intel",
-    "role": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-31"
   },
