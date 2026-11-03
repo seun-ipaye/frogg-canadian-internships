@@ -44,6 +44,17 @@
     "date_closed": null
   },
   {
+    "company": "NVIDIA",
+    "role": "Math Libraries Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Qualcomm",
     "role": "Deep Learning Research Intern",
     "location": "Markham, ON, Canada",
@@ -1875,17 +1886,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "General Magic",
-    "role": "Design Engineer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-28",
     "status": "open",
@@ -4125,17 +4125,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Developer Co-op Intern - Machine Learning",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-31",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "DSP Firmware Engineer Co-op/Intern",
     "location": "Ottawa, ON, Canada",
@@ -5148,6 +5137,17 @@
     "date_closed": "2026-11-02"
   },
   {
+    "company": "General Magic",
+    "role": "Design Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
     "company": "Geotab",
     "role": "Data Governance & Operations Data Analyst Intern",
     "location": "Toronto, ON, Canada; Burnaby, BC, Canada; Oakville, ON, Canada",
@@ -5155,6 +5155,17 @@
     "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Co-op Intern - Machine Learning",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-31",
     "status": "closed",
     "date_closed": "2026-11-02"
   },

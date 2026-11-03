@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**458 open** · 294 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**457 open** · 296 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -28,6 +28,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | 2026-11-02 | Winter 2027 |
 | Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) | 2026-11-02 | – |
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada | [Apply](https://www.metacareers.com/jobs/1406585275871250) | 2026-11-02 | – |
+| NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) | 2026-11-02 | Summer 2027 |
 | Qualcomm | Deep Learning Research Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913898) | 2026-11-02 | Summer 2027 |
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) | 2026-11-02 | Summer 2027 |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) | 2026-11-02 | Summer 2027 |
@@ -195,7 +196,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Electronic Arts | AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | 2026-10-16 | Summer 2027 |
 | Electronic Arts | Analytics Intern | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | 2026-10-16 | Summer 2027 |
 | General Magic | AI Engineer Co-op | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) | 2026-10-16 | – |
-| General Magic | Design Engineer Co-op | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) | 2026-10-16 | – |
 | Kepler Communications | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c/apply) | 2026-10-16 | Winter 2027 |
 | Moment Energy | Test Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4455115009) | 2026-10-16 | – |
 | Qualcomm | Automotive Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721615591) | 2026-10-16 | Summer 2027 |
@@ -399,7 +399,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Dynamics UK | Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147019949) | 2026-09-03 | Winter 2027 |
 | Geotab | Software Developer Intern | Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) | 2026-09-03 | Winter 2027 |
 | Geotab | Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) | 2026-09-03 | Winter 2027 |
-| Kinaxis | Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) | 2026-09-03 | Winter 2027 |
 | Nokia | DSP Firmware Engineer Co-op/Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) | 2026-09-03 | Winter 2027 |
 | CAE | Software Engineering Intern - AI, Automation and Business Intelligence | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) | 2026-09-02 | Winter 2027 |
 | General Dynamics UK | Software Developer Co-op - 16-Months | Calgary, AB, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) | 2026-09-02 | Winter 2027 |
@@ -492,7 +491,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ciena | 🔒 Mixed Signal Designer Intern | Remote in Canada | 🔒 Closed | 2026-10-30 | – |
 | Elk Valley Resources | 🔒 Business Administration Co-op - Maintenance Excellence | Sparwood, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
 | General Magic | 🔒 Backend Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
+| General Magic | 🔒 Design Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
 | Geotab | 🔒 Data Governance & Operations Data Analyst Intern | Toronto, ON, Canada, Burnaby, BC, Canada, Oakville, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
+| Kinaxis | 🔒 Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | Nokia | 🔒 Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Nokia | 🔒 Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
