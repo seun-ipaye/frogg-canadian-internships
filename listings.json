@@ -111,17 +111,6 @@
   },
   {
     "company": "Semtech",
-    "role": "Product Engineer Intern",
-    "location": "Burlington, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Semtech",
     "role": "Test Engineer Intern",
     "location": "Burlington, ON, Canada",
     "term": "Unspecified",
@@ -1877,17 +1866,6 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "General Magic",
-    "role": "AI Engineer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-28",
     "status": "open",
     "date_closed": null
   },
@@ -5116,6 +5094,17 @@
   },
   {
     "company": "General Magic",
+    "role": "AI Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "General Magic",
     "role": "Backend Engineer Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -5232,6 +5221,17 @@
     "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39964",
     "date_posted": "2026-09-11",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Semtech",
+    "role": "Product Engineer Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
     "status": "closed",
     "date_closed": "2026-11-02"
   },
