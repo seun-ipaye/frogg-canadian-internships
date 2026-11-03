@@ -110,17 +110,6 @@
     "date_closed": null
   },
   {
-    "company": "Semtech",
-    "role": "Test Engineer Intern",
-    "location": "Burlington, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TechInsights",
     "role": "Teardown Lab Co-op",
     "location": "Ottawa, ON, Canada",
@@ -5230,6 +5219,17 @@
     "location": "Burlington, ON, Canada",
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "Semtech",
+    "role": "Test Engineer Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
     "status": "closed",

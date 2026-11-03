@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**454 open** · 299 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**453 open** · 300 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -34,7 +34,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) | 2026-11-02 | Summer 2027 |
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) | 2026-11-02 | Summer 2027 |
 | RTX | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1) | 2026-11-02 | Winter 2027 |
-| Semtech | Test Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | 2026-11-02 | – |
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) | 2026-11-02 | Winter 2027 |
 | Tecsys | Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) | 2026-11-02 | – |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) | 2026-11-02 | Winter 2027 |
@@ -500,6 +499,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Nokia | 🔒 Operations Analytics Co-op Intern - Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
 | Nokia | 🔒 Optical Test Intern Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Semtech | 🔒 Product Engineer Intern | Burlington, ON, Canada | 🔒 Closed | 2026-11-02 | – |
+| Semtech | 🔒 Test Engineer Intern | Burlington, ON, Canada | 🔒 Closed | 2026-11-02 | – |
 | Sun Life | 🔒 Software Engineer Co-op - Security | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Winter 2027 |
 | Altera | 🔒 IP Design Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | Manulife Financial | 🔒 ALM Data Management & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
