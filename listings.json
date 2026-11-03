@@ -33,6 +33,72 @@
     "date_closed": null
   },
   {
+    "company": "Meta",
+    "role": "Research Scientist Intern - FAIR - World Model Foundations",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://www.metacareers.com/jobs/1406585275871250",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Deep Learning Research Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721913898",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Digital Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721913672",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "SoC Engineering Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721914045",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Verification Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721913769",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RTX",
+    "role": "Digital Support & Business Intelligence Intern - Computer Science",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Semtech",
     "role": "Product Engineer Intern",
     "location": "Burlington, ON, Canada",
@@ -55,6 +121,17 @@
     "date_closed": null
   },
   {
+    "company": "TechInsights",
+    "role": "Teardown Lab Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Tecsys",
     "role": "Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -71,6 +148,17 @@
     "location": "Mirabel, QC, Canada",
     "term": "Winter 2027",
     "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "WSP",
+    "role": "Environmental Innovation Intern",
+    "location": "Sherbrooke, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
     "status": "open",
@@ -1794,17 +1882,6 @@
   },
   {
     "company": "General Magic",
-    "role": "Backend Engineer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "General Magic",
     "role": "Design Engineer Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -3300,6 +3377,17 @@
     "date_closed": null
   },
   {
+    "company": "Rodan Energy Solutions",
+    "role": "AI Solutions Co-op",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Amazon",
     "role": "Software Development Engineer Intern - Summer 2027",
     "location": "Vancouver, BC, Canada",
@@ -4345,6 +4433,17 @@
     "date_closed": null
   },
   {
+    "company": "Bank of Montreal",
+    "role": "Workforce Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
+    "date_posted": "2026-08-19",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "NVIDIA",
     "role": "Software Engineering Intern",
     "location": "Canada; Santa Clara, CA",
@@ -5034,6 +5133,17 @@
     "link": "https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-02"
+  },
+  {
+    "company": "General Magic",
+    "role": "Backend Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-28",
     "status": "closed",
     "date_closed": "2026-11-02"
   },
@@ -6909,17 +7019,6 @@
   },
   {
     "company": "Rodan Energy Solutions",
-    "role": "AI Solutions Co-op",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-19"
-  },
-  {
-    "company": "Rodan Energy Solutions",
     "role": "Data Operations Engineer AI Co-op - Winter 2027",
     "location": "Mississauga, ON, Canada",
     "term": "Winter 2027",
@@ -7192,17 +7291,6 @@
     "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-10-16"
-  },
-  {
-    "company": "Bank of Montreal",
-    "role": "Workforce Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
-    "date_posted": "2026-08-19",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-10-15"
   },
   {
     "company": "Bree",
