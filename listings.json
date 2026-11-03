@@ -2101,17 +2101,6 @@
     "date_closed": null
   },
   {
-    "company": "Canadian Tire",
-    "role": "Product Strategy Student Intern",
-    "location": "Oakville, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980",
-    "date_posted": "2026-10-13",
-    "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "Technical Artist Co-op",
     "location": "Vancouver, BC, Canada",
@@ -4970,6 +4959,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Canadian Tire",
+    "role": "Product Strategy Student Intern",
+    "location": "Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Strategy-Student--4-months----Winter-2027_JR164980",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-03"
   },
   {
     "company": "Manulife Financial",
