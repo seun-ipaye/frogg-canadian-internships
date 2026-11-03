@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**457 open** · 296 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**456 open** · 297 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -391,7 +391,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bree | Software Engineer Co-op - Product | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 - 8 months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 months - 8 months | Cole Harbour, NS, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | 2026-09-04 | Winter 2027 |
-| Kinaxis | Software Developer Co-op Intern - Core Algorithms | Ottawa, ON, Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35329?icims=1) | 2026-09-04 | Winter 2027 |
 | Nokia | Optical Test Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113) | 2026-09-04 | Winter 2027 |
 | AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | [Apply](https://careers.amd.com/jobs/91207?icims=1) | 2026-09-03 | Summer 2027 |
 | BitGo | Software Engineer Intern - Prime Trade | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002) | 2026-09-03 | Winter 2027 |
@@ -494,6 +493,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Magic | 🔒 Design Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
 | Geotab | 🔒 Data Governance & Operations Data Analyst Intern | Toronto, ON, Canada, Burnaby, BC, Canada, Oakville, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Kinaxis | 🔒 Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
+| Kinaxis | 🔒 Software Developer Co-op Intern - Core Algorithms | Ottawa, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
 | Nokia | 🔒 Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Nokia | 🔒 Data Scientist Co-op/Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
 | Nokia | 🔒 Hardware Engineer Co-op Intern - IP Routing | Ottawa, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
