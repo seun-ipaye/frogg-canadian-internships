@@ -539,17 +539,6 @@
     "date_closed": null
   },
   {
-    "company": "Manulife Financial",
-    "role": "Operations & Data Analyst Co-op",
-    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
-    "date_posted": "2026-10-28",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "NUVACORE",
     "role": "CPU Software Intern",
     "location": "Markham, ON, Canada",
@@ -4981,6 +4970,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Operations & Data Analyst Co-op",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
+    "date_posted": "2026-10-28",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-03"
   },
   {
     "company": "1Password",
