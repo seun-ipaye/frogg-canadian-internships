@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**460 open** · 309 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**461 open** · 310 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -36,6 +36,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Global Relay | Java Developer Co-op | Vancouver, BC, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) | 2026-11-03 | Winter 2027 |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | 2026-11-03 | Winter 2027 |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | 2026-11-03 | Winter 2027 |
+| Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | 2026-11-03 | Summer 2027 |
 | Royal Bank of Canada | Data Analyst Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) | 2026-11-03 | Winter 2027 |
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) | 2026-11-03 | Winter 2027 |
 | Teledyne | Thermal Test Co-op | Montreal, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169) | 2026-11-03 | – |
@@ -376,6 +377,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Google | Student Researcher - BS/MS | Montreal, QC, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | 2026-09-14 | – |
 | Google | Student Researcher - PhD | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) | 2026-09-14 | – |
 | Marvell | Data Center Silicon Hardware Engineering Intern - Winter 2027 | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525) | 2026-09-14 | Winter 2027 |
+| Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) | 2026-09-14 | Summer 2027 |
 | Amazon | Machine Learning Systems Software Development Engineer Intern - Annapurna Labs | Toronto, ON, Canada | [Apply](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | 2026-09-11 | Winter 2027 |
 | Lyft | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | 2026-09-11 | Summer 2027 |
 | Lyft | Data Science Intern - Algorithms | Toronto, ON, Canada | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | 2026-09-11 | Summer 2027 |
@@ -430,7 +432,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CCLIM - Quantitative Equity | Quantitative Equity Analyst Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383968009) | 2026-08-26 | – |
 | CCLIM - Quantitative Equity | Quantitative Equity Developer Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383943009) | 2026-08-26 | – |
 | Google | Software Developer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | 2026-08-24 | Summer 2027 |
-| Bank of Montreal | Workforce Analyst Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513) | 2026-08-19 | Winter 2027 |
 | NVIDIA | Software Engineering Intern | Canada, Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-19 | Summer 2027 |
 | Thomson Reuters | Applied Research Intern - NLP/ML/GenAI | Toronto, ON, Canada | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) | 2026-08-17 | Fall 2026 |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4368438009) | 2026-08-13 | – |
@@ -484,6 +485,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Research Internship | Montreal, QC, Canada, London, UK, Toronto, ON, Canada +1 more | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | 2026-05-01 | Fall 2026 |
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
+| Bank of Montreal | 🔒 Workforce Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
 | Sun Life | 🔒 Data Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Canadian Tire | 🔒 Product Strategy Student Intern | Oakville, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
 | Cohere | 🔒 Software Engineer Intern | Toronto, ON, Canada, SF, NYC | 🔒 Closed | 2026-05-01 | Fall 2026 |
