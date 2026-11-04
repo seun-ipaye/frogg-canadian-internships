@@ -671,17 +671,6 @@
     "date_closed": null
   },
   {
-    "company": "Sun Life",
-    "role": "Data Analyst Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TMX Group",
     "role": "Analyst – Market Insights Intern",
     "location": "Toronto, ON, Canada",
@@ -5069,6 +5058,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Sun Life",
+    "role": "Data Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-04"
   },
   {
     "company": "Canadian Tire",
