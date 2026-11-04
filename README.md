@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**460 open** · 308 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**461 open** · 308 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| RBC | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Toronto, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) | 2026-11-04 | – |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) | 2026-11-03 | – |
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) | 2026-11-03 | – |
 | Blackberry | Software Developer Student Intern | Ottawa, ON, Canada | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) | 2026-11-03 | – |
