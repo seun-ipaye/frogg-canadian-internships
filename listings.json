@@ -1771,17 +1771,6 @@
     "date_closed": null
   },
   {
-    "company": "Steel",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Analytics Co-op",
     "location": "Toronto, ON, Canada",
@@ -5142,6 +5131,17 @@
     "location": "Mississauga, ON, Canada",
     "term": "Unspecified",
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
+    "status": "closed",
+    "date_closed": "2026-11-03"
+  },
+  {
+    "company": "Steel",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
     "date_posted": "2026-10-20",
     "date_found": "2026-10-20",
     "status": "closed",
