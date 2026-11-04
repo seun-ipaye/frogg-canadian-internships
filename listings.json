@@ -22,28 +22,6 @@
     "date_closed": null
   },
   {
-    "company": "Blackberry",
-    "role": "Software Developer Student Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Blackberry",
-    "role": "Software Development Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Botpress Technologies",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -5056,6 +5034,28 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
     "date_posted": "2026-08-19",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-04"
+  },
+  {
+    "company": "Blackberry",
+    "role": "Software Developer Student Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
+    "status": "closed",
+    "date_closed": "2026-11-04"
+  },
+  {
+    "company": "Blackberry",
+    "role": "Software Development Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
     "status": "closed",
     "date_closed": "2026-11-04"
   },
