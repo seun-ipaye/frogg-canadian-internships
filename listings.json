@@ -3741,17 +3741,6 @@
   },
   {
     "company": "Qualcomm",
-    "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721109229",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Qualcomm",
     "role": "Sensors Subsystem Engineering Intern - Multiple Teams",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -5067,6 +5056,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-04"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Sensors Subsystem Engineering Intern - Low-Power AI - Audio",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721109229",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-04"
   },
