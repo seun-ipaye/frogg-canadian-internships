@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**461 open** · 310 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**460 open** · 311 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -228,7 +228,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | National Bank of Canada | Artificial Intelligence Scientist Intern | Canada | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/36110) | 2026-10-14 | – |
 | Tenstorrent | Systems Intern - Multiple Teams | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) | 2026-10-14 | – |
 | Astera Labs | Analog/Mixed-Signal IC Design Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005) | 2026-10-13 | – |
-| Electronic Arts | Technical Artist Co-op | Vancouver, BC, Canada | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406) | 2026-10-13 | Summer 2027 |
 | Pebl | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | 2026-10-13 | – |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2) | 2026-10-13 | Winter 2027 |
 | Aptiv | Cloud Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineer-Intern_J000704376) | 2026-10-12 | – |
@@ -486,6 +485,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Bank of Montreal | 🔒 Workforce Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
+| Electronic Arts | 🔒 Technical Artist Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-13 | Summer 2027 |
 | Sun Life | 🔒 Data Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Canadian Tire | 🔒 Product Strategy Student Intern | Oakville, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
 | Cohere | 🔒 Software Engineer Intern | Toronto, ON, Canada, SF, NYC | 🔒 Closed | 2026-05-01 | Fall 2026 |
