@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**458 open** · 307 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**461 open** · 307 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -35,7 +35,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Global Relay | Java Developer Co-op | Vancouver, BC, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) | 2026-11-03 | Winter 2027 |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | 2026-11-03 | Winter 2027 |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | 2026-11-03 | Winter 2027 |
+| Royal Bank of Canada | Data Analyst Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000188376) | 2026-11-03 | Winter 2027 |
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) | 2026-11-03 | Winter 2027 |
+| Teledyne | Thermal Test Co-op | Montreal, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169) | 2026-11-03 | – |
+| Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | 2026-11-03 | – |
 | Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | 2026-11-02 | Winter 2027 |
 | Bank of Montreal | UX/UI Designer Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | 2026-11-02 | Winter 2027 |
 | Ciena | Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040) | 2026-11-02 | – |
