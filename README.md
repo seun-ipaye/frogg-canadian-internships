@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**461 open** · 318 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**461 open** · 314 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -799,7 +799,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Intel | 🔒 Compiler Engineer Intern - SYCL Runtime | Toronto, ON, Canada | 🔒 Closed | 2026-09-10 | Winter 2027 |
 | North American Construction Group | 🔒 Full Stack Developer Co-op - Acheson | Acheson, AB, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | Tenstorrent | 🔒 AI Compiler Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-03-10 | Summer 2026 |
-| Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2026 |
-| Apple | 🔒 Data Scientist Co-op - Sales Business Analytics | Toronto, ON, Canada | 🔒 Closed | 2026-09-30 | – |
-| GoTo Group | 🔒 Software Engineer Intern - C3PO | Remote in Canada | 🔒 Closed | 2026-09-24 | Winter 2026 |
-| Royal Bank of Canada | 🔒 MCCR Policy AI Applications Intern - GRM | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
