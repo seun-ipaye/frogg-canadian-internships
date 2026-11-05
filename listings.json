@@ -1,5 +1,27 @@
 [
   {
+    "company": "Equitable Bank",
+    "role": "Product Management Intern - Digital Banking",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply",
+    "date_posted": "2026-11-05",
+    "date_found": "2026-11-04",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "VLSI Timing Methodology Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798",
+    "date_posted": "2026-11-04",
+    "date_found": "2026-11-04",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "RBC",
     "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
     "location": "Toronto, Ontario, Canada",
@@ -7,6 +29,17 @@
     "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
     "date_posted": "2026-11-04",
     "date_found": "2026-11-03",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Wolters Kluwer",
+    "role": "Front-End Developer Intern - Se",
+    "location": "Sherbrooke, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874",
+    "date_posted": "2026-11-04",
+    "date_found": "2026-11-04",
     "status": "open",
     "date_closed": null
   },
@@ -3103,17 +3136,6 @@
   },
   {
     "company": "Marvell",
-    "role": "Analog and Mixed Signal Layout Engineer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
     "role": "Analog Design Intern Co-op - Master’s",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
@@ -5045,6 +5067,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-04"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog and Mixed Signal Layout Engineer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-04"
   },
