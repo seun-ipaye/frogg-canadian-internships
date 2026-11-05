@@ -2112,17 +2112,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Embedded Software Developer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Intel",
     "role": "Compiler Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -5144,6 +5133,17 @@
     "link": "https://jobs.aon.com/jobs/106879?icims=1",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Ciena",
+    "role": "Embedded Software Developer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-11-05"
   },
