@@ -4510,17 +4510,6 @@
     "date_closed": null
   },
   {
-    "company": "AMI",
-    "role": "Computer Vision Scientist Intern - Geometry and 3D Vision",
-    "location": "Montreal, QC, Canada; Paris, France; NYC",
-    "term": "Fall 2026",
-    "link": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true",
-    "date_posted": "2026-08-27",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Alberta Investment Management Corporation",
     "role": "Quantitative Analytics & Reporting Intern",
     "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
@@ -5146,6 +5135,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AMI",
+    "role": "Computer Vision Scientist Intern - Geometry and 3D Vision",
+    "location": "Montreal, QC, Canada; Paris, France; NYC",
+    "term": "Fall 2026",
+    "link": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2/application?embed=true",
+    "date_posted": "2026-08-27",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
   },
   {
     "company": "Aon",
