@@ -3850,17 +3850,6 @@
     "date_closed": null
   },
   {
-    "company": "BDO Canada",
-    "role": "Data & Analytics Co-op Intern",
-    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada; Halifax Regional Municipality, NS, Canada",
-    "term": "Winter 2027",
-    "link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061",
-    "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Technology Business Administration Co-op Intern - IT Business Management",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
@@ -5155,6 +5144,17 @@
     "link": "https://jobs.aon.com/jobs/106879?icims=1",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "BDO Canada",
+    "role": "Data & Analytics Co-op Intern",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada; Halifax Regional Municipality, NS, Canada",
+    "term": "Winter 2027",
+    "link": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-05"
   },
