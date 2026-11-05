@@ -3249,17 +3249,6 @@
     "role": "Analog Design Engineer Intern",
     "location": "Calgary, AB, Canada",
     "term": "Summer 2027",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Semtech",
-    "role": "Analog Design Engineer Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
@@ -3349,17 +3338,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Summer 2027",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Semtech",
-    "role": "Validation Engineering Intern - Signal Integrity Products Group",
-    "location": "Burlington, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3571,28 +3549,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721156800",
     "date_posted": "2026-09-18",
     "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Rockwell Automation",
-    "role": "Robotics Research Co-op - Data Engineering",
-    "location": "Waterloo, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Rockwell Automation",
-    "role": "Robotics Research Co-op - Data Engineering",
-    "location": "Waterloo, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
   },
@@ -3999,17 +3955,6 @@
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446721064018",
     "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Geotab",
-    "role": "Embedded Developer Intern - Engine Data Reliability",
-    "location": "Oakville, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
-    "date_posted": "2026-09-10",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -5159,6 +5104,17 @@
     "date_closed": "2026-11-05"
   },
   {
+    "company": "Geotab",
+    "role": "Embedded Developer Intern - Engine Data Reliability",
+    "location": "Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
+    "date_posted": "2026-09-10",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
     "company": "L3Harris Technologies",
     "role": "Software Engineering Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
@@ -5170,11 +5126,55 @@
     "date_closed": "2026-11-05"
   },
   {
+    "company": "Rockwell Automation",
+    "role": "Robotics Research Co-op - Data Engineering",
+    "location": "Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Rockwell Automation",
+    "role": "Robotics Research Co-op - Data Engineering",
+    "location": "Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Semtech",
+    "role": "Analog Design Engineer Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
     "company": "Semtech",
     "role": "Analog Design Engineer Intern - Signal Integrity Products Group",
     "location": "Burlington, ON, Canada",
     "term": "Summer 2027",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Semtech",
+    "role": "Validation Engineering Intern - Signal Integrity Products Group",
+    "location": "Burlington, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628",
     "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "closed",
