@@ -3388,17 +3388,6 @@
     "date_closed": null
   },
   {
-    "company": "Entrust",
-    "role": "Software Development Intern - Citizen Remote Identity Verification",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Firmware Development Intern - PAL",
     "location": "Markham, ON, Canada",
@@ -5144,6 +5133,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
     "date_posted": "2026-10-15",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Entrust",
+    "role": "Software Development Intern - Citizen Remote Identity Verification",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-05"
   },
