@@ -3268,17 +3268,6 @@
   },
   {
     "company": "Semtech",
-    "role": "Analog Design Engineer Intern - Signal Integrity Products Group",
-    "location": "Burlington, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Semtech",
     "role": "Analog Design Intern",
     "location": "Ottawa, ON, Canada",
     "term": "Summer 2027",
@@ -3822,17 +3811,6 @@
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "open",
@@ -5176,6 +5154,28 @@
     "term": "Winter 2027",
     "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360",
     "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430130200/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Semtech",
+    "role": "Analog Design Engineer Intern - Signal Integrity Products Group",
+    "location": "Burlington, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622",
+    "date_posted": "2026-09-24",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-05"
