@@ -77,17 +77,6 @@
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
-    "date_posted": "2026-11-04",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Wolters Kluwer",
     "role": "Front-End Developer Intern - Se",
     "location": "Sherbrooke, QC, Canada",
@@ -192,6 +181,17 @@
     "location": "Vancouver, BC, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
     "status": "open",
@@ -1492,17 +1492,6 @@
     "link": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Aon",
-    "role": "Actuarial Intern - Client Consulting",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.aon.com/jobs/106879?icims=1",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
     "status": "open",
     "date_closed": null
   },
@@ -4147,6 +4136,17 @@
     "date_closed": null
   },
   {
+    "company": "Atlassian",
+    "role": "Software Engineer Intern",
+    "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "BitGo",
     "role": "Software Engineer Intern - Prime Trade",
     "location": "Toronto, ON, Canada",
@@ -5058,6 +5058,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Aon",
+    "role": "Actuarial Intern - Client Consulting",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.aon.com/jobs/106879?icims=1",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-05"
   },
   {
     "company": "Sun Life",
@@ -6376,17 +6387,6 @@
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010",
     "date_posted": "2026-10-24",
     "date_found": "2026-10-23",
-    "status": "closed",
-    "date_closed": "2026-10-24"
-  },
-  {
-    "company": "Atlassian",
-    "role": "Software Engineer Intern",
-    "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-24"
   },
