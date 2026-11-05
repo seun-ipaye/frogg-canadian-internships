@@ -5116,6 +5116,17 @@
   },
   {
     "company": "Anthropic",
+    "role": "Anthropic Fellows Program - AI Safety",
+    "location": "London, UK; SF; Ontario, Canada; Berkeley, CA; United States",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+    "date_posted": "2026-04-10",
+    "date_found": "2026-10-07",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Anthropic",
     "role": "Anthropic Fellows Program - ML Systems & Performance",
     "location": "London, UK; SF; Remote in USA; Remote in Canada",
     "term": "Unspecified",
@@ -6816,17 +6827,6 @@
     "link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Anthropic",
-    "role": "Anthropic Fellows Program - AI Safety",
-    "location": "London, UK; SF; Ontario, Canada; Berkeley, CA; United States",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
-    "date_posted": "2026-04-10",
-    "date_found": "2026-10-07",
     "status": "closed",
     "date_closed": "2026-10-21"
   },

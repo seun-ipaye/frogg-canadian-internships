@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**466 open** · 311 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**467 open** · 310 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -489,6 +489,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Squarepoint Capital | Software Developer Intern | Montreal, QC, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=7905463) | 2026-05-07 | Fall 2026 |
 | Cohere | Research Internship | Montreal, QC, Canada, London, UK, Toronto, ON, Canada +1 more | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | 2026-05-01 | Fall 2026 |
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
+| Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Aon | 🔒 Actuarial Intern - Client Consulting | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Sun Life | 🔒 Quality Engineering Analyst Intern | Waterloo, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
@@ -644,7 +645,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | 🔒 Camera Design Implementation Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | RTX | 🔒 Customer First Centre Intern - Customer First Centre - Technical Helpdesk | Longueuil, QC, Canada | 🔒 Closed | 2026-08-24 | Winter 2027 |
 | AltaGas | 🔒 Digital Intern - NextGen AI & Data | Calgary, AB, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| Anthropic | 🔒 Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | 🔒 Closed | 2026-04-10 | – |
 | Armstrong Fluid Technology | 🔒 Test Engineering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-11 | – |
 | Boeing | 🔒 Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
 | Boeing | 🔒 Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
