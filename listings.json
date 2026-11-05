@@ -913,17 +913,6 @@
     "date_closed": null
   },
   {
-    "company": "Sun Life",
-    "role": "Quality Engineering Analyst Intern",
-    "location": "Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TMX Group",
     "role": "Analyst Model Validation Intern",
     "location": "Montreal, QC, Canada",
@@ -5069,6 +5058,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Sun Life",
+    "role": "Quality Engineering Analyst Intern",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-05"
   },
   {
     "company": "Altera",
