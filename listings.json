@@ -847,6 +847,28 @@
     "date_closed": null
   },
   {
+    "company": "Ryan",
+    "role": "Software Engineer Intern",
+    "location": "North York, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ryan",
+    "role": "Software Engineer Intern",
+    "location": "North York, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
@@ -2042,17 +2064,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721636316",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "BC Pensions",
-    "role": "Application Developer Co-op",
-    "location": "Victoria, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-15",
     "status": "open",
     "date_closed": null
   },
@@ -5058,6 +5069,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "BC Pensions",
+    "role": "Application Developer Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-11-06"
   },
   {
     "company": "Maple Leaf Sports & Entertainment Partnership (MLSE)",
