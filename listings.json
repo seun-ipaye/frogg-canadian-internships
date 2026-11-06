@@ -1,5 +1,104 @@
 [
   {
+    "company": "Bank of Montreal",
+    "role": "Quantitative Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Quantitative Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Technology Research Associate Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "DataRobot",
+    "role": "Software Design Engineer Intern",
+    "location": "Boston, MA; Seattle, WA; SF; Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Hootsuite",
+    "role": "Software Developer Co-op Intern",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "OLG",
+    "role": "Analytics Engineering & Measurement Student Intern",
+    "location": "Toronto, ON, Canada; Sault Ste. Marie, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "PETRONAS Canada",
+    "role": "Student Intern - Operation Advancement",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Operation-Advancement_R0001881",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "PETRONAS Canada",
+    "role": "Student Intern - Technical Assurance and Pipeline Engineering",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Digital Design Engineer Intern - Interim Engineering Intern - Systems",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446722005254",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Qualcomm",
     "role": "RF/Analog Verification Engineer Intern",
     "location": "Markham, ON, Canada",
