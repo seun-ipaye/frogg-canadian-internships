@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**461 open** · 323 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**463 open** · 323 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern | Vancouver, BC, Canada | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8/application?embed=true) | 2026-11-06 | Winter 2027 |
+| University of Ottawa | Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | [Apply](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | 2026-11-06 | Winter 2027 |
 | Acumatica | Developer Intern | Montreal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | 2026-11-05 | – |
 | Bank of Montreal | Machine Learning Developer Intern Co-op | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | 2026-11-05 | Winter 2027 |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) | 2026-11-05 | – |
