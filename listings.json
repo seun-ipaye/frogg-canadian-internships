@@ -2101,17 +2101,6 @@
     "date_closed": null
   },
   {
-    "company": "Behaviour Interactive",
-    "role": "Product Management Intern - 7 Days to Die",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Electronic Arts",
     "role": "AI/ML Software Engineer Co-op Intern",
     "location": "Vancouver, BC, Canada",
@@ -5100,6 +5089,17 @@
     "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-11-06"
+  },
+  {
+    "company": "Behaviour Interactive",
+    "role": "Product Management Intern - 7 Days to Die",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
     "status": "closed",
     "date_closed": "2026-11-06"
   },
