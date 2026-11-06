@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**460 open** · 327 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**459 open** · 328 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -349,7 +349,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | NERv Technology Inc. D.B.A. FluidAI Medical | Data and AI Engineering Associate | Kitchener, ON, Canada | [Apply](https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52) | 2026-09-18 | – |
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156182) | 2026-09-18 | Summer 2027 |
 | Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440) | 2026-09-18 | Summer 2027 |
-| Qualcomm | MSIP Digital Design Verification Engineering Intern - HW | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721156800) | 2026-09-18 | Summer 2027 |
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | 2026-09-18 | Summer 2027 |
 | TRC Companies | Software Engineer Intern | Calgary, AB, Canada | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1) | 2026-09-18 | Summer 2027 |
 | 4AG Robotics | AI Co-op Student | Salmon Arm, BC, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-17 | Winter 2027 |
@@ -488,6 +487,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | BC Pensions | 🔒 Application Developer Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | Behaviour Interactive | 🔒 Product Management Intern - 7 Days to Die | Montreal, QC, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | 🔒 Business Strategy & Product Management Intern - AI | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
+| Qualcomm | 🔒 MSIP Digital Design Verification Engineering Intern - HW | Toronto, ON, Canada | 🔒 Closed | 2026-09-18 | Summer 2027 |
 | Qualcomm | 🔒 Sensors Subsystem Engineering Intern - Multiple Teams | Markham, ON, Canada | 🔒 Closed | 2026-09-15 | Summer 2027 |
 | Tecsys | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | AMD | 🔒 Senior Systems Design Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-11-04 | – |

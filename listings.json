@@ -3575,17 +3575,6 @@
     "date_closed": null
   },
   {
-    "company": "Qualcomm",
-    "role": "MSIP Digital Design Verification Engineering Intern - HW",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721156800",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "The Brattle Group",
     "role": "Energy Analyst Intern - Economics - Multiple Teams",
     "location": "Toronto, ON, Canada",
@@ -5100,6 +5089,17 @@
     "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-11-06"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "MSIP Digital Design Verification Engineering Intern - HW",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721156800",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-06"
   },
