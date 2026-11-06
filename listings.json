@@ -154,17 +154,6 @@
     "date_closed": null
   },
   {
-    "company": "AMD",
-    "role": "Senior Systems Design Engineer Intern",
-    "location": "Markham, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://careers.amd.com/jobs/95806?icims=1",
-    "date_posted": "2026-11-04",
-    "date_found": "2026-11-04",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "NVIDIA",
     "role": "Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI",
     "location": "Canada; Santa Clara, CA; United States",
@@ -902,17 +891,6 @@
     "date_closed": null
   },
   {
-    "company": "NUVACORE",
-    "role": "CPU Software Intern",
-    "location": "Markham, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply",
-    "date_posted": "2026-10-28",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Camera Design Engineering Intern",
     "location": "Vancouver, BC, Canada",
@@ -1512,17 +1490,6 @@
     "location": "Toronto, ON, Canada; Calgary, AB, Canada; Edmonton, AB, Canada",
     "term": "Summer 2027",
     "link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Sardine",
-    "role": "Engineering Intern",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
     "status": "open",
@@ -5104,6 +5071,17 @@
     "date_closed": null
   },
   {
+    "company": "AMD",
+    "role": "Senior Systems Design Engineer Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.amd.com/jobs/95806?icims=1",
+    "date_posted": "2026-11-04",
+    "date_found": "2026-11-04",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
     "company": "AMI",
     "role": "Computer Vision Scientist Intern - Geometry and 3D Vision",
     "location": "Montreal, QC, Canada; Paris, France; NYC",
@@ -5192,6 +5170,17 @@
     "date_closed": "2026-11-05"
   },
   {
+    "company": "NUVACORE",
+    "role": "CPU Software Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply",
+    "date_posted": "2026-10-28",
+    "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
     "company": "Rockwell Automation",
     "role": "Robotics Research Co-op - Data Engineering",
     "location": "Waterloo, ON, Canada",
@@ -5210,6 +5199,17 @@
     "link": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871-1",
     "date_posted": "2026-09-18",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-05"
+  },
+  {
+    "company": "Sardine",
+    "role": "Engineering Intern",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-05"
   },
