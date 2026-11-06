@@ -3839,17 +3839,6 @@
     "date_closed": null
   },
   {
-    "company": "Qualcomm",
-    "role": "Sensors Subsystem Engineering Intern - Multiple Teams",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721109168",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Technology Business Administration Co-op Intern - IT Business Management",
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
@@ -5122,6 +5111,17 @@
     "link": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-11-06"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Sensors Subsystem Engineering Intern - Multiple Teams",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721109168",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-06"
   },
