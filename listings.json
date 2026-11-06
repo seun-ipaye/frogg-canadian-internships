@@ -517,17 +517,6 @@
     "date_closed": null
   },
   {
-    "company": "Tecsys",
-    "role": "Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Textron",
     "role": "Information Technology Intern - Information Technology",
     "location": "Mirabel, QC, Canada",
@@ -5122,6 +5111,17 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721109168",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-06"
+  },
+  {
+    "company": "Tecsys",
+    "role": "Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://apply.workable.com/tecsys/j/D61D5FB9AB/apply",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
     "status": "closed",
     "date_closed": "2026-11-06"
   },

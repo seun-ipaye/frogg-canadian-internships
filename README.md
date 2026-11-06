@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**461 open** · 326 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**460 open** · 327 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -71,7 +71,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Semtech | Product Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1) | 2026-11-02 | – |
 | Semtech | Test Engineer Intern | Burlington, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667) | 2026-11-02 | – |
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) | 2026-11-02 | Winter 2027 |
-| Tecsys | Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) | 2026-11-02 | – |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) | 2026-11-02 | Winter 2027 |
 | WSP | Environmental Innovation Intern | Sherbrooke, QC, Canada | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500) | 2026-11-02 | – |
 | Zimmer Biomet Holdings | Software Developer Co-op | Montreal, QC, Canada | [Apply](https://careers.zimmerbiomet.com/us/en/job/13309) | 2026-11-02 | Winter 2027 |
@@ -490,6 +489,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Behaviour Interactive | 🔒 Product Management Intern - 7 Days to Die | Montreal, QC, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | 🔒 Business Strategy & Product Management Intern - AI | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
 | Qualcomm | 🔒 Sensors Subsystem Engineering Intern - Multiple Teams | Markham, ON, Canada | 🔒 Closed | 2026-09-15 | Summer 2027 |
+| Tecsys | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | AMD | 🔒 Senior Systems Design Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-11-04 | – |
 | AMI | 🔒 Computer Vision Scientist Intern - Geometry and 3D Vision | Montreal, QC, Canada, Paris, France, NYC | 🔒 Closed | 2026-08-27 | Fall 2026 |
 | Aon | 🔒 Actuarial Intern - Client Consulting | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
