@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**465 open** · 321 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**464 open** · 322 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -409,7 +409,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | BitGo | Software Engineer Intern - Settlement Systems/Go Network | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) | 2026-09-03 | Winter 2027 |
 | General Dynamics UK | Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147019949) | 2026-09-03 | Winter 2027 |
 | Geotab | Software Developer Intern | Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) | 2026-09-03 | Winter 2027 |
-| Geotab | Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Intern Co-op - Machine Learning | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | 2026-09-03 | Winter 2027 |
 | General Dynamics UK | Software Developer Co-op - 16-Months | Calgary, AB, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146985399) | 2026-09-02 | Winter 2027 |
@@ -495,6 +494,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ciena | 🔒 Embedded Software Developer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
 | Entrust | 🔒 Software Development Intern - Citizen Remote Identity Verification | Ottawa, ON, Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
 | Geotab | 🔒 Embedded Developer Intern - Engine Data Reliability | Oakville, ON, Canada | 🔒 Closed | 2026-09-10 | Winter 2027 |
+| Geotab | 🔒 Software Developer Intern | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | L3Harris Technologies | 🔒 Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | Rockwell Automation | 🔒 Robotics Research Co-op - Data Engineering | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
 | Rockwell Automation | 🔒 Robotics Research Co-op - Data Engineering | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
