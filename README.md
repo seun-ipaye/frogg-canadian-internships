@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**465 open** · 319 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**467 open** · 319 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Acumatica | Developer Intern | Montreal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | 2026-11-05 | – |
+| Bank of Montreal | Machine Learning Developer Intern Co-op | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | 2026-11-05 | Winter 2027 |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) | 2026-11-05 | – |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) | 2026-11-05 | – |
 | Boston Scientific | R&D Product Development Intern | Montreal, QC, Canada | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813850819) | 2026-11-05 | Winter 2027 |
@@ -39,6 +41,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | Senior Systems Design Engineer Intern | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/95806?icims=1) | 2026-11-04 | – |
 | NVIDIA | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | 2026-11-04 | Summer 2027 |
 | NVIDIA | VLSI Timing Methodology Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) | 2026-11-04 | Summer 2027 |
+| RBC | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Toronto, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) | 2026-11-04 | – |
 | Wolters Kluwer | Front-End Developer Intern - Se | Sherbrooke, QC, Canada | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874) | 2026-11-04 | Winter 2027 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) | 2026-11-03 | – |
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) | 2026-11-03 | – |
@@ -49,7 +52,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Global Relay | Java Developer Co-op | Vancouver, BC, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241593004) | 2026-11-03 | Winter 2027 |
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | 2026-11-03 | Winter 2027 |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | 2026-11-03 | Winter 2027 |
-| RBC | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Toronto, Ontario, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) | 2026-11-03 | – |
 | Royal Bank of Canada | AI Engineer Co-op - Global Equities | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | 2026-11-03 | Summer 2027 |
 | Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) | 2026-11-03 | Winter 2027 |
 | Teledyne | Thermal Test Co-op | Montreal, QC, Canada | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169) | 2026-11-03 | – |
