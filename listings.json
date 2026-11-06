@@ -594,17 +594,6 @@
     "date_closed": null
   },
   {
-    "company": "Altera",
-    "role": "Hardware Design Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Project Analyst Co-op",
     "location": "Toronto, ON, Canada",
@@ -5080,6 +5069,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Hardware Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-06"
   },
   {
     "company": "BC Pensions",
