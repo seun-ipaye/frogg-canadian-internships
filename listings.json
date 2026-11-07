@@ -3784,17 +3784,6 @@
     "date_closed": null
   },
   {
-    "company": "Apera AI",
-    "role": "Software Developer Co-op - Full Stack",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Brookfield",
     "role": "Business Management Intern - Tech & Data",
     "location": "Toronto, ON, Canada",
@@ -5133,6 +5122,17 @@
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Hardware-Design-Engineer---Intern_R03367",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-06"
+  },
+  {
+    "company": "Apera AI",
+    "role": "Software Developer Co-op - Full Stack",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007",
+    "date_posted": "2026-09-16",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-06"
   },
