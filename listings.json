@@ -154,17 +154,6 @@
     "date_closed": null
   },
   {
-    "company": "Bank of Montreal",
-    "role": "Machine Learning Developer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620",
-    "date_posted": "2026-11-05",
-    "date_found": "2026-11-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "BiblioCommons",
     "role": "Junior Full-Stack Engineer Intern",
     "location": "Ontario, Canada",
@@ -5102,6 +5091,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Machine Learning Developer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620",
+    "date_posted": "2026-11-05",
+    "date_found": "2026-11-05",
+    "status": "closed",
+    "date_closed": "2026-11-07"
   },
   {
     "company": "Intel",
