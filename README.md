@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**465 open** · 332 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**465 open** · 326 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -815,9 +815,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | McKesson | 🔒 Java Full Stack Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Credit Modeling and Methodology Analyst Intern - GRM | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Data Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Winter 2027 |
-| Capital One | 🔒 Full Stack Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Summer 2027 |
-| Intel | 🔒 Thermal Mechanical Engineering Intern - GPU Platforms | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
-| Kinaxis | 🔒 Developer Intern - Clients - Front End Technologies | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
-| Pomerleau | 🔒 AI Product Analyst Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-09 | – |
-| Sun Life | 🔒 Associate Software Engineer Co-op | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-01 | – |
-| TD Bank | 🔒 Data Analytics & Insights Intern Co-op | Montreal, QC, Canada, Toronto, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
