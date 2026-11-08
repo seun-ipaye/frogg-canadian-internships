@@ -2442,17 +2442,6 @@
     "date_closed": null
   },
   {
-    "company": "Pebl",
-    "role": "Software Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
-    "date_posted": "2026-10-13",
-    "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
@@ -5069,6 +5058,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Pebl",
+    "role": "Software Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-08"
   },
   {
     "company": "Anthropic",
