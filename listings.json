@@ -2717,17 +2717,6 @@
     "date_closed": null
   },
   {
-    "company": "Workday",
-    "role": "Software Development Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Equitable Bank",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -5065,6 +5054,17 @@
     "location": "Vancouver, BC, Canada",
     "term": "Winter 2027",
     "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-08"
+  },
+  {
+    "company": "Workday",
+    "role": "Software Development Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
     "status": "closed",
