@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**461 open** · 330 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**461 open** · 321 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -806,12 +806,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 Data Analyst Co-op - Personal Banking | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | StackAdapt | 🔒 Software Engineer Intern | Remote in Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Teledyne | 🔒 LiDAR Data Analyst Co-op | Concord, Vaughan, ON, Canada | 🔒 Closed | 2026-09-03 | – |
-| Altera | 🔒 High Level Synthesis Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
-| Cenovus Energy | 🔒 Information Technology Student - Data Science and Software | Calgary, AB, Canada | 🔒 Closed | 2026-09-24 | – |
-| Intact | 🔒 Android Developer Intern Co-op - Winter 2027 | Montreal, QC, Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
-| Intel | 🔒 Firmware Development Undergraduate Engineering Co-op | Remote in Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
-| L3Harris Technologies | 🔒 Electro-Optical Engineering Co-Op - Waterdown - CAN | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | – |
-| L3Harris Technologies | 🔒 Systems Engineer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-30 | – |
-| McKesson | 🔒 Java Full Stack Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Credit Modeling and Methodology Analyst Intern - GRM | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Data Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-07 | Winter 2027 |
