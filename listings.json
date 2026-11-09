@@ -3014,17 +3014,6 @@
     "date_closed": null
   },
   {
-    "company": "Coveo",
-    "role": "Corporate Business Intelligence Intern",
-    "location": "Québec City, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "IC Validation Engineer Intern Co-op - BS/MS",
     "location": "Ottawa, ON, Canada",
@@ -4979,6 +4968,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Coveo",
+    "role": "Corporate Business Intelligence Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-28",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
