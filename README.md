@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**449 open** · 324 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**448 open** · 325 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -165,7 +165,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Citi | Technology Analyst Intern - Application Development | Mississauga, ON, Canada | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) | 2026-10-23 | Summer 2027 |
 | Kinaxis | Full Stack Developer Intern - C# | Ottawa, ON, Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35343?icims=1) | 2026-10-23 | Winter 2027 |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | Business Analytics Intern | Toronto, ON, Canada | [Apply](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Analytics-Intern_JR0000893-2) | 2026-10-23 | – |
-| RSM | Business Intelligence Consulting Intern | Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | 2026-10-23 | Summer 2027 |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | 2026-10-23 | Winter 2027 |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | 2026-10-23 | Summer 2027 |
 | SOTI | Associate Product Manager Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | 2026-10-23 | Summer 2027 |
@@ -482,6 +481,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Manulife Financial | 🔒 Software Engineering Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-10-08 | Winter 2027 |
 | NAV CANADA | 🔒 Aviation Predictive Analytics Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-30 | – |
 | OLG | 🔒 Front End Developer Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-10-30 | Winter 2027 |
+| RSM | 🔒 Business Intelligence Consulting Intern | Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
 | TechInsights | 🔒 Circuit Analysis Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-22 | Winter 2027 |
 | Teledyne | 🔒 Thermal Test Co-op | Montreal, QC, Canada | 🔒 Closed | 2026-11-03 | – |
 | Pebl | 🔒 Software Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-13 | – |

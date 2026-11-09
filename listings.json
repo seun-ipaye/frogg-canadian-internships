@@ -1551,17 +1551,6 @@
     "date_closed": null
   },
   {
-    "company": "RSM",
-    "role": "Business Intelligence Consulting Intern",
-    "location": "Toronto, ON, Canada; Calgary, AB, Canada; Edmonton, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Associate Product Manager Intern",
     "location": "Mississauga, ON, Canada",
@@ -5034,6 +5023,17 @@
     "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "RSM",
+    "role": "Business Intelligence Consulting Intern",
+    "location": "Toronto, ON, Canada; Calgary, AB, Canada; Edmonton, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
