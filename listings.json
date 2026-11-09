@@ -1463,17 +1463,6 @@
     "date_closed": null
   },
   {
-    "company": "American Express",
-    "role": "AI Engineer Intern - Enterprise Technology Services",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Aptiv",
     "role": "Cloud Software Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -2700,17 +2689,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply",
-    "date_posted": "2026-10-08",
-    "date_found": "2026-10-08",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Manulife Financial",
-    "role": "Software Engineering Co-op",
-    "location": "Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
     "date_posted": "2026-10-08",
     "date_found": "2026-10-08",
     "status": "open",
@@ -5016,6 +4994,17 @@
     "date_closed": null
   },
   {
+    "company": "American Express",
+    "role": "AI Engineer Intern - Enterprise Technology Services",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
     "company": "CIBC",
     "role": "AI Developer Co-op - Bilingual",
     "location": "Montreal, QC, Canada",
@@ -5034,6 +5023,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Software Engineering Co-op",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
+    "date_posted": "2026-10-08",
+    "date_found": "2026-10-08",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
