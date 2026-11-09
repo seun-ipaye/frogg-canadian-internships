@@ -473,17 +473,6 @@
     "date_closed": null
   },
   {
-    "company": "Teledyne",
-    "role": "Thermal Test Co-op",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Xanadu",
     "role": "Photonics Test Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -5056,6 +5045,17 @@
     "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Thermal Test Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Montreal-QC-TDY/Stagiaire-en-tests-thermiques--Thermal-Test-Co-op_REQ37169",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
