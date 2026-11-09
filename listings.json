@@ -715,17 +715,6 @@
     "date_closed": null
   },
   {
-    "company": "NAV CANADA",
-    "role": "Aviation Predictive Analytics Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Camera HW ASIC Verification Intern",
     "location": "Vancouver, BC, Canada",
@@ -5023,6 +5012,17 @@
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
     "date_posted": "2026-10-08",
     "date_found": "2026-10-08",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "NAV CANADA",
+    "role": "Aviation Predictive Analytics Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
