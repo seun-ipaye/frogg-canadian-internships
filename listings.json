@@ -308,17 +308,6 @@
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
-    "date_posted": "2026-11-04",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Wolters Kluwer",
     "role": "Front-End Developer Intern - Se",
     "location": "Sherbrooke, QC, Canada",
@@ -423,6 +412,17 @@
     "location": "Vancouver, BC, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
     "status": "open",
@@ -720,17 +720,6 @@
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Aviation-Predictive-Analytics-Co-op-Student_JR-8599",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "OLG",
-    "role": "Front End Developer Student Intern",
-    "location": "Toronto, ON, Canada; Sault Ste. Marie, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
     "status": "open",
@@ -5034,6 +5023,17 @@
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
     "date_posted": "2026-10-08",
     "date_found": "2026-10-08",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "OLG",
+    "role": "Front End Developer Student Intern",
+    "location": "Toronto, ON, Canada; Sault Ste. Marie, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
