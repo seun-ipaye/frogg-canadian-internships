@@ -891,17 +891,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Analyst Co-op",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Embedded Software Engineer Co-op",
     "location": "Ottawa, ON, Canada",
@@ -5036,6 +5025,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Analyst Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-09"
   },
   {
     "company": "Pebl",
