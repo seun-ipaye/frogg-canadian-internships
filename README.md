@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**451 open** · 322 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**450 open** · 323 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -163,7 +163,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Aptiv | Engineering Intern | Kanata, Ottawa, ON, Canada | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367) | 2026-10-23 | – |
 | Boson Ai | MScAC Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply) | 2026-10-23 | Summer 2027 |
 | Citi | Technology Analyst Intern - Application Development | Mississauga, ON, Canada | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) | 2026-10-23 | Summer 2027 |
-| GE Vernova | Product Management Intern | Markham, ON, Canada | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | 2026-10-23 | Summer 2027 |
 | Kinaxis | Full Stack Developer Intern - C# | Ottawa, ON, Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35343?icims=1) | 2026-10-23 | Winter 2027 |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | Business Analytics Intern | Toronto, ON, Canada | [Apply](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Analytics-Intern_JR0000893-2) | 2026-10-23 | – |
 | RSM | Business Intelligence Consulting Intern | Toronto, ON, Canada, Calgary, AB, Canada, Edmonton, AB, Canada | [Apply](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Edmonton/Business-Intelligence-Consulting-Intern---Summer-2027_JR122066-1) | 2026-10-23 | Summer 2027 |
@@ -478,6 +477,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | American Express | 🔒 AI Engineer Intern - Enterprise Technology Services | Toronto, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
 | CIBC | 🔒 AI Developer Co-op - Bilingual | Montreal, QC, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | CIBC | 🔒 Analyst Co-op | Montreal, QC, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
+| GE Vernova | 🔒 Product Management Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
 | GE Vernova | 🔒 Product Management Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
 | Manulife Financial | 🔒 Software Engineering Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-10-08 | Winter 2027 |
 | NAV CANADA | 🔒 Aviation Predictive Analytics Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-30 | – |

@@ -1529,17 +1529,6 @@
     "date_closed": null
   },
   {
-    "company": "GE Vernova",
-    "role": "Product Management Intern",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "Full Stack Developer Intern - C#",
     "location": "Ottawa, ON, Canada",
@@ -4990,6 +4979,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "GE Vernova",
+    "role": "Product Management Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
