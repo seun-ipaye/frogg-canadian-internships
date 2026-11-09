@@ -3443,17 +3443,6 @@
     "date_closed": null
   },
   {
-    "company": "TechInsights",
-    "role": "Circuit Analysis Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://techinsights.applytojob.com/apply/bKNlLKEsBR/Circuit-Analysis-Coop-Student-Winter-2027",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CAE",
     "role": "Software Developer Intern - Content Creation Tools",
     "location": "Montreal, QC, Canada",
@@ -5045,6 +5034,17 @@
     "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "TechInsights",
+    "role": "Circuit Analysis Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://techinsights.applytojob.com/apply/bKNlLKEsBR/Circuit-Analysis-Coop-Student-Winter-2027",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
