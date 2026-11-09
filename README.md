@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**458 open** · 324 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**458 open** · 313 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -795,14 +795,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | 🔒 Hardware Design Verification Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | Cadence Design Systems | 🔒 Digital ASIC Design / Verification Engineer Intern/Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | – |
 | Sun Life | 🔒 Digital Analytics Student | Toronto, ON, Canada | 🔒 Closed | 2026-08-10 | – |
-| Autodesk | 🔒 Product Management Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Autodesk | 🔒 Product Management Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Capital One | 🔒 Data Analytics Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Capital One | 🔒 Data Scientist Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-05 | Summer 2027 |
-| CIBC | 🔒 AI and Data Analytics and Reporting Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-25 | – |
-| Lumentum | 🔒 Optical Verification Engineer Intern Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Marvell | 🔒 Firmware Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-22 | – |
-| Royal Bank of Canada | 🔒 Data Analyst Co-op - Personal Banking | Toronto, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Data Analyst Co-op - Personal Banking | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| StackAdapt | 🔒 Software Engineer Intern | Remote in Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Teledyne | 🔒 LiDAR Data Analyst Co-op | Concord, Vaughan, ON, Canada | 🔒 Closed | 2026-09-03 | – |
