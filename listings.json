@@ -44,6 +44,17 @@
     "date_closed": null
   },
   {
+    "company": "NVIDIA",
+    "role": "Product Management Space Compute MBA Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Qualcomm",
     "role": "Firmware Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -363,6 +374,17 @@
     "date_closed": null
   },
   {
+    "company": "RBC",
+    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
+    "date_posted": "2026-11-04",
+    "date_found": "2026-11-03",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Wolters Kluwer",
     "role": "Front-End Developer Intern - Se",
     "location": "Sherbrooke, QC, Canada",
@@ -467,17 +489,6 @@
     "location": "Vancouver, BC, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "RBC",
-    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
     "status": "open",
@@ -3575,17 +3586,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Analog Layout Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "National Bank of Canada",
     "role": "Analyst Intern - Credit Risk Analytics",
     "location": "Canada",
@@ -3745,17 +3745,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
-    "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Equitable Bank",
-    "role": "Retail Lending AI Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply",
     "date_posted": "2026-09-14",
     "date_found": "2026-10-05",
     "status": "open",
@@ -5005,6 +4994,17 @@
     "date_closed": "2026-11-09"
   },
   {
+    "company": "Equitable Bank",
+    "role": "Retail Lending AI Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
     "company": "GE Vernova",
     "role": "Product Management Intern",
     "location": "Markham, ON, Canada",
@@ -5034,6 +5034,17 @@
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1",
     "date_posted": "2026-10-08",
     "date_found": "2026-10-08",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Layout Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
