@@ -649,17 +649,6 @@
     "date_closed": null
   },
   {
-    "company": "RTX",
-    "role": "Digital Support & Business Intelligence Intern - Computer Science",
-    "location": "Longueuil, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TechInsights",
     "role": "Teardown Lab Co-op",
     "location": "Ottawa, ON, Canada",
@@ -4902,6 +4891,17 @@
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "RTX",
+    "role": "Digital Support & Business Intelligence Intern - Computer Science",
+    "location": "Longueuil, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
     "status": "closed",
     "date_closed": "2026-11-10"
   },

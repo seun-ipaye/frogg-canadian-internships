@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**439 open** · 338 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**438 open** · 339 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -83,7 +83,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Digital Design Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913672) | 2026-11-02 | Summer 2027 |
 | Qualcomm | SoC Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721914045) | 2026-11-02 | Summer 2027 |
 | Qualcomm | Verification Engineer Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721913769) | 2026-11-02 | Summer 2027 |
-| RTX | Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1) | 2026-11-02 | Winter 2027 |
 | TechInsights | Teardown Lab Co-op | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/ukjsdhXDr4/Teardown-Lab-Coop-Student-Winter-2027) | 2026-11-02 | Winter 2027 |
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) | 2026-11-02 | Winter 2027 |
 | WSP | Environmental Innovation Intern | Sherbrooke, QC, Canada | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500) | 2026-11-02 | – |
@@ -470,6 +469,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Manulife Financial | 🔒 Data Engineering Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-10-12 | Winter 2027 |
 | Manulife Financial | 🔒 Software Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-12 | Winter 2027 |
 | Manulife Financial | 🔒 Software Engineering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-12 | Winter 2027 |
+| RTX | 🔒 Digital Support & Business Intelligence Intern - Computer Science | Longueuil, QC, Canada | 🔒 Closed | 2026-11-02 | Winter 2027 |
 | American Express | 🔒 AI Engineer Intern - Enterprise Technology Services | Toronto, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
 | CIBC | 🔒 AI Developer Co-op - Bilingual | Montreal, QC, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | CIBC | 🔒 Analyst Co-op | Montreal, QC, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
