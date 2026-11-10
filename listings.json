@@ -143,17 +143,6 @@
     "date_closed": null
   },
   {
-    "company": "Hootsuite",
-    "role": "Software Developer Co-op Intern",
-    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
-    "date_posted": "2026-11-06",
-    "date_found": "2026-11-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "OLG",
     "role": "Analytics Engineering & Measurement Student Intern",
     "location": "Toronto, ON, Canada; Sault Ste. Marie, ON, Canada",
@@ -4860,6 +4849,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Hootsuite",
+    "role": "Software Developer Co-op Intern",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "closed",
+    "date_closed": "2026-11-10"
   },
   {
     "company": "Manulife Financial",
