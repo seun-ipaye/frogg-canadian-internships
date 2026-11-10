@@ -11,6 +11,17 @@
     "date_closed": null
   },
   {
+    "company": "Altera",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Blackberry",
     "role": "Marketing Data & AI Analyst Intern",
     "location": "Waterloo, ON, Canada",
@@ -4114,17 +4125,6 @@
     "date_closed": null
   },
   {
-    "company": "General Dynamics UK",
-    "role": "Software Developer Co-op - 16-Months",
-    "location": "Calgary, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.smartrecruiters.com/GDMSI/744000146985399",
-    "date_posted": "2026-09-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "RTX",
     "role": "Data Analyst Intern - Global Sales",
     "location": "Saint-Hubert, Longueuil, QC, Canada",
@@ -5034,6 +5034,17 @@
     "link": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "General Dynamics UK",
+    "role": "Software Developer Co-op - 16-Months",
+    "location": "Calgary, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.smartrecruiters.com/GDMSI/744000146985399",
+    "date_posted": "2026-09-02",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
