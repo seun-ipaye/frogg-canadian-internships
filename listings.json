@@ -2541,28 +2541,6 @@
     "date_closed": null
   },
   {
-    "company": "Manulife Financial",
-    "role": "Data Engineering Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Manulife Financial",
-    "role": "Data Engineering Co-op",
-    "location": "Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Magnet Forensics",
     "role": "Software Developer Co-op",
     "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
@@ -4867,6 +4845,28 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Data Engineering Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Data Engineering Co-op",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
     "status": "closed",
