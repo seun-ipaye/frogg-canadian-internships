@@ -1,5 +1,60 @@
 [
   {
+    "company": "Amgen",
+    "role": "Computer Engineering Co-op - Large Molecule Discovery - Technology",
+    "location": "Burnaby, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Data Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Treasury & Payment Solutions Strategy Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Mixed Signal Designer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Designer---coop_R032100",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Investissement Québec",
+    "role": "Automation and Artificial Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
