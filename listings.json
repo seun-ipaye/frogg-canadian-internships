@@ -660,17 +660,6 @@
     "date_closed": null
   },
   {
-    "company": "Semtech",
-    "role": "Test Engineer Intern",
-    "location": "Burlington, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "TechInsights",
     "role": "Teardown Lab Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3036,17 +3025,6 @@
     "date_closed": null
   },
   {
-    "company": "Coveo",
-    "role": "Corporate Business Intelligence Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "IC Validation Engineer Intern Co-op - BS/MS",
     "location": "Ottawa, ON, Canada",
@@ -3756,17 +3734,6 @@
     "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
     "term": "Unspecified",
     "link": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534",
-    "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
-    "role": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
     "date_posted": "2026-09-14",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4963,6 +4930,17 @@
   {
     "company": "Coveo",
     "role": "Corporate Business Intelligence Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827732002",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Coveo",
+    "role": "Corporate Business Intelligence Intern",
     "location": "Québec City, QC, Canada",
     "term": "Winter 2027",
     "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
@@ -5050,6 +5028,17 @@
   },
   {
     "company": "Marvell",
+    "role": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Marvell",
     "role": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
     "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
     "term": "Summer 2027",
@@ -5098,6 +5087,17 @@
     "location": "Burlington, ON, Canada",
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Product-Engineering-Intern_REQ3668-1",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Semtech",
+    "role": "Test Engineer Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Test-Engineering-Intern_REQ3667",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
     "status": "closed",
