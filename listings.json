@@ -1705,17 +1705,6 @@
     "date_closed": null
   },
   {
-    "company": "BC Pensions",
-    "role": "Junior Information Management Analyst Co-op",
-    "location": "Victoria, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Machine Learning Engineer Co-op",
     "location": "Toronto, ON, Canada",
@@ -4825,6 +4814,17 @@
     "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
     "date_posted": "2026-08-26",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "BC Pensions",
+    "role": "Junior Information Management Analyst Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-11-10"
   },
