@@ -55,6 +55,17 @@
     "date_closed": null
   },
   {
+    "company": "NVIDIA",
+    "role": "Systems Research Intern - Observability",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Qualcomm",
     "role": "Firmware Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -2970,17 +2981,6 @@
     "date_closed": null
   },
   {
-    "company": "Definity Financial",
-    "role": "Operations Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi Energy",
     "role": "Hardware Test Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -4990,6 +4990,17 @@
     "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002",
     "date_posted": "2026-10-01",
     "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-09"
+  },
+  {
+    "company": "Definity Financial",
+    "role": "Operations Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-09"
   },
