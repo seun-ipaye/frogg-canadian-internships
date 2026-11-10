@@ -4213,17 +4213,6 @@
     "date_closed": null
   },
   {
-    "company": "Alberta Investment Management Corporation",
-    "role": "Quantitative Analytics & Reporting Intern",
-    "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
-    "term": "Unspecified",
-    "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
-    "date_posted": "2026-08-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CCLIM - Quantitative Equity",
     "role": "Quantitative Equity Analyst Intern",
     "location": "Vancouver, BC, Canada",
@@ -4827,6 +4816,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Alberta Investment Management Corporation",
+    "role": "Quantitative Analytics & Reporting Intern",
+    "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891",
+    "date_posted": "2026-08-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-10"
   },
   {
     "company": "Hootsuite",
