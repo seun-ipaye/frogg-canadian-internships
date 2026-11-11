@@ -3256,17 +3256,6 @@
     "date_closed": null
   },
   {
-    "company": "Teledyne",
-    "role": "Industrialization and Statistical Analysis Intern",
-    "location": "Bromont, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "ASIC Engineer Intern",
     "location": "Ottawa, ON, Canada",
@@ -4835,6 +4824,17 @@
     "term": "Unspecified",
     "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
     "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "Teledyne",
+    "role": "Industrialization and Statistical Analysis Intern",
+    "location": "Bromont, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Bromont-QC-TDY/Stagiaire-en-industrialisation-et-analyse-statistique_REQ36708",
+    "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-11"
