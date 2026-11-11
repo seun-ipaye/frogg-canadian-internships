@@ -484,17 +484,6 @@
     "date_closed": null
   },
   {
-    "company": "Wolters Kluwer",
-    "role": "Front-End Developer Intern - Se",
-    "location": "Sherbrooke, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874",
-    "date_posted": "2026-11-04",
-    "date_found": "2026-11-04",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Arlo Technologies",
     "role": "Firmware Developer Co-op",
     "location": "Richmond, BC, Canada",
@@ -887,17 +876,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721862542",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Revvity",
-    "role": "Full-stack AI Developer Intern",
-    "location": "Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
     "status": "open",
     "date_closed": null
   },
@@ -2959,17 +2937,6 @@
     "date_closed": null
   },
   {
-    "company": "Qualcomm",
-    "role": "Design Automation & Quality Assurance Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721349404",
-    "date_posted": "2026-10-01",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Stripe",
     "role": "Data Analyst Intern",
     "location": "Toronto, ON, Canada",
@@ -4763,6 +4730,17 @@
     "date_closed": "2026-11-11"
   },
   {
+    "company": "Qualcomm",
+    "role": "Design Automation & Quality Assurance Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721349404",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
     "company": "Revvity",
     "role": "Full-stack AI Developer Intern",
     "location": "Ontario, Canada",
@@ -4779,6 +4757,17 @@
     "location": "Ontario, Canada",
     "term": "Unspecified",
     "link": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "Revvity",
+    "role": "Full-stack AI Developer Intern",
+    "location": "Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
     "status": "closed",
@@ -4858,6 +4847,17 @@
     "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165",
     "date_posted": "2026-06-18",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "Wolters Kluwer",
+    "role": "Front-End Developer Intern - Se",
+    "location": "Sherbrooke, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874",
+    "date_posted": "2026-11-04",
+    "date_found": "2026-11-04",
     "status": "closed",
     "date_closed": "2026-11-11"
   },
