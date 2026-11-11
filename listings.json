@@ -2167,17 +2167,6 @@
     "date_closed": null
   },
   {
-    "company": "Nuovo Photography",
-    "role": "Software Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "NVIDIA",
     "role": "ASIC Verification Intern",
     "location": "Toronto, ON, Canada",
@@ -4027,39 +4016,6 @@
   },
   {
     "company": "AMD",
-    "role": "Analog and Mixed Signal Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.amd.com/jobs/91369?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
-    "role": "Diagnostics Design Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.amd.com/jobs/90435?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
-    "role": "Firmware Engineer Intern/Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers.amd.com/jobs/91313?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-10",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
     "role": "Hardware Design Engineer Intern/Co-op",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
@@ -4698,12 +4654,45 @@
   },
   {
     "company": "AMD",
+    "role": "Analog and Mixed Signal Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/91369?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "AMD",
+    "role": "Diagnostics Design Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers.amd.com/jobs/90435?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "AMD",
     "role": "Firmware Engineer Intern/Co-op",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://careers.amd.com/jobs/90301?icims=1",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "AMD",
+    "role": "Firmware Engineer Intern/Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91313?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-10",
     "status": "closed",
     "date_closed": "2026-11-11"
   },
@@ -4847,6 +4836,17 @@
     "link": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Loblaw-Brands--Technology-Transformation---Co-op-Student_R2000695051",
     "date_posted": "2026-09-08",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "Nuovo Photography",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
     "status": "closed",
     "date_closed": "2026-11-11"
   },

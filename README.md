@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**426 open** · 358 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**422 open** · 362 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -221,7 +221,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | FanDuel | Product Co-op | Toronto, ON, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) | 2026-10-19 | Winter 2027 |
 | HeyGen | Software Engineer Intern | Toronto, ON, Canada, SF, LA +1 more | [Apply](https://job-boards.greenhouse.io/heygen/jobs/4540716007) | 2026-10-19 | Winter 2027 |
 | Manulife Financial | AI Intern - AI | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | 2026-10-19 | Winter 2027 |
-| Nuovo Photography | Software Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/nuovophotography/j/7DE79BE9A8/apply) | 2026-10-19 | Winter 2027 |
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) | 2026-10-19 | Summer 2027 |
 | Qualcomm | Machine Learning AISW Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636765) | 2026-10-19 | Summer 2027 |
 | Qualcomm | QDSP Hardware Physical Design Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636316) | 2026-10-19 | Summer 2027 |
@@ -390,9 +389,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kinaxis | Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Intern Co-op - Machine Learning | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | 2026-09-03 | Winter 2027 |
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | 2026-09-02 | Winter 2027 |
-| AMD | Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/91369?icims=1) | 2026-09-01 | Summer 2027 |
-| AMD | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90435?icims=1) | 2026-09-01 | Summer 2027 |
-| AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91313?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90372?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90383?icims=1) | 2026-09-01 | Summer 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
@@ -451,7 +447,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | AMD | 🔒 AGS Libraries Intern/Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
+| AMD | 🔒 Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
+| AMD | 🔒 Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
+| AMD | 🔒 Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | AMD | 🔒 Firmware Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | AMD | 🔒 Firmware Engineer Intern/Co-op - Long Term | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
@@ -465,6 +464,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | 🔒 Product Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | Winter 2027 |
 | Electronic Arts | 🔒 Analytics Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Loblaw Companies | 🔒 Technology Transformation Co-op - Technology Transformation | Brampton, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
+| Nuovo Photography | 🔒 Software Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Semtech | 🔒 Software Developer Co-op - Web/Cloud Application | Richmond, BC, Canada | 🔒 Closed | 2026-10-05 | – |
 | Alberta Investment Management Corporation | 🔒 Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | 🔒 Closed | 2026-08-26 | – |
 | BC Pensions | 🔒 Junior Information Management Analyst Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
