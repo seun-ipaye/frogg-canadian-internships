@@ -3872,17 +3872,6 @@
     "date_closed": null
   },
   {
-    "company": "Hexagon AB",
-    "role": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-09",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "Developer Intern - AI Solutions",
     "location": "Ottawa, ON, Canada",
@@ -4480,17 +4469,6 @@
     "company": "DRW",
     "role": "AI/ML Research Intern",
     "location": "Montreal, QC, Canada",
-    "term": "Summer 2028",
-    "link": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
-    "date_posted": "2026-07-13",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "DRW",
-    "role": "AI/ML Research Intern",
-    "location": "Montreal, QC, Canada",
     "term": "Summer 2027",
     "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
     "date_posted": "2026-07-13",
@@ -4913,6 +4891,28 @@
     "link": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/229",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "DRW",
+    "role": "AI/ML Research Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2028",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
+    "date_posted": "2026-07-13",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "Hexagon AB",
+    "role": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-09",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-10"
   },
