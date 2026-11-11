@@ -2222,17 +2222,6 @@
     "date_closed": null
   },
   {
-    "company": "Electronic Arts",
-    "role": "Analytics Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kepler Communications",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4838,6 +4827,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Analytics Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-11-11"
   },
   {
     "company": "Loblaw Companies",
