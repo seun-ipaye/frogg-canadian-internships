@@ -1947,17 +1947,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Product Analyst Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "NVIDIA",
     "role": "PhD Research Intern - AI for Climate and Weather Simulation",
     "location": "Canada; Santa Clara, CA; United States",
@@ -4827,6 +4816,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "CIBC",
+    "role": "Product Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-11-11"
   },
   {
     "company": "Electronic Arts",
