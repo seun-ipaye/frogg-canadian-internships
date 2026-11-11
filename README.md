@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**427 open** · 357 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**426 open** · 358 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -394,7 +394,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90435?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Firmware Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/91313?icims=1) | 2026-09-01 | Winter 2027 |
 | AMD | Hardware Design Engineer Intern/Co-op | Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/90372?icims=1) | 2026-09-01 | Summer 2027 |
-| AMD | Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90367?icims=1) | 2026-09-01 | Summer 2027 |
 | AMD | Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | [Apply](https://careers.amd.com/jobs/90383?icims=1) | 2026-09-01 | Summer 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | 2026-09-01 | Winter 2027 |
@@ -458,6 +457,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | 🔒 Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Graphics Software Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | AMD | 🔒 Hardware Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
+| AMD | 🔒 Hardware Design Engineer Intern/Co-op - Long Term | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Machine Learning/Artificial Intelligence Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | AMD | 🔒 Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Software Engineer Intern/Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
