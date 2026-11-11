@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**413 open** · 371 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**411 open** · 373 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -35,7 +35,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) | 2026-11-10 | Summer 2027 |
 | Altera | FPGA Design Verification Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440) | 2026-11-09 | – |
 | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | 2026-11-09 | – |
-| Blackberry | Marketing Data & AI Analyst Intern | Waterloo, ON, Canada | [Apply](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) | 2026-11-09 | Winter 2027 |
 | CIBC | Associate Technology Leadership Advancement Program Intern | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) | 2026-11-09 | Summer 2027 |
 | Kensington | BI/Data Analyst Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | 2026-11-09 | – |
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | 2026-11-09 | Summer 2027 |
@@ -291,7 +290,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kinaxis | AI/ML Researcher Intern | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | 2026-10-02 | Winter 2027 |
 | Kinaxis | Intern Developer - Back End Technologies | Ottawa, ON, Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35372?icims=1) | 2026-10-02 | Winter 2027 |
 | Marvell | Firmware Engineer Intern | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | 2026-10-02 | Winter 2027 |
-| Solink | Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | 2026-10-02 | – |
 | Marvell | IC Validation Engineer Intern Co-op - BS/MS | Ottawa, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925) | 2026-10-01 | – |
 | Pinterest | Machine Learning Intern | Toronto, ON, Canada | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) | 2026-10-01 | Summer 2027 |
 | Pinterest | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) | 2026-10-01 | – |
@@ -454,6 +452,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AMD | 🔒 Product Management Intern/Co-op - Multiple Teams | Calgary, AB, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Software Engineer Intern/Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
 | AMD | 🔒 Technical Marketing Performance Analysis Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
+| Blackberry | 🔒 Marketing Data & AI Analyst Intern | Waterloo, ON, Canada | 🔒 Closed | 2026-11-09 | Winter 2027 |
 | CIBC | 🔒 Product Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | Winter 2027 |
 | Electronic Arts | 🔒 Analytics Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Loblaw Companies | 🔒 Technology Transformation Co-op - Technology Transformation | Brampton, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
@@ -464,6 +463,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Revvity | 🔒 Full-stack AI Developer Intern | Ontario, Canada | 🔒 Closed | 2026-10-30 | – |
 | Revvity | 🔒 Full-stack AI Developer Intern | Ontario, Canada | 🔒 Closed | 2026-10-30 | – |
 | Semtech | 🔒 Software Developer Co-op - Web/Cloud Application | Richmond, BC, Canada | 🔒 Closed | 2026-10-05 | – |
+| Solink | 🔒 Software Engineer Co-op - Agents | Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-10-02 | – |
 | Textron | 🔒 Information Systems Quality Intern - Quality Systems Information Technology | Mirabel, QC, Canada | 🔒 Closed | 2026-07-27 | – |
 | Textron | 🔒 Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc | Mirabel, QC, Canada | 🔒 Closed | 2026-06-18 | Fall 2026 |
 | Alberta Investment Management Corporation | 🔒 Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | 🔒 Closed | 2026-08-26 | – |

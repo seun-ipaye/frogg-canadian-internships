@@ -121,17 +121,6 @@
     "date_closed": null
   },
   {
-    "company": "Blackberry",
-    "role": "Marketing Data & AI Analyst Intern",
-    "location": "Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327",
-    "date_posted": "2026-11-09",
-    "date_found": "2026-11-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "CIBC",
     "role": "Associate Technology Leadership Advancement Program Intern",
     "location": "Toronto, ON, Canada",
@@ -2937,17 +2926,6 @@
     "date_closed": null
   },
   {
-    "company": "Solink",
-    "role": "Software Engineer Co-op - Agents",
-    "location": "Ottawa, ON, Canada; Remote in Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "IC Validation Engineer Intern Co-op - BS/MS",
     "location": "Ottawa, ON, Canada",
@@ -4730,6 +4708,17 @@
     "date_closed": "2026-11-11"
   },
   {
+    "company": "Blackberry",
+    "role": "Marketing Data & AI Analyst Intern",
+    "location": "Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
     "company": "CIBC",
     "role": "Product Analyst Co-op",
     "location": "Toronto, ON, Canada",
@@ -4835,6 +4824,17 @@
     "term": "Unspecified",
     "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644",
     "date_posted": "2026-10-05",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "Solink",
+    "role": "Software Engineer Co-op - Agents",
+    "location": "Ottawa, ON, Canada; Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true",
+    "date_posted": "2026-10-02",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-11"
