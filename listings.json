@@ -4082,32 +4082,10 @@
   },
   {
     "company": "AMD",
-    "role": "Firmware Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers.amd.com/jobs/91320?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
     "role": "Hardware Design Engineer Intern/Co-op",
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://careers.amd.com/jobs/90372?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
-    "role": "Hardware Design Engineer Intern/Co-op",
-    "location": "Markham, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers.amd.com/jobs/91360?icims=1",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4141,17 +4119,6 @@
     "location": "Calgary, AB, Canada",
     "term": "Summer 2027",
     "link": "https://careers.amd.com/jobs/90411?icims=1",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-10",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AMD",
-    "role": "Software Engineer Intern/Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers.amd.com/jobs/91367?icims=1",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-10",
     "status": "open",
@@ -4775,6 +4742,17 @@
   },
   {
     "company": "AMD",
+    "role": "Firmware Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91320?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "AMD",
     "role": "Firmware Engineer Intern/Co-op - Long Term",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -4808,12 +4786,34 @@
   },
   {
     "company": "AMD",
+    "role": "Hardware Design Engineer Intern/Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91360?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "AMD",
     "role": "Machine Learning/Artificial Intelligence Intern/Co-op",
     "location": "Markham, ON, Canada",
     "term": "Winter 2027",
     "link": "https://careers.amd.com/jobs/91363?icims=1",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "AMD",
+    "role": "Software Engineer Intern/Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.amd.com/jobs/91367?icims=1",
+    "date_posted": "2026-09-01",
+    "date_found": "2026-10-10",
     "status": "closed",
     "date_closed": "2026-11-11"
   },
