@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**441 open** · 343 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**441 open** · 342 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -807,4 +807,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Motorola | 🔒 Software Developer – Embedded Appliances Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-07 | – |
 | RBC | 🔒 2027 CFO Winter Process Re-Engineering Intern (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | – |
 | RBC | 🔒 2027 Corporate Treasury, Winter Risk Initiatives & Infrastructure, Intern (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-26 | – |
-| Marsh | 🔒 Summer Analyst Intern - Data and Analytics | Toronto, ON, Canada | 🔒 Closed | 2026-08-27 | Summer 2027 |
