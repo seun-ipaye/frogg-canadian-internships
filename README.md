@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**443 open** · 341 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**442 open** · 342 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -430,7 +430,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Google | Student Researcher | Toronto, ON, Canada, Kitchener, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) | 2026-07-20 | – |
 | AMD | Analog/Mixed-Signal Serdes Design Engineer | Markham, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/86868?icims=1) | 2026-07-16 | – |
 | Bree | Machine Learning Engineering Intern | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true) | 2026-07-15 | – |
-| DRW | AI/ML Research Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drwfr/jobs/7991172) | 2026-07-13 | Summer 2027 |
 | DRW | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 2026-07-13 | Summer 2028 |
 | DRW | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drwfr/jobs/7991197) | 2026-07-13 | – |
 | Orennia | Analytics Intern | Calgary, AB, Canada | [Apply](https://boards.greenhouse.io/orennia/jobs/5277706008) | 2026-07-07 | Fall 2026 |
@@ -470,6 +469,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Alberta Investment Management Corporation | 🔒 Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | 🔒 Closed | 2026-08-26 | – |
 | BC Pensions | 🔒 Junior Information Management Analyst Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | DRW | 🔒 AI/ML Research Intern | Montreal, QC, Canada | 🔒 Closed | 2026-07-13 | Summer 2028 |
+| DRW | 🔒 AI/ML Research Intern | Montreal, QC, Canada | 🔒 Closed | 2026-07-13 | Summer 2027 |
 | Hexagon AB | 🔒 Digital Hardware Engineer Intern - GNSS Positioning Digital Team | Calgary, AB, Canada | 🔒 Closed | 2026-09-09 | Summer 2027 |
 | Manulife Financial | 🔒 AI Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-12 | Winter 2027 |
 | Manulife Financial | 🔒 Data Engineering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-12 | Winter 2027 |

@@ -4467,17 +4467,6 @@
   },
   {
     "company": "DRW",
-    "role": "AI/ML Research Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Summer 2027",
-    "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
-    "date_posted": "2026-07-13",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "DRW",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
     "term": "Summer 2028",
@@ -4902,6 +4891,17 @@
     "link": "https://job-boards.greenhouse.io/drweng/jobs/7991171",
     "date_posted": "2026-07-13",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-10"
+  },
+  {
+    "company": "DRW",
+    "role": "AI/ML Research Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
+    "date_posted": "2026-07-13",
+    "date_found": "2026-10-30",
     "status": "closed",
     "date_closed": "2026-11-10"
   },
