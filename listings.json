@@ -4301,17 +4301,6 @@
     "date_closed": null
   },
   {
-    "company": "Textron",
-    "role": "Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc",
-    "location": "Mirabel, QC, Canada",
-    "term": "Fall 2026",
-    "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165",
-    "date_posted": "2026-06-18",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Clio",
     "role": "Software Developer Co-op",
     "location": "Toronto, ON, Canada; Calgary, AB, Canada; Vancouver, BC, Canada",
@@ -4857,6 +4846,17 @@
     "term": "Unspecified",
     "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343983",
     "date_posted": "2026-07-27",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-11"
+  },
+  {
+    "company": "Textron",
+    "role": "Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc",
+    "location": "Mirabel, QC, Canada",
+    "term": "Fall 2026",
+    "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165",
+    "date_posted": "2026-06-18",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-11"

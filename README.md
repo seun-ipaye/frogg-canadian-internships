@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**414 open** · 370 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**413 open** · 371 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -415,7 +415,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Marvell | Analog Engineer Intern - PhD | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426) | 2026-06-27 | – |
 | Later | AI Automation Engineer Co-op | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8604889002) | 2026-06-24 | – |
 | Cadence Design Systems | Analog/Mixed-Signal IC Design Co-op/Intern | Montreal, QC, Canada | [Apply](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993) | 2026-06-20 | – |
-| Textron | Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165) | 2026-06-18 | Fall 2026 |
 | Clio | Software Developer Co-op | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) | 2026-06-16 | Fall 2026 |
 | ProCogia | Statistical Programming Intern | Vancouver, BC, Canada | [Apply](https://procogia.com/about-us/careers/?gh_jid=5265312008) | 2026-06-16 | Fall 2026 |
 | Cadence Design Systems | Analog/Mixed-Signal IC Design Co-Op/Intern | Montreal, QC, Canada | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2) | 2026-06-13 | – |
@@ -466,6 +465,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Revvity | 🔒 Full-stack AI Developer Intern | Ontario, Canada | 🔒 Closed | 2026-10-30 | – |
 | Semtech | 🔒 Software Developer Co-op - Web/Cloud Application | Richmond, BC, Canada | 🔒 Closed | 2026-10-05 | – |
 | Textron | 🔒 Information Systems Quality Intern - Quality Systems Information Technology | Mirabel, QC, Canada | 🔒 Closed | 2026-07-27 | – |
+| Textron | 🔒 Stage automne 2026 – Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc | Mirabel, QC, Canada | 🔒 Closed | 2026-06-18 | Fall 2026 |
 | Alberta Investment Management Corporation | 🔒 Quantitative Analytics & Reporting Intern | Calgary, AB, Canada, Edmonton, AB, Canada | 🔒 Closed | 2026-08-26 | – |
 | BC Pensions | 🔒 Junior Information Management Analyst Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | DRW | 🔒 AI/ML Research Intern | Montreal, QC, Canada | 🔒 Closed | 2026-07-13 | Summer 2028 |
