@@ -11,6 +11,39 @@
     "date_closed": null
   },
   {
+    "company": "Bank of Montreal",
+    "role": "AI Developer Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323",
+    "date_posted": "2026-11-12",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Capital Power",
+    "role": "Student Intern - Data Science",
+    "location": "Edmonton, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
+    "date_posted": "2026-11-12",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Capital Power",
+    "role": "Summer Student Intern - Data Analytics",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
+    "date_posted": "2026-11-12",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Ciena",
     "role": "AI/ML Layout Engineering Intern",
     "location": "Ottawa, ON, Canada",
