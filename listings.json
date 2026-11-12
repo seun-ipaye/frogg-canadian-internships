@@ -1056,17 +1056,6 @@
     "date_closed": null
   },
   {
-    "company": "Cenovus Energy",
-    "role": "Student Risk Analytics Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263",
-    "date_posted": "2026-10-28",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Camera Design Engineering Intern",
     "location": "Vancouver, BC, Canada",
@@ -4508,6 +4497,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Cenovus Energy",
+    "role": "Student Risk Analytics Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263",
+    "date_posted": "2026-10-28",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-12"
   },
   {
     "company": "Geotab",
