@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**410 open** · 375 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**414 open** · 375 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Analog Devices | Analog Design Intern | Ottawa, ON, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | 2026-11-12 | – |
 | Ciena | AI/ML Layout Engineering Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | 2026-11-11 | Winter 2027 |
 | Ciena | Layout Design Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) | 2026-11-11 | Winter 2027 |
 | exacare ai | Data and Analytics Intern | Toronto, ON, Canada | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | 2026-11-11 | Summer 2027 |
@@ -70,6 +71,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) | 2026-11-05 | – |
 | NVIDIA | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | 2026-11-04 | Summer 2027 |
 | NVIDIA | VLSI Timing Methodology Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) | 2026-11-04 | Summer 2027 |
+| Plusgrade | Applied AI Engineer Intern | Toronto, ON, Canada | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233) | 2026-11-04 | – |
+| Plusgrade | Data Science Intern | Toronto, ON, Canada | [Apply](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230) | 2026-11-04 | – |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) | 2026-11-03 | – |
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) | 2026-11-03 | – |
 | Botpress Technologies | Software Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) | 2026-11-03 | Winter 2027 |
@@ -102,6 +105,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) | 2026-10-30 | Winter 2027 |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) | 2026-10-30 | Winter 2027 |
 | Definity Financial | Direct Channel Operations Co-op Intern | Toronto, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) | 2026-10-30 | Winter 2027 |
+| Ontario Securities Commission | Economic Co-op - Market & Analysis | Toronto, ON, Canada | [Apply](https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976) | 2026-10-30 | Winter 2027 |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) | 2026-10-30 | Summer 2027 |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) | 2026-10-30 | Summer 2027 |
 | Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) | 2026-10-30 | Winter 2027 |
