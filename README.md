@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**415 open** · 376 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**413 open** · 378 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -279,7 +279,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CAE | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | 2026-10-06 | – |
 | Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) | 2026-10-06 | Winter 2027 |
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
-| McKesson | Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada | [Apply](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-dveloppeur-se--en-distribution-pharmaceutique---Developper-Pharmaceutical-Distirbution---Winter-Intern_JR0154903) | 2026-10-06 | – |
 | MistyWest | Engineering Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | 2026-10-06 | Winter 2027 |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | 2026-10-06 | Winter 2027 |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | 2026-10-06 | – |
@@ -376,7 +375,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Dynamics UK | Software Engineering Co-op - 4 - 8 months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 months - 8 months | Cole Harbour, NS, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | 2026-09-04 | Winter 2027 |
 | Nokia | Optical Test Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113) | 2026-09-04 | Winter 2027 |
-| AMD | ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | [Apply](https://careers.amd.com/jobs/91207?icims=1) | 2026-09-03 | Summer 2027 |
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) | 2026-09-03 | Summer 2027 |
 | BitGo | Software Engineer Intern - Prime Trade | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002) | 2026-09-03 | Winter 2027 |
 | BitGo | Software Engineer Intern - Settlement Systems/Go Network | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) | 2026-09-03 | Winter 2027 |
@@ -440,9 +438,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Altera | 🔒 FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-12 | Summer 2027 |
+| AMD | 🔒 ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-03 | Summer 2027 |
 | Cenovus Energy | 🔒 Student Risk Analytics Intern | Calgary, AB, Canada | 🔒 Closed | 2026-10-28 | Summer 2027 |
 | Geotab | 🔒 Software Developer Intern | Oakville, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | Manulife Financial | 🔒 AI Intern - AI | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
+| McKesson | 🔒 Pharmaceutical Distribution Developer Intern - Pharmaceutical Distribution | Montreal, QC, Canada | 🔒 Closed | 2026-10-06 | – |
 | AMD | 🔒 AGS Libraries Intern/Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Diagnostics Design Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
