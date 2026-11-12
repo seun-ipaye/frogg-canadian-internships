@@ -3883,17 +3883,6 @@
     "date_closed": null
   },
   {
-    "company": "Geotab",
-    "role": "Software Developer Intern",
-    "location": "Oakville, ON, Canada; Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "Developer Co-op Intern - Machine Learning",
     "location": "Toronto, ON, Canada; Ottawa, ON, Canada; Remote in Canada",
@@ -4508,6 +4497,17 @@
     "date_found": "2026-10-07",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Geotab",
+    "role": "Software Developer Intern",
+    "location": "Oakville, ON, Canada; Waterloo, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-12"
   },
   {
     "company": "Manulife Financial",

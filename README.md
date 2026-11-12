@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**410 open** · 374 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**409 open** · 375 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -377,7 +377,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | BitGo | Software Engineer Intern - Settlement Systems/Go Network | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) | 2026-09-03 | Winter 2027 |
 | Canadian Tire | Business Operations Analyst Student - Winter 2027 | Welland, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928) | 2026-09-03 | Winter 2027 |
 | General Dynamics UK | Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147019949) | 2026-09-03 | Winter 2027 |
-| Geotab | Software Developer Intern | Oakville, ON, Canada, Waterloo, ON, Canada | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Intern Co-op - Machine Learning | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | 2026-09-03 | Winter 2027 |
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | 2026-09-02 | Winter 2027 |
@@ -434,6 +433,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Cohere | Research Internship | Montreal, QC, Canada, London, UK, Toronto, ON, Canada +1 more | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | 2026-05-01 | Fall 2026 |
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
+| Geotab | 🔒 Software Developer Intern | Oakville, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | Manulife Financial | 🔒 AI Intern - AI | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | AMD | 🔒 AGS Libraries Intern/Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
 | AMD | 🔒 Analog and Mixed Signal Engineer Intern/Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
