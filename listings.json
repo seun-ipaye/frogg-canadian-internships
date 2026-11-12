@@ -88,17 +88,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Mixed Signal Designer Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Designer---coop_R032100",
-    "date_posted": "2026-11-10",
-    "date_found": "2026-11-10",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Investissement Québec",
     "role": "Automation and Artificial Intelligence Intern",
     "location": "Montreal, QC, Canada",
@@ -4561,6 +4550,17 @@
     "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263",
     "date_posted": "2026-10-28",
     "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-12"
+  },
+  {
+    "company": "Ciena",
+    "role": "Mixed Signal Designer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-Designer---coop_R032100",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
     "status": "closed",
     "date_closed": "2026-11-12"
   },
