@@ -3608,17 +3608,6 @@
     "date_closed": null
   },
   {
-    "company": "Equitable Bank",
-    "role": "Commercial Lending AI Engineer Intern - Winter 2027",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
-    "date_posted": "2026-09-14",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Google",
     "role": "Student Researcher - BS/MS",
     "location": "Montreal, QC, Canada",
@@ -4572,6 +4561,17 @@
     "link": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263",
     "date_posted": "2026-10-28",
     "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-12"
+  },
+  {
+    "company": "Equitable Bank",
+    "role": "Commercial Lending AI Engineer Intern - Winter 2027",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply",
+    "date_posted": "2026-09-14",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-12"
   },
