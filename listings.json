@@ -924,17 +924,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Project Analyst Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Direct Channel Operations Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -4922,6 +4911,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-13"
+  },
+  {
+    "company": "CIBC",
+    "role": "Project Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
     "status": "closed",
