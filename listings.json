@@ -1,10 +1,32 @@
 [
   {
+    "company": "Canadian Tire",
+    "role": "Programmer Analyst Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Fonds de solidarité FTQ",
     "role": "Business Intelligence and M365 Solutions Intern",
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
     "link": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Seaspan",
+    "role": "Data Engineering Intern",
+    "location": "North Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
     "date_posted": "2026-11-13",
     "date_found": "2026-11-13",
     "status": "open",
@@ -4169,6 +4191,17 @@
     "date_closed": null
   },
   {
+    "company": "Bank of Montreal",
+    "role": "Workforce Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
+    "date_posted": "2026-08-19",
+    "date_found": "2026-10-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "NVIDIA",
     "role": "Software Engineering Intern",
     "location": "Canada; Santa Clara, CA",
@@ -6189,17 +6222,6 @@
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Undergrad-Intern-Technical_R03351",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
-    "status": "closed",
-    "date_closed": "2026-11-04"
-  },
-  {
-    "company": "Bank of Montreal",
-    "role": "Workforce Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513",
-    "date_posted": "2026-08-19",
-    "date_found": "2026-10-13",
     "status": "closed",
     "date_closed": "2026-11-04"
   },

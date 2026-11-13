@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**445 open** · 371 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**448 open** · 370 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,7 +24,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | 2026-11-13 | Winter 2027 |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | [Apply](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) | 2026-11-13 | – |
+| Seaspan | Data Engineering Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) | 2026-11-13 | Winter 2027 |
 | Analog Devices | Analog Design Intern | Ottawa, ON, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Analog-Design-Engineering-Intern_R267446) | 2026-11-12 | – |
 | Analog Devices | Product Engineer Intern - Product Development | Ottawa, ON, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Ottawa/Product-Engineering--Prod-Dev--Intern_R267447) | 2026-11-12 | Summer 2027 |
 | Bank of Montreal | AI Developer Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | 2026-11-12 | Winter 2027 |
@@ -403,6 +405,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | Researcher Co-op - Machine Learning - Speech & Audio AI | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai) | 2026-08-21 | – |
 | Huawei | Researcher Co-op - Physical AI | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai) | 2026-08-21 | – |
 | Huawei | Researcher Co-op - Video Generation & 3D Computer Vision | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision) | 2026-08-21 | – |
+| Bank of Montreal | Workforce Analyst Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Workforce-Analyst--Winter-2027--Co-op-Internship----8-Months_R260024513) | 2026-08-19 | Winter 2027 |
 | NVIDIA | Software Engineering Intern | Canada, Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | 2026-08-19 | Summer 2027 |
 | Thomson Reuters | Applied Research Intern - NLP/ML/GenAI | Toronto, ON, Canada | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern--NLP-ML-GenAI-_JREQ202812) | 2026-08-17 | Fall 2026 |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4368438009) | 2026-08-13 | – |
@@ -587,7 +590,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Semtech | 🔒 Validation Engineering Intern - Signal Integrity Products Group | Burlington, ON, Canada | 🔒 Closed | 2026-09-24 | Summer 2027 |
 | Sun Life | 🔒 Quality Engineering Analyst Intern | Waterloo, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
 | Altera | 🔒 Technical Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
-| Bank of Montreal | 🔒 Workforce Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
 | Blackberry | 🔒 Software Developer Student Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-11-03 | – |
 | Blackberry | 🔒 Software Development Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-11-03 | – |
 | CAE | 🔒 Software Engineering Intern - AI, Automation and Business Intelligence | Montreal, QC, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
