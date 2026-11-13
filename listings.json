@@ -3014,17 +3014,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Intern Developer - Back End Technologies",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://kinaxis.jibeapply.com/jobs/35372?icims=1",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-31",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Firmware Engineer Intern",
     "location": "Ottawa, ON, Canada",
@@ -4946,6 +4935,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-13"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Intern Developer - Back End Technologies",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://kinaxis.jibeapply.com/jobs/35372?icims=1",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-31",
     "status": "closed",
     "date_closed": "2026-11-13"
   },
