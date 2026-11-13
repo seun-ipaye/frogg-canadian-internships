@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**448 open** · 367 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**447 open** · 368 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -108,7 +108,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Spaceium | Electrical Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) | 2026-11-01 | – |
 | AltaLink | Project Support Co-op | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) | 2026-10-30 | Fall 2027 |
 | Altera | FPGA Development Tools Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394) | 2026-10-30 | – |
-| CIBC | Project Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544) | 2026-10-30 | Winter 2027 |
 | CIBC | Project Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1) | 2026-10-30 | Winter 2027 |
 | Definity Financial | Direct Channel Operations Co-op Intern | Toronto, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9470) | 2026-10-30 | Winter 2027 |
 | Ontario Securities Commission | Economic Co-op - Market & Analysis | Toronto, ON, Canada | [Apply](https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976) | 2026-10-30 | Winter 2027 |
@@ -472,6 +471,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| CIBC | 🔒 Project Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-30 | Winter 2027 |
 | Altera | 🔒 FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-12 | Summer 2027 |
 | AMD | 🔒 ASIC Verification Engineer Intern/Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-03 | Summer 2027 |
 | Cenovus Energy | 🔒 Student Risk Analytics Intern | Calgary, AB, Canada | 🔒 Closed | 2026-10-28 | Summer 2027 |
