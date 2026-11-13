@@ -3201,17 +3201,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Developer Intern - Back End Technologies",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Acuity",
     "role": "Hardware Development Intern - Hardware",
     "location": "Brossard, QC, Canada",
@@ -4935,6 +4924,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Product-Analyst-Co-op--Winter-2027_2622544-1",
     "date_posted": "2026-10-30",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-13"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Intern - Back End Technologies",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-13"
   },
