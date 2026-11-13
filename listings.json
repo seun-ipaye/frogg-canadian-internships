@@ -55,6 +55,17 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Researcher Intern - Embodied AI",
+    "location": "Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3",
+    "date_posted": "2026-11-12",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "TMX Group",
     "role": "AI Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -682,6 +693,17 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Researcher Computer Vision Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kabam",
     "role": "Operations Product Manager Co-op",
     "location": "Vancouver, BC, Canada",
@@ -1052,6 +1074,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Intern Researcher - AI Agents",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -2354,6 +2387,17 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Researcher Intern",
+    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-5",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kensington",
     "role": "Analytics Intern",
     "location": "Toronto, ON, Canada",
@@ -2460,6 +2504,28 @@
     "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Audio Researcher Intern - Speech & Acoustic AI",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-audio-speech-acoustic-ai",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Applied 3D AIGC Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-applied-3d-aigc",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -3883,6 +3949,17 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Researcher Intern - Multimodal AI & Interaction",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Nokia",
     "role": "Optical Test Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -4004,6 +4081,28 @@
     "date_closed": null
   },
   {
+    "company": "AB InBev",
+    "role": "Technology Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
+    "date_posted": "2026-08-28",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - Agentic AI",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai",
+    "date_posted": "2026-08-27",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CCLIM - Quantitative Equity",
     "role": "Quantitative Equity Analyst Intern",
     "location": "Vancouver, BC, Canada",
@@ -4033,6 +4132,72 @@
     "link": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966",
     "date_posted": "2026-08-24",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - Large Language Models - Computer Vision",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision-1",
+    "date_posted": "2026-08-21",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - LLM - Computer Vision",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-llms-computer-vision",
+    "date_posted": "2026-08-21",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - LLM Post-Training & Agentic Coding",
+    "location": "Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-llm-post-training-agentic-coding",
+    "date_posted": "2026-08-21",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - Machine Learning - Speech & Audio AI",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-machine-learning-speech-audio-ai",
+    "date_posted": "2026-08-21",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - Physical AI",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-physical-ai",
+    "date_posted": "2026-08-21",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - Video Generation & 3D Computer Vision",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-video-generation-3d-computer-vision",
+    "date_posted": "2026-08-21",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4088,6 +4253,28 @@
     "link": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
     "date_posted": "2026-08-07",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Co-op - Openjiuwen AI Agent Platform",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform",
+    "date_posted": "2026-08-05",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Co-op - Intelligent Real-Time Operating System",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
+    "date_posted": "2026-08-04",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4202,6 +4389,28 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Engineer Distributed Agent System Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1",
+    "date_posted": "2026-07-13",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Intern - Agentic AI",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
+    "date_posted": "2026-07-07",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Orennia",
     "role": "Analytics Intern",
     "location": "Calgary, AB, Canada",
@@ -4312,6 +4521,28 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Embodied AI Researcher Intern - Embodied AI",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1",
+    "date_posted": "2026-06-23",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Intern - AI",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-engineer-ai",
+    "date_posted": "2026-06-22",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Cadence Design Systems",
     "role": "Analog/Mixed-Signal IC Design Co-op/Intern",
     "location": "Montreal, QC, Canada",
@@ -4319,6 +4550,17 @@
     "link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993",
     "date_posted": "2026-06-20",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Software Engineer Co-op - AI Software Engineering",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering",
+    "date_posted": "2026-06-17",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4341,6 +4583,28 @@
     "link": "https://procogia.com/about-us/careers/?gh_jid=5265312008",
     "date_posted": "2026-06-16",
     "date_found": "2026-10-29",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Co-op - Compiler",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7",
+    "date_posted": "2026-06-15",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Intern - AI/ML Technology Insight and Planning",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning",
+    "date_posted": "2026-06-15",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4418,6 +4682,39 @@
     "link": "https://job-boards.greenhouse.io/tribalscale/jobs/4687337006",
     "date_posted": "2026-06-09",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Intern - RL Post-Training for LLMs",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms",
+    "date_posted": "2026-06-08",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Intern Engineer - Game Engine System",
+    "location": "Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system",
+    "date_posted": "2026-06-03",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Intern - Multimodal Learning",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning",
+    "date_posted": "2026-06-03",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4521,6 +4818,39 @@
     "date_closed": null
   },
   {
+    "company": "Huawei",
+    "role": "Engineer-Mobile AI Co-op",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai",
+    "date_posted": "2026-05-08",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "LLM Researcher Intern - Agentic AI - RL",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-llms-agentic-ai-and-rl",
+    "date_posted": "2026-05-08",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Physical AI Researcher Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-physical-ai",
+    "date_posted": "2026-05-08",
+    "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Squarepoint Capital",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -4539,6 +4869,17 @@
     "link": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application",
     "date_posted": "2026-05-01",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Intern Researcher - AI Foundation Model Training",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-foundation-model-training",
+    "date_posted": "2026-04-28",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4572,6 +4913,17 @@
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
     "date_posted": "2026-04-10",
     "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - AI Computing System",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
+    "date_posted": "2026-04-01",
+    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
