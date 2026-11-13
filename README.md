@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**448 open** · 380 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**448 open** · 367 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -839,16 +839,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Vanderlande Industries | 🔒 Software Development Intern | Québec City, QC, Canada | 🔒 Closed | 2026-09-22 | – |
 | Vanderlande Industries | 🔒 Software Development Intern | Québec City, QC, Canada | 🔒 Closed | 2026-09-22 | – |
 | Varian | 🔒 Performance Engineering Assistant Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-09 | – |
-| Autodesk | 🔒 AI Data Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Autodesk | 🔒 AI/ML Platform Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Ciena | 🔒 Software Engineering Intern - Optical Transport and IP Networking | Ottawa, ON, Canada | 🔒 Closed | 2026-09-14 | Winter 2027 |
-| General Motors | 🔒 Infotainment Software Developer Co-op | Markham, ON, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
-| General Motors | 🔒 Vehicle Experience Software Developer Co-op | Markham, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Intact | 🔒 Software Developer 1 Intern/Co-op - Winter 2027 | St. John's, NL, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
-| Later | 🔒 Software Development Co-op - Later Influence | Vancouver, BC, Canada | 🔒 Closed | 2026-07-22 | Fall 2026 |
-| Lumentum | 🔒 Optical Verification Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| RTX | 🔒 Numerical Methods Intern - Advanced Software Development | Longueuil, QC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
-| StackAdapt | 🔒 Software Engineer Backend Intern | Remote in Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Sun Life | 🔒 Data Analyst Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| Sun Life | 🔒 Student Associate Software Engineer Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Fall 2026 |
-| Zip | 🔒 Software Engineer Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-08-25 | Winter 2027 |
