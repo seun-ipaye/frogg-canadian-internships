@@ -55,6 +55,39 @@
     "date_closed": null
   },
   {
+    "company": "W.W. Grainger",
+    "role": "Customer Experience Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "W.W. Grainger",
+    "role": "Field Operations Analyst Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "W.W. Grainger",
+    "role": "GCAN Field Operations Analyst Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Analog Devices",
     "role": "Analog Design Intern",
     "location": "Ottawa, ON, Canada",
@@ -3069,6 +3102,28 @@
     "date_closed": null
   },
   {
+    "company": "L3Harris Technologies",
+    "role": "Manufacturing Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Manufacturing Engineering Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors",
+    "date_posted": "2026-09-30",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Alexion",
     "role": "Development Operations AI & Automation Enablement Co-op Intern",
     "location": "Mississauga, ON, Canada",
@@ -3322,6 +3377,17 @@
     "date_closed": null
   },
   {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "CAE",
     "role": "Software Developer Intern - Content Creation Tools",
     "location": "Montreal, QC, Canada",
@@ -3558,6 +3624,50 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "FPGA Designer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "FPGA Software Tool Developer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Full Stack Developer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "Software Engineer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4818,83 +4928,6 @@
     "date_closed": "2026-11-14"
   },
   {
-    "company": "L3Harris Technologies",
-    "role": "FPGA Designer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "FPGA Software Tool Developer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Full Stack Developer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Manufacturing Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Manufacturing Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254800/?ats=successfactors",
-    "date_posted": "2026-09-30",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430129400/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1432400300/?ats=successfactors",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
     "company": "Ontario Securities Commission",
     "role": "Economic Co-op - Market & Analysis",
     "location": "Toronto, ON, Canada",
@@ -4902,39 +4935,6 @@
     "link": "https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976",
     "date_posted": "2026-10-30",
     "date_found": "2026-11-12",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "W.W. Grainger",
-    "role": "Customer Experience Intern",
-    "location": "Thornhill, Vaughan, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "W.W. Grainger",
-    "role": "Field Operations Analyst Intern",
-    "location": "Thornhill, Vaughan, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "closed",
-    "date_closed": "2026-11-14"
-  },
-  {
-    "company": "W.W. Grainger",
-    "role": "GCAN Field Operations Analyst Intern",
-    "location": "Thornhill, Vaughan, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
     "status": "closed",
     "date_closed": "2026-11-14"
   },
