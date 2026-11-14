@@ -1628,17 +1628,6 @@
     "date_closed": null
   },
   {
-    "company": "1Password",
-    "role": "Product Management Intern - End User Experience",
-    "location": "Remote in USA; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Altera",
     "role": "Intellectual Property Design Intern",
     "location": "Toronto, ON, Canada",
@@ -4970,6 +4959,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "1Password",
+    "role": "Product Management Intern - End User Experience",
+    "location": "Remote in USA; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-13"
   },
   {
     "company": "Bank of Montreal",
