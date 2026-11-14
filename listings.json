@@ -77,17 +77,6 @@
     "date_closed": null
   },
   {
-    "company": "W.W. Grainger",
-    "role": "GCAN Field Operations Analyst Intern",
-    "location": "Thornhill, Vaughan, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Analog Devices",
     "role": "Analog Design Intern",
     "location": "Ottawa, ON, Canada",
@@ -907,17 +896,6 @@
     "location": "Mirabel, QC, Canada",
     "term": "Winter 2027",
     "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "WSP",
-    "role": "Environmental Innovation Intern",
-    "location": "Sherbrooke, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
     "status": "open",
@@ -3224,17 +3202,6 @@
   },
   {
     "company": "Acuity",
-    "role": "Firmware Development Intern",
-    "location": "Brossard, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors",
-    "date_posted": "2026-09-25",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Acuity",
     "role": "Hardware Development Intern - Hardware",
     "location": "Brossard, QC, Canada",
     "term": "Unspecified",
@@ -4948,6 +4915,39 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Acuity",
+    "role": "Firmware Development Intern",
+    "location": "Brossard, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.acuityinc.com/job/Brossard-Stage-en-d%C3%A9veloppement-micrologicielfirmware-Qu%C3%A9b-J4Y-0C4/1434107300/?ats=successfactors",
+    "date_posted": "2026-09-25",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-14"
+  },
+  {
+    "company": "W.W. Grainger",
+    "role": "GCAN Field Operations Analyst Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "closed",
+    "date_closed": "2026-11-14"
+  },
+  {
+    "company": "WSP",
+    "role": "Environmental Innovation Intern",
+    "location": "Sherbrooke, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98500",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-14"
   },
   {
     "company": "1Password",
