@@ -11,6 +11,17 @@
     "date_closed": null
   },
   {
+    "company": "Ciena",
+    "role": "Technical Solution Engineer Intern - SE&I",
+    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-14",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Fonds de solidarité FTQ",
     "role": "Business Intelligence and M365 Solutions Intern",
     "location": "Montreal, QC, Canada",
@@ -3129,6 +3140,17 @@
     "location": "Mississauga, ON, Canada",
     "term": "Winter 2027",
     "link": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
+    "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ciena",
+    "role": "Hardware Design and Verification Intern - PCBA",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
     "date_posted": "2026-09-29",
     "date_found": "2026-10-05",
     "status": "open",
@@ -7586,17 +7608,6 @@
     "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1",
     "date_posted": "2026-09-21",
     "date_found": "2026-10-23",
-    "status": "closed",
-    "date_closed": "2026-10-23"
-  },
-  {
-    "company": "Ciena",
-    "role": "Hardware Design and Verification Intern - PCBA",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
-    "date_posted": "2026-09-29",
-    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-23"
   },
