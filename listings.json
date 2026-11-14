@@ -66,17 +66,6 @@
     "date_closed": null
   },
   {
-    "company": "W.W. Grainger",
-    "role": "Field Operations Analyst Intern",
-    "location": "Thornhill, Vaughan, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Analog Devices",
     "role": "Analog Design Intern",
     "location": "Ottawa, ON, Canada",
@@ -627,17 +616,6 @@
     "date_closed": null
   },
   {
-    "company": "RBC",
-    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
-    "location": "Toronto, Ontario, Canada",
-    "term": "Unspecified",
-    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
-    "date_posted": "2026-11-04",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Arlo Technologies",
     "role": "Firmware Developer Co-op",
     "location": "Richmond, BC, Canada",
@@ -742,6 +720,17 @@
     "location": "Vancouver, BC, Canada",
     "term": "Winter 2027",
     "link": "https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "RBC",
+    "role": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
+    "location": "Toronto, Ontario, Canada",
+    "term": "Unspecified",
+    "link": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
     "status": "open",
@@ -3179,17 +3168,6 @@
     "date_closed": null
   },
   {
-    "company": "Acuity",
-    "role": "Hardware Development Intern - Hardware",
-    "location": "Brossard, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors",
-    "date_posted": "2026-09-24",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Analog Design Intern Co-op - Master’s",
     "location": "Toronto, ON, Canada",
@@ -4873,6 +4851,17 @@
     "date_closed": "2026-11-14"
   },
   {
+    "company": "Acuity",
+    "role": "Hardware Development Intern - Hardware",
+    "location": "Brossard, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors",
+    "date_posted": "2026-09-24",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-14"
+  },
+  {
     "company": "L3Harris Technologies",
     "role": "FPGA Software Tool Developer Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
@@ -4924,6 +4913,17 @@
     "link": "https://osc.wd3.myworkdayjobs.com/OSCCareers/job/CA-ON-Toronto/Economic--Market---Analysis-Co-op-Student_JR100976",
     "date_posted": "2026-10-30",
     "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-14"
+  },
+  {
+    "company": "W.W. Grainger",
+    "role": "Field Operations Analyst Intern",
+    "location": "Thornhill, Vaughan, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
     "status": "closed",
     "date_closed": "2026-11-14"
   },
