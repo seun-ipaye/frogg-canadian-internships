@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**450 open** · 373 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**450 open** · 350 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -824,26 +824,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Moment Energy | 🔒 R&D Technician Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-10-15 | – |
 | RTX | 🔒 Customer Data Management and Analysis Intern | Longueuil, QC, Canada | 🔒 Closed | 2026-08-26 | Winter 2027 |
 | Superhuman | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Summer 2027 |
-| Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| CAE | 🔒 Business Intelligence Analyst & Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| CAE | 🔒 C++ Backend Developer Intern - Image Generator | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| Canadian Tire | 🔒 Business Analyst Student | Mississauga, ON, Canada | 🔒 Closed | 2026-09-30 | – |
-| Capital One | 🔒 Backend Software Engineer Intern - Team Interstellar | Toronto, ON, Canada | 🔒 Closed | 2026-08-17 | Winter 2027 |
-| Capital One | 🔒 Data Scientist Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Capital One | 🔒 Full Stack Software Engineer Intern - Team Integrated Sprout | Toronto, ON, Canada | 🔒 Closed | 2026-08-17 | Winter 2027 |
-| Capital One | 🔒 Full Stack Software Engineer Intern - Team Pickle | Toronto, ON, Canada | 🔒 Closed | 2026-08-17 | Winter 2027 |
-| Capital One | 🔒 Mobile Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-17 | Winter 2027 |
-| CIBC | 🔒 Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| CIBC | 🔒 Business Intelligence Enterprise Anti-Money Laundering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| D2L | 🔒 Software Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
-| GoTo Group | 🔒 Software Developer Intern - Contacts | Remote in Canada | 🔒 Closed | 2026-10-05 | – |
-| Manulife Financial | 🔒 Pharmacy Operations Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
-| OLG | 🔒 Performance Analyst Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-09-29 | – |
-| Qualcomm | 🔒 Analog Design Intern - Hardware Engineering | Toronto, ON, Canada | 🔒 Closed | 2026-09-17 | Summer 2027 |
-| SPS Commerce | 🔒 Software Engineer Intern | Brampton, ON, Canada | 🔒 Closed | 2026-10-14 | – |
-| StackAdapt | 🔒 Machine Learning Engineer Intern | Remote in Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| TechInsights | 🔒 Software Developer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-07-24 | – |
-| Vanderlande Industries | 🔒 Software Development Intern | Québec City, QC, Canada | 🔒 Closed | 2026-09-22 | – |
-| Vanderlande Industries | 🔒 Software Development Intern | Québec City, QC, Canada | 🔒 Closed | 2026-09-22 | – |
-| Varian | 🔒 Performance Engineering Assistant Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-09 | – |
