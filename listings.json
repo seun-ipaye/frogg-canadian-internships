@@ -803,17 +803,6 @@
     "date_closed": null
   },
   {
-    "company": "Bank of Montreal",
-    "role": "UX/UI Designer Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op)",
     "location": "Montreal, QC, Canada",
@@ -4959,6 +4948,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "UX/UI Designer Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-15"
   },
   {
     "company": "Bank of Montreal",
