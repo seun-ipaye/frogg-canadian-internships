@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**450 open** · 351 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**450 open** · 340 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -814,14 +814,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Rockwell Automation | 🔒 Robotics Integration and Development Co-op - OTTO | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
 | Rockwell Automation | 🔒 Robotics Integration and Development Co-op - OTTO | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
 | SPS Commerce | 🔒 Software Engineer Intern | Brampton, ON, Canada | 🔒 Closed | 2026-10-15 | – |
-| Bree | 🔒 Software Engineer – Machine Learning Intern/Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-02-17 | – |
-| CAE | 🔒 C++ CGF Unreal Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| CAE | 🔒 Unreal Engine Developer Intern - Se - Engin Unreal | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| Ciena | 🔒 AI Engineer Intern - Winter 2027 | Ottawa, ON, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
-| Definity Financial | 🔒 Analyst Co-op Intern - Consumer Insights & Market Research | Toronto, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
-| General Motors | 🔒 Data Engineering Software Developer Co-op | Markham, ON, Canada, Oshawa, ON, Canada | 🔒 Closed | 2026-08-31 | Winter 2027 |
-| Loblaw Companies | 🔒 Associate Product Manager Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Mirego | 🔒 Software Developer Intern | Québec City, QC, Canada | 🔒 Closed | 2026-09-03 | – |
-| Moment Energy | 🔒 R&D Technician Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-10-15 | – |
-| RTX | 🔒 Customer Data Management and Analysis Intern | Longueuil, QC, Canada | 🔒 Closed | 2026-08-26 | Winter 2027 |
-| Superhuman | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Summer 2027 |
