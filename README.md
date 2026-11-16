@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**417 open** · 371 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**416 open** · 372 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -51,7 +51,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) | 2026-11-10 | Summer 2027 |
 | Altera | FPGA Design Verification Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440) | 2026-11-09 | – |
 | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | 2026-11-09 | – |
-| CIBC | Associate Technology Leadership Advancement Program Intern | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) | 2026-11-09 | Summer 2027 |
 | Kensington | BI/Data Analyst Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | 2026-11-09 | – |
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | 2026-11-09 | Summer 2027 |
 | NVIDIA | Systems Research Intern - Observability | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) | 2026-11-09 | Summer 2027 |
@@ -454,6 +453,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | 🔒 Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | CIBC | 🔒 Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | CIBC | 🔒 Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
+| CIBC | 🔒 Associate Technology Leadership Advancement Program Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-09 | Summer 2027 |
 | CIBC | 🔒 Business Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
 | CIBC | 🔒 Business Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
 | CIBC | 🔒 Data Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |

@@ -297,17 +297,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Associate Technology Leadership Advancement Program Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1",
-    "date_posted": "2026-11-09",
-    "date_found": "2026-11-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kensington",
     "role": "BI/Data Analyst Intern",
     "location": "Toronto, ON, Canada",
@@ -4726,6 +4715,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Associate Technology Leadership Advancement Program Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
