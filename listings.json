@@ -484,17 +484,6 @@
     "date_closed": null
   },
   {
-    "company": "Boston Scientific",
-    "role": "R&D Product Development Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
-    "date_posted": "2026-11-05",
-    "date_found": "2026-11-04",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "DataVisor",
     "role": "Software Engineer Intern",
     "location": "Remote in Canada",
@@ -744,17 +733,6 @@
     "link": "https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "AI Engineer Co-op - Global Equities",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-04",
     "status": "open",
     "date_closed": null
   },
@@ -1299,17 +1277,6 @@
   },
   {
     "company": "CIBC",
-    "role": "AI Scientist Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CIBC",
     "role": "Business Analyst Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -1413,28 +1380,6 @@
     "location": "Calgary, AB, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -1860,17 +1805,6 @@
   },
   {
     "company": "CIBC",
-    "role": "AI and Quantum Scientist Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CIBC",
     "role": "Analyst Co-op - Enterprise Data and Records",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
@@ -2007,17 +1941,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CIBC",
-    "role": "Application Developer Co-op - Enterprise Technology & Business Management",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
     "status": "open",
@@ -4862,6 +4785,50 @@
     "date_closed": "2026-11-16"
   },
   {
+    "company": "Boston Scientific",
+    "role": "R&D Product Development Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
+    "date_posted": "2026-11-05",
+    "date_found": "2026-11-04",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "AI and Quantum Scientist Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649-1",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "AI Scientist Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Application Developer Co-op - Enterprise Technology & Business Management",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
     "company": "CIBC",
     "role": "Application/Software Developer Co-op - Capital Markets Technology",
     "location": "Toronto, ON, Canada",
@@ -4951,6 +4918,17 @@
   },
   {
     "company": "Royal Bank of Canada",
+    "role": "AI Engineer Co-op - Global Equities",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-04",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
     "role": "Data Engineer Intern",
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
@@ -4966,6 +4944,28 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "closed",
