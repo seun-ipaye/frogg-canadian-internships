@@ -1584,17 +1584,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Machine Learning Engineer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Software Developer Intern",
     "location": "Ottawa, ON, Canada",
@@ -4792,6 +4781,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1",
     "date_posted": "2026-10-27",
     "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Machine Learning Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
