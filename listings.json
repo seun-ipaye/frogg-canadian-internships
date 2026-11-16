@@ -3509,17 +3509,6 @@
     "date_closed": null
   },
   {
-    "company": "Bree",
-    "role": "Software Engineer Co-op - Product",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "General Dynamics UK",
     "role": "Software Engineering Co-op - 4 - 8 months",
     "location": "Ottawa, ON, Canada",
@@ -4539,6 +4528,17 @@
     "link": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
     "date_posted": "2026-11-05",
     "date_found": "2026-11-04",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Bree",
+    "role": "Software Engineer Co-op - Product",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
