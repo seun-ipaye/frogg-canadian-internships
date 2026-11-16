@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**407 open** · 384 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**406 open** · 385 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -350,7 +350,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | BitGo | Software Engineer Intern - Prime Trade | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002) | 2026-09-03 | Winter 2027 |
 | BitGo | Software Engineer Intern - Settlement Systems/Go Network | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002) | 2026-09-03 | Winter 2027 |
 | Canadian Tire | Business Operations Analyst Student - Winter 2027 | Welland, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928) | 2026-09-03 | Winter 2027 |
-| General Dynamics UK | Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147019949) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Intern Co-op - Machine Learning | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | 2026-09-03 | Winter 2027 |
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | 2026-09-02 | Winter 2027 |
@@ -459,6 +458,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | 🔒 Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
 | CIBC | 🔒 Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
 | exacare ai | 🔒 Data and Analytics Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-11 | Summer 2027 |
+| General Dynamics UK | 🔒 Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | OLG | 🔒 Analytics Engineering & Measurement Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
 | PETRONAS Canada | 🔒 Student Intern - Operation Advancement | Calgary, AB, Canada | 🔒 Closed | 2026-11-06 | Summer 2027 |
 | PETRONAS Canada | 🔒 Student Intern - Technical Assurance and Pipeline Engineering | Calgary, AB, Canada | 🔒 Closed | 2026-11-06 | Summer 2027 |
