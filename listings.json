@@ -1254,17 +1254,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Business Analyst Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Royal Bank of Canada",
     "role": "Data Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -1325,17 +1314,6 @@
     "location": "Calgary, AB, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -4778,6 +4756,17 @@
     "role": "Business Analyst Co-op",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Business Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Analyst-co-op_2622052-1",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
@@ -4966,6 +4955,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "closed",
