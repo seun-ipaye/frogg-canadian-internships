@@ -1133,17 +1133,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Junior Insights & Analytics Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Electronic Reliability Engineer Co-op",
     "location": "Ottawa, ON, Canada",
@@ -4735,6 +4724,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Analyst-co-op_2622122-1",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Junior Insights & Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099",
     "date_posted": "2026-10-27",
     "date_found": "2026-10-27",
     "status": "closed",

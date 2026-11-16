@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**412 open** · 379 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**411 open** · 380 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -127,7 +127,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Waterworth | Computer Science Co-op | Victoria, BC, Canada | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) | 2026-10-29 | Winter 2027 |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) | 2026-10-28 | Summer 2027 |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) | 2026-10-28 | Summer 2027 |
-| CIBC | Junior Insights & Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099) | 2026-10-27 | – |
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) | 2026-10-27 | Winter 2027 |
 | Ciena | Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991) | 2026-10-27 | Winter 2027 |
 | Hitachi | Software Analyst Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | 2026-10-27 | Winter 2027 |
@@ -455,6 +454,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | 🔒 Business Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
 | CIBC | 🔒 Data Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | CIBC | 🔒 Data Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
+| CIBC | 🔒 Junior Insights & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | CIBC | 🔒 Junior Insights & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | CIBC | 🔒 Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
 | CIBC | 🔒 Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
