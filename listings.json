@@ -407,17 +407,6 @@
     "date_closed": null
   },
   {
-    "company": "PETRONAS Canada",
-    "role": "Student Intern - Technical Assurance and Pipeline Engineering",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879",
-    "date_posted": "2026-11-06",
-    "date_found": "2026-11-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Digital Design Engineer Intern - Interim Engineering Intern - Systems",
     "location": "Toronto, ON, Canada",
@@ -4878,6 +4867,17 @@
     "location": "Toronto, ON, Canada; Sault Ste. Marie, ON, Canada",
     "term": "Winter 2027",
     "link": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "PETRONAS Canada",
+    "role": "Student Intern - Technical Assurance and Pipeline Engineering",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879",
     "date_posted": "2026-11-06",
     "date_found": "2026-11-06",
     "status": "closed",

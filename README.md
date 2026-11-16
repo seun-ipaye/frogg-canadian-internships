@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**428 open** · 360 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**427 open** · 361 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -61,7 +61,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Brave | Software Engineer Intern | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8360001) | 2026-11-06 | Fall 2026 |
 | DataRobot | Software Design Engineer Intern | Boston, MA, Seattle, WA, SF +1 more | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | 2026-11-06 | – |
 | PETRONAS Canada | Student Intern - Operation Advancement | Calgary, AB, Canada | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Operation-Advancement_R0001881) | 2026-11-06 | Summer 2027 |
-| PETRONAS Canada | Student Intern - Technical Assurance and Pipeline Engineering | Calgary, AB, Canada | [Apply](https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879) | 2026-11-06 | Summer 2027 |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) | 2026-11-06 | Summer 2027 |
 | Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) | 2026-11-06 | Summer 2027 |
 | University of Ottawa | Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | [Apply](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | 2026-11-06 | Winter 2027 |
@@ -468,6 +467,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | 🔒 Data Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | CIBC | 🔒 Junior Insights & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | OLG | 🔒 Analytics Engineering & Measurement Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
+| PETRONAS Canada | 🔒 Student Intern - Technical Assurance and Pipeline Engineering | Calgary, AB, Canada | 🔒 Closed | 2026-11-06 | Summer 2027 |
 | RBC | 🔒 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Toronto, Ontario, Canada | 🔒 Closed | 2026-11-04 | – |
 | Royal Bank of Canada | 🔒 AI Engineer Co-op - Global Equities | Toronto, ON, Canada | 🔒 Closed | 2026-09-14 | Summer 2027 |
 | Royal Bank of Canada | 🔒 AI Engineer Co-op - Global Equities | Toronto, ON, Canada | 🔒 Closed | 2026-11-03 | Summer 2027 |
