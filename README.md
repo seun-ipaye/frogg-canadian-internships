@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**453 open** · 339 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**453 open** · 335 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -812,7 +812,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Resource Innovations | 🔒 Energy Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-11 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Quantum Technologies Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Quantum Technologies Intern - 8 Months | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Winter 2027 |
-| Remarcable | 🔒 Full Stack Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
-| Rockwell Automation | 🔒 Robotics Integration and Development Co-op - OTTO | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
-| Rockwell Automation | 🔒 Robotics Integration and Development Co-op - OTTO | Waterloo, ON, Canada | 🔒 Closed | 2026-09-18 | – |
-| SPS Commerce | 🔒 Software Engineer Intern | Brampton, ON, Canada | 🔒 Closed | 2026-10-15 | – |
