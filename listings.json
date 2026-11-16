@@ -1364,17 +1364,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern - RBC Amplify",
-    "location": "Montreal, QC, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern - Android",
     "location": "Mississauga, ON, Canada",
@@ -1864,28 +1853,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CIBC",
-    "role": "Analytics Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "CIBC",
-    "role": "Application/Software Developer Co-op - Capital Markets Technology",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
     "status": "open",
@@ -4786,6 +4753,17 @@
   },
   {
     "company": "CIBC",
+    "role": "Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
     "role": "Application Developer Co-op - Enterprise Technology & Business Management",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -4801,6 +4779,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Application/Software Developer Co-op - Capital Markets Technology",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
     "status": "closed",
@@ -4977,6 +4966,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern - RBC Amplify",
+    "location": "Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "closed",
