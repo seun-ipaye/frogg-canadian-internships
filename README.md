@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**423 open** · 365 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**422 open** · 366 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -142,7 +142,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2) | 2026-10-26 | Summer 2027 |
-| Royal Bank of Canada | Data Engineer Intern - Amplify 2027 | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) | 2026-10-26 | Summer 2027 |
@@ -472,6 +471,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 AI Engineer Co-op - Global Equities | Toronto, ON, Canada | 🔒 Closed | 2026-11-03 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Data Engineer Intern | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Data Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
+| Royal Bank of Canada | 🔒 Data Engineer Intern - Amplify 2027 | Vancouver, BC, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
