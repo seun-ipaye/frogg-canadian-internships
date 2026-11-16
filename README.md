@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**434 open** · 354 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**428 open** · 360 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -139,9 +139,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Uber | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | 2026-10-27 | – |
 | AltaLink | Summer Student Intern - CRU Project Support | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/3FB9DD016F/apply) | 2026-10-26 | Summer 2027 |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | 2026-10-26 | Summer 2027 |
-| CIBC | AI Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) | 2026-10-26 | – |
 | CIBC | Business Analyst Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) | 2026-10-26 | – |
-| Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Data Engineer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2) | 2026-10-26 | Summer 2027 |
@@ -187,9 +185,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Applied AI Engineering Intern - Hardware Systems | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678733) | 2026-10-22 | Summer 2027 |
 | Qualcomm | Camera Design Implementation Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721678727) | 2026-10-22 | Summer 2027 |
 | Veeda AI | Software Engineering Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true) | 2026-10-22 | – |
-| CIBC | AI and Quantum Scientist Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) | 2026-10-21 | – |
-| CIBC | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) | 2026-10-21 | – |
-| CIBC | Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1) | 2026-10-21 | – |
 | NVIDIA | PhD Research Intern - AI for Climate and Weather Simulation | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) | 2026-10-21 | Summer 2027 |
 | NVIDIA | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | 2026-10-21 | Summer 2027 |
 | Qualcomm | Display Systems Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721661677) | 2026-10-21 | Summer 2027 |
@@ -201,7 +196,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Steel | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | 2026-10-20 | Summer 2027 |
 | CIBC | Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1) | 2026-10-19 | – |
 | CIBC | Analytics Co-op | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2) | 2026-10-19 | – |
-| CIBC | Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524) | 2026-10-19 | Winter 2027 |
 | CIBC | Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) | 2026-10-19 | Winter 2027 |
 | Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | 2026-10-19 | Winter 2027 |
 | Citco | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | 2026-10-19 | – |
@@ -461,7 +455,12 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bank of Montreal | 🔒 AI Developer Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-12 | Winter 2027 |
 | Boston Scientific | 🔒 R&D Product Development Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-05 | Winter 2027 |
 | CIBC | 🔒 AI and Quantum Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
+| CIBC | 🔒 AI and Quantum Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
 | CIBC | 🔒 AI Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
+| CIBC | 🔒 AI Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
+| CIBC | 🔒 Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
+| CIBC | 🔒 Analyst Co-op - Enterprise Data and Records | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
+| CIBC | 🔒 Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | CIBC | 🔒 Application Developer Co-op - Enterprise Technology & Business Management | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | CIBC | 🔒 Application/Software Developer Co-op - Capital Markets Technology | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | CIBC | 🔒 Business Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
@@ -472,6 +471,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | RBC | 🔒 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | Toronto, Ontario, Canada | 🔒 Closed | 2026-11-04 | – |
 | Royal Bank of Canada | 🔒 AI Engineer Co-op - Global Equities | Toronto, ON, Canada | 🔒 Closed | 2026-09-14 | Summer 2027 |
 | Royal Bank of Canada | 🔒 AI Engineer Co-op - Global Equities | Toronto, ON, Canada | 🔒 Closed | 2026-11-03 | Summer 2027 |
+| Royal Bank of Canada | 🔒 Data Engineer Intern | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Data Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
