@@ -3498,17 +3498,6 @@
     "date_closed": null
   },
   {
-    "company": "Bree",
-    "role": "Software Engineer Co-op - Backend",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "General Dynamics UK",
     "role": "Software Engineering Co-op - 4 - 8 months",
     "location": "Ottawa, ON, Canada",
@@ -3659,17 +3648,6 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8130805",
     "date_posted": "2026-09-01",
     "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "AB InBev",
-    "role": "Technology Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
-    "date_posted": "2026-08-28",
-    "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
   },
@@ -4510,6 +4488,17 @@
     "date_closed": null
   },
   {
+    "company": "AB InBev",
+    "role": "Technology Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
+    "date_posted": "2026-08-28",
+    "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
     "company": "Bank of Montreal",
     "role": "AI Developer Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -4528,6 +4517,17 @@
     "link": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
     "date_posted": "2026-11-05",
     "date_found": "2026-11-04",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Bree",
+    "role": "Software Engineer Co-op - Backend",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-16"
   },

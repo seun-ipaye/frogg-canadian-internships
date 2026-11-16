@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**410 open** · 381 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**408 open** · 383 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -342,7 +342,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Bird Construction | Business Intelligence Student | Winnipeg, MB, Canada, Calgary, AB, Canada, Edmonton, AB, Canada +1 more | [Apply](https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521) | 2026-09-08 | – |
 | BitGo | Product Management Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002) | 2026-09-04 | Winter 2027 |
 | BitGo | Software Engineer Intern - Custody | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002) | 2026-09-04 | Winter 2027 |
-| Bree | Software Engineer Co-op - Backend | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 - 8 months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 months - 8 months | Cole Harbour, NS, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | 2026-09-04 | Winter 2027 |
 | Huawei | Researcher Intern - Multimodal AI & Interaction | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction) | 2026-09-04 | – |
@@ -357,7 +356,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | RTX | Data Analyst Intern - Global Sales | Saint-Hubert, Longueuil, QC, Canada | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713) | 2026-09-02 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | 2026-09-01 | Winter 2027 |
-| AB InBev | Technology Intern | Toronto, ON, Canada | [Apply](https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805) | 2026-08-28 | Summer 2027 |
 | Huawei | Researcher Co-op - Agentic AI | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-agentic-ai) | 2026-08-27 | – |
 | CCLIM - Quantitative Equity | Quantitative Equity Analyst Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383968009) | 2026-08-26 | – |
 | CCLIM - Quantitative Equity | Quantitative Equity Developer Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4383943009) | 2026-08-26 | – |
@@ -434,8 +432,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| AB InBev | 🔒 Technology Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-28 | Summer 2027 |
 | Bank of Montreal | 🔒 AI Developer Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-12 | Winter 2027 |
 | Boston Scientific | 🔒 R&D Product Development Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-05 | Winter 2027 |
+| Bree | 🔒 Software Engineer Co-op - Backend | Toronto, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
 | Bree | 🔒 Software Engineer Co-op - Product | Toronto, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
 | CIBC | 🔒 AI and Quantum Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
 | CIBC | 🔒 AI and Quantum Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
