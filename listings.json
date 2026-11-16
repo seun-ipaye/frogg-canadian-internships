@@ -231,17 +231,6 @@
     "date_closed": null
   },
   {
-    "company": "exacare ai",
-    "role": "Data and Analytics Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166",
-    "date_posted": "2026-11-11",
-    "date_found": "2026-11-11",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Amgen",
     "role": "Computer Engineering Co-op - Large Molecule Discovery - Technology",
     "location": "Burnaby, BC, Canada",
@@ -4781,6 +4770,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721-1",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "exacare ai",
+    "role": "Data and Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166",
+    "date_posted": "2026-11-11",
+    "date_found": "2026-11-11",
     "status": "closed",
     "date_closed": "2026-11-16"
   },

@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**413 open** · 378 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**412 open** · 379 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -45,7 +45,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | TMX Group | AI Engineer Intern | Toronto, ON, Canada | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) | 2026-11-12 | Winter 2027 |
 | Ciena | AI/ML Layout Engineering Intern | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | 2026-11-11 | Winter 2027 |
 | Ciena | Layout Design Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2027-_R032103) | 2026-11-11 | Winter 2027 |
-| exacare ai | Data and Analytics Intern | Toronto, ON, Canada | [Apply](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) | 2026-11-11 | Summer 2027 |
 | Amgen | Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920) | 2026-11-10 | Winter 2027 |
 | Bank of Montreal | Data Analyst Co-op Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) | 2026-11-10 | Winter 2027 |
 | Bank of Montreal | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) | 2026-11-10 | Winter 2027 |
@@ -459,6 +458,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CIBC | 🔒 Junior Insights & Analytics Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | CIBC | 🔒 Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
 | CIBC | 🔒 Machine Learning Engineer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
+| exacare ai | 🔒 Data and Analytics Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-11 | Summer 2027 |
 | OLG | 🔒 Analytics Engineering & Measurement Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
 | PETRONAS Canada | 🔒 Student Intern - Operation Advancement | Calgary, AB, Canada | 🔒 Closed | 2026-11-06 | Summer 2027 |
 | PETRONAS Canada | 🔒 Student Intern - Technical Assurance and Pipeline Engineering | Calgary, AB, Canada | 🔒 Closed | 2026-11-06 | Summer 2027 |
