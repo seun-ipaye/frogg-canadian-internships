@@ -3916,17 +3916,6 @@
     "date_closed": null
   },
   {
-    "company": "Bree",
-    "role": "Machine Learning Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true",
-    "date_posted": "2026-07-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "DRW",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -4517,6 +4506,17 @@
     "link": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
     "date_posted": "2026-11-05",
     "date_found": "2026-11-04",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Bree",
+    "role": "Machine Learning Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true",
+    "date_posted": "2026-07-15",
+    "date_found": "2026-10-15",
     "status": "closed",
     "date_closed": "2026-11-16"
   },

@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**408 open** · 383 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**407 open** · 384 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -380,7 +380,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Google | Student Researcher | Toronto, ON, Canada, Kitchener, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | 2026-07-20 | – |
 | Google | Student Researcher | Toronto, ON, Canada, Kitchener, ON, Canada | [Apply](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) | 2026-07-20 | – |
 | AMD | Analog/Mixed-Signal Serdes Design Engineer | Markham, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada | [Apply](https://careers.amd.com/jobs/86868?icims=1) | 2026-07-16 | – |
-| Bree | Machine Learning Engineering Intern | Toronto, ON, Canada | [Apply](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application?embed=true) | 2026-07-15 | – |
 | DRW | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) | 2026-07-13 | Summer 2028 |
 | DRW | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/drwfr/jobs/7991197) | 2026-07-13 | – |
 | Huawei | Engineer Distributed Agent System Co-op | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1) | 2026-07-13 | – |
@@ -435,6 +434,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AB InBev | 🔒 Technology Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-28 | Summer 2027 |
 | Bank of Montreal | 🔒 AI Developer Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-12 | Winter 2027 |
 | Boston Scientific | 🔒 R&D Product Development Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-05 | Winter 2027 |
+| Bree | 🔒 Machine Learning Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-07-15 | – |
 | Bree | 🔒 Software Engineer Co-op - Backend | Toronto, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
 | Bree | 🔒 Software Engineer Co-op - Product | Toronto, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
 | CIBC | 🔒 AI and Quantum Scientist Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | – |
