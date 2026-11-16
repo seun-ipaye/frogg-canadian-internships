@@ -1760,17 +1760,6 @@
     "date_closed": null
   },
   {
-    "company": "CIBC",
-    "role": "Analytics Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Ciena",
     "role": "Services Business Intelligence & Analytics Intern",
     "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
@@ -4660,6 +4649,17 @@
     "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668-1",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "CIBC",
+    "role": "Analytics Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
