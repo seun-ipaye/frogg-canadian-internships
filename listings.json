@@ -1,5 +1,38 @@
 [
   {
+    "company": "Shopify",
+    "role": "Applied Machine Learning Engineer Intern",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+    "date_posted": "2026-11-16",
+    "date_found": "2026-11-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Shopify",
+    "role": "Data Intern",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada; NYC; Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95",
+    "date_posted": "2026-11-16",
+    "date_found": "2026-11-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Shopify",
+    "role": "Software Engineer Intern",
+    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Ottawa, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+    "date_posted": "2026-11-16",
+    "date_found": "2026-11-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "IPEX",
     "role": "Manufacturing Excellence Co-op",
     "location": "Oakville, ON, Canada",
@@ -1248,17 +1281,6 @@
     "location": "Vancouver, BC, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -4922,6 +4944,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "closed",

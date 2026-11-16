@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**412 open** · 376 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**414 open** · 377 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | 2026-11-16 | Summer 2027 |
+| Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC +1 more | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | 2026-11-16 | Summer 2027 |
+| Shopify | Software Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | 2026-11-16 | Summer 2027 |
 | IPEX | Manufacturing Excellence Co-op | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | 2026-11-15 | Winter 2027 |
 | Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | 2026-11-13 | Winter 2027 |
 | Ciena | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | 2026-11-13 | Winter 2027 |
@@ -138,7 +141,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | Developer Intern | Vancouver, BC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) | 2026-10-26 | Summer 2027 |
-| Royal Bank of Canada | Developer Intern | Calgary, AB, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) | 2026-10-26 | Summer 2027 |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | 2026-10-23 | – |
@@ -472,6 +474,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 Data Engineer Intern - Amplify 2027 | Vancouver, BC, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
+| Royal Bank of Canada | 🔒 Developer Intern | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
