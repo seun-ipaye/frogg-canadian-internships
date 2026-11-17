@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**396 open** · 396 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**395 open** · 397 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -81,7 +81,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Display IP FPGA Emulation Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721972361) | 2026-11-05 | Summer 2027 |
 | Qualcomm | Driver and Tools Developer Intern - Telemetry Firmware | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721989047) | 2026-11-05 | Summer 2027 |
 | Qualcomm | Machine Learning Engineering Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721969461) | 2026-11-05 | Summer 2027 |
-| Royal Bank of Canada | Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3) | 2026-11-05 | Winter 2027 |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) | 2026-11-05 | Summer 2027 |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) | 2026-11-05 | – |
 | NVIDIA | Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | 2026-11-04 | Summer 2027 |
@@ -423,6 +422,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Electronic Arts | 🔒 AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Electronic Arts | 🔒 Software Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Summer 2027 |
 | Plusgrade | 🔒 Applied AI Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-04 | – |
+| Royal Bank of Canada | 🔒 Quantitative Technology Services Co-op - Software Developer | Montreal, QC, Canada | 🔒 Closed | 2026-11-05 | Winter 2027 |
 | Solink | 🔒 Software Engineer Co-op - Apps | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
 | 4AG Robotics | 🔒 Robotics Software Co-op | Salmon Arm, BC, Canada | 🔒 Closed | 2026-09-17 | Winter 2027 |
 | AB InBev | 🔒 Technology Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-28 | Summer 2027 |
