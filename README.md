@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**399 open** · 393 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**398 open** · 394 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -392,7 +392,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | Software Engineer Co-op - AI Software Engineering | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering) | 2026-06-17 | – |
 | Clio | Software Developer Co-op | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | [Apply](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577) | 2026-06-16 | Fall 2026 |
 | ProCogia | Statistical Programming Intern | Vancouver, BC, Canada | [Apply](https://procogia.com/about-us/careers/?gh_jid=5265312008) | 2026-06-16 | Fall 2026 |
-| Huawei | Engineer Co-op - Compiler | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7) | 2026-06-15 | – |
 | Huawei | Researcher Intern - AI/ML Technology Insight and Planning | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning) | 2026-06-15 | – |
 | Cadence Design Systems | Analog/Mixed-Signal IC Design Co-Op/Intern | Montreal, QC, Canada | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2) | 2026-06-13 | – |
 | Marvell | Analog Engineer Intern | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1) | 2026-06-13 | Fall 2026 |
@@ -457,6 +456,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Coveo | 🔒 Frontend Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
 | exacare ai | 🔒 Data and Analytics Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-11 | Summer 2027 |
 | General Dynamics UK | 🔒 Software Engineer Co-op - 8 Months | Ottawa, ON, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
+| Huawei | 🔒 Engineer Co-op - Compiler | Markham, ON, Canada | 🔒 Closed | 2026-06-15 | – |
 | Huawei | 🔒 Researcher Intern - Agentic AI | Montreal, QC, Canada | 🔒 Closed | 2026-07-07 | – |
 | OLG | 🔒 Analytics Engineering & Measurement Student Intern | Toronto, ON, Canada, Sault Ste. Marie, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
 | PETRONAS Canada | 🔒 Student Intern - Operation Advancement | Calgary, AB, Canada | 🔒 Closed | 2026-11-06 | Summer 2027 |

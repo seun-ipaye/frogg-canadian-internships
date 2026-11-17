@@ -4049,17 +4049,6 @@
   },
   {
     "company": "Huawei",
-    "role": "Engineer Co-op - Compiler",
-    "location": "Markham, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7",
-    "date_posted": "2026-06-15",
-    "date_found": "2026-11-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Huawei",
     "role": "Researcher Intern - AI/ML Technology Insight and Planning",
     "location": "Vancouver, BC, Canada",
     "term": "Unspecified",
@@ -4759,6 +4748,17 @@
     "link": "https://jobs.smartrecruiters.com/GDMSI/744000147019949",
     "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Co-op - Compiler",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7",
+    "date_posted": "2026-06-15",
+    "date_found": "2026-11-12",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
