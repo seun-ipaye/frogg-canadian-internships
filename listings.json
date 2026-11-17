@@ -1265,17 +1265,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern - Android",
     "location": "Mississauga, ON, Canada",
@@ -4374,6 +4363,17 @@
     "link": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233",
     "date_posted": "2026-11-04",
     "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
