@@ -176,17 +176,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Analog Layout Engineer Intern Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Seaspan",
     "role": "Data Engineering Intern",
     "location": "North Vancouver, BC, Canada",
@@ -4363,6 +4352,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Layout Engineer Intern Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---2027-Co-Op_2604789",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
