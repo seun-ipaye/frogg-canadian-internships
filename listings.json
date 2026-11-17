@@ -616,17 +616,6 @@
     "date_closed": null
   },
   {
-    "company": "Plusgrade",
-    "role": "Data Science Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230",
-    "date_posted": "2026-11-04",
-    "date_found": "2026-11-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Arlo Technologies",
     "role": "Firmware Developer Co-op",
     "location": "Richmond, BC, Canada",
@@ -3410,17 +3399,6 @@
     "date_closed": null
   },
   {
-    "company": "BitGo",
-    "role": "Software Engineer Intern - Custody",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "General Dynamics UK",
     "role": "Software Engineering Co-op - 4 - 8 months",
     "location": "Ottawa, ON, Canada",
@@ -4401,6 +4379,17 @@
   },
   {
     "company": "BitGo",
+    "role": "Software Engineer Intern - Custody",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "BitGo",
     "role": "Software Engineer Intern - Prime Trade",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -4803,6 +4792,17 @@
     "link": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879",
     "date_posted": "2026-11-06",
     "date_found": "2026-11-06",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Plusgrade",
+    "role": "Data Science Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Data-Science-Intern_JR100230",
+    "date_posted": "2026-11-04",
+    "date_found": "2026-11-12",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
