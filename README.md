@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**388 open** · 404 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**390 open** · 405 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -28,8 +28,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) | 2026-11-17 | – |
+| City of Campbell River | Co-op Student - OMS Project - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) | 2026-11-17 | – |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada | [Apply](https://cetci.bamboohr.com/careers/92/) | 2026-11-17 | – |
+| Meta | Visiting Researcher Intern - AI Mentorship Program | Montreal, QC, Canada | [Apply](https://www.metacareers.com/jobs/1110284504699535) | 2026-11-17 | Fall 2027 |
 | NorthStar Earth & Space | Research Intern - AI for Earth Observation | Montreal, QC, Canada | [Apply](https://northstarearthandspace.bamboohr.com/careers/117/) | 2026-11-17 | Winter 2028 |
+| Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | 2026-11-17 | Winter 2027 |
 | Xradar | Software Engineer Co-op | Burnaby, BC, Canada | [Apply](https://xradar.bamboohr.com/careers/203/) | 2026-11-17 | Winter 2027 |
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | 2026-11-16 | Summer 2027 |
 | Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC +1 more | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | 2026-11-16 | Summer 2027 |
@@ -243,7 +246,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CAE | Artificial Intelligence Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) | 2026-10-06 | – |
 | CAE | Data Specialist Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) | 2026-10-06 | – |
 | CAE | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | 2026-10-06 | – |
-| Coveo | Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada | [Apply](https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002) | 2026-10-06 | Winter 2027 |
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
 | MistyWest | Engineering Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | 2026-10-06 | Winter 2027 |
 | Moment Energy | Software Engineering Co-op | Surrey, BC, Canada | [Apply](https://job-boards.greenhouse.io/momentenergy/jobs/4434577009) | 2026-10-06 | Winter 2027 |
@@ -414,6 +416,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | AltaLink | 🔒 Summer Student Intern - CRU Project Support | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Ciena | 🔒 Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
+| Coveo | 🔒 Software Developer Intern - Solutions Engineering Core Team | Montreal, QC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Electronic Arts | 🔒 AI/ML Software Engineer Co-op Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Electronic Arts | 🔒 Software Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Summer 2027 |
 | HeyGen | 🔒 Software Engineer Intern | Toronto, ON, Canada, SF, LA +1 more | 🔒 Closed | 2026-10-19 | Winter 2027 |

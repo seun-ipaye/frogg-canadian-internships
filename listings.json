@@ -44,6 +44,17 @@
     "date_closed": null
   },
   {
+    "company": "City of Campbell River",
+    "role": "Co-op Student - OMS Project - Capital Projects",
+    "location": "Campbell River, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Critical Environment Technologies",
     "role": "Computer Science Co-op",
     "location": "Delta, BC, Canada",
@@ -55,11 +66,33 @@
     "date_closed": null
   },
   {
+    "company": "Meta",
+    "role": "Visiting Researcher Intern - AI Mentorship Program",
+    "location": "Montreal, QC, Canada",
+    "term": "Fall 2027",
+    "link": "https://www.metacareers.com/jobs/1110284504699535",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "NorthStar Earth & Space",
     "role": "Research Intern - AI for Earth Observation",
     "location": "Montreal, QC, Canada",
     "term": "Winter 2028",
     "link": "https://northstarearthandspace.bamboohr.com/careers/117/",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ross Video",
+    "role": "Research Assistant Co-op - AI Focus",
+    "location": "Nepean, Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
     "date_posted": "2026-11-17",
     "date_found": "2026-11-17",
     "status": "open",
@@ -2409,17 +2442,6 @@
     "date_closed": null
   },
   {
-    "company": "Coveo",
-    "role": "Software Developer Intern - Solutions Engineering Core Team",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumentum",
     "role": "Embedded Software Engineer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -4286,6 +4308,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "Coveo",
+    "role": "Software Developer Intern - Solutions Engineering Core Team",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-28",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
