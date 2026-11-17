@@ -880,17 +880,6 @@
     "date_closed": null
   },
   {
-    "company": "Altera",
-    "role": "FPGA Development Tools Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Definity Financial",
     "role": "Direct Channel Operations Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -4418,6 +4407,17 @@
     "link": "https://wd1.myworkdaysite.com/recruiting/abinbev/CAN/job/Toronto-Ontario/Technology-Internship_30102805",
     "date_posted": "2026-08-28",
     "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Development Tools Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
