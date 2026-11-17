@@ -2299,17 +2299,6 @@
     "date_closed": null
   },
   {
-    "company": "Electronic Arts",
-    "role": "Software Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "ProCogia",
     "role": "AI Applied & Agentic AI Intern",
     "location": "Vancouver, BC, Canada",
@@ -4374,6 +4363,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
     "date_posted": "2026-10-16",
     "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "Software Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
