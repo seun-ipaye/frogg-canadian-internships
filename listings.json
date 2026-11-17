@@ -1551,17 +1551,6 @@
     "date_closed": null
   },
   {
-    "company": "Kensington",
-    "role": "Marketing Analytics Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "KRAFTON",
     "role": "UI Programming Intern",
     "location": "Montreal, QC, Canada",
@@ -4330,6 +4319,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-Months-Sports-Technology/216225",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "Kensington",
+    "role": "Marketing Analytics Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5270002007",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
