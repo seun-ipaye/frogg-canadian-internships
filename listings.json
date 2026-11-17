@@ -1848,17 +1848,6 @@
     "date_closed": null
   },
   {
-    "company": "Electronic Arts",
-    "role": "AI/ML Software Engineer Co-op Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
-    "date_posted": "2026-10-16",
-    "date_found": "2026-10-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kepler Communications",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4376,6 +4365,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "AI/ML Software Engineer Co-op Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234",
+    "date_posted": "2026-10-16",
+    "date_found": "2026-10-16",
+    "status": "closed",
+    "date_closed": "2026-11-17"
   },
   {
     "company": "Plusgrade",
