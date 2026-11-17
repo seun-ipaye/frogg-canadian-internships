@@ -2761,17 +2761,6 @@
     "date_closed": null
   },
   {
-    "company": "Coveo",
-    "role": "Frontend Developer Intern",
-    "location": "Québec City, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Signal Integrity Intern Co-op",
     "location": "Toronto, ON, Canada",
@@ -4724,6 +4713,17 @@
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
     "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Coveo",
+    "role": "Frontend Developer Intern",
+    "location": "Québec City, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
     "date_posted": "2026-09-28",
     "date_found": "2026-10-28",
     "status": "closed",
