@@ -1958,17 +1958,6 @@
     "date_closed": null
   },
   {
-    "company": "Later",
-    "role": "Data Science Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
-    "date_posted": "2026-10-14",
-    "date_found": "2026-10-14",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumentum",
     "role": "Electrical Engineer Intern Co-op",
     "location": "Ottawa, ON, Canada",
@@ -3487,17 +3476,6 @@
     "date_closed": null
   },
   {
-    "company": "BitGo",
-    "role": "Software Engineer Intern - Prime Trade",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Canadian Tire",
     "role": "Business Operations Analyst Student - Winter 2027",
     "location": "Welland, ON, Canada",
@@ -4423,6 +4401,17 @@
   },
   {
     "company": "BitGo",
+    "role": "Software Engineer Intern - Prime Trade",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "BitGo",
     "role": "Software Engineer Intern - Settlement Systems/Go Network",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -4770,6 +4759,17 @@
     "link": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
     "date_posted": "2026-07-07",
     "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Later",
+    "role": "Data Science Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/later/jobs/8889650002",
+    "date_posted": "2026-10-14",
+    "date_found": "2026-10-14",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
