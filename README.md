@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**400 open** · 392 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**399 open** · 393 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -307,7 +307,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | 2026-09-18 | Summer 2027 |
 | TRC Companies | Software Engineer Intern | Calgary, AB, Canada | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1) | 2026-09-18 | Summer 2027 |
 | 4AG Robotics | AI Co-op Student | Salmon Arm, BC, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-17 | Winter 2027 |
-| 4AG Robotics | Robotics Software Co-op | Salmon Arm, BC, Canada | [Apply](https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24) | 2026-09-17 | Winter 2027 |
 | Capital de Recherche Tower | Software Developer Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) | 2026-09-17 | Summer 2027 |
 | National Bank of Canada | Analyst Intern - Credit Risk Analytics | Canada | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/35546) | 2026-09-17 | – |
 | Qualcomm | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411) | 2026-09-17 | Summer 2027 |
@@ -424,6 +423,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| 4AG Robotics | 🔒 Robotics Software Co-op | Salmon Arm, BC, Canada | 🔒 Closed | 2026-09-17 | Winter 2027 |
 | AB InBev | 🔒 Technology Intern | Toronto, ON, Canada | 🔒 Closed | 2026-08-28 | Summer 2027 |
 | Altera | 🔒 FPGA Development Tools Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-30 | – |
 | Bank of Montreal | 🔒 AI Developer Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-12 | Winter 2027 |

@@ -3113,17 +3113,6 @@
     "date_closed": null
   },
   {
-    "company": "4AG Robotics",
-    "role": "Robotics Software Co-op",
-    "location": "Salmon Arm, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Capital de Recherche Tower",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -4398,6 +4387,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "4AG Robotics",
+    "role": "Robotics Software Co-op",
+    "location": "Salmon Arm, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-16"
   },
   {
     "company": "AB InBev",
