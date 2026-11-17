@@ -1232,17 +1232,6 @@
     "date_closed": null
   },
   {
-    "company": "AltaLink",
-    "role": "Summer Student Intern - CRU Project Support",
-    "location": "Calgary, AB, Canada",
-    "term": "Summer 2027",
-    "link": "https://apply.workable.com/altalink/j/3FB9DD016F/apply",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "AtkinsRéalis",
     "role": "Business Intelligence Intern - Digital",
     "location": "Montreal, QC, Canada",
@@ -4288,6 +4277,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AltaLink",
+    "role": "Summer Student Intern - CRU Project Support",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://apply.workable.com/altalink/j/3FB9DD016F/apply",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-17"
   },
   {
     "company": "Ciena",
