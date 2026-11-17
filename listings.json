@@ -33,6 +33,17 @@
     "date_closed": null
   },
   {
+    "company": "Zurich Insurance",
+    "role": "Data Analytics & AI Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
+    "date_posted": "2026-11-16",
+    "date_found": "2026-11-16",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "IPEX",
     "role": "Manufacturing Excellence Co-op",
     "location": "Oakville, ON, Canada",
@@ -793,17 +804,6 @@
   },
   {
     "company": "Qualcomm",
-    "role": "Digital Design Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721913672",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Qualcomm",
     "role": "SoC Engineering Intern",
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
@@ -1248,17 +1248,6 @@
     "location": "Calgary, AB, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1",
-    "date_posted": "2026-10-26",
-    "date_found": "2026-10-26",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Developer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Summer 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "open",
@@ -2785,17 +2774,6 @@
   {
     "company": "Coveo",
     "role": "Frontend Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
-    "date_posted": "2026-09-28",
-    "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Coveo",
-    "role": "Frontend Developer Intern",
     "location": "Québec City, QC, Canada",
     "term": "Winter 2027",
     "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
@@ -3477,17 +3455,6 @@
   },
   {
     "company": "BitGo",
-    "role": "Product Management Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "BitGo",
     "role": "Software Engineer Intern - Custody",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -3558,17 +3525,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
     "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "BitGo",
-    "role": "Software Engineer Intern - Settlement Systems/Go Network",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
     "date_posted": "2026-09-03",
     "date_found": "2026-10-30",
     "status": "open",
@@ -3933,17 +3889,6 @@
     "term": "Unspecified",
     "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1",
     "date_posted": "2026-07-13",
-    "date_found": "2026-11-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Huawei",
-    "role": "Researcher Intern - Agentic AI",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
-    "date_posted": "2026-07-07",
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
@@ -4488,6 +4433,28 @@
     "date_closed": "2026-11-16"
   },
   {
+    "company": "BitGo",
+    "role": "Product Management Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "BitGo",
+    "role": "Software Engineer Intern - Settlement Systems/Go Network",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
     "company": "Boston Scientific",
     "role": "R&D Product Development Intern",
     "location": "Montreal, QC, Canada",
@@ -4763,6 +4730,17 @@
     "date_closed": "2026-11-16"
   },
   {
+    "company": "Coveo",
+    "role": "Frontend Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
+    "date_posted": "2026-09-28",
+    "date_found": "2026-10-28",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
     "company": "exacare ai",
     "role": "Data and Analytics Intern",
     "location": "Toronto, ON, Canada",
@@ -4781,6 +4759,17 @@
     "link": "https://jobs.smartrecruiters.com/GDMSI/744000147019949",
     "date_posted": "2026-09-03",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Intern - Agentic AI",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-agentic-ai-1",
+    "date_posted": "2026-07-07",
+    "date_found": "2026-11-12",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
@@ -4814,6 +4803,17 @@
     "link": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879",
     "date_posted": "2026-11-06",
     "date_found": "2026-11-06",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Digital Design Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721913672",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
     "status": "closed",
     "date_closed": "2026-11-16"
   },
@@ -4944,6 +4944,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1",
+    "date_posted": "2026-10-26",
+    "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-16"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Developer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Summer 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
     "status": "closed",
