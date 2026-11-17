@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**393 open** · 399 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**393 open** · 392 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -809,10 +809,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Tesla | 🔒 Actuator Test Engineer Intern - Optimus | Langley, BC, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
 | The Home Depot | 🔒 AI Machine Learning Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
 | The Home Depot | 🔒 Full Stack Software Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Ciena | 🔒 NPI Hardware Co-op - 8 month | Ottawa, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
-| Khan Academy | 🔒 Software Engineer Intern | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-05 | Summer 2027 |
-| Profound Medical | 🔒 Software Development Co-op | Mississauga, ON, Canada | 🔒 Closed | 2026-10-14 | – |
-| RBC | 🔒 2027 Winter Student Opportunities Technology & Operations - Quantum Technologies Intern, 8 Months | Toronto, Ontario, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
-| Resource Innovations | 🔒 Energy Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-11 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Quantum Technologies Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Quantum Technologies Intern - 8 Months | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | Winter 2027 |
