@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**397 open** · 393 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**399 open** · 393 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -28,6 +28,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) | 2026-11-17 | – |
+| Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada | [Apply](https://cetci.bamboohr.com/careers/92/) | 2026-11-17 | – |
+| NorthStar Earth & Space | Research Intern - AI for Earth Observation | Montreal, QC, Canada | [Apply](https://northstarearthandspace.bamboohr.com/careers/117/) | 2026-11-17 | Winter 2028 |
 | Xradar | Software Engineer Co-op | Burnaby, BC, Canada | [Apply](https://xradar.bamboohr.com/careers/203/) | 2026-11-17 | Winter 2027 |
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | 2026-11-16 | Summer 2027 |
 | Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC +1 more | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | 2026-11-16 | Summer 2027 |
