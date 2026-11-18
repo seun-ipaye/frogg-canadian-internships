@@ -772,17 +772,6 @@
   {
     "company": "Global Relay",
     "role": "Java Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.globalrelay.com/careers/jobs?gh_jid=6241593004",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Global Relay",
-    "role": "Java Developer Co-op",
     "location": "Halifax Regional Municipality, NS, Canada",
     "term": "Winter 2027",
     "link": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
@@ -1369,17 +1358,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Summer 2027",
     "link": "https://jobs.lever.co/bosonai/3b66f322-55eb-4c4b-9b36-028dfcdd85e9/apply",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Citi",
-    "role": "Technology Analyst Intern - Application Development",
-    "location": "Mississauga, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
     "status": "open",
@@ -2816,17 +2794,6 @@
     "date_closed": null
   },
   {
-    "company": "Electronic Arts",
-    "role": "AI Engineer Intern - Creative Innovations - Character Pipelines",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236",
-    "date_posted": "2026-09-22",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "L3Harris Technologies",
     "role": "Project Engineering Co-op",
     "location": "Waterdown, Hamilton, ON, Canada",
@@ -3351,17 +3318,6 @@
     "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928",
     "date_posted": "2026-09-03",
     "date_found": "2026-11-11",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Kinaxis",
-    "role": "Developer Co-op Intern - Machine Learning",
-    "location": "Toronto, ON, Canada; Ottawa, ON, Canada; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-10-31",
     "status": "open",
     "date_closed": null
   },
@@ -4202,6 +4158,39 @@
     "date_closed": "2026-11-18"
   },
   {
+    "company": "Citi",
+    "role": "Technology Analyst Intern - Application Development",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Electronic Arts",
+    "role": "AI Engineer Intern - Creative Innovations - Character Pipelines",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236",
+    "date_posted": "2026-09-22",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Global Relay",
+    "role": "Java Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.globalrelay.com/careers/jobs?gh_jid=6241593004",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
     "company": "Hitachi Energy",
     "role": "Hardware Test Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -4242,6 +4231,17 @@
     "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
     "date_posted": "2026-11-09",
     "date_found": "2026-11-09",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Co-op Intern - Machine Learning",
+    "location": "Toronto, ON, Canada; Ottawa, ON, Canada; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-10-31",
     "status": "closed",
     "date_closed": "2026-11-18"
   },
