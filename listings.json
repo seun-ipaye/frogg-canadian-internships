@@ -2266,17 +2266,6 @@
     "date_closed": null
   },
   {
-    "company": "Workday",
-    "role": "Machine Learning Engineer Intern",
-    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
-    "date_posted": "2026-10-09",
-    "date_found": "2026-10-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Equitable Bank",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4297,6 +4286,17 @@
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647",
     "date_posted": "2026-10-26",
     "date_found": "2026-10-26",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Workday",
+    "role": "Machine Learning Engineer Intern",
+    "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+    "date_posted": "2026-10-09",
+    "date_found": "2026-10-09",
     "status": "closed",
     "date_closed": "2026-11-18"
   },
