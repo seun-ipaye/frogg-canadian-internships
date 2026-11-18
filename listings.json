@@ -11,6 +11,17 @@
     "date_closed": null
   },
   {
+    "company": "Qualcomm",
+    "role": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446722198182",
+    "date_posted": "2026-11-18",
+    "date_found": "2026-11-18",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "SSI",
     "role": "Software Developer Co-op",
     "location": "Victoria, BC, Canada",
@@ -2970,17 +2981,6 @@
     "date_closed": null
   },
   {
-    "company": "Apera AI",
-    "role": "Machine Learning Applied Scientist Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
-    "date_posted": "2026-09-16",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Brookfield",
     "role": "Business Management Intern - Tech & Data",
     "location": "Toronto, ON, Canada",
@@ -4153,6 +4153,17 @@
     "term": "Winter 2027",
     "link": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
     "date_posted": "2026-09-29",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Apera AI",
+    "role": "Machine Learning Applied Scientist Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
+    "date_posted": "2026-09-16",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-18"
