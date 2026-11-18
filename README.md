@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**390 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**388 open** · 405 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -141,7 +141,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Uber | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | 2026-10-27 | – |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) | 2026-10-26 | Summer 2027 |
-| SOTI | Software Developer Intern - Server | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) | 2026-10-26 | Summer 2027 |
 | Altera | Intellectual Property Design Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341) | 2026-10-23 | – |
 | AMA | Architecture Research Intern - Optimization & Decision Modelling | Edmonton, AB, Canada | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1) | 2026-10-23 | – |
 | AMA | Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | 2026-10-23 | – |
@@ -232,7 +231,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | ProCogia | AI Applied & Agentic AI Intern | Vancouver, BC, Canada | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448664008) | 2026-10-09 | – |
 | ProCogia | LLM Research Intern | Vancouver, BC, Canada | [Apply](https://procogia.com/about-us/careers/?gh_jid=5448685008) | 2026-10-09 | Fall 2026 |
 | Workday | Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | 2026-10-09 | Winter 2027 |
-| Workday | Software Development Engineer Intern | Vancouver, BC, Canada | [Apply](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807) | 2026-10-09 | Winter 2027 |
 | Equitable Bank | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply) | 2026-10-08 | Winter 2027 |
 | PSP Investments | GenAI and Digital Workplace Intern | Montreal, QC, Canada | [Apply](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003) | 2026-10-08 | Winter 2027 |
 | Tenstorrent | AI Software Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) | 2026-10-08 | – |
@@ -415,6 +413,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | Seaspan | 🔒 Logistics Support Analysis Intern | North Vancouver, BC, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |
+| SOTI | 🔒 Software Developer Intern - Server | Mississauga, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
+| Workday | 🔒 Software Development Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
 | AltaLink | 🔒 Summer Student Intern - CRU Project Support | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Ciena | 🔒 Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | Ciena | 🔒 Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
