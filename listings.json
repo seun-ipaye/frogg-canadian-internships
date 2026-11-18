@@ -2508,17 +2508,6 @@
     "date_closed": null
   },
   {
-    "company": "Hitachi Energy",
-    "role": "Hardware Test Engineering Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Kinaxis",
     "role": "AI/ML Researcher Intern",
     "location": "Remote in Canada",
@@ -3465,6 +3454,17 @@
     "date_closed": null
   },
   {
+    "company": "GIRO",
+    "role": "Software Developer Intern - Algorithms and Operations Research",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314",
+    "date_posted": "2026-08-31",
+    "date_found": "2026-11-18",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Huawei",
     "role": "Researcher Co-op - Agentic AI",
     "location": "Markham, ON, Canada",
@@ -4266,6 +4266,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Hitachi Energy",
+    "role": "Hardware Test Engineering Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
   },
   {
     "company": "Seaspan",
