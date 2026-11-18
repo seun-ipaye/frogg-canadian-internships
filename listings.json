@@ -1199,17 +1199,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Optical Performance Lab Verification and Testing Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi",
     "role": "Software Analyst Intern",
     "location": "Toronto, ON, Canada",
@@ -4308,6 +4297,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Optical-New-Product-Engineering-Intern_R032040",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "Ciena",
+    "role": "Optical Performance Lab Verification and Testing Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Performance-Lab-Verification-and-Testing-Co-op_R031991",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
