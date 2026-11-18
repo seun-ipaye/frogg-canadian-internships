@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**388 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**388 open** · 402 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -814,9 +814,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | RTX | 🔒 Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing | Longueuil, QC, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
 | RTX | 🔒 Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer | Longueuil, QC, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
 | Sun Life | 🔒 AI Developer Student Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | – |
-| Aptiv | 🔒 Engineering Intern | Ontario, Canada, Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-02-20 | – |
-| TD Bank | 🔒 Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| TD Bank | 🔒 Portfolio Analytics Developer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Tesla | 🔒 Actuator Test Engineer Intern - Optimus | Langley, BC, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
-| The Home Depot | 🔒 AI Machine Learning Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| The Home Depot | 🔒 Full Stack Software Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
