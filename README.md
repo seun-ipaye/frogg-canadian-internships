@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**388 open** · 407 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**387 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -392,7 +392,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) | 2026-06-09 | – |
 | Huawei | Engineer Intern - RL Post-Training for LLMs | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms) | 2026-06-08 | – |
 | Huawei | Intern Engineer - Game Engine System | Edmonton, AB, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system) | 2026-06-03 | – |
-| Huawei | Researcher Intern - Multimodal Learning | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-learning) | 2026-06-03 | – |
 | Astera Labs | Firmware Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) | 2026-06-02 | – |
 | Magna | Junior Full Stack Developer Co-op | Oakville, ON, Canada | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | 2026-05-30 | – |
 | Spaceium | Electrical Engineer Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) | 2026-05-25 | – |
@@ -413,6 +412,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | Hitachi Energy | 🔒 Hardware Test Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Summer 2027 |
+| Huawei | 🔒 Researcher Intern - Multimodal Learning | Montreal, QC, Canada | 🔒 Closed | 2026-06-03 | – |
 | Seaspan | 🔒 Logistics Support Analysis Intern | North Vancouver, BC, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |
 | SOTI | 🔒 Software Developer Intern - Server | Mississauga, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Workday | 🔒 Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
