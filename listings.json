@@ -1232,17 +1232,6 @@
     "date_closed": null
   },
   {
-    "company": "TMX Group",
-    "role": "Analyst Model Validation Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Trimble",
     "role": "Geospatial Product Engineer Intern",
     "location": "Richmond Hill, ON, Canada",
@@ -4429,6 +4418,17 @@
     "link": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-17"
+  },
+  {
+    "company": "TMX Group",
+    "role": "Analyst Model Validation Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Intern-Analyst-Model-Validation---Winter-term_R-6603",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
     "status": "closed",
     "date_closed": "2026-11-17"
   },
