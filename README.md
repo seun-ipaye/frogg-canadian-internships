@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**387 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**384 open** · 411 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -40,7 +40,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | 2026-11-16 | Summer 2027 |
 | Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC +1 more | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | 2026-11-16 | Summer 2027 |
 | Shopify | Software Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) | 2026-11-16 | Summer 2027 |
-| Zurich Insurance | Data Analytics & AI Intern | Toronto, ON, Canada | [Apply](https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors) | 2026-11-16 | – |
 | IPEX | Manufacturing Excellence Co-op | Oakville, ON, Canada | [Apply](https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1) | 2026-11-15 | Winter 2027 |
 | Canadian Tire | Programmer Analyst Intern | Mississauga, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748) | 2026-11-13 | Winter 2027 |
 | Ciena | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | 2026-11-13 | Winter 2027 |
@@ -66,7 +65,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) | 2026-11-10 | Summer 2027 |
 | Altera | FPGA Design Verification Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R03440) | 2026-11-09 | – |
 | Altera | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) | 2026-11-09 | – |
-| Kensington | BI/Data Analyst Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007) | 2026-11-09 | – |
 | NVIDIA | Product Management Space Compute MBA Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | 2026-11-09 | Summer 2027 |
 | NVIDIA | Systems Research Intern - Observability | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) | 2026-11-09 | Summer 2027 |
 | Qualcomm | Firmware Engineering Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722038614) | 2026-11-09 | Summer 2027 |
@@ -335,7 +333,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) | 2026-09-03 | Summer 2027 |
 | Canadian Tire | Business Operations Analyst Student - Winter 2027 | Welland, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928) | 2026-09-03 | Winter 2027 |
 | Kinaxis | Developer Co-op Intern - Machine Learning | Toronto, ON, Canada, Ottawa, ON, Canada, Remote in Canada | [Apply](https://kinaxis.jibeapply.com/jobs/35297?icims=1) | 2026-09-03 | Winter 2027 |
-| Kinaxis | Developer Intern Co-op - Machine Learning | Remote in Canada | [Apply](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | 2026-09-03 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
 | Stripe | Software Engineer Intern - Summer or Winter | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) | 2026-09-01 | Winter 2027 |
 | GIRO | Software Developer Intern - Algorithms and Operations Research | Montreal, QC, Canada | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314) | 2026-08-31 | Winter 2027 |
@@ -413,10 +410,13 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | Hitachi Energy | 🔒 Hardware Test Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Summer 2027 |
 | Huawei | 🔒 Researcher Intern - Multimodal Learning | Montreal, QC, Canada | 🔒 Closed | 2026-06-03 | – |
+| Kensington | 🔒 BI/Data Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-09 | – |
+| Kinaxis | 🔒 Developer Intern Co-op - Machine Learning | Remote in Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | Seaspan | 🔒 Logistics Support Analysis Intern | North Vancouver, BC, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |
 | SOTI | 🔒 Software Developer Intern - Server | Mississauga, ON, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Workday | 🔒 Machine Learning Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
 | Workday | 🔒 Software Development Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
+| Zurich Insurance | 🔒 Data Analytics & AI Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-16 | – |
 | AltaLink | 🔒 Summer Student Intern - CRU Project Support | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Ciena | 🔒 Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | Ciena | 🔒 Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |

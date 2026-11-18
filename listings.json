@@ -176,17 +176,6 @@
     "date_closed": null
   },
   {
-    "company": "Zurich Insurance",
-    "role": "Data Analytics & AI Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
-    "date_posted": "2026-11-16",
-    "date_found": "2026-11-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "IPEX",
     "role": "Manufacturing Excellence Co-op",
     "location": "Oakville, ON, Canada",
@@ -456,17 +445,6 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
-    "date_posted": "2026-11-09",
-    "date_found": "2026-11-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Kensington",
-    "role": "BI/Data Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
     "date_posted": "2026-11-09",
     "date_found": "2026-11-09",
     "status": "open",
@@ -3421,17 +3399,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Developer Intern Co-op - Machine Learning",
-    "location": "Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-09-03",
-    "date_found": "2026-11-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "General Dynamics UK",
     "role": "Software Engineering Co-op - 8 Months",
     "location": "Ottawa, ON, Canada",
@@ -4279,6 +4246,28 @@
     "date_closed": "2026-11-18"
   },
   {
+    "company": "Kensington",
+    "role": "BI/Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "Developer Intern Co-op - Machine Learning",
+    "location": "Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-09-03",
+    "date_found": "2026-11-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
     "company": "Seaspan",
     "role": "Logistics Support Analysis Intern",
     "location": "North Vancouver, BC, Canada",
@@ -4319,6 +4308,17 @@
     "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Zurich Insurance",
+    "role": "Data Analytics & AI Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
+    "date_posted": "2026-11-16",
+    "date_found": "2026-11-16",
     "status": "closed",
     "date_closed": "2026-11-18"
   },
