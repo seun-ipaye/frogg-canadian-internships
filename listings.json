@@ -1672,17 +1672,6 @@
     "date_closed": null
   },
   {
-    "company": "Semtech",
-    "role": "PCB Layout Intern",
-    "location": "Burlington, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Steel",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4275,6 +4264,17 @@
     "link": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Semtech",
+    "role": "PCB Layout Intern",
+    "location": "Burlington, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/PCB-Layout-Intern_REQ3632",
+    "date_posted": "2026-10-20",
+    "date_found": "2026-10-20",
     "status": "closed",
     "date_closed": "2026-11-18"
   },
