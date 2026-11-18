@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**390 open** · 402 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**389 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -100,7 +100,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Global Relay | Java Developer Co-op | Halifax Regional Municipality, NS, Canada | [Apply](https://www.globalrelay.com/careers/jobs?gh_jid=6241594004) | 2026-11-03 | Winter 2027 |
 | Huawei | Researcher Computer Vision Intern | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) | 2026-11-03 | – |
 | Kabam | Operations Product Manager Co-op | Vancouver, BC, Canada | [Apply](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | 2026-11-03 | Winter 2027 |
-| Seaspan | Logistics Support Analysis Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9160) | 2026-11-03 | Winter 2027 |
 | Xanadu | Photonics Test Engineer Intern | Toronto, ON, Canada | [Apply](https://xanadu.careers.hibob.com/jobs/fa179125-845b-4a10-a648-75c1cc20bda4) | 2026-11-03 | – |
 | Meta | Research Scientist Intern - FAIR - World Model Foundations | Montreal, QC, Canada | [Apply](https://www.metacareers.com/jobs/1406585275871250) | 2026-11-02 | – |
 | NVIDIA | Math Libraries Intern | Canada, Santa Clara, CA, United States | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) | 2026-11-02 | Summer 2027 |
@@ -414,6 +413,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| Seaspan | 🔒 Logistics Support Analysis Intern | North Vancouver, BC, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |
 | AltaLink | 🔒 Summer Student Intern - CRU Project Support | Calgary, AB, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Ciena | 🔒 Optical New Product Engineering Intern - New Product Introduction – Photonic Test Engineer (Co-op) | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | Ciena | 🔒 Optical Performance Lab Verification and Testing Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
