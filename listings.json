@@ -2893,17 +2893,6 @@
     "date_closed": null
   },
   {
-    "company": "BGIS",
-    "role": "Asset Management Analyst Intern",
-    "location": "Whitchurch-Stouffville, ON, Canada; Toronto, ON, Canada; North York, ON, Canada; Richmond Hill, ON, Canada; Scarborough, ON, Canada; Vaughan, ON, Canada; Markham, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080",
-    "date_posted": "2026-09-18",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "NERv Technology Inc. D.B.A. FluidAI Medical",
     "role": "Data and AI Engineering Associate",
     "location": "Kitchener, ON, Canada",
@@ -3262,17 +3251,6 @@
     "term": "Winter 2027",
     "link": "https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false",
     "date_posted": "2026-09-09",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Bird Construction",
-    "role": "Business Intelligence Student",
-    "location": "Winnipeg, MB, Canada; Calgary, AB, Canada; Edmonton, AB, Canada; Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
-    "date_posted": "2026-09-08",
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
@@ -3839,50 +3817,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Analog Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Fall 2026",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1",
-    "date_posted": "2026-06-13",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
-    "role": "Analog Engineer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Fall 2026",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430",
-    "date_posted": "2026-06-13",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
-    "role": "Analog Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Fall 2026",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424",
-    "date_posted": "2026-06-13",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Marvell",
-    "role": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
-    "location": "Ottawa, ON, Canada",
-    "term": "Fall 2026",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469",
-    "date_posted": "2026-06-13",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Block",
     "role": "Applied Research Intern Co-op",
     "location": "Toronto, ON, Canada",
@@ -4158,6 +4092,28 @@
     "date_closed": "2026-11-18"
   },
   {
+    "company": "BGIS",
+    "role": "Asset Management Analyst Intern",
+    "location": "Whitchurch-Stouffville, ON, Canada; Toronto, ON, Canada; North York, ON, Canada; Richmond Hill, ON, Canada; Scarborough, ON, Canada; Vaughan, ON, Canada; Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/233080",
+    "date_posted": "2026-09-18",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Bird Construction",
+    "role": "Business Intelligence Student",
+    "location": "Winnipeg, MB, Canada; Calgary, AB, Canada; Edmonton, AB, Canada; Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Calgary-AB/Business-Intelligence-Student_JR-9521",
+    "date_posted": "2026-09-08",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
     "company": "Citi",
     "role": "Technology Analyst Intern - Application Development",
     "location": "Mississauga, ON, Canada",
@@ -4281,10 +4237,43 @@
   {
     "company": "Marvell",
     "role": "Analog Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Fall 2026",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1",
+    "date_posted": "2026-06-13",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Engineer Intern",
     "location": "Vancouver, BC, Canada",
     "term": "Fall 2026",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
     "date_posted": "2026-07-04",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Engineer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Fall 2026",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430",
+    "date_posted": "2026-06-13",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Fall 2026",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424",
+    "date_posted": "2026-06-13",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-18"
@@ -4296,6 +4285,17 @@
     "term": "Fall 2026",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
     "date_posted": "2026-07-04",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Marvell",
+    "role": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
+    "location": "Ottawa, ON, Canada",
+    "term": "Fall 2026",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469",
+    "date_posted": "2026-06-13",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-18"
