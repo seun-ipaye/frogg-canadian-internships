@@ -3707,17 +3707,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Silicon Photonics Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Fall 2026",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
-    "date_posted": "2026-07-04",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Human Computer Lab",
     "role": "Controls Engineer Intern",
     "location": "Toronto, ON, Canada; SF",
@@ -4286,6 +4275,17 @@
     "link": "https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false",
     "date_posted": "2026-09-03",
     "date_found": "2026-11-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Marvell",
+    "role": "Silicon Photonics Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Fall 2026",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
+    "date_posted": "2026-07-04",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-18"
   },
