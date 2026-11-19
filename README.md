@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**375 open** · 424 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**376 open** · 424 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Workstream | Full Stack Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | 2026-11-19 | – |
 | Canadian Strategic Missions | Engineering Intern - Labs | Waterloo, ON, Canada | [Apply](https://csmc.bamboohr.com/careers/51/) | 2026-11-18 | – |
 | Huawei | Researcher Intern - Recursive Self-Improvement | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) | 2026-11-18 | – |
 | Microsoft | Research Intern - Model Foundations for Knowledge & Reasoning | Canada, Vancouver, BC, Canada | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075474) | 2026-11-18 | – |
