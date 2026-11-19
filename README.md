@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**370 open** · 430 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**369 open** · 431 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -361,7 +361,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Human Computer Lab | Controls Engineer Intern | Toronto, ON, Canada, SF | [Apply](https://jobs.ashbyhq.com/human-computer-lab/3ceb956a-f231-4238-bb2e-365515b930a7/application?embed=true) | 2026-07-01 | Fall 2026 |
 | Human Computer Lab | Electrical Engineer Intern | Toronto, ON, Canada, SF | [Apply](https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true) | 2026-07-01 | Fall 2026 |
 | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON, Canada, SF | [Apply](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | 2026-07-01 | Fall 2026 |
-| Marvell | Analog Engineer Intern - PhD | Toronto, ON, Canada | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426) | 2026-06-27 | – |
 | Later | AI Automation Engineer Co-op | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/later/jobs/8604889002) | 2026-06-24 | – |
 | Huawei | Embodied AI Researcher Intern - Embodied AI | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-1) | 2026-06-23 | – |
 | Huawei | Engineer Intern - AI | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-engineer-ai) | 2026-06-22 | – |
@@ -413,6 +412,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Marvell | 🔒 Analog Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-07-04 | Fall 2026 |
 | Marvell | 🔒 Analog Engineer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-06-13 | Fall 2026 |
 | Marvell | 🔒 Analog Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-06-13 | Fall 2026 |
+| Marvell | 🔒 Analog Engineer Intern - PhD | Toronto, ON, Canada | 🔒 Closed | 2026-06-27 | – |
 | Marvell | 🔒 Silicon Photonics Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-07-04 | Fall 2026 |
 | Marvell | 🔒 Silicon Photonics Intern - PhD - Fall 2026 Start Date | Ottawa, ON, Canada | 🔒 Closed | 2026-06-13 | Fall 2026 |
 | Seaspan | 🔒 Logistics Support Analysis Intern | North Vancouver, BC, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |

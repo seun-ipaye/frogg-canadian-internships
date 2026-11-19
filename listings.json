@@ -3707,17 +3707,6 @@
     "date_closed": null
   },
   {
-    "company": "Marvell",
-    "role": "Analog Engineer Intern - PhD",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426",
-    "date_posted": "2026-06-27",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Later",
     "role": "AI Automation Engineer Co-op",
     "location": "Vancouver, BC, Canada",
@@ -4274,6 +4263,17 @@
     "term": "Fall 2026",
     "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424",
     "date_posted": "2026-06-13",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-18"
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Engineer Intern - PhD",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426",
+    "date_posted": "2026-06-27",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-18"
