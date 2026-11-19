@@ -2156,17 +2156,6 @@
     "date_closed": null
   },
   {
-    "company": "Aptiv",
-    "role": "Software Engineer Intern",
-    "location": "Kanata, Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Databricks",
     "role": "Software Engineer Intern",
     "location": "SF; Bellevue, WA; Mountain View, CA; Vancouver, BC, Canada",
@@ -4055,6 +4044,17 @@
     "link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
     "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "Aptiv",
+    "role": "Software Engineer Intern",
+    "location": "Kanata, Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-13",
     "status": "closed",
     "date_closed": "2026-11-19"
   },
