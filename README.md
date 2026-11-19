@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**369 open** · 431 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**368 open** · 411 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -275,7 +275,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Semtech | Firmware Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | 2026-09-24 | Summer 2027 |
 | Semtech | IC Packaging Design Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/IC-Packaging-Design-Intern_REQ3619) | 2026-09-24 | – |
 | Semtech | Validation Engineering Intern | Ottawa, ON, Canada | [Apply](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618) | 2026-09-24 | Summer 2027 |
-| Analog Devices | Analog Design Engineering Intern | Toronto, ON, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614) | 2026-09-23 | – |
 | Analog Devices | Embedded Software Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615) | 2026-09-23 | – |
 | Entrust | Software Development Intern | Ottawa, ON, Canada | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359) | 2026-09-23 | Winter 2027 |
 | Qualcomm | Firmware Development Intern - PAL | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721229661) | 2026-09-23 | Summer 2027 |
@@ -393,6 +392,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| Analog Devices | 🔒 Analog Design Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-23 | – |
 | Alexion | 🔒 Development Operations AI & Automation Enablement Co-op Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-09-29 | Winter 2027 |
 | Apera AI | 🔒 Machine Learning Applied Scientist Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
 | BGIS | 🔒 Asset Management Analyst Intern | Whitchurch-Stouffville, ON, Canada, Toronto, ON, Canada, North York, ON, Canada +4 more | 🔒 Closed | 2026-09-18 | – |
@@ -803,24 +803,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | RTX | 🔒 Data Analyst Intern - Spare Parts Services | Longueuil, QC, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | RTX | 🔒 Repair & Overhaul Customer Solutions Group Intern | Saint-Hubert, Longueuil, QC, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
 | Sony Interactive Entertainment | 🔒 Technical Designer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-29 | – |
-| Apera AI | 🔒 Software Developer Co-op - C++ | Vancouver, BC, Canada | 🔒 Closed | 2026-09-16 | Winter 2027 |
-| Autodesk | 🔒 AI Data Developer Intern - Winter | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Autodesk | 🔒 AI/ML Platform Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Winter 2027 |
-| Autodesk | 🔒 Product Management Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-19 | Winter 2027 |
-| Autodesk | 🔒 Product Management Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-19 | Winter 2027 |
-| D2L | 🔒 Software Developer Co-op - Custom Development Services | Kitchener, ON, Canada | 🔒 Closed | 2026-10-16 | Winter 2027 |
-| Geotab | 🔒 Product Coordinator Intern - Driver Compliance | Toronto, ON, Canada, Oakville, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
-| Grass Valley | 🔒 Software Development Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
-| Harvey | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
-| Manulife Financial | 🔒 Technology Enablement Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
-| Motorola Solutions | 🔒 Design Validation Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-14 | – |
-| Motorola Solutions | 🔒 Electronics Design Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-15 | – |
-| RBC | 🔒 2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| RBC | 🔒 2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months) | Toronto, Ontario, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Rodan Energy Solutions | 🔒 Data Science Co-op | Mississauga, ON, Canada | 🔒 Closed | 2026-09-21 | Winter 2027 |
-| Royal Bank of Canada | 🔒 AI Developer Intern - Grm - Innovation & AI Center of Excellence | Toronto, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| Royal Bank of Canada | 🔒 AI Developer Intern - Innovation & AI Center of Excellence | Toronto, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Data Scientist Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
-| RTX | 🔒 Sales Analysis and Marketing Intern - Contract Administration - Sales Analysis & Marketing | Longueuil, QC, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
-| RTX | 🔒 Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer | Longueuil, QC, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
-| Sun Life | 🔒 AI Developer Student Intern | Toronto, ON, Canada, Waterloo, ON, Canada | 🔒 Closed | 2026-10-13 | – |
