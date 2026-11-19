@@ -484,17 +484,6 @@
     "date_closed": null
   },
   {
-    "company": "NVIDIA",
-    "role": "Performance Engineering Intern - Platform Performance and Power",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Winter 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
-    "date_posted": "2026-11-10",
-    "date_found": "2026-11-10",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
@@ -1650,17 +1639,6 @@
     "date_closed": null
   },
   {
-    "company": "NVIDIA",
-    "role": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Summer 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Display Systems Engineer Intern",
     "location": "Markham, ON, Canada",
@@ -2766,17 +2744,6 @@
     "location": "Toronto, ON, Canada; Vancouver, BC, Canada",
     "term": "Unspecified",
     "link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615",
-    "date_posted": "2026-09-23",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Entrust",
-    "role": "Software Development Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
     "date_posted": "2026-09-23",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4066,6 +4033,39 @@
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "Entrust",
+    "role": "Software Development Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
+    "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Performance Engineering Intern - Platform Performance and Power",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Winter 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
     "status": "closed",
     "date_closed": "2026-11-19"
   },
