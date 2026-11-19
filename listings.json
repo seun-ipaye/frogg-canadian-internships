@@ -891,17 +891,6 @@
     "date_closed": null
   },
   {
-    "company": "NVIDIA",
-    "role": "Math Libraries Intern",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Summer 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Deep Learning Research Intern",
     "location": "Markham, ON, Canada",
@@ -1624,17 +1613,6 @@
     "link": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "NVIDIA",
-    "role": "PhD Research Intern - AI for Climate and Weather Simulation",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Summer 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
     "status": "open",
     "date_closed": null
   },
@@ -4049,12 +4027,34 @@
   },
   {
     "company": "NVIDIA",
+    "role": "Math Libraries Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "NVIDIA",
     "role": "Performance Engineering Intern - Platform Performance and Power",
     "location": "Canada; Santa Clara, CA; United States",
     "term": "Winter 2027",
     "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
     "date_posted": "2026-11-10",
     "date_found": "2026-11-10",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "NVIDIA",
+    "role": "PhD Research Intern - AI for Climate and Weather Simulation",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
     "status": "closed",
     "date_closed": "2026-11-19"
   },
