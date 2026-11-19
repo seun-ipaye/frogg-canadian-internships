@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**362 open** · 418 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**363 open** · 420 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | 2026-11-19 | Summer 2027 |
+| Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada, Paris, France, Nantes, France +2 more | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) | 2026-11-19 | – |
+| Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101) | 2026-11-19 | – |
 | Workstream | Full Stack Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | 2026-11-19 | – |
 | Canadian Strategic Missions | Engineering Intern - Labs | Waterloo, ON, Canada | [Apply](https://csmc.bamboohr.com/careers/51/) | 2026-11-18 | – |
 | Huawei | Researcher Intern - Recursive Self-Improvement | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) | 2026-11-18 | – |
@@ -284,7 +287,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Low Power AI Software Development Intern - Interim Engineering Intern - Software | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721143440) | 2026-09-18 | Summer 2027 |
 | The Brattle Group | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | 2026-09-18 | Summer 2027 |
 | TRC Companies | Software Engineer Intern | Calgary, AB, Canada | [Apply](https://careers.trccompanies.com/jobs/26840?icims=1) | 2026-09-18 | Summer 2027 |
-| 4AG Robotics | AI Co-op Student | Salmon Arm, BC, Canada | [Apply](https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7) | 2026-09-17 | Winter 2027 |
 | Capital de Recherche Tower | Software Developer Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) | 2026-09-17 | Summer 2027 |
 | National Bank of Canada | Analyst Intern - Credit Risk Analytics | Canada | [Apply](https://bnc.avature.net/en_CA/careers/JobDetail/35546) | 2026-09-17 | – |
 | Qualcomm | Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721141411) | 2026-09-17 | Summer 2027 |
@@ -295,7 +297,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | DoorDash | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/doordashcanada/jobs/8170944) | 2026-09-15 | Summer 2027 |
 | Equitable Bank | Credit Risk Intern | Toronto, ON, Canada | [Apply](https://jobs.lever.co/eqbank/de711d74-f78a-4cdd-a4a1-fdaa6e6602c3/apply) | 2026-09-15 | Winter 2027 |
 | L3Harris Technologies | FPGA Designer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127300/?ats=successfactors) | 2026-09-15 | – |
-| L3Harris Technologies | FPGA Software Tool Developer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430127100/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | Full Stack Developer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-1-ON/1430141300/?ats=successfactors) | 2026-09-15 | – |
 | L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1430129400/?ats=successfactors) | 2026-09-15 | – |
 | Definity Financial | Technology Business Administration Co-op Intern - IT Business Management | Toronto, ON, Canada, Waterloo, ON, Canada | [Apply](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | 2026-09-14 | Winter 2027 |
@@ -386,9 +387,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| 4AG Robotics | 🔒 AI Co-op Student | Salmon Arm, BC, Canada | 🔒 Closed | 2026-09-17 | Winter 2027 |
 | Analog Devices | 🔒 Analog Design Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-23 | – |
 | Aptiv | 🔒 Software Engineer Intern | Kanata, Ottawa, ON, Canada | 🔒 Closed | 2026-10-12 | – |
 | Entrust | 🔒 Software Development Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-23 | Winter 2027 |
+| L3Harris Technologies | 🔒 FPGA Software Tool Developer Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | NVIDIA | 🔒 ASIC Verification Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-19 | Summer 2027 |
 | NVIDIA | 🔒 Math Libraries Intern | Canada, Santa Clara, CA, United States | 🔒 Closed | 2026-11-02 | Summer 2027 |
 | NVIDIA | 🔒 Performance Engineering Intern - Platform Performance and Power | Canada, Santa Clara, CA, United States | 🔒 Closed | 2026-11-10 | Winter 2027 |

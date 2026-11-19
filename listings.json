@@ -1,5 +1,38 @@
 [
   {
+    "company": "Georgian Partners Growth",
+    "role": "Physical AI and Robotics Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Horizon Trading Solutions",
+    "role": "Java Developer Intern",
+    "location": "Montreal, QC, Canada; Paris, France; Nantes, France; Rennes, France; Hong Kong",
+    "term": "Unspecified",
+    "link": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Horizon Trading Solutions",
+    "role": "Java Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Workstream",
     "role": "Full Stack Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -2860,17 +2893,6 @@
     "date_closed": null
   },
   {
-    "company": "4AG Robotics",
-    "role": "AI Co-op Student",
-    "location": "Salmon Arm, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
-    "date_posted": "2026-09-17",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Capital de Recherche Tower",
     "role": "Software Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -2975,17 +2997,6 @@
     "location": "Waterdown, Hamilton, ON, Canada",
     "term": "Unspecified",
     "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "FPGA Software Tool Developer Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "open",
@@ -3982,6 +3993,17 @@
     "date_closed": null
   },
   {
+    "company": "4AG Robotics",
+    "role": "AI Co-op Student",
+    "location": "Salmon Arm, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7",
+    "date_posted": "2026-09-17",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
     "company": "Analog Devices",
     "role": "Analog Design Engineering Intern",
     "location": "Toronto, ON, Canada",
@@ -4010,6 +4032,17 @@
     "term": "Winter 2027",
     "link": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359",
     "date_posted": "2026-09-23",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-19"
+  },
+  {
+    "company": "L3Harris Technologies",
+    "role": "FPGA Software Tool Developer Co-op",
+    "location": "Waterdown, Hamilton, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
+    "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-19"
