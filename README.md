@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**370 open** · 401 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**369 open** · 402 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -50,7 +50,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) | 2026-11-17 | – |
 | City of Campbell River | Co-op Student - OMS Project - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733) | 2026-11-17 | – |
 | Critical Environment Technologies | Computer Science Co-op | Delta, BC, Canada | [Apply](https://cetci.bamboohr.com/careers/92/) | 2026-11-17 | – |
-| Manulife Financial | Technology Enablement Analyst Co-op | Toronto, ON, Canada | [Apply](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1) | 2026-11-17 | Winter 2027 |
 | Meta | Visiting Researcher Intern - AI Mentorship Program | Montreal, QC, Canada | [Apply](https://www.metacareers.com/jobs/1110284504699535) | 2026-11-17 | Fall 2027 |
 | NorthStar Earth & Space | Research Intern - AI for Earth Observation | Montreal, QC, Canada | [Apply](https://northstarearthandspace.bamboohr.com/careers/117/) | 2026-11-17 | Winter 2028 |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) | 2026-11-17 | Summer 2027 |
@@ -397,6 +396,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Altera | 🔒 Software Engineer Intern - Factory Apps | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | – |
 | Bank of Montreal | 🔒 Data Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-10 | Winter 2027 |
 | Bank of Montreal | 🔒 Quantitative Trading Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Summer 2027 |
+| Manulife Financial | 🔒 Technology Enablement Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
 | SOTI | 🔒 Software Developer Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
 | 4AG Robotics | 🔒 AI Co-op Student | Salmon Arm, BC, Canada | 🔒 Closed | 2026-09-17 | Winter 2027 |
 | Analog Devices | 🔒 Analog Design Engineering Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-23 | – |

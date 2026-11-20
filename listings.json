@@ -286,17 +286,6 @@
     "date_closed": null
   },
   {
-    "company": "Manulife Financial",
-    "role": "Technology Enablement Analyst Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1",
-    "date_posted": "2026-11-17",
-    "date_found": "2026-11-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Meta",
     "role": "Visiting Researcher Intern - AI Mentorship Program",
     "location": "Montreal, QC, Canada",
@@ -4099,6 +4088,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Technology Enablement Analyst Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774-1",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-19",
     "status": "closed",
     "date_closed": "2026-11-20"
   },
