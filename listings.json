@@ -15,17 +15,6 @@
     "role": "Machine Learning Resident",
     "location": "Edmonton, AB, Canada",
     "term": "Unspecified",
-    "link": "https://amii.bamboohr.com/careers/249/",
-    "date_posted": "2026-11-20",
-    "date_found": "2026-11-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Amii",
-    "role": "Machine Learning Resident",
-    "location": "Edmonton, AB, Canada",
-    "term": "Unspecified",
     "link": "https://amii.bamboohr.com/careers/254/",
     "date_posted": "2026-11-20",
     "date_found": "2026-11-19",
@@ -4055,6 +4044,17 @@
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "Amii",
+    "role": "Machine Learning Resident",
+    "location": "Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://amii.bamboohr.com/careers/249/",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-19",
     "status": "closed",
     "date_closed": "2026-11-20"
   },
