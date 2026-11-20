@@ -3652,17 +3652,6 @@
     "date_closed": null
   },
   {
-    "company": "DRW",
-    "role": "Software Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991197",
-    "date_posted": "2026-07-13",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Huawei",
     "role": "Engineer Distributed Agent System Co-op",
     "location": "Markham, ON, Canada",
@@ -4110,6 +4099,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "DRW",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991197",
+    "date_posted": "2026-07-13",
+    "date_found": "2026-10-30",
     "status": "closed",
     "date_closed": "2026-11-20"
   },
