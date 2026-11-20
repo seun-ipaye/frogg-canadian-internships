@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**371 open** · 400 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**370 open** · 401 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -131,7 +131,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) | 2026-10-30 | Summer 2027 |
 | Stripe | Machine Learning Engineer Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) | 2026-10-30 | Summer 2027 |
 | Stripe | PhD Machine Learning Engineer Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) | 2026-10-30 | Summer 2027 |
-| Altera | Software Engineer Intern - Factory Apps | Toronto, ON, Canada | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) | 2026-10-29 | – |
 | Ciena | Embedded Software Engineer Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) | 2026-10-29 | Winter 2027 |
 | Ciena | Hardware Characterization Automation Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014) | 2026-10-29 | Winter 2027 |
 | Huawei | Intern Researcher - AI Agents | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1) | 2026-10-29 | – |
@@ -395,6 +394,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| Altera | 🔒 Software Engineer Intern - Factory Apps | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | – |
 | Bank of Montreal | 🔒 Data Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-10 | Winter 2027 |
 | Bank of Montreal | 🔒 Quantitative Trading Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Summer 2027 |
 | SOTI | 🔒 Software Developer Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-13 | Winter 2027 |
