@@ -2816,17 +2816,6 @@
     "date_closed": null
   },
   {
-    "company": "CAE",
-    "role": "Software Developer Intern - Content Creation Tools",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Multimatic",
     "role": "Application Engineering Co-op",
     "location": "East Gwillimbury, ON, Canada",
@@ -4033,6 +4022,17 @@
     "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
     "date_posted": "2026-10-29",
     "date_found": "2026-10-29",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "CAE",
+    "role": "Software Developer Intern - Content Creation Tools",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658",
+    "date_posted": "2026-09-21",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-20"
   },

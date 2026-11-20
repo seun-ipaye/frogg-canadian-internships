@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**362 open** · 412 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**361 open** · 413 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -280,7 +280,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Danaher | Hardware Engineer Co-op | Concord, Vaughan, ON, Canada | [Apply](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537) | 2026-09-22 | – |
 | L3Harris Technologies | Project Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Project-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1432399900/?ats=successfactors) | 2026-09-22 | – |
 | L3Harris Technologies | Software Engineer Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-%28Waterdown,-CAN%29-ON-L9H-0C5/1432400300/?ats=successfactors) | 2026-09-22 | – |
-| CAE | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | 2026-09-21 | – |
 | Multimatic | Application Engineering Co-op | East Gwillimbury, ON, Canada | [Apply](https://multimatic.wd10.myworkdayjobs.com/MMEC/job/East-Gwillimbury-Ontario/Application-Engineering-Co-op_JR103259) | 2026-09-21 | – |
 | Rodan Energy Solutions | AI Solutions Co-op | Mississauga, ON, Canada | [Apply](https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027) | 2026-09-21 | Winter 2027 |
 | Amazon | Software Development Engineer Intern - Summer 2027 | Vancouver, BC, Canada | [Apply](https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | 2026-09-18 | Winter 2027 |
@@ -391,6 +390,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Amii | 🔒 Machine Learning Resident | Edmonton, AB, Canada | 🔒 Closed | 2026-11-20 | – |
 | Bank of Montreal | 🔒 Data Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-10 | Winter 2027 |
 | Bank of Montreal | 🔒 Quantitative Trading Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Summer 2027 |
+| CAE | 🔒 Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
 | DRW | 🔒 Software Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-07-13 | Summer 2028 |
 | DRW | 🔒 Software Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-07-13 | – |
 | Manulife Financial | 🔒 Technology Enablement Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
