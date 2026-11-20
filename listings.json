@@ -847,17 +847,6 @@
     "date_closed": null
   },
   {
-    "company": "Qualcomm",
-    "role": "Machine Learning Engineering Intern",
-    "location": "Markham, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://qualcomm.eightfold.ai/careers/job/446721969461",
-    "date_posted": "2026-11-05",
-    "date_found": "2026-11-04",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
@@ -4121,6 +4110,17 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721636765",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "Qualcomm",
+    "role": "Machine Learning Engineering Intern",
+    "location": "Markham, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://qualcomm.eightfold.ai/careers/job/446721969461",
+    "date_posted": "2026-11-05",
+    "date_found": "2026-11-04",
     "status": "closed",
     "date_closed": "2026-11-20"
   },
