@@ -33,11 +33,33 @@
     "date_closed": null
   },
   {
+    "company": "AON3D",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Avnan",
     "role": "Electronics Engineering Technologist Co-op",
     "location": "Mississauga, ON, Canada",
     "term": "Winter 2027",
     "link": "https://avnan.bamboohr.com/careers/125/",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Flare",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://flare.bamboohr.com/careers/29/",
     "date_posted": "2026-11-20",
     "date_found": "2026-11-20",
     "status": "open",
@@ -71,6 +93,17 @@
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Intern - Mathematical Foundations of Differentiable World Models",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models",
     "date_posted": "2026-11-20",
     "date_found": "2026-11-20",
     "status": "open",

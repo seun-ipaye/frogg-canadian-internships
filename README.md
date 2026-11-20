@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**368 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**371 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -27,10 +27,13 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/247/) | 2026-11-20 | – |
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/249/) | 2026-11-20 | – |
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/254/) | 2026-11-20 | – |
+| AON3D | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) | 2026-11-20 | Winter 2027 |
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | [Apply](https://avnan.bamboohr.com/careers/125/) | 2026-11-20 | Winter 2027 |
+| Flare | Software Developer Intern | Montreal, QC, Canada | [Apply](https://flare.bamboohr.com/careers/29/) | 2026-11-20 | Winter 2027 |
 | Honeywell Aerospace | Artificial Intelligence Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | 2026-11-20 | – |
 | Honeywell Aerospace | Electrical Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | 2026-11-20 | – |
 | Honeywell Aerospace | Embedded Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | 2026-11-20 | – |
+| Huawei | Researcher Intern - Mathematical Foundations of Differentiable World Models | Ottawa, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | 2026-11-20 | – |
 | Microsoft | Research Intern - AI Serving Systems and Hardware | Vancouver, BC, Canada | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076203) | 2026-11-20 | – |
 | Ottawa Tourism | Business Intelligence Assistant Intern | Ottawa, ON, Canada | [Apply](https://ottawatourism.bamboohr.com/careers/123/) | 2026-11-20 | – |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, ON, Canada | [Apply](https://euna.bamboohr.com/careers/822/) | 2026-11-19 | Winter 2027 |
