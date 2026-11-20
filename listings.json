@@ -33,6 +33,17 @@
     "date_closed": null
   },
   {
+    "company": "Avnan",
+    "role": "Electronics Engineering Technologist Co-op",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://avnan.bamboohr.com/careers/125/",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Honeywell Aerospace",
     "role": "Artificial Intelligence Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -73,6 +84,17 @@
     "link": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
     "date_posted": "2026-11-20",
     "date_found": "2026-11-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Ottawa Tourism",
+    "role": "Business Intelligence Assistant Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://ottawatourism.bamboohr.com/careers/123/",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
     "status": "open",
     "date_closed": null
   },
