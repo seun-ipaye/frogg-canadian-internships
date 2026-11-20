@@ -573,17 +573,6 @@
   },
   {
     "company": "Bank of Montreal",
-    "role": "Data Analyst Co-op Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
-    "date_posted": "2026-11-10",
-    "date_found": "2026-11-10",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Bank of Montreal",
     "role": "Treasury & Payment Solutions Strategy Intern",
     "location": "Toronto, ON, Canada",
     "term": "Winter 2027",
@@ -4068,6 +4057,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Bank of Montreal",
+    "role": "Data Analyst Co-op Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "closed",
+    "date_closed": "2026-11-20"
   },
   {
     "company": "Bank of Montreal",
