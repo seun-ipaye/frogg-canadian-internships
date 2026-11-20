@@ -1,5 +1,16 @@
 [
   {
+    "company": "EUNA Solutions",
+    "role": "Associate AI-Enablement Developer Co-op",
+    "location": "Oakville, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://euna.bamboohr.com/careers/822/",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Georgian Partners Growth",
     "role": "Physical AI and Robotics Intern",
     "location": "Toronto, ON, Canada",
@@ -2317,6 +2328,17 @@
     "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-23",
     "status": "open",
     "date_closed": null
   },
@@ -6354,17 +6376,6 @@
     "link": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007",
     "date_posted": "2026-09-16",
     "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-06"
-  },
-  {
-    "company": "Astera Labs",
-    "role": "Platform Applications Engineer Intern Co-op - Tools & Validation Infrastructure",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732319005",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-06"
   },
