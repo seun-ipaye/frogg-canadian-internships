@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**361 open** · 413 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**372 open** · 413 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -27,11 +27,22 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/254/) | 2026-11-20 | – |
 | AON3D | Software Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) | 2026-11-20 | Winter 2027 |
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | [Apply](https://avnan.bamboohr.com/careers/125/) | 2026-11-20 | Winter 2027 |
+| Dometic | Product Designer Co-op - Software | Vancouver, BC, Canada | [Apply](https://edometic.rec.pro.ukg.net/DOM1500DOCO/JobBoard/1883c52c-7f1b-4c5d-97a8-113c61f2f7ad/OpportunityDetail?opportunityId=69fda379-1792-4110-8b62-200e8b7e75fe) | 2026-11-20 | – |
 | Flare | Software Developer Intern | Montreal, QC, Canada | [Apply](https://flare.bamboohr.com/careers/29/) | 2026-11-20 | Winter 2027 |
 | Honeywell Aerospace | Artificial Intelligence Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127878) | 2026-11-20 | – |
 | Honeywell Aerospace | Electrical Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127344) | 2026-11-20 | – |
 | Honeywell Aerospace | Embedded Engineer Intern | Kanata, Ottawa, ON, Canada | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127880) | 2026-11-20 | – |
 | Huawei | Researcher Intern - Mathematical Foundations of Differentiable World Models | Ottawa, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-mathematical-foundations-of-differentiable-world-models) | 2026-11-20 | – |
+| Mackenzie Investments | AI Program Intern | Toronto, ON, Canada | [Apply](https://careersen-mackenzieinvestments.icims.com/jobs/6446/job?mobile=true&needsRedirect=false) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Intern - Test Procedure Engineering | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=23ba7a5c-469f-40f6-b33c-6e7bcbcf5355) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Intern - Test Procedures Engineering | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=5316ccee-7798-45ab-ab44-613a112b3126) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Student Co-op - AI/ML Specialist | Richmond, BC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Student Intern - Digital Electronics Test Station Design | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=080ac9a6-c9f4-4d51-bcf6-b4085e35e941) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Student Intern - FPGA | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=216d347b-2abb-43e8-8fbc-268adecf0aa3) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Student Intern - FPGA Verification | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=e40bbead-0940-4adb-9ae8-2b3d4d3d6874) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Student Intern - PCB Design and Electronic Integration | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=72d36cf7-637b-4e91-a9d6-660f11cb8075) | 2026-11-20 | Winter 2027 |
+| MDA Space | Engineering Student Intern - Python Test Data Processing | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0) | 2026-11-20 | Winter 2027 |
+| Meridian Credit Union | Data and Artificial Intelligence Student Intern | Etobicoke, ON, Canada, St. Catharines, ON, Canada | [Apply](https://recruiting.ultipro.ca/MER5001MCUL/JobBoard/6c1f133f-d0ac-48cd-a17d-bc54fe044ce3/OpportunityDetail?opportunityId=ea375757-76a7-4b9e-81d0-478ed7beb2e1) | 2026-11-20 | – |
 | Microsoft | Research Intern - AI Serving Systems and Hardware | Vancouver, BC, Canada | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557076203) | 2026-11-20 | – |
 | Ottawa Tourism | Business Intelligence Assistant Intern | Ottawa, ON, Canada | [Apply](https://ottawatourism.bamboohr.com/careers/123/) | 2026-11-20 | – |
 | EUNA Solutions | Associate AI-Enablement Developer Co-op | Oakville, ON, Canada | [Apply](https://euna.bamboohr.com/careers/822/) | 2026-11-19 | Winter 2027 |
