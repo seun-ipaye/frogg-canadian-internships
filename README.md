@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**369 open** · 419 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**369 open** · 397 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -790,25 +790,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 Retail Risk Modeling Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | Winter 2027 |
 | SOTI | 🔒 Software Developer Intern - Back End | Mississauga, ON, Canada | 🔒 Closed | 2026-09-21 | – |
 | Trane Technologies | 🔒 AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |
-| Altera | 🔒 FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-15 | – |
-| Autodesk | 🔒 AI Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
-| Autodesk | 🔒 AI Developer Intern - Creative Technology | Montreal, QC, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
-| Autodesk | 🔒 Cloud Developer Intern - Fcap | Montreal, QC, Canada | 🔒 Closed | 2026-08-07 | Winter 2027 |
-| Autodesk | 🔒 Cloud Developer Intern - Fcap | Montreal, QC, Canada | 🔒 Closed | 2026-08-07 | Winter 2027 |
-| Autodesk | 🔒 Cloud Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | 🔒 Closed | 2026-08-07 | Winter 2027 |
-| Autodesk | 🔒 Cloud Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | 🔒 Closed | 2026-08-07 | Winter 2027 |
-| Autodesk | 🔒 Software Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-08-11 | Winter 2027 |
-| Autodesk | 🔒 Software Developer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Summer 2027 |
-| Autodesk | 🔒 Software Developer Intern - Interactive Graphics, Media & Entertainment | Montreal, QC, Canada | 🔒 Closed | 2026-08-11 | Winter 2027 |
-| Autodesk | 🔒 Software Development Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-01 | Summer 2027 |
-| CAE | 🔒 Integration Specialist Defense & Security Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| CAE | 🔒 Software Developer Co-op | Montreal, QC, Canada | 🔒 Closed | 2026-10-06 | – |
-| CAE | 🔒 Software Developer Intern - Software | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| Eaton | 🔒 C++ Developer Intern - Research & Development Engineering | Brossard, QC, Canada | 🔒 Closed | 2026-10-16 | – |
-| Entrust | 🔒 Software Developer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-07 | Winter 2027 |
-| Haven Studios | 🔒 Technical Design Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-29 | – |
-| Hitachi Energy | 🔒 Software Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-08 | Winter 2027 |
-| Loblaw Companies | 🔒 Applied Machine Learning Co-op | Brampton, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| RTX | 🔒 Data Analyst Intern - Spare Parts Services | Longueuil, QC, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
-| RTX | 🔒 Repair & Overhaul Customer Solutions Group Intern | Saint-Hubert, Longueuil, QC, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
-| Sony Interactive Entertainment | 🔒 Technical Designer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-09-29 | – |
