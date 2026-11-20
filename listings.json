@@ -1067,17 +1067,6 @@
     "date_closed": null
   },
   {
-    "company": "Zimmer Biomet Holdings",
-    "role": "Software Developer Co-op",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://careers.zimmerbiomet.com/us/en/job/13309",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Spaceium",
     "role": "Electrical Intern",
     "location": "Ottawa, ON, Canada",
@@ -4110,6 +4099,17 @@
     "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
     "date_posted": "2026-10-13",
     "date_found": "2026-10-13",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "Zimmer Biomet Holdings",
+    "role": "Software Developer Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://careers.zimmerbiomet.com/us/en/job/13309",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
     "status": "closed",
     "date_closed": "2026-11-20"
   },
