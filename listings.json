@@ -55,6 +55,17 @@
     "date_closed": null
   },
   {
+    "company": "HME",
+    "role": "Development Intern",
+    "location": "St-Bruno-de-Montarville, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://hmeukg.rec.pro.ukg.net/HME1500HMEN/JobBoard/616b8ff0-9933-405d-9892-26f121d3a657/OpportunityDetail?opportunityId=85e04b3e-3362-406f-8d3e-b46fe7b5590f",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Honeywell Aerospace",
     "role": "Artificial Intelligence Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -209,6 +220,28 @@
     "date_closed": null
   },
   {
+    "company": "Method",
+    "role": "Engineering Resident Intern",
+    "location": "Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/method/jobs/8208724003",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Method",
+    "role": "Product Management Intern",
+    "location": "Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada",
+    "term": "Summer 2027",
+    "link": "https://job-boards.greenhouse.io/method/jobs/8207585003",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Microsoft",
     "role": "Research Intern - AI Serving Systems and Hardware",
     "location": "Vancouver, BC, Canada",
@@ -225,6 +258,17 @@
     "location": "Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://ottawatourism.bamboohr.com/careers/123/",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Pason Systems",
+    "role": "Software Developer Intern - Datahub",
+    "location": "Calgary, AB, Canada",
+    "term": "Summer 2027",
+    "link": "https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8",
     "date_posted": "2026-11-20",
     "date_found": "2026-11-20",
     "status": "open",
@@ -282,6 +326,17 @@
     "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
     "date_posted": "2026-11-19",
     "date_found": "2026-11-18",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Alberta Investment Management Corporation",
+    "role": "Risk Modelling Co-op",
+    "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Co-op--Risk-Modelling--Winter-2027-_JR100957",
+    "date_posted": "2026-11-18",
+    "date_found": "2026-11-20",
     "status": "open",
     "date_closed": null
   },
@@ -2387,17 +2442,6 @@
     "date_closed": null
   },
   {
-    "company": "Genesys",
-    "role": "Web Software Developer Intern - WFM",
-    "location": "Toronto, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
-    "date_posted": "2026-10-07",
-    "date_found": "2026-11-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Astera Labs",
     "role": "Design Verification Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4176,6 +4220,17 @@
     "link": "https://job-boards.greenhouse.io/drwfr/jobs/7991197",
     "date_posted": "2026-07-13",
     "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-20"
+  },
+  {
+    "company": "Genesys",
+    "role": "Web Software Developer Intern - WFM",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
+    "date_posted": "2026-10-07",
+    "date_found": "2026-11-15",
     "status": "closed",
     "date_closed": "2026-11-20"
   },
