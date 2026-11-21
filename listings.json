@@ -990,17 +990,6 @@
     "date_closed": null
   },
   {
-    "company": "Element Fleet Management",
-    "role": "Forward Deployed Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
-    "date_posted": "2026-11-05",
-    "date_found": "2026-11-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Equitable Bank",
     "role": "Product Management Intern - Digital Banking",
     "location": "Toronto, ON, Canada",
@@ -4154,6 +4143,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/216231",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-21"
+  },
+  {
+    "company": "Element Fleet Management",
+    "role": "Forward Deployed Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
+    "date_posted": "2026-11-05",
+    "date_found": "2026-11-05",
     "status": "closed",
     "date_closed": "2026-11-21"
   },
