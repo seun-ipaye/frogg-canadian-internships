@@ -2541,17 +2541,6 @@
     "date_closed": null
   },
   {
-    "company": "Moment Energy",
-    "role": "Software Engineering Co-op",
-    "location": "Surrey, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Tenstorrent",
     "role": "Hardware Intern - AI HW & System on a Chip",
     "location": "Toronto, ON, Canada; Ottawa, ON, Canada",
@@ -4187,6 +4176,17 @@
     "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741",
     "date_posted": "2026-10-27",
     "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-21"
+  },
+  {
+    "company": "Moment Energy",
+    "role": "Software Engineering Co-op",
+    "location": "Surrey, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-21"
   },
