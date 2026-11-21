@@ -649,17 +649,6 @@
     "date_closed": null
   },
   {
-    "company": "Seaspan",
-    "role": "Data Engineering Intern",
-    "location": "North Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "W.W. Grainger",
     "role": "Customer Experience Intern",
     "location": "Thornhill, Vaughan, ON, Canada",
@@ -4176,6 +4165,17 @@
     "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741",
     "date_posted": "2026-10-27",
     "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-21"
+  },
+  {
+    "company": "Seaspan",
+    "role": "Data Engineering Intern",
+    "location": "North Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
     "status": "closed",
     "date_closed": "2026-11-21"
   },

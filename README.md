@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**376 open** · 406 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**375 open** · 407 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -83,7 +83,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ciena | Technical Solution Engineer Intern - SE&I | Montreal, QC, Canada, Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114) | 2026-11-13 | Winter 2027 |
 | Fonds de solidarité FTQ | Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | [Apply](https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874) | 2026-11-13 | – |
 | Helcim | Data Intern | Calgary, AB, Canada | [Apply](https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a) | 2026-11-13 | – |
-| Seaspan | Data Engineering Intern | North Vancouver, BC, Canada | [Apply](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) | 2026-11-13 | Winter 2027 |
 | W.W. Grainger | Customer Experience Intern | Thornhill, Vaughan, ON, Canada | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/?ats=successfactors) | 2026-11-13 | Summer 2027 |
 | W.W. Grainger | Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-Analyste-des-op%C3%A9rations-de-terrain-1-1-ON-L3T-7W8/1450732400/?ats=successfactors) | 2026-11-13 | – |
 | W.W. Grainger | GCAN Field Operations Analyst Intern | Thornhill, Vaughan, ON, Canada | [Apply](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/?ats=successfactors) | 2026-11-13 | Summer 2027 |
@@ -404,6 +403,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ciena | 🔒 Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
 | Ciena | 🔒 Software Developer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
 | Hitachi | 🔒 Software Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
+| Seaspan | 🔒 Data Engineering Intern | North Vancouver, BC, Canada | 🔒 Closed | 2026-11-13 | Winter 2027 |
 | Altera | 🔒 Software Engineer Intern - Factory Apps | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | – |
 | Amii | 🔒 Machine Learning Resident | Edmonton, AB, Canada | 🔒 Closed | 2026-11-20 | – |
 | Amii | 🔒 Machine Learning Resident | Edmonton, AB, Canada | 🔒 Closed | 2026-11-20 | – |
