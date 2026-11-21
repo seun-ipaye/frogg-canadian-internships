@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**373 open** · 411 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**372 open** · 412 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -64,7 +64,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | GPU Compiler Development Intern - Interim Engineering Intern - HW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722198182) | 2026-11-18 | Summer 2027 |
 | Roblox | Software Engineer Intern - Engine | Vancouver, BC, Canada | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) | 2026-11-18 | Summer 2027 |
 | SSI | Software Developer Co-op | Victoria, BC, Canada | [Apply](https://ssicorporate.bamboohr.com/careers/101/) | 2026-11-18 | – |
-| Angel Host | AI Product Engineer Intern Co-op | Montreal, QC, Canada | [Apply](https://angelhost.bamboohr.com/careers/123/) | 2026-11-17 | Winter 2027 |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) | 2026-11-17 | – |
@@ -397,6 +396,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| Angel Host | 🔒 AI Product Engineer Intern Co-op | Montreal, QC, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
 | AON3D | 🔒 Software Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
 | Ciena | 🔒 Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
 | Ciena | 🔒 Software Developer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
