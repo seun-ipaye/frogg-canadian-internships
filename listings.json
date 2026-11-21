@@ -11,17 +11,6 @@
     "date_closed": null
   },
   {
-    "company": "AON3D",
-    "role": "Software Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
-    "date_posted": "2026-11-20",
-    "date_found": "2026-11-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Avnan",
     "role": "Electronics Engineering Technologist Co-op",
     "location": "Mississauga, ON, Canada",
@@ -1492,17 +1481,6 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721828828",
     "date_posted": "2026-10-28",
     "date_found": "2026-10-28",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Ciena",
-    "role": "Electronic Reliability Engineer Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
     "status": "open",
     "date_closed": null
   },
@@ -4145,6 +4123,28 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AON3D",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://job-boards.greenhouse.io/aon3d/jobs/4504702009",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "closed",
+    "date_closed": "2026-11-21"
+  },
+  {
+    "company": "Ciena",
+    "role": "Electronic Reliability Engineer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-21"
   },
   {
     "company": "Hitachi",
