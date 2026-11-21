@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**378 open** · 414 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**377 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -161,7 +161,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) | 2026-10-28 | Summer 2027 |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) | 2026-10-28 | Summer 2027 |
 | Ciena | Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987) | 2026-10-27 | Winter 2027 |
-| Hitachi | Software Analyst Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741) | 2026-10-27 | Winter 2027 |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) | 2026-10-27 | Winter 2027 |
 | Nasdaq | Back End Software Developer Co-op Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) | 2026-10-27 | – |
 | Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) | 2026-10-27 | – |
@@ -402,6 +401,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| Hitachi | 🔒 Software Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
 | Altera | 🔒 Software Engineer Intern - Factory Apps | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | – |
 | Amii | 🔒 Machine Learning Resident | Edmonton, AB, Canada | 🔒 Closed | 2026-11-20 | – |
 | Amii | 🔒 Machine Learning Resident | Edmonton, AB, Canada | 🔒 Closed | 2026-11-20 | – |
@@ -804,15 +804,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | 🔒 Applied AI Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | Qualcomm | 🔒 Camera Design Implementation Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
 | RTX | 🔒 Customer First Centre Intern - Customer First Centre - Technical Helpdesk | Longueuil, QC, Canada | 🔒 Closed | 2026-08-24 | Winter 2027 |
-| AltaGas | 🔒 Digital Intern - NextGen AI & Data | Calgary, AB, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
-| Armstrong Fluid Technology | 🔒 Test Engineering Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-11 | – |
-| Boeing | 🔒 Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
-| Boeing | 🔒 Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
-| Ciena | 🔒 Modem Hardware Engineer Intern/Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-09-10 | Winter 2027 |
-| Definity Financial | 🔒 Commercial Insurance Product Owner Co-op Intern | Waterloo, ON, Canada | 🔒 Closed | 2026-09-11 | Winter 2027 |
-| Definity Financial | 🔒 Technology Solutions Co-op Intern - Data Platform & Engineering | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
-| L3Harris Technologies | 🔒 Electro-Optical Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-10 | Summer 2027 |
-| L3Harris Technologies | 🔒 Software Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-15 | – |
-| Royal Bank of Canada | 🔒 Retail Risk Modeling Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | Winter 2027 |
-| SOTI | 🔒 Software Developer Intern - Back End | Mississauga, ON, Canada | 🔒 Closed | 2026-09-21 | – |
-| Trane Technologies | 🔒 AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | 🔒 Closed | 2026-09-01 | Summer 2027 |

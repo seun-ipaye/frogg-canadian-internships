@@ -1507,17 +1507,6 @@
     "date_closed": null
   },
   {
-    "company": "Hitachi",
-    "role": "Software Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumerate",
     "role": "Data Associate Intern",
     "location": "Canada; Remote in Canada",
@@ -4156,6 +4145,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Hitachi",
+    "role": "Software Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R0148741",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-21"
   },
   {
     "company": "Altera",
@@ -8578,137 +8578,5 @@
     "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-10-22"
-  },
-  {
-    "company": "AltaGas",
-    "role": "Digital Intern - NextGen AI & Data",
-    "location": "Calgary, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Calgary-AB/AltaGas---2027-Digital--NextGen-AI---Data--Intern_R7312",
-    "date_posted": "2026-10-05",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Armstrong Fluid Technology",
-    "role": "Test Engineering Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://armstrongfluidtechnology.bamboohr.com/careers/1001/",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Boeing",
-    "role": "Data Science Intern",
-    "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Boeing",
-    "role": "Data Science Intern",
-    "location": "Vancouver, BC, Canada; Richmond, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Ciena",
-    "role": "Modem Hardware Engineer Intern/Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Modem-HW-Engineering-Intern-Co-op--Winter-2027---4-month-_R031652",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Definity Financial",
-    "role": "Commercial Insurance Product Owner Co-op Intern",
-    "location": "Waterloo, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354",
-    "date_posted": "2026-09-11",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Definity Financial",
-    "role": "Technology Solutions Co-op Intern - Data Platform & Engineering",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9324",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Electro-Optical Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors",
-    "date_posted": "2026-09-10",
-    "date_found": "2026-10-08",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "L3Harris Technologies",
-    "role": "Software Engineering Co-op",
-    "location": "Waterdown, Hamilton, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.l3harris.com/job/Waterdown-Software-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430128900/?ats=successfactors",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Royal Bank of Canada",
-    "role": "Retail Risk Modeling Analyst Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Retail-Risk-Modeling-Analyst-Intern--8-Months-_R-0000185759-3",
-    "date_posted": "2026-10-20",
-    "date_found": "2026-10-20",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "SOTI",
-    "role": "Software Developer Intern - Back End",
-    "location": "Mississauga, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549",
-    "date_posted": "2026-09-21",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
-  },
-  {
-    "company": "Trane Technologies",
-    "role": "AI Intern - AI Product Management - AI Controls Integration",
-    "location": "Montreal, QC, Canada",
-    "term": "Summer 2027",
-    "link": "https://careers.tranetechnologies.com/global/en/job/JR-7608",
-    "date_posted": "2026-09-01",
-    "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-10-21"
   }
 ]
