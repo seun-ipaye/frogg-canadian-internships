@@ -1,5 +1,16 @@
 [
   {
+    "company": "Convverge",
+    "role": "Junior Developer Co-op",
+    "location": "Calgary, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://convverge.bamboohr.com/careers/31/",
+    "date_posted": "2026-11-21",
+    "date_found": "2026-11-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Amii",
     "role": "Machine Learning Resident",
     "location": "Edmonton, AB, Canada",
@@ -1798,17 +1809,6 @@
     "location": "Kanata, Ottawa, ON, Canada",
     "term": "Unspecified",
     "link": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
-    "date_posted": "2026-10-22",
-    "date_found": "2026-10-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Ciena",
-    "role": "Software Developer Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
     "date_posted": "2026-10-22",
     "date_found": "2026-10-22",
     "status": "open",
@@ -4154,6 +4154,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987",
     "date_posted": "2026-10-27",
     "date_found": "2026-10-27",
+    "status": "closed",
+    "date_closed": "2026-11-21"
+  },
+  {
+    "company": "Ciena",
+    "role": "Software Developer Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+    "date_posted": "2026-10-22",
+    "date_found": "2026-10-22",
     "status": "closed",
     "date_closed": "2026-11-21"
   },
