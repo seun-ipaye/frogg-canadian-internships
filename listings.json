@@ -1771,17 +1771,6 @@
     "date_closed": null
   },
   {
-    "company": "Trimble",
-    "role": "Software Engineer Intern",
-    "location": "Richmond Hill, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Aptiv",
     "role": "HVP Certification Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -4143,6 +4132,17 @@
     "link": "https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--Radar_20260313",
     "date_posted": "2026-11-20",
     "date_found": "2026-11-21",
+    "status": "closed",
+    "date_closed": "2026-11-22"
+  },
+  {
+    "company": "Trimble",
+    "role": "Software Engineer Intern",
+    "location": "Richmond Hill, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-22"
   },
