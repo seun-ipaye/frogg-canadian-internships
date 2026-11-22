@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**376 open** · 411 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**376 open** · 401 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -801,13 +801,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | 🔒 Silicon Validation Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-18 | Summer 2027 |
 | Sun Life | 🔒 Full Stack Developer Intern | Toronto, ON, Canada, Waterford, Ireland | 🔒 Closed | 2026-09-18 | – |
 | Sun Life | 🔒 Software Engineer Co-op | Waterloo, ON, Canada | 🔒 Closed | 2026-09-14 | – |
-| AltaGas | 🔒 Data Analytics & Process Automation Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Bank of Montreal | 🔒 Data & AI Analyst Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-21 | Winter 2027 |
-| Blue Robotics | 🔒 Electronics Design Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-09-11 | Summer 2027 |
-| CAE | 🔒 Software Developer Intern - Immersive | Montreal, QC, Canada | 🔒 Closed | 2026-09-21 | – |
-| Hewlett Packard Enterprise | 🔒 Software Development Intern - AI-Assisted Development | Saint-Laurent, Montreal, QC, Canada | 🔒 Closed | 2026-10-21 | Summer 2027 |
-| Hewlett Packard Enterprise | 🔒 Software Development Intern - AI-Assisted Development | Saint-Laurent, Montreal, QC, Canada | 🔒 Closed | 2026-10-21 | Summer 2027 |
-| Loblaw Companies | 🔒 Analyst Co-op Student - Product Information Management | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Qualcomm | 🔒 Applied AI Engineer Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
-| Qualcomm | 🔒 Camera Design Implementation Intern | Markham, ON, Canada | 🔒 Closed | 2026-10-22 | Summer 2027 |
-| RTX | 🔒 Customer First Centre Intern - Customer First Centre - Technical Helpdesk | Longueuil, QC, Canada | 🔒 Closed | 2026-08-24 | Winter 2027 |
