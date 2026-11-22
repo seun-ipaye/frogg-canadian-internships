@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**376 open** · 401 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**377 open** · 401 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -112,6 +112,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | DataRobot | Software Design Engineer Intern | Boston, MA, Seattle, WA, SF +1 more | [Apply](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) | 2026-11-06 | – |
 | Qualcomm | Digital Design Engineer Intern - Interim Engineering Intern - Systems | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722005254) | 2026-11-06 | Summer 2027 |
 | Qualcomm | RF/Analog Verification Engineer Intern | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722001120) | 2026-11-06 | Summer 2027 |
+| Royal Bank of Canada | Data Analyst Intern - Wealth Management | Toronto, ON, Canada | [Apply](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288) | 2026-11-06 | Winter 2027 |
 | University of Ottawa | Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | [Apply](https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185) | 2026-11-06 | Winter 2027 |
 | Acumatica | Developer Intern | Montreal, QC, Canada | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | 2026-11-05 | – |
 | BiblioCommons | Junior Full-Stack Engineer Intern | Ontario, Canada | [Apply](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) | 2026-11-05 | – |
