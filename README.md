@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**372 open** · 389 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**371 open** · 390 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -140,7 +140,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Textron | Information Technology Intern - Information Technology | Mirabel, QC, Canada | [Apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269) | 2026-11-02 | Winter 2027 |
 | GIRO | Front-End Web Development Intern | Montreal, QC, Canada | [Apply](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317) | 2026-11-01 | Winter 2027 |
 | Spaceium | Electrical Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4475283009) | 2026-11-01 | – |
-| AltaLink | Project Support Co-op | Calgary, AB, Canada | [Apply](https://apply.workable.com/altalink/j/59D87FBB0C/apply) | 2026-10-30 | Fall 2027 |
 | Qualcomm | Camera HW ASIC Verification Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829462) | 2026-10-30 | Summer 2027 |
 | Qualcomm | Camera Systems Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721876037) | 2026-10-30 | Summer 2027 |
 | Qualcomm | High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721874877) | 2026-10-30 | Winter 2027 |
@@ -396,6 +395,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
+| AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |
 | AMA | 🔒 Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
 | Ribbon | 🔒 Software Developer Co-op - Common Cloud Services | Canada | 🔒 Closed | 2026-11-19 | – |
 | University of Ottawa | 🔒 Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |

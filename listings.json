@@ -1276,17 +1276,6 @@
     "date_closed": null
   },
   {
-    "company": "AltaLink",
-    "role": "Project Support Co-op",
-    "location": "Calgary, AB, Canada",
-    "term": "Fall 2027",
-    "link": "https://apply.workable.com/altalink/j/59D87FBB0C/apply",
-    "date_posted": "2026-10-30",
-    "date_found": "2026-10-30",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Camera HW ASIC Verification Intern",
     "location": "Vancouver, BC, Canada",
@@ -4090,6 +4079,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AltaLink",
+    "role": "Project Support Co-op",
+    "location": "Calgary, AB, Canada",
+    "term": "Fall 2027",
+    "link": "https://apply.workable.com/altalink/j/59D87FBB0C/apply",
+    "date_posted": "2026-10-30",
+    "date_found": "2026-10-30",
+    "status": "closed",
+    "date_closed": "2026-11-23"
   },
   {
     "company": "AMA",
