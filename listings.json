@@ -616,17 +616,6 @@
     "date_closed": null
   },
   {
-    "company": "Zurich Insurance",
-    "role": "Data Analytics & AI Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
-    "date_posted": "2026-11-16",
-    "date_found": "2026-11-16",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "IPEX",
     "role": "Manufacturing Excellence Co-op",
     "location": "Oakville, ON, Canada",
@@ -4134,6 +4123,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Zurich Insurance",
+    "role": "Data Analytics & AI Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://www.careers.zurich.com/job/Toronto-Data-Analytics-&-AI-Intern-ON/1377641357/?ats=successfactors",
+    "date_posted": "2026-11-16",
+    "date_found": "2026-11-16",
+    "status": "closed",
+    "date_closed": "2026-11-23"
   },
   {
     "company": "Blackberry",
