@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**375 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**376 open** · 403 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -72,6 +72,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Meta | Visiting Researcher Intern - AI Mentorship Program | Montreal, QC, Canada | [Apply](https://www.metacareers.com/jobs/1110284504699535) | 2026-11-17 | Fall 2027 |
 | NorthStar Earth & Space | Research Intern - AI for Earth Observation | Montreal, QC, Canada | [Apply](https://northstarearthandspace.bamboohr.com/careers/117/) | 2026-11-17 | Winter 2028 |
 | OLG | Forensic Investigations Intern | Sault Ste. Marie, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Student---Forensic-Investigations_R26_00701) | 2026-11-17 | Winter 2027 |
+| QSL | Software Development and Artificial Intelligence Intern | Québec City, QC, Canada | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) | 2026-11-17 | Winter 2027 |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) | 2026-11-17 | Summer 2027 |
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | 2026-11-17 | Winter 2027 |
 | Xradar | Software Engineer Co-op | Burnaby, BC, Canada | [Apply](https://xradar.bamboohr.com/careers/203/) | 2026-11-17 | Winter 2027 |
