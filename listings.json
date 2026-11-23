@@ -352,17 +352,6 @@
     "date_closed": null
   },
   {
-    "company": "Workstream",
-    "role": "Full Stack Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-    "date_posted": "2026-11-19",
-    "date_found": "2026-11-18",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Alberta Investment Management Corporation",
     "role": "Risk Modelling Co-op",
     "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
@@ -964,17 +953,6 @@
     "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
     "date_posted": "2026-11-06",
     "date_found": "2026-11-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "University of Ottawa",
-    "role": "Research Assistant Intern - Data Analysis",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
-    "date_posted": "2026-11-06",
-    "date_found": "2026-11-06",
     "status": "open",
     "date_closed": null
   },
@@ -4123,6 +4101,28 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "University of Ottawa",
+    "role": "Research Assistant Intern - Data Analysis",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-06",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
+    "company": "Workstream",
+    "role": "Full Stack Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-18",
+    "status": "closed",
+    "date_closed": "2026-11-23"
   },
   {
     "company": "Zurich Insurance",
