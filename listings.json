@@ -341,17 +341,6 @@
     "date_closed": null
   },
   {
-    "company": "Ribbon",
-    "role": "Software Developer Co-op - Common Cloud Services",
-    "location": "Canada",
-    "term": "Unspecified",
-    "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
-    "date_posted": "2026-11-19",
-    "date_found": "2026-11-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Alberta Investment Management Corporation",
     "role": "Risk Modelling Co-op",
     "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
@@ -4110,6 +4099,17 @@
     "link": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
+    "company": "Ribbon",
+    "role": "Software Developer Co-op - Common Cloud Services",
+    "location": "Canada",
+    "term": "Unspecified",
+    "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-21",
     "status": "closed",
     "date_closed": "2026-11-23"
   },
