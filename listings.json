@@ -1881,17 +1881,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Services Business Intelligence & Analytics Intern",
-    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
-    "date_posted": "2026-10-19",
-    "date_found": "2026-10-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Citco",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4088,6 +4077,17 @@
     "link": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
+    "company": "Ciena",
+    "role": "Services Business Intelligence & Analytics Intern",
+    "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
+    "date_posted": "2026-10-19",
+    "date_found": "2026-10-19",
     "status": "closed",
     "date_closed": "2026-11-23"
   },

@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**370 open** · 391 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**369 open** · 392 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -195,7 +195,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Hitachi | AI Intern Supply Chain | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | 2026-10-20 | Winter 2027 |
 | Picton Mahoney Asset Management | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://pictonmahoney.bamboohr.com/careers/387/) | 2026-10-20 | – |
 | Steel | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true) | 2026-10-20 | Summer 2027 |
-| Ciena | Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | 2026-10-19 | Winter 2027 |
 | Citco | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964) | 2026-10-19 | – |
 | FanDuel | Product Co-op | Toronto, ON, Canada | [Apply](https://boards.greenhouse.io/embed/job_app?token=8285180) | 2026-10-19 | Winter 2027 |
 | NVIDIA | ASIC Verification Intern | Toronto, ON, Canada | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982) | 2026-10-19 | Summer 2027 |
@@ -396,6 +395,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |
 | AMA | 🔒 Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
+| Ciena | 🔒 Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Ribbon | 🔒 Software Developer Co-op - Common Cloud Services | Canada | 🔒 Closed | 2026-11-19 | – |
 | Tecsys | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | University of Ottawa | 🔒 Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
