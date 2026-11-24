@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**369 open** · 392 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**370 open** · 392 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| Brave | Software Development Intern - Web3 Core | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 | – |
 | Convverge | Junior Developer Co-op | Calgary, AB, Canada | [Apply](https://convverge.bamboohr.com/careers/31/) | 2026-11-21 | – |
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/254/) | 2026-11-20 | – |
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | [Apply](https://avnan.bamboohr.com/careers/125/) | 2026-11-20 | Winter 2027 |
