@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**370 open** · 392 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**368 open** · 394 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -39,7 +39,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Mawer Investment Management | AI Engineer Student Intern | Calgary, AB, Canada | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) | 2026-11-20 | Winter 2027 |
 | Mawer Investment Management | AI Orchestrator Student Intern | Calgary, AB, Canada | [Apply](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0) | 2026-11-20 | Winter 2027 |
 | MDA Space | Engineering Intern - Test Procedure Engineering | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=23ba7a5c-469f-40f6-b33c-6e7bcbcf5355) | 2026-11-20 | Winter 2027 |
-| MDA Space | Engineering Intern - Test Procedures Engineering | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=5316ccee-7798-45ab-ab44-613a112b3126) | 2026-11-20 | Winter 2027 |
 | MDA Space | Engineering Student Co-op - AI/ML Specialist | Richmond, BC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=b5aef546-676b-4f7a-8c20-acfa8f25069f) | 2026-11-20 | Winter 2027 |
 | MDA Space | Engineering Student Intern - Digital Electronics Test Station Design | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=080ac9a6-c9f4-4d51-bcf6-b4085e35e941) | 2026-11-20 | Winter 2027 |
 | MDA Space | Engineering Student Intern - FPGA | Sainte-Anne-de-Bellevue, QC, Canada | [Apply](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=216d347b-2abb-43e8-8fbc-268adecf0aa3) | 2026-11-20 | Winter 2027 |
@@ -326,7 +325,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Dynamics UK | Software Engineering Co-op - 4 - 8 months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 months - 8 months | Cole Harbour, NS, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | 2026-09-04 | Winter 2027 |
 | Huawei | Researcher Intern - Multimodal AI & Interaction | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction) | 2026-09-04 | – |
-| Nokia | Optical Test Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113) | 2026-09-04 | Winter 2027 |
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) | 2026-09-03 | Summer 2027 |
 | Canadian Tire | Business Operations Analyst Student - Winter 2027 | Welland, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928) | 2026-09-03 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
@@ -397,6 +395,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |
 | AMA | 🔒 Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
 | Ciena | 🔒 Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
+| MDA Space | 🔒 Engineering Intern - Test Procedures Engineering | Sainte-Anne-de-Bellevue, QC, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
+| Nokia | 🔒 Optical Test Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
 | Ribbon | 🔒 Software Developer Co-op - Common Cloud Services | Canada | 🔒 Closed | 2026-11-19 | – |
 | Tecsys | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | University of Ottawa | 🔒 Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |

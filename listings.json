@@ -166,17 +166,6 @@
   },
   {
     "company": "MDA Space",
-    "role": "Engineering Intern - Test Procedures Engineering",
-    "location": "Sainte-Anne-de-Bellevue, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=5316ccee-7798-45ab-ab44-613a112b3126",
-    "date_posted": "2026-11-20",
-    "date_found": "2026-11-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "MDA Space",
     "role": "Engineering Student Co-op - AI/ML Specialist",
     "location": "Richmond, BC, Canada",
     "term": "Winter 2027",
@@ -3322,17 +3311,6 @@
     "date_closed": null
   },
   {
-    "company": "Nokia",
-    "role": "Optical Test Co-op Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113",
-    "date_posted": "2026-09-04",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Atlassian",
     "role": "Software Engineer Intern",
     "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
@@ -4099,6 +4077,28 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
+    "company": "MDA Space",
+    "role": "Engineering Intern - Test Procedures Engineering",
+    "location": "Sainte-Anne-de-Bellevue, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=5316ccee-7798-45ab-ab44-613a112b3126",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
+    "company": "Nokia",
+    "role": "Optical Test Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40113",
+    "date_posted": "2026-09-04",
+    "date_found": "2026-10-27",
     "status": "closed",
     "date_closed": "2026-11-23"
   },
