@@ -1133,17 +1133,6 @@
     "date_closed": null
   },
   {
-    "company": "Global Relay",
-    "role": "Java Developer Co-op",
-    "location": "Halifax Regional Municipality, NS, Canada",
-    "term": "Winter 2027",
-    "link": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Huawei",
     "role": "Researcher Computer Vision Intern",
     "location": "Markham, ON, Canada",
@@ -4077,6 +4066,17 @@
     "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
     "date_posted": "2026-10-19",
     "date_found": "2026-10-19",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
+    "company": "Global Relay",
+    "role": "Java Developer Co-op",
+    "location": "Halifax Regional Municipality, NS, Canada",
+    "term": "Winter 2027",
+    "link": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
     "status": "closed",
     "date_closed": "2026-11-23"
   },
