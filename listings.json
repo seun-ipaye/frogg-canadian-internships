@@ -836,17 +836,6 @@
     "date_closed": null
   },
   {
-    "company": "Altera",
-    "role": "Software Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
-    "date_posted": "2026-11-09",
-    "date_found": "2026-11-09",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "NVIDIA",
     "role": "Product Management Space Compute MBA Intern",
     "location": "Canada; Santa Clara, CA; United States",
@@ -3991,6 +3980,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414",
+    "date_posted": "2026-11-09",
+    "date_found": "2026-11-09",
+    "status": "closed",
+    "date_closed": "2026-11-24"
   },
   {
     "company": "AMA",
