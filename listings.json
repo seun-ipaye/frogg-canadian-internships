@@ -638,17 +638,6 @@
     "date_closed": null
   },
   {
-    "company": "Helcim",
-    "role": "Data Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Unspecified",
-    "link": "https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "W.W. Grainger",
     "role": "Customer Experience Intern",
     "location": "Thornhill, Vaughan, ON, Canada",
@@ -3989,6 +3978,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Helcim",
+    "role": "Data Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://helcim.careers.hibob.com/jobs/aa77ff61-8d21-4cef-a633-9960bde8ca3a",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
