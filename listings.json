@@ -1540,17 +1540,6 @@
     "date_closed": null
   },
   {
-    "company": "AMA",
-    "role": "Architecture Research Intern - Optimization & Decision Modelling",
-    "location": "Edmonton, AB, Canada",
-    "term": "Unspecified",
-    "link": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Amazon",
     "role": "Applied Science Intern - PhD Student Science",
     "location": "Toronto, ON, Canada; Burnaby, BC, Canada; Pitt Meadows, BC, Canada; Vancouver, BC, Canada",
@@ -4024,6 +4013,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "AMA",
+    "role": "Architecture Research Intern - Optimization & Decision Modelling",
+    "location": "Edmonton, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-24"
   },
   {
     "company": "AltaLink",
