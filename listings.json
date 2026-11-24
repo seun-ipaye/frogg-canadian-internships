@@ -2486,17 +2486,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "AI/ML Researcher Intern",
-    "location": "Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-10-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Marvell",
     "role": "Firmware Engineer Intern",
     "location": "Ottawa, ON, Canada",
@@ -4000,6 +3989,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Kinaxis",
+    "role": "AI/ML Researcher Intern",
+    "location": "Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-10-02",
+    "date_found": "2026-10-05",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
