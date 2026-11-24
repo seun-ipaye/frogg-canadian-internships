@@ -1,5 +1,16 @@
 [
   {
+    "company": "KPMG",
+    "role": "Junior Risk Analyst Intern",
+    "location": "Toronto, ON, Canada; Victoria, BC, Canada; Saskatoon, SK, Canada; Calgary, AB, Canada; Vaughan, ON, Canada; Hamilton, ON, Canada; Edmonton, AB, Canada; St. John's, NL, Canada; Regina, SK, Canada; London, ON, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada; Prince George, BC, Canada; Fredericton, NB, Canada",
+    "term": "Unspecified",
+    "link": "https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us",
+    "date_posted": "2026-11-24",
+    "date_found": "2026-11-24",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Brave",
     "role": "Software Development Intern - Web3 Core",
     "location": "Remote in Canada",
@@ -337,17 +348,6 @@
     "link": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101",
     "date_posted": "2026-11-19",
     "date_found": "2026-11-19",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Workstream",
-    "role": "Full Stack Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-    "date_posted": "2026-11-19",
-    "date_found": "2026-11-18",
     "status": "open",
     "date_closed": null
   },
@@ -4022,6 +4022,17 @@
     "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1",
     "date_posted": "2026-10-29",
     "date_found": "2026-11-06",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Workstream",
+    "role": "Full Stack Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-18",
     "status": "closed",
     "date_closed": "2026-11-24"
   },

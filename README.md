@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**357 open** · 401 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**357 open** · 402 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,6 +24,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada +11 more | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | 2026-11-24 | – |
 | Brave | Software Development Intern - Web3 Core | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 | – |
 | Convverge | Junior Developer Co-op | Calgary, AB, Canada | [Apply](https://convverge.bamboohr.com/careers/31/) | 2026-11-21 | – |
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/254/) | 2026-11-20 | – |
@@ -55,7 +56,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | 2026-11-19 | Summer 2027 |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada, Paris, France, Nantes, France +2 more | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) | 2026-11-19 | – |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101) | 2026-11-19 | – |
-| Workstream | Full Stack Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | 2026-11-19 | – |
 | Alberta Investment Management Corporation | Risk Modelling Co-op | Calgary, AB, Canada, Edmonton, AB, Canada | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Co-op--Risk-Modelling--Winter-2027-_JR100957) | 2026-11-18 | Winter 2027 |
 | Huawei | Researcher Intern - Recursive Self-Improvement | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) | 2026-11-18 | – |
 | Microsoft | Research Intern - Model Foundations for Knowledge & Reasoning | Canada, Vancouver, BC, Canada | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557075474) | 2026-11-18 | – |
@@ -390,6 +390,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kinaxis | 🔒 AI/ML Researcher Intern | Remote in Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Data Analyst Intern - Wealth Management | Toronto, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
 | Ryan | 🔒 Software Engineer Intern | North York, ON, Canada | 🔒 Closed | 2026-10-29 | Summer 2027 |
+| Workstream | 🔒 Full Stack Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-11-19 | – |
 | AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |
 | AMA | 🔒 Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
 | Astera Labs | 🔒 Firmware Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-06-02 | – |
