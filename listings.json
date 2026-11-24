@@ -935,17 +935,6 @@
     "date_closed": null
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Data Analyst Intern - Wealth Management",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
-    "date_posted": "2026-11-06",
-    "date_found": "2026-11-22",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Acumatica",
     "role": "Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -4011,6 +4000,17 @@
     "link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226",
     "date_posted": "2026-10-09",
     "date_found": "2026-10-09",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Royal Bank of Canada",
+    "role": "Data Analyst Intern - Wealth Management",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+    "date_posted": "2026-11-06",
+    "date_found": "2026-11-22",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
