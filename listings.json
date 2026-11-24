@@ -1390,17 +1390,6 @@
     "role": "Software Engineer Intern",
     "location": "North York, ON, Canada",
     "term": "Summer 2027",
-    "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-11-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Ryan",
-    "role": "Software Engineer Intern",
-    "location": "North York, ON, Canada",
-    "term": "Summer 2027",
     "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1",
     "date_posted": "2026-10-29",
     "date_found": "2026-11-06",
@@ -4022,6 +4011,17 @@
     "link": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Ryan",
+    "role": "Software Engineer Intern",
+    "location": "North York, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-11-06",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
