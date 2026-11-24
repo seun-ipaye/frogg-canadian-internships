@@ -363,17 +363,6 @@
     "date_closed": null
   },
   {
-    "company": "Canadian Strategic Missions",
-    "role": "Engineering Intern - Labs",
-    "location": "Waterloo, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://csmc.bamboohr.com/careers/51/",
-    "date_posted": "2026-11-18",
-    "date_found": "2026-11-18",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Huawei",
     "role": "Researcher Intern - Recursive Self-Improvement",
     "location": "Montreal, QC, Canada",
@@ -3978,6 +3967,17 @@
     "link": "https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Optimization---Decision-Modelling---12-months_JR102920-1",
     "date_posted": "2026-10-23",
     "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Canadian Strategic Missions",
+    "role": "Engineering Intern - Labs",
+    "location": "Waterloo, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://csmc.bamboohr.com/careers/51/",
+    "date_posted": "2026-11-18",
+    "date_found": "2026-11-18",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
