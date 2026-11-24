@@ -341,6 +341,17 @@
     "date_closed": null
   },
   {
+    "company": "Workstream",
+    "role": "Full Stack Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-18",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Alberta Investment Management Corporation",
     "role": "Risk Modelling Co-op",
     "location": "Calgary, AB, Canada; Edmonton, AB, Canada",
@@ -3817,17 +3828,6 @@
     "date_closed": null
   },
   {
-    "company": "Astera Labs",
-    "role": "Firmware Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
-    "date_posted": "2026-06-02",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Magna",
     "role": "Junior Full Stack Developer Co-op",
     "location": "Oakville, ON, Canada",
@@ -4048,6 +4048,17 @@
     "date_closed": "2026-11-23"
   },
   {
+    "company": "Astera Labs",
+    "role": "Firmware Engineer Intern",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005",
+    "date_posted": "2026-06-02",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-23"
+  },
+  {
     "company": "Ciena",
     "role": "Services Business Intelligence & Analytics Intern",
     "location": "Montreal, QC, Canada; Ottawa, ON, Canada",
@@ -4132,17 +4143,6 @@
     "link": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter2027---Data-Analysis_JR41185",
     "date_posted": "2026-11-06",
     "date_found": "2026-11-06",
-    "status": "closed",
-    "date_closed": "2026-11-23"
-  },
-  {
-    "company": "Workstream",
-    "role": "Full Stack Engineer Intern",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
-    "date_posted": "2026-11-19",
-    "date_found": "2026-11-18",
     "status": "closed",
     "date_closed": "2026-11-23"
   },

@@ -55,6 +55,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Georgian Partners Growth | Physical AI and Robotics Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | 2026-11-19 | Summer 2027 |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada, Paris, France, Nantes, France +2 more | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) | 2026-11-19 | – |
 | Horizon Trading Solutions | Java Developer Intern | Montreal, QC, Canada | [Apply](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101) | 2026-11-19 | – |
+| Workstream | Full Stack Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/workstream/jobs/6265872004) | 2026-11-19 | – |
 | Alberta Investment Management Corporation | Risk Modelling Co-op | Calgary, AB, Canada, Edmonton, AB, Canada | [Apply](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Co-op--Risk-Modelling--Winter-2027-_JR100957) | 2026-11-18 | Winter 2027 |
 | Canadian Strategic Missions | Engineering Intern - Labs | Waterloo, ON, Canada | [Apply](https://csmc.bamboohr.com/careers/51/) | 2026-11-18 | – |
 | Huawei | Researcher Intern - Recursive Self-Improvement | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-recursive-self-improvement-rsi) | 2026-11-18 | – |
@@ -371,7 +372,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) | 2026-06-09 | – |
 | Huawei | Engineer Intern - RL Post-Training for LLMs | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-engineer-rl-post-training-for-llms) | 2026-06-08 | – |
 | Huawei | Intern Engineer - Game Engine System | Edmonton, AB, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system) | 2026-06-03 | – |
-| Astera Labs | Firmware Engineer Intern | Vancouver, BC, Canada | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005) | 2026-06-02 | – |
 | Magna | Junior Full Stack Developer Co-op | Oakville, ON, Canada | [Apply](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | 2026-05-30 | – |
 | Spaceium | Electrical Engineer Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4258525009) | 2026-05-25 | – |
 | Nuclear Promise X | Software Developer Intern - Digital Transformation | Canada | [Apply](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/application) | 2026-05-19 | Fall 2026 |
@@ -392,6 +392,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |
 | AMA | 🔒 Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
+| Astera Labs | 🔒 Firmware Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-06-02 | – |
 | Ciena | 🔒 Services Business Intelligence & Analytics Intern | Montreal, QC, Canada, Ottawa, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
 | Global Relay | 🔒 Java Developer Co-op | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |
 | MDA Space | 🔒 Engineering Intern - Test Procedures Engineering | Sainte-Anne-de-Bellevue, QC, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
@@ -400,7 +401,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ribbon | 🔒 Software Developer Co-op - Common Cloud Services | Canada | 🔒 Closed | 2026-11-19 | – |
 | Tecsys | 🔒 Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-02 | – |
 | University of Ottawa | 🔒 Research Assistant Intern - Data Analysis | Ottawa, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
-| Workstream | 🔒 Full Stack Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-11-19 | – |
 | Zurich Insurance | 🔒 Data Analytics & AI Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-16 | – |
 | Blackberry | 🔒 Hardware Engineering Student Intern - Radar | Waterloo, ON, Canada | 🔒 Closed | 2026-11-20 | – |
 | Trimble | 🔒 Software Engineer Intern | Richmond Hill, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
