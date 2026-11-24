@@ -2959,17 +2959,6 @@
     "date_closed": null
   },
   {
-    "company": "Altera",
-    "role": "Quartus Compiler Software Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
-    "date_posted": "2026-09-15",
-    "date_found": "2026-10-05",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "DoorDash",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -3958,6 +3947,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Quartus Compiler Software Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108",
+    "date_posted": "2026-09-15",
+    "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-24"
   },
   {
     "company": "Altera",
