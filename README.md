@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**356 open** · 404 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**357 open** · 405 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -25,6 +25,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | 2026-11-24 | Winter 2027 |
+| Kinaxis | Data Foundations Intern - Data & Analytics | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | 2026-11-24 | Winter 2027 |
 | KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada +11 more | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | 2026-11-24 | – |
 | Brave | Software Development Intern - Web3 Core | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 | – |
 | Convverge | Junior Developer Co-op | Calgary, AB, Canada | [Apply](https://convverge.bamboohr.com/careers/31/) | 2026-11-21 | – |
@@ -121,7 +122,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445) | 2026-11-03 | – |
 | Arlo Technologies | Hardware Engineer Co-op | Richmond, BC, Canada | [Apply](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446) | 2026-11-03 | – |
 | Botpress Technologies | Software Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/botpress/j/9B3CB646E8/apply) | 2026-11-03 | Winter 2027 |
-| Botpress Technologies | Software Development Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/botpress/j/16C68A50A7/apply) | 2026-11-03 | Winter 2027 |
 | Ciena | Hardware Engineering Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054) | 2026-11-03 | Winter 2027 |
 | Ciena | Software Developer Co-op Intern | Remote in Canada, Québec City, QC, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | 2026-11-03 | Winter 2027 |
 | Huawei | Researcher Computer Vision Intern | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-computer-vision-3) | 2026-11-03 | – |
@@ -314,6 +314,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | General Dynamics UK | Software Engineering Co-op - 4 - 8 months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147511629) | 2026-09-04 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 4 months - 8 months | Cole Harbour, NS, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | 2026-09-04 | Winter 2027 |
 | Huawei | Researcher Intern - Multimodal AI & Interaction | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction) | 2026-09-04 | – |
+| Super | Data Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true) | 2026-09-04 | Winter 2027 |
 | Atlassian | Software Engineer Intern | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | [Apply](https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job) | 2026-09-03 | Summer 2027 |
 | Canadian Tire | Business Operations Analyst Student - Winter 2027 | Welland, ON, Canada | [Apply](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928) | 2026-09-03 | Winter 2027 |
 | General Dynamics UK | Software Engineering Co-op - 8 Months | Ottawa, ON, Canada | [Apply](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | 2026-09-01 | – |
@@ -383,6 +384,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Altera | 🔒 Quartus Compiler Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-09 | – |
 | AMA | 🔒 Architecture Research Intern - Optimization & Decision Modelling | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
+| Botpress Technologies | 🔒 Software Development Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-03 | Winter 2027 |
 | Canadian Strategic Missions | 🔒 Engineering Intern - Labs | Waterloo, ON, Canada | 🔒 Closed | 2026-11-18 | – |
 | Electronic Arts | 🔒 C++ Software Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-09 | Winter 2027 |
 | Helcim | 🔒 Data Intern | Calgary, AB, Canada | 🔒 Closed | 2026-11-13 | – |
