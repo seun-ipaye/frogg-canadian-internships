@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**354 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**354 open** · 404 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -782,7 +782,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ribbon | 🔒 UI Engineer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-06-30 | – |
 | Royal Bank of Canada | 🔒 AI & Stress Testing Analytics Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Winter 2027 |
 | TD Bank | 🔒 Life & Health Product Management Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-23 | Winter 2027 |
-| Interac | 🔒 Business Systems & AI Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
-| Interac | 🔒 Payments Product Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
-| Interac | 🔒 Product Intern - Money Movement | Toronto, ON, Canada | 🔒 Closed | 2026-10-15 | Winter 2027 |
-| Interac | 🔒 Technical Analyst Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-14 | Winter 2027 |
