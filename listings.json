@@ -473,17 +473,6 @@
     "date_closed": null
   },
   {
-    "company": "City of Campbell River",
-    "role": "Co-op Student - OMS Project - Capital Projects",
-    "location": "Campbell River, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
-    "date_posted": "2026-11-17",
-    "date_found": "2026-11-17",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Critical Environment Technologies",
     "role": "Computer Science Co-op",
     "location": "Delta, BC, Canada",
@@ -1061,17 +1050,6 @@
     "location": "Richmond, BC, Canada",
     "term": "Unspecified",
     "link": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100446",
-    "date_posted": "2026-11-03",
-    "date_found": "2026-11-03",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Botpress Technologies",
-    "role": "Software Developer Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/botpress/j/9B3CB646E8/apply",
     "date_posted": "2026-11-03",
     "date_found": "2026-11-03",
     "status": "open",
@@ -3961,6 +3939,17 @@
   },
   {
     "company": "Botpress Technologies",
+    "role": "Software Developer Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/botpress/j/9B3CB646E8/apply",
+    "date_posted": "2026-11-03",
+    "date_found": "2026-11-03",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Botpress Technologies",
     "role": "Software Development Intern",
     "location": "Montreal, QC, Canada",
     "term": "Winter 2027",
@@ -3978,6 +3967,17 @@
     "link": "https://csmc.bamboohr.com/careers/51/",
     "date_posted": "2026-11-18",
     "date_found": "2026-11-18",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "City of Campbell River",
+    "role": "Co-op Student - OMS Project - Capital Projects",
+    "location": "Campbell River, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
