@@ -550,17 +550,6 @@
     "date_closed": null
   },
   {
-    "company": "Xradar",
-    "role": "Software Engineer Co-op",
-    "location": "Burnaby, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://xradar.bamboohr.com/careers/203/",
-    "date_posted": "2026-11-17",
-    "date_found": "2026-11-17",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Lumentum",
     "role": "AI Engineer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -2431,17 +2420,6 @@
     "date_closed": null
   },
   {
-    "company": "The Semios Group",
-    "role": "Software Developer Co-op",
-    "location": "Vancouver, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Hitachi Energy",
     "role": "Electrical Component Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4037,6 +4015,17 @@
     "date_closed": "2026-11-24"
   },
   {
+    "company": "The Semios Group",
+    "role": "Software Developer Co-op",
+    "location": "Vancouver, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
     "company": "Workstream",
     "role": "Full Stack Engineer Intern",
     "location": "Vancouver, BC, Canada",
@@ -4044,6 +4033,17 @@
     "link": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
     "date_posted": "2026-11-19",
     "date_found": "2026-11-18",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Xradar",
+    "role": "Software Engineer Co-op",
+    "location": "Burnaby, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://xradar.bamboohr.com/careers/203/",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
     "status": "closed",
     "date_closed": "2026-11-24"
   },

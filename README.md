@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**358 open** · 402 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**356 open** · 404 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -74,7 +74,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | QSL | Software Development and Artificial Intelligence Intern | Québec City, QC, Canada | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) | 2026-11-17 | Winter 2027 |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) | 2026-11-17 | Summer 2027 |
 | Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | 2026-11-17 | Winter 2027 |
-| Xradar | Software Engineer Co-op | Burnaby, BC, Canada | [Apply](https://xradar.bamboohr.com/careers/203/) | 2026-11-17 | Winter 2027 |
 | Lumentum | AI Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778) | 2026-11-16 | Winter 2027 |
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | 2026-11-16 | Summer 2027 |
 | Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC +1 more | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | 2026-11-16 | Summer 2027 |
@@ -245,7 +244,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
 | MistyWest | Engineering Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | 2026-10-06 | Winter 2027 |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | 2026-10-06 | – |
-| The Semios Group | Software Developer Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/semios/j/4B5D1FB613/apply) | 2026-10-06 | Winter 2027 |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | 2026-10-05 | Summer 2027 |
 | Lumentum | Embedded Software Developer Co-op - Optical Circuit Switch | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320) | 2026-10-05 | Winter 2027 |
 | TobogganLabs | Data Science Intern | Québec City, QC, Canada | [Apply](https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003) | 2026-10-04 | – |
@@ -391,7 +389,9 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Kinaxis | 🔒 AI/ML Researcher Intern | Remote in Canada | 🔒 Closed | 2026-10-02 | Winter 2027 |
 | Royal Bank of Canada | 🔒 Data Analyst Intern - Wealth Management | Toronto, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
 | Ryan | 🔒 Software Engineer Intern | North York, ON, Canada | 🔒 Closed | 2026-10-29 | Summer 2027 |
+| The Semios Group | 🔒 Software Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
 | Workstream | 🔒 Full Stack Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-11-19 | – |
+| Xradar | 🔒 Software Engineer Co-op | Burnaby, BC, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
 | AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |
 | AMA | 🔒 Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |
 | Astera Labs | 🔒 Firmware Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-06-02 | – |
