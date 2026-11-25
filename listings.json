@@ -627,17 +627,6 @@
     "date_closed": null
   },
   {
-    "company": "Fonds de solidarité FTQ",
-    "role": "Business Intelligence and M365 Solutions Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874",
-    "date_posted": "2026-11-13",
-    "date_found": "2026-11-13",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "W.W. Grainger",
     "role": "Customer Experience Intern",
     "location": "Thornhill, Vaughan, ON, Canada",
@@ -3870,6 +3859,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Fonds de solidarité FTQ",
+    "role": "Business Intelligence and M365 Solutions Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://fondsftq.wd10.myworkdayjobs.com/sitecarriere_externe/job/Fonds-de-solidarit-FTQ--Sige-social---Montral-Canada/Stagiaire-en-intelligence-d-affaires-et-solutions-M365_DP5874",
+    "date_posted": "2026-11-13",
+    "date_found": "2026-11-13",
+    "status": "closed",
+    "date_closed": "2026-11-25"
   },
   {
     "company": "Moment Energy",
