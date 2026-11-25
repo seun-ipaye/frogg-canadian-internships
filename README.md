@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**355 open** · 407 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**354 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -147,7 +147,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Ryan | Software Engineer Intern | North York, ON, Canada | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1) | 2026-10-29 | Summer 2027 |
 | SOTI | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) | 2026-10-29 | Summer 2027 |
 | TMX Group | Analyst – Market Insights Intern | Toronto, ON, Canada | [Apply](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Student-Intern---Analyst--Market-Insights--WinterTerm-_R-6586) | 2026-10-29 | Winter 2027 |
-| Waterworth | Computer Science Co-op | Victoria, BC, Canada | [Apply](https://apply.workable.com/waterworth/j/D450C48C96/apply) | 2026-10-29 | Winter 2027 |
 | Qualcomm | Camera Design Engineering Intern | Vancouver, BC, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721829439) | 2026-10-28 | Summer 2027 |
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) | 2026-10-28 | Summer 2027 |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) | 2026-10-27 | Winter 2027 |
@@ -392,6 +391,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 Data Analyst Intern - Wealth Management | Toronto, ON, Canada | 🔒 Closed | 2026-11-06 | Winter 2027 |
 | Ryan | 🔒 Software Engineer Intern | North York, ON, Canada | 🔒 Closed | 2026-10-29 | Summer 2027 |
 | The Semios Group | 🔒 Software Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
+| Waterworth | 🔒 Computer Science Co-op | Victoria, BC, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Workstream | 🔒 Full Stack Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-11-19 | – |
 | Xradar | 🔒 Software Engineer Co-op | Burnaby, BC, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
 | AltaLink | 🔒 Project Support Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-10-30 | Fall 2027 |

@@ -1353,17 +1353,6 @@
     "date_closed": null
   },
   {
-    "company": "Waterworth",
-    "role": "Computer Science Co-op",
-    "location": "Victoria, BC, Canada",
-    "term": "Winter 2027",
-    "link": "https://apply.workable.com/waterworth/j/D450C48C96/apply",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Qualcomm",
     "role": "Camera Design Engineering Intern",
     "location": "Vancouver, BC, Canada",
@@ -4044,6 +4033,17 @@
     "link": "https://apply.workable.com/semios/j/4B5D1FB613/apply",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
+    "status": "closed",
+    "date_closed": "2026-11-24"
+  },
+  {
+    "company": "Waterworth",
+    "role": "Computer Science Co-op",
+    "location": "Victoria, BC, Canada",
+    "term": "Winter 2027",
+    "link": "https://apply.workable.com/waterworth/j/D450C48C96/apply",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
     "status": "closed",
     "date_closed": "2026-11-24"
   },
