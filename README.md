@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**353 open** · 406 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**351 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -26,7 +26,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | --- | --- | --- | --- | --- | --- |
 | Tecsys | Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/tecsys/j/B6D2B7128A/apply) | 2026-11-25 | – |
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | 2026-11-24 | Winter 2027 |
-| Kinaxis | Data Foundations Intern - Data & Analytics | Ottawa, ON, Canada, Remote in Canada | [Apply](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | 2026-11-24 | Winter 2027 |
 | KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada +11 more | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | 2026-11-24 | – |
 | Brave | Software Development Intern - Web3 Core | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 | – |
 | Convverge | Junior Developer Co-op | Calgary, AB, Canada | [Apply](https://convverge.bamboohr.com/careers/31/) | 2026-11-21 | – |
@@ -74,7 +73,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | OLG | Forensic Investigations Intern | Sault Ste. Marie, ON, Canada | [Apply](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Student---Forensic-Investigations_R26_00701) | 2026-11-17 | Winter 2027 |
 | QSL | Software Development and Artificial Intelligence Intern | Québec City, QC, Canada | [Apply](https://jobs.smartrecruiters.com/QSL/744000162086264) | 2026-11-17 | Winter 2027 |
 | Qualcomm | AI/Machine Learning Intern - Interim Engineering Intern - SW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722176432) | 2026-11-17 | Summer 2027 |
-| Ross Video | Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | [Apply](https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false) | 2026-11-17 | Winter 2027 |
 | Lumentum | AI Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778) | 2026-11-16 | Winter 2027 |
 | Shopify | Applied Machine Learning Engineer Intern | Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) | 2026-11-16 | Summer 2027 |
 | Shopify | Data Intern | Montreal, QC, Canada, Toronto, ON, Canada, NYC +1 more | [Apply](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) | 2026-11-16 | Summer 2027 |
@@ -378,8 +376,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | Fonds de solidarité FTQ | 🔒 Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-13 | – |
+| Kinaxis | 🔒 Data Foundations Intern - Data & Analytics | Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-11-24 | Winter 2027 |
 | Moment Energy | 🔒 Data Scientist Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-09-26 | Winter 2027 |
 | Qualcomm | 🔒 Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | 🔒 Closed | 2026-10-21 | Summer 2027 |
+| Ross Video | 🔒 Research Assistant Co-op - AI Focus | Nepean, Ottawa, ON, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
 | Altera | 🔒 Quartus Compiler Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | – |
 | Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-09 | – |
 | AMA | 🔒 Architecture Research Intern - Optimization & Decision Modelling | Edmonton, AB, Canada | 🔒 Closed | 2026-10-23 | – |

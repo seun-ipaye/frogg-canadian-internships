@@ -22,17 +22,6 @@
     "date_closed": null
   },
   {
-    "company": "Kinaxis",
-    "role": "Data Foundations Intern - Data & Analytics",
-    "location": "Ottawa, ON, Canada; Remote in Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
-    "date_posted": "2026-11-24",
-    "date_found": "2026-11-24",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "KPMG",
     "role": "Junior Risk Analyst Intern",
     "location": "Toronto, ON, Canada; Victoria, BC, Canada; Saskatoon, SK, Canada; Calgary, AB, Canada; Vaughan, ON, Canada; Hamilton, ON, Canada; Edmonton, AB, Canada; St. John's, NL, Canada; Regina, SK, Canada; London, ON, Canada; Ottawa, ON, Canada; Vancouver, BC, Canada; Prince George, BC, Canada; Fredericton, NB, Canada",
@@ -544,17 +533,6 @@
     "location": "Markham, ON, Canada",
     "term": "Summer 2027",
     "link": "https://qualcomm.eightfold.ai/careers/job/446722176432",
-    "date_posted": "2026-11-17",
-    "date_found": "2026-11-17",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Ross Video",
-    "role": "Research Assistant Co-op - AI Focus",
-    "location": "Nepean, Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
     "date_posted": "2026-11-17",
     "date_found": "2026-11-17",
     "status": "open",
@@ -3894,6 +3872,17 @@
     "date_closed": "2026-11-25"
   },
   {
+    "company": "Kinaxis",
+    "role": "Data Foundations Intern - Data & Analytics",
+    "location": "Ottawa, ON, Canada; Remote in Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
+    "date_posted": "2026-11-24",
+    "date_found": "2026-11-24",
+    "status": "closed",
+    "date_closed": "2026-11-25"
+  },
+  {
     "company": "Moment Energy",
     "role": "Data Scientist Co-op",
     "location": "Surrey, BC, Canada",
@@ -3912,6 +3901,17 @@
     "link": "https://qualcomm.eightfold.ai/careers/job/446721661830",
     "date_posted": "2026-10-21",
     "date_found": "2026-10-21",
+    "status": "closed",
+    "date_closed": "2026-11-25"
+  },
+  {
+    "company": "Ross Video",
+    "role": "Research Assistant Co-op - AI Focus",
+    "location": "Nepean, Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
     "status": "closed",
     "date_closed": "2026-11-25"
   },
