@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**351 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**352 open** · 407 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -64,6 +64,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | GPU Compiler Development Intern - Interim Engineering Intern - HW | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446722198182) | 2026-11-18 | Summer 2027 |
 | Roblox | Software Engineer Intern - Engine | Vancouver, BC, Canada | [Apply](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) | 2026-11-18 | Summer 2027 |
 | SSI | Software Developer Co-op | Victoria, BC, Canada | [Apply](https://ssicorporate.bamboohr.com/careers/101/) | 2026-11-18 | – |
+| Angel Host | AI Product Engineer Intern Co-op | Montreal, QC, Canada | [Apply](https://angelhost.bamboohr.com/careers/123/) | 2026-11-17 | Winter 2027 |
 | Birdseye Security Solutions | AI Systems Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/287/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Computer Vision Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/289/) | 2026-11-17 | – |
 | Birdseye Security Solutions | Software Developer Intern | Mississauga, ON, Canada | [Apply](https://birdseyeaccount.bamboohr.com/careers/286/) | 2026-11-17 | – |
@@ -409,7 +410,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Zurich Insurance | 🔒 Data Analytics & AI Intern | Toronto, ON, Canada | 🔒 Closed | 2026-11-16 | – |
 | Blackberry | 🔒 Hardware Engineering Student Intern - Radar | Waterloo, ON, Canada | 🔒 Closed | 2026-11-20 | – |
 | Trimble | 🔒 Software Engineer Intern | Richmond Hill, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
-| Angel Host | 🔒 AI Product Engineer Intern Co-op | Montreal, QC, Canada | 🔒 Closed | 2026-11-17 | Winter 2027 |
 | AON3D | 🔒 Software Developer Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
 | Ciena | 🔒 Electronic Reliability Engineer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-27 | Winter 2027 |
 | Ciena | 🔒 Software Developer Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |

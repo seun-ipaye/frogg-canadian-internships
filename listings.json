@@ -440,6 +440,17 @@
     "date_closed": null
   },
   {
+    "company": "Angel Host",
+    "role": "AI Product Engineer Intern Co-op",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://angelhost.bamboohr.com/careers/123/",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Birdseye Security Solutions",
     "role": "AI Systems Intern",
     "location": "Mississauga, ON, Canada",
@@ -4233,17 +4244,6 @@
     "date_found": "2026-10-23",
     "status": "closed",
     "date_closed": "2026-11-22"
-  },
-  {
-    "company": "Angel Host",
-    "role": "AI Product Engineer Intern Co-op",
-    "location": "Montreal, QC, Canada",
-    "term": "Winter 2027",
-    "link": "https://angelhost.bamboohr.com/careers/123/",
-    "date_posted": "2026-11-17",
-    "date_found": "2026-11-17",
-    "status": "closed",
-    "date_closed": "2026-11-21"
   },
   {
     "company": "AON3D",
