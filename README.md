@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**351 open** · 408 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**351 open** · 388 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -763,23 +763,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 Developer Intern | Bedford, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | RTX | 🔒 Performance Indicator Development and Process and Project Management Internship | Longueuil, QC, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
 | TD Bank | 🔒 Wealth Operations Automation Intern Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | Winter 2027 |
-| 1Password | 🔒 Data Intern - Product Analytics | Remote in USA, Remote in Canada | 🔒 Closed | 2026-10-12 | Winter 2027 |
-| Altera | 🔒 FPGA IP Design Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | – |
-| Amgen | 🔒 Business Analyst Co-op | Burnaby, BC, Canada | 🔒 Closed | 2026-09-02 | Winter 2027 |
-| AstraZeneca | 🔒 Patient Data Insights Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-19 | Winter 2027 |
-| Autodesk | 🔒 Product Manager Intern - Manufacturing | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Winter 2027 |
-| CIBC | 🔒 Software/Application Developer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-22 | Winter 2027 |
-| Ciena | 🔒 Hardware Design Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Geotab | 🔒 Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months | Waterloo, ON, Canada | 🔒 Closed | 2026-09-01 | Winter 2027 |
-| Intuit | 🔒 Software Developer Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-09-25 | Winter 2027 |
-| KPMG | 🔒 AI Builder Intern/Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
-| Manulife Financial | 🔒 Grit Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-08 | Summer 2027 |
-| Manulife Financial | 🔒 Product Management & Risk Technology Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-08 | Winter 2027 |
-| Marvell | 🔒 Analog Design Intern Co-op - BS | Toronto, ON, Canada | 🔒 Closed | 2026-09-24 | – |
-| Marvell | 🔒 Design Verification Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-23 | Winter 2027 |
-| Marvell | 🔒 Firmware Engineer Intern Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-02 | Summer 2027 |
-| Moment Energy | 🔒 Firmware Engineering Co-op | Surrey, BC, Canada | 🔒 Closed | 2026-10-06 | Winter 2027 |
-| Montreal Institute for Learning Algorithms | 🔒 AI Safety Research Intern - AI Safety | Montreal, QC, Canada | 🔒 Closed | 2026-10-02 | – |
-| Ribbon | 🔒 UI Engineer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-06-30 | – |
-| Royal Bank of Canada | 🔒 AI & Stress Testing Analytics Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | Winter 2027 |
-| TD Bank | 🔒 Life & Health Product Management Co-op Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-23 | Winter 2027 |
