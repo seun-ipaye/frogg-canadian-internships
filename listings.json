@@ -165,17 +165,6 @@
     "date_closed": null
   },
   {
-    "company": "Mawer Investment Management",
-    "role": "AI Orchestrator Student Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
-    "date_posted": "2026-11-20",
-    "date_found": "2026-11-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "MDA Space",
     "role": "Engineering Intern - Test Procedure Engineering",
     "location": "Sainte-Anne-de-Bellevue, QC, Canada",
@@ -3859,6 +3848,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Mawer Investment Management",
+    "role": "AI Orchestrator Student Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
+    "status": "closed",
+    "date_closed": "2026-11-26"
   },
   {
     "company": "Fonds de solidarité FTQ",
