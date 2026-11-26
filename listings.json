@@ -166,17 +166,6 @@
   },
   {
     "company": "Mawer Investment Management",
-    "role": "AI Engineer Student Intern",
-    "location": "Calgary, AB, Canada",
-    "term": "Winter 2027",
-    "link": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199",
-    "date_posted": "2026-11-20",
-    "date_found": "2026-11-20",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Mawer Investment Management",
     "role": "AI Orchestrator Student Intern",
     "location": "Calgary, AB, Canada",
     "term": "Winter 2027",
@@ -3890,6 +3879,17 @@
     "link": "https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false",
     "date_posted": "2026-11-24",
     "date_found": "2026-11-24",
+    "status": "closed",
+    "date_closed": "2026-11-25"
+  },
+  {
+    "company": "Mawer Investment Management",
+    "role": "AI Engineer Student Intern",
+    "location": "Calgary, AB, Canada",
+    "term": "Winter 2027",
+    "link": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-20",
     "status": "closed",
     "date_closed": "2026-11-25"
   },
