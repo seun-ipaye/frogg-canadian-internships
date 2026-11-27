@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**353 open** · 388 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**353 open** · 375 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -752,16 +752,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Royal Bank of Canada | 🔒 Developer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
 | Synopsys | 🔒 Technical-Engineering Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
 | Texas Instruments | 🔒 Software Engineer Intern | Toronto, ON, Canada, Canada | 🔒 Closed | 2026-10-22 | – |
-| Altera | 🔒 Quartus User Interface Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | – |
-| Amazon | 🔒 Systems Development Engineer Intern | Vancouver, BC, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
-| Elk Valley Resources | 🔒 Geographic Information Systems Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-08-26 | Summer 2027 |
-| Farm Credit Canada | 🔒 Data Analyst Student - Business Reporting | Regina, SK, Canada | 🔒 Closed | 2026-09-16 | – |
-| Farm Credit Canada | 🔒 Data Analyst Student - Valuations | Drummondville, QC, Canada, Montreal, QC, Canada, Winnipeg, MB, Canada +4 more | 🔒 Closed | 2026-09-16 | – |
-| General Dynamics UK | 🔒 Software Engineering Co-op - Months | Calgary, AB, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
-| General Dynamics UK | 🔒 Systems Engineering Co-op - TacNET 8 | Ottawa, ON, Canada | 🔒 Closed | 2026-09-04 | Winter 2027 |
-| L3Harris Technologies | 🔒 Systems Engineering Co-op | Waterdown, Hamilton, ON, Canada | 🔒 Closed | 2026-09-29 | – |
-| Royal Bank of Canada | 🔒 Data Engineer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
-| Royal Bank of Canada | 🔒 Developer & IT Specialist Co-op - Global Asset Management | Toronto, ON, Canada, Vancouver, BC, Canada | 🔒 Closed | 2026-09-04 | – |
-| Royal Bank of Canada | 🔒 Developer Intern | Bedford, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
-| RTX | 🔒 Performance Indicator Development and Process and Project Management Internship | Longueuil, QC, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
-| TD Bank | 🔒 Wealth Operations Automation Intern Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-20 | Winter 2027 |
