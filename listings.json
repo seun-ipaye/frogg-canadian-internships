@@ -441,17 +441,6 @@
   },
   {
     "company": "Birdseye Security Solutions",
-    "role": "AI Systems Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://birdseyeaccount.bamboohr.com/careers/287/",
-    "date_posted": "2026-11-17",
-    "date_found": "2026-11-17",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Birdseye Security Solutions",
     "role": "Computer Vision Intern",
     "location": "Mississauga, ON, Canada",
     "term": "Unspecified",
@@ -3848,6 +3837,17 @@
     "date_found": "2026-11-12",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Birdseye Security Solutions",
+    "role": "AI Systems Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://birdseyeaccount.bamboohr.com/careers/287/",
+    "date_posted": "2026-11-17",
+    "date_found": "2026-11-17",
+    "status": "closed",
+    "date_closed": "2026-11-27"
   },
   {
     "company": "Capital Power",
