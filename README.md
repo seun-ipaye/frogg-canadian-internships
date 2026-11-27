@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**352 open** · 376 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**350 open** · 378 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -30,7 +30,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | 2026-11-24 | Winter 2027 |
 | KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada +11 more | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | 2026-11-24 | – |
 | Brave | Software Development Intern - Web3 Core | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 | – |
-| Convverge | Junior Developer Co-op | Calgary, AB, Canada | [Apply](https://convverge.bamboohr.com/careers/31/) | 2026-11-21 | – |
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/254/) | 2026-11-20 | – |
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | [Apply](https://avnan.bamboohr.com/careers/125/) | 2026-11-20 | Winter 2027 |
 | Dometic | Product Designer Co-op - Software | Vancouver, BC, Canada | [Apply](https://edometic.rec.pro.ukg.net/DOM1500DOCO/JobBoard/1883c52c-7f1b-4c5d-97a8-113c61f2f7ad/OpportunityDetail?opportunityId=69fda379-1792-4110-8b62-200e8b7e75fe) | 2026-11-20 | – |
@@ -331,7 +330,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) | 2026-08-11 | Fall 2026 |
 | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | 2026-08-07 | Winter 2027 |
 | Huawei | Engineer Co-op - Openjiuwen AI Agent Platform | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform) | 2026-08-05 | – |
-| Huawei | Engineer Co-op - Intelligent Real-Time Operating System | Ottawa, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system) | 2026-08-04 | – |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | 2026-08-02 | Fall 2026 |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | 2026-07-31 | Fall 2026 |
 | Georgian Partners Growth | AI/ML Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) | 2026-07-21 | Fall 2027 |
@@ -377,6 +375,8 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | Capital Power | 🔒 Student Intern - Data Science | Edmonton, AB, Canada | 🔒 Closed | 2026-11-12 | Summer 2027 |
+| Convverge | 🔒 Junior Developer Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-11-21 | – |
+| Huawei | 🔒 Engineer Co-op - Intelligent Real-Time Operating System | Ottawa, ON, Canada | 🔒 Closed | 2026-08-04 | – |
 | Mawer Investment Management | 🔒 AI Orchestrator Student Intern | Calgary, AB, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
 | Fonds de solidarité FTQ | 🔒 Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-13 | – |
 | Kinaxis | 🔒 Data Foundations Intern - Data & Analytics | Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-11-24 | Winter 2027 |

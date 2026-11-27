@@ -66,17 +66,6 @@
     "date_closed": null
   },
   {
-    "company": "Convverge",
-    "role": "Junior Developer Co-op",
-    "location": "Calgary, AB, Canada",
-    "term": "Unspecified",
-    "link": "https://convverge.bamboohr.com/careers/31/",
-    "date_posted": "2026-11-21",
-    "date_found": "2026-11-21",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Amii",
     "role": "Machine Learning Resident",
     "location": "Edmonton, AB, Canada",
@@ -3377,17 +3366,6 @@
     "date_closed": null
   },
   {
-    "company": "Huawei",
-    "role": "Engineer Co-op - Intelligent Real-Time Operating System",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
-    "date_posted": "2026-08-04",
-    "date_found": "2026-11-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Yotta Labs",
     "role": "Research Engineer Intern - AI Systems",
     "location": "Remote in USA; Remote in Canada",
@@ -3878,6 +3856,28 @@
     "term": "Summer 2027",
     "link": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Edmonton-AB/Summer-Student---Data-Science_JR807223-1",
     "date_posted": "2026-11-12",
+    "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
+    "company": "Convverge",
+    "role": "Junior Developer Co-op",
+    "location": "Calgary, AB, Canada",
+    "term": "Unspecified",
+    "link": "https://convverge.bamboohr.com/careers/31/",
+    "date_posted": "2026-11-21",
+    "date_found": "2026-11-21",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Co-op - Intelligent Real-Time Operating System",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
+    "date_posted": "2026-08-04",
     "date_found": "2026-11-12",
     "status": "closed",
     "date_closed": "2026-11-27"
