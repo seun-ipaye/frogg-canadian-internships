@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**376 open** · 383 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**376 open** · 371 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -771,15 +771,3 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | 🔒 Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW | Toronto, ON, Canada | 🔒 Closed | 2026-09-17 | Summer 2027 |
 | Royal Bank of Canada | 🔒 Model Risk Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | TD Bank | 🔒 Data Engineer Intern/Co-op - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-08 | Winter 2027 |
-| Altera | 🔒 Software Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-16 | – |
-| Altera | 🔒 Software Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-22 | – |
-| CIBC | 🔒 Governance Solutions Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
-| CIBC | 🔒 Governance Solutions Analyst Co-op | Toronto, ON, Canada | 🔒 Closed | 2026-10-26 | – |
-| Equitable Bank | 🔒 Data Scientist Intern - Winter 2027 | Toronto, ON, Canada | 🔒 Closed | 2026-09-15 | Winter 2027 |
-| Kepler Communications | 🔒 Embedded Software Engineer Intern - January 2027 - 4 months | Toronto, ON, Canada | 🔒 Closed | 2026-08-19 | Winter 2027 |
-| Lumentum | 🔒 Reliability Test Automation Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-09-28 | Winter 2027 |
-| Nutanix | 🔒 Software Developer Co-op | Vancouver, BC, Canada | 🔒 Closed | 2026-10-22 | Winter 2027 |
-| Royal Bank of Canada | 🔒 Data Engineer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
-| Royal Bank of Canada | 🔒 Developer Intern | Halifax Regional Municipality, NS, Canada | 🔒 Closed | 2026-10-26 | Summer 2027 |
-| Synopsys | 🔒 Technical-Engineering Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-10-16 | Summer 2027 |
-| Texas Instruments | 🔒 Software Engineer Intern | Toronto, ON, Canada, Canada | 🔒 Closed | 2026-10-22 | – |
