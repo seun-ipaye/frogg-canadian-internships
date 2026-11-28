@@ -88,6 +88,17 @@
     "date_closed": null
   },
   {
+    "company": "TMX Group",
+    "role": "Data Analyst Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets---Data-Analyst-Intern_R-6758",
+    "date_posted": "2026-11-26",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "ABB",
     "role": "Software Engineer Intern",
     "location": "Dorval, QC, Canada",
@@ -247,6 +258,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300",
+    "date_posted": "2026-11-23",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Marvell",
+    "role": "Analog Design Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Fall 2027",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Design-Intern_2604621",
     "date_posted": "2026-11-23",
     "date_found": "2026-11-27",
     "status": "open",
@@ -539,11 +561,33 @@
     "date_closed": null
   },
   {
+    "company": "TMX Group",
+    "role": "Capital Markets Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Canadian-Capital-Markets-Intern_R-6736",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Altera",
     "role": "FPGA Software Engineer Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Canadian Solar",
+    "role": "Data Engineer Intern",
+    "location": "Kitchener, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603",
     "date_posted": "2026-11-19",
     "date_found": "2026-11-27",
     "status": "open",
