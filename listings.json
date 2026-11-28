@@ -2178,17 +2178,6 @@
     "date_closed": null
   },
   {
-    "company": "Intel",
-    "role": "Compiler Engineer Intern",
-    "location": "Toronto, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-    "date_posted": "2026-10-15",
-    "date_found": "2026-10-15",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Nokia",
     "role": "Embedded C/C++ Software Developer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -2656,17 +2645,6 @@
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
     "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1",
-    "date_posted": "2026-10-06",
-    "date_found": "2026-10-06",
-    "status": "open",
-    "date_closed": null
-  },
-  {
-    "company": "Lumentum",
-    "role": "Embedded Software Engineer Co-op Intern",
-    "location": "Ottawa, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
     "date_posted": "2026-10-06",
     "date_found": "2026-10-06",
     "status": "open",
@@ -4268,6 +4246,17 @@
     "date_closed": "2026-11-27"
   },
   {
+    "company": "Intel",
+    "role": "Compiler Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
+    "date_posted": "2026-10-15",
+    "date_found": "2026-10-15",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
     "company": "Lumentum",
     "role": "AI Engineer Co-op Intern",
     "location": "Ottawa, ON, Canada",
@@ -4286,6 +4275,17 @@
     "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_20261320",
     "date_posted": "2026-10-05",
     "date_found": "2026-10-05",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
+    "company": "Lumentum",
+    "role": "Embedded Software Engineer Co-op Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370",
+    "date_posted": "2026-10-06",
+    "date_found": "2026-10-06",
     "status": "closed",
     "date_closed": "2026-11-27"
   },

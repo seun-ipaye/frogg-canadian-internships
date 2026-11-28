@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**378 open** · 381 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**376 open** · 383 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -222,7 +222,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | SiTime | ASIC Digital Verification Engineer Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/sitimecorporation/jobs/4451161009) | 2026-10-16 | – |
 | Waabi | Safety Methodologies Intern Co-op | Toronto, ON, Canada, SF, Pittsburgh, PA | [Apply](https://jobs.lever.co/waabi/480d9d41-33d0-429a-8883-7f9ec305a30f/apply) | 2026-10-16 | Summer 2027 |
 | Capital de Recherche Tower | Machine Learning Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) | 2026-10-15 | – |
-| Intel | Compiler Engineer Intern | Toronto, ON, Canada | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934) | 2026-10-15 | – |
 | Nokia | Embedded C/C++ Software Developer Co-op Intern | Ottawa, ON, Canada | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | 2026-10-15 | Winter 2027 |
 | TechInsights | Software Development Co-op Student | Ottawa, ON, Canada | [Apply](https://techinsights.applytojob.com/apply/3yhis78252/Software-Development-Coop-Student-Winter-2026) | 2026-10-15 | – |
 | Tower Research Capital | Machine Learning Intern | Montreal, QC, Canada | [Apply](https://www.tower-research.com/open-positions/?gh_jid=7077280) | 2026-10-15 | – |
@@ -266,7 +265,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CAE | Artificial Intelligence Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire----Intelligence-artificielle_123902) | 2026-10-06 | – |
 | CAE | Data Specialist Intern | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Spcialiste-de-donnes_123901) | 2026-10-06 | – |
 | CAE | Full Stack Developer Intern - Training Center Operations Experience | Montreal, QC, Canada | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1) | 2026-10-06 | – |
-| Lumentum | Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20261370) | 2026-10-06 | – |
 | MistyWest | Engineering Co-op | Vancouver, BC, Canada | [Apply](https://apply.workable.com/mistywest/j/5D68DE0118/apply) | 2026-10-06 | Winter 2027 |
 | Tenstorrent | Hardware Intern - AI HW & System on a Chip | Toronto, ON, Canada, Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) | 2026-10-06 | – |
 | Hitachi Energy | Electrical Component Engineer Intern | Toronto, ON, Canada | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359) | 2026-10-05 | Summer 2027 |
@@ -412,8 +410,10 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | 🔒 Engineer Co-op - Intelligent Real-Time Operating System | Ottawa, ON, Canada | 🔒 Closed | 2026-08-04 | – |
 | Huawei | 🔒 Engineer Co-op - Openjiuwen AI Agent Platform | Markham, ON, Canada | 🔒 Closed | 2026-08-05 | – |
 | Huawei | 🔒 Researcher Co-op - AI Computing System | Vancouver, BC, Canada | 🔒 Closed | 2026-04-01 | – |
+| Intel | 🔒 Compiler Engineer Intern | Toronto, ON, Canada | 🔒 Closed | 2026-10-15 | – |
 | Lumentum | 🔒 AI Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-11-16 | Winter 2027 |
 | Lumentum | 🔒 Embedded Software Developer Co-op - Optical Circuit Switch | Ottawa, ON, Canada | 🔒 Closed | 2026-10-05 | Winter 2027 |
+| Lumentum | 🔒 Embedded Software Engineer Co-op Intern | Ottawa, ON, Canada | 🔒 Closed | 2026-10-06 | – |
 | Trimble | 🔒 Geospatial Product Engineer Intern | Richmond Hill, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | Trimble | 🔒 Navigation & Machine Learning Engineer Intern | Richmond Hill, ON, Canada | 🔒 Closed | 2026-10-23 | Summer 2027 |
 | Mawer Investment Management | 🔒 AI Orchestrator Student Intern | Calgary, AB, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
