@@ -1859,17 +1859,6 @@
     "date_closed": null
   },
   {
-    "company": "Thales",
-    "role": "Tools and Process Development Intern",
-    "location": "Montreal, QC, Canada",
-    "term": "Unspecified",
-    "link": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Aptiv",
     "role": "HVP Certification Engineer Intern",
     "location": "Kanata, Ottawa, ON, Canada",
@@ -4134,6 +4123,17 @@
     "date_found": "2026-10-05",
     "status": "open",
     "date_closed": null
+  },
+  {
+    "company": "Thales",
+    "role": "Tools and Process Development Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "closed",
+    "date_closed": "2026-11-28"
   },
   {
     "company": "Amgen",
