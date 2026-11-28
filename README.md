@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**382 open** · 374 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**381 open** · 375 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -176,7 +176,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Deep Learning Research Intern - Interim Engineering Intern - Systems | Markham, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721828828) | 2026-10-28 | Summer 2027 |
 | Lumerate | Data Associate Intern | Canada, Remote in Canada | [Apply](https://lumerate.breezy.hr/p/baf2283496ad/apply) | 2026-10-27 | Winter 2027 |
 | Nasdaq | Back End Software Developer Co-op Intern | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) | 2026-10-27 | – |
-| Trimble | Geospatial Product Engineer Intern | Richmond Hill, ON, Canada | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213) | 2026-10-27 | – |
 | Uber | Software Engineer Intern | Toronto, ON, Canada | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) | 2026-10-27 | – |
 | AtkinsRéalis | Business Intelligence Intern - Digital | Montreal, QC, Canada | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Stagiaire-en-intelligence-d-affaires--Digital_R-166691) | 2026-10-26 | Summer 2027 |
 | SOTI | Software Developer Intern - Android | Mississauga, ON, Canada | [Apply](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) | 2026-10-26 | Summer 2027 |
@@ -413,6 +412,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Huawei | 🔒 Engineer Co-op - Intelligent Real-Time Operating System | Ottawa, ON, Canada | 🔒 Closed | 2026-08-04 | – |
 | Huawei | 🔒 Engineer Co-op - Openjiuwen AI Agent Platform | Markham, ON, Canada | 🔒 Closed | 2026-08-05 | – |
 | Huawei | 🔒 Researcher Co-op - AI Computing System | Vancouver, BC, Canada | 🔒 Closed | 2026-04-01 | – |
+| Trimble | 🔒 Geospatial Product Engineer Intern | Richmond Hill, ON, Canada | 🔒 Closed | 2026-10-27 | – |
 | Mawer Investment Management | 🔒 AI Orchestrator Student Intern | Calgary, AB, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
 | Fonds de solidarité FTQ | 🔒 Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-13 | – |
 | Kinaxis | 🔒 Data Foundations Intern - Data & Analytics | Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-11-24 | Winter 2027 |

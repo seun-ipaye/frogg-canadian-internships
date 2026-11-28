@@ -1672,17 +1672,6 @@
     "date_closed": null
   },
   {
-    "company": "Trimble",
-    "role": "Geospatial Product Engineer Intern",
-    "location": "Richmond Hill, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213",
-    "date_posted": "2026-10-27",
-    "date_found": "2026-10-27",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Uber",
     "role": "Software Engineer Intern",
     "location": "Toronto, ON, Canada",
@@ -4275,6 +4264,17 @@
     "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
     "date_posted": "2026-04-01",
     "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
+    "company": "Trimble",
+    "role": "Geospatial Product Engineer Intern",
+    "location": "Richmond Hill, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Geospatial-Product-Engineering-Intern_R58213",
+    "date_posted": "2026-10-27",
+    "date_found": "2026-10-27",
     "status": "closed",
     "date_closed": "2026-11-27"
   },
