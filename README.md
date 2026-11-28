@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**348 open** · 380 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**350 open** · 382 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -24,7 +24,11 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 
 | Company | Role | Location | Apply | Date Posted | Term |
 | --- | --- | --- | --- | --- | --- |
+| CARFAX Canada | Developer Co-op | London, ON, Canada | [Apply](https://carfaxcanada.bamboohr.com/careers/84/) | 2026-11-27 | Winter 2027 |
 | Encepta | GIS Data Technician Intern | Victoria, BC, Canada, Burnaby, BC, Canada | [Apply](https://encepta.bamboohr.com/careers/181/) | 2026-11-27 | – |
+| Intercept | Analytics & Intelligence Co-op | Toronto, ON, Canada | [Apply](https://intercept.bamboohr.com/careers/50/) | 2026-11-27 | Summer 2027 |
+| Intercept | Product Co-op | Toronto, ON, Canada | [Apply](https://intercept.bamboohr.com/careers/48/) | 2026-11-27 | Summer 2027 |
+| Intercept | Solutions Engineer Co-op | Toronto, ON, Canada | [Apply](https://intercept.bamboohr.com/careers/49/) | 2026-11-27 | Summer 2027 |
 | Synopsys | Technical-Engineering Intern | Mississauga, ON, Canada | [Apply](https://synopsys.avature.net/careers/JobDetail/19725) | 2026-11-27 | Summer 2027 |
 | Tecsys | Developer Intern | Montreal, QC, Canada | [Apply](https://apply.workable.com/tecsys/j/B6D2B7128A/apply) | 2026-11-25 | – |
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | 2026-11-24 | Winter 2027 |
@@ -327,7 +331,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Spaceium | Electrical Intern | Ottawa, ON, Canada | [Apply](https://job-boards.greenhouse.io/spaceium/jobs/4368438009) | 2026-08-13 | – |
 | ResponsiveAds | Full-Stack Developer Intern - ResponsiveAds - Studio 4 | Vancouver, BC, Canada | [Apply](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/apply) | 2026-08-11 | Fall 2026 |
 | Epic Games | Machine Learning Intern - Special Projects - Epic Research Group | Montreal, QC, Canada | [Apply](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | 2026-08-07 | Winter 2027 |
-| Huawei | Engineer Co-op - Openjiuwen AI Agent Platform | Markham, ON, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform) | 2026-08-05 | – |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote in USA, Remote in Canada | [Apply](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | 2026-08-02 | Fall 2026 |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON, Canada | [Apply](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | 2026-07-31 | Fall 2026 |
 | Georgian Partners Growth | AI/ML Engineer Intern | Toronto, ON, Canada | [Apply](https://jobs.ashbyhq.com/georgian/2ae71a4b-dd9d-4068-8ef2-81351ee74cab/application?embed=true) | 2026-07-21 | Fall 2027 |
@@ -371,12 +374,13 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | CCLIM - Quantitative Equity | Quantitative Equity Alpha Research Intern | Vancouver, BC, Canada | [Apply](https://cclim.cclgroup.com/q/current-openings/posting/?gh_jid=4223842009) | 2026-04-21 | Winter 2027 |
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
-| Huawei | Researcher Co-op - AI Computing System | Vancouver, BC, Canada | [Apply](https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1) | 2026-04-01 | – |
 | Birdseye Security Solutions | 🔒 AI Systems Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-11-17 | – |
 | Birdseye Security Solutions | 🔒 Computer Vision Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-11-17 | – |
 | Capital Power | 🔒 Student Intern - Data Science | Edmonton, AB, Canada | 🔒 Closed | 2026-11-12 | Summer 2027 |
 | Convverge | 🔒 Junior Developer Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-11-21 | – |
 | Huawei | 🔒 Engineer Co-op - Intelligent Real-Time Operating System | Ottawa, ON, Canada | 🔒 Closed | 2026-08-04 | – |
+| Huawei | 🔒 Engineer Co-op - Openjiuwen AI Agent Platform | Markham, ON, Canada | 🔒 Closed | 2026-08-05 | – |
+| Huawei | 🔒 Researcher Co-op - AI Computing System | Vancouver, BC, Canada | 🔒 Closed | 2026-04-01 | – |
 | Mawer Investment Management | 🔒 AI Orchestrator Student Intern | Calgary, AB, Canada | 🔒 Closed | 2026-11-20 | Winter 2027 |
 | Fonds de solidarité FTQ | 🔒 Business Intelligence and M365 Solutions Intern | Montreal, QC, Canada | 🔒 Closed | 2026-11-13 | – |
 | Kinaxis | 🔒 Data Foundations Intern - Data & Analytics | Ottawa, ON, Canada, Remote in Canada | 🔒 Closed | 2026-11-24 | Winter 2027 |

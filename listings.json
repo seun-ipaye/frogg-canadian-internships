@@ -1,5 +1,16 @@
 [
   {
+    "company": "CARFAX Canada",
+    "role": "Developer Co-op",
+    "location": "London, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://carfaxcanada.bamboohr.com/careers/84/",
+    "date_posted": "2026-11-27",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Encepta",
     "role": "GIS Data Technician Intern",
     "location": "Victoria, BC, Canada; Burnaby, BC, Canada",
@@ -7,6 +18,39 @@
     "link": "https://encepta.bamboohr.com/careers/181/",
     "date_posted": "2026-11-27",
     "date_found": "2026-11-26",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intercept",
+    "role": "Analytics & Intelligence Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://intercept.bamboohr.com/careers/50/",
+    "date_posted": "2026-11-27",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intercept",
+    "role": "Product Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://intercept.bamboohr.com/careers/48/",
+    "date_posted": "2026-11-27",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Intercept",
+    "role": "Solutions Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://intercept.bamboohr.com/careers/49/",
+    "date_posted": "2026-11-27",
+    "date_found": "2026-11-27",
     "status": "open",
     "date_closed": null
   },
@@ -3333,17 +3377,6 @@
     "date_closed": null
   },
   {
-    "company": "Huawei",
-    "role": "Engineer Co-op - Openjiuwen AI Agent Platform",
-    "location": "Markham, ON, Canada",
-    "term": "Unspecified",
-    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform",
-    "date_posted": "2026-08-05",
-    "date_found": "2026-11-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Yotta Labs",
     "role": "Research Engineer Intern - AI Systems",
     "location": "Remote in USA; Remote in Canada",
@@ -3817,17 +3850,6 @@
     "date_closed": null
   },
   {
-    "company": "Huawei",
-    "role": "Researcher Co-op - AI Computing System",
-    "location": "Vancouver, BC, Canada",
-    "term": "Unspecified",
-    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
-    "date_posted": "2026-04-01",
-    "date_found": "2026-11-12",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Birdseye Security Solutions",
     "role": "AI Systems Intern",
     "location": "Mississauga, ON, Canada",
@@ -3878,6 +3900,28 @@
     "term": "Unspecified",
     "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system",
     "date_posted": "2026-08-04",
+    "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
+    "company": "Huawei",
+    "role": "Engineer Co-op - Openjiuwen AI Agent Platform",
+    "location": "Markham, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform",
+    "date_posted": "2026-08-05",
+    "date_found": "2026-11-12",
+    "status": "closed",
+    "date_closed": "2026-11-27"
+  },
+  {
+    "company": "Huawei",
+    "role": "Researcher Co-op - AI Computing System",
+    "location": "Vancouver, BC, Canada",
+    "term": "Unspecified",
+    "link": "https://huaweicanada.recruitee.com/o/co-op-researcher-ai-computing-system-1",
+    "date_posted": "2026-04-01",
     "date_found": "2026-11-12",
     "status": "closed",
     "date_closed": "2026-11-27"
