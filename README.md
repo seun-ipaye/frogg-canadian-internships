@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**350 open** · 382 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**351 open** · 382 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -34,6 +34,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | City of Campbell River | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | [Apply](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | 2026-11-24 | Winter 2027 |
 | KPMG | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada +11 more | [Apply](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | 2026-11-24 | – |
 | Brave | Software Development Intern - Web3 Core | Remote in Canada | [Apply](https://job-boards.greenhouse.io/brave/jobs/8412532) | 2026-11-23 | – |
+| iA Financial Group | AI Specialist Intern | Toronto, ON, Canada | [Apply](https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300) | 2026-11-23 | – |
 | Amii | Machine Learning Resident | Edmonton, AB, Canada | [Apply](https://amii.bamboohr.com/careers/254/) | 2026-11-20 | – |
 | Avnan | Electronics Engineering Technologist Co-op | Mississauga, ON, Canada | [Apply](https://avnan.bamboohr.com/careers/125/) | 2026-11-20 | Winter 2027 |
 | Dometic | Product Designer Co-op - Software | Vancouver, BC, Canada | [Apply](https://edometic.rec.pro.ukg.net/DOM1500DOCO/JobBoard/1883c52c-7f1b-4c5d-97a8-113c61f2f7ad/OpportunityDetail?opportunityId=69fda379-1792-4110-8b62-200e8b7e75fe) | 2026-11-20 | – |
