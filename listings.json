@@ -11,6 +11,17 @@
     "date_closed": null
   },
   {
+    "company": "Ciena",
+    "role": "Automation Engineer – Global Technical Support Intern",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-engineer---Global-Technical-Support-Intern_R032186",
+    "date_posted": "2026-11-27",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Encepta",
     "role": "GIS Data Technician Intern",
     "location": "Victoria, BC, Canada; Burnaby, BC, Canada",
@@ -601,6 +612,17 @@
     "link": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Co-op--Risk-Modelling--Winter-2027-_JR100957",
     "date_posted": "2026-11-18",
     "date_found": "2026-11-20",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Product Applications Engineer Intern",
+    "location": "San Jose, CA; Canada; United States",
+    "term": "Unspecified",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Product-Applications-Intern_R269555",
+    "date_posted": "2026-11-18",
+    "date_found": "2026-11-27",
     "status": "open",
     "date_closed": null
   },
@@ -1738,6 +1760,17 @@
     "date_closed": null
   },
   {
+    "company": "Citi",
+    "role": "Technology Analyst Intern - Application Development",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
+    "date_posted": "2026-10-23",
+    "date_found": "2026-10-23",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Kinaxis",
     "role": "Full Stack Developer Intern - C#",
     "location": "Ottawa, ON, Canada",
@@ -2409,6 +2442,28 @@
     "date_closed": null
   },
   {
+    "company": "Manulife Financial",
+    "role": "Software Engineer Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Manulife Financial",
+    "role": "Software Engineering Co-op",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
+    "date_posted": "2026-10-12",
+    "date_found": "2026-10-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Magnet Forensics",
     "role": "Software Developer Co-op",
     "location": "Ontario, Canada; Waterloo, ON, Canada; Ottawa, ON, Canada",
@@ -2711,6 +2766,17 @@
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://stripe.com/jobs/search?gh_jid=8194285",
+    "date_posted": "2026-10-01",
+    "date_found": "2026-10-05",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "The Home Depot",
+    "role": "Full Stack Software Developer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012",
     "date_posted": "2026-10-01",
     "date_found": "2026-10-05",
     "status": "open",
@@ -4939,17 +5005,6 @@
     "date_closed": "2026-11-18"
   },
   {
-    "company": "Citi",
-    "role": "Technology Analyst Intern - Application Development",
-    "location": "Mississauga, ON, Canada",
-    "term": "Summer 2027",
-    "link": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
-    "date_posted": "2026-10-23",
-    "date_found": "2026-10-23",
-    "status": "closed",
-    "date_closed": "2026-11-18"
-  },
-  {
     "company": "Definity Financial",
     "role": "Direct Channel Operations Co-op Intern",
     "location": "Toronto, ON, Canada",
@@ -6792,28 +6847,6 @@
     "location": "Waterloo, ON, Canada",
     "term": "Winter 2027",
     "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-11-10"
-  },
-  {
-    "company": "Manulife Financial",
-    "role": "Software Engineer Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663-1",
-    "date_posted": "2026-10-12",
-    "date_found": "2026-10-12",
-    "status": "closed",
-    "date_closed": "2026-11-10"
-  },
-  {
-    "company": "Manulife Financial",
-    "role": "Software Engineering Co-op",
-    "location": "Toronto, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering--8-Months-_JR26081664-1",
     "date_posted": "2026-10-12",
     "date_found": "2026-10-12",
     "status": "closed",
