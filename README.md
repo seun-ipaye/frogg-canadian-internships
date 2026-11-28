@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**374 open** · 373 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**373 open** · 374 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -164,7 +164,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Qualcomm | Soft IP Engineer Co-op Intern | Ottawa, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862542) | 2026-10-30 | Summer 2027 |
 | Stripe | Machine Learning Engineer Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) | 2026-10-30 | Summer 2027 |
 | Stripe | PhD Machine Learning Engineer Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) | 2026-10-30 | Summer 2027 |
-| Ciena | Embedded Software Engineer Co-op | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005) | 2026-10-29 | Winter 2027 |
 | Huawei | Intern Researcher - AI Agents | Montreal, QC, Canada | [Apply](https://huaweicanada.recruitee.com/o/intern-researcher-ai-agents-1) | 2026-10-29 | – |
 | Qualcomm | AI Software Engineering Co-op Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862429) | 2026-10-29 | Summer 2027 |
 | Qualcomm | AI Software Systems Co-op Intern | Toronto, ON, Canada | [Apply](https://qualcomm.eightfold.ai/careers/job/446721862430) | 2026-10-29 | Summer 2027 |
@@ -399,6 +398,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Anthropic | Anthropic Fellows Program - AI Safety | London, UK, SF, Ontario, Canada +2 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) | 2026-04-10 | – |
 | Anthropic | Anthropic Fellows Program - ML Systems & Performance | London, UK, SF, Remote in USA +1 more | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | 2026-04-10 | – |
 | Canadian Tire | 🔒 Business Operations Analyst Student - Winter 2027 | Welland, ON, Canada | 🔒 Closed | 2026-09-03 | Winter 2027 |
+| Ciena | 🔒 Embedded Software Engineer Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Thales | 🔒 Tools and Process Development Intern | Montreal, QC, Canada | 🔒 Closed | 2026-10-23 | – |
 | Amgen | 🔒 Computer Engineering Co-op - Large Molecule Discovery - Technology | Burnaby, BC, Canada | 🔒 Closed | 2026-11-10 | Winter 2027 |
 | Birdseye Security Solutions | 🔒 AI Systems Intern | Mississauga, ON, Canada | 🔒 Closed | 2026-11-17 | – |

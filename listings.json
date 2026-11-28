@@ -1540,17 +1540,6 @@
     "date_closed": null
   },
   {
-    "company": "Ciena",
-    "role": "Embedded Software Engineer Co-op",
-    "location": "Ottawa, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
-    "date_posted": "2026-10-29",
-    "date_found": "2026-10-29",
-    "status": "open",
-    "date_closed": null
-  },
-  {
     "company": "Huawei",
     "role": "Intern Researcher - AI Agents",
     "location": "Montreal, QC, Canada",
@@ -4121,6 +4110,17 @@
     "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Welland-ON/Business-Operations-Analyst-Student--4-months----Winter-2027_JR164928",
     "date_posted": "2026-09-03",
     "date_found": "2026-11-11",
+    "status": "closed",
+    "date_closed": "2026-11-28"
+  },
+  {
+    "company": "Ciena",
+    "role": "Embedded Software Engineer Co-op",
+    "location": "Ottawa, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005",
+    "date_posted": "2026-10-29",
+    "date_found": "2026-10-29",
     "status": "closed",
     "date_closed": "2026-11-28"
   },
