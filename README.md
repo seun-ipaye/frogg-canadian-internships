@@ -4,7 +4,7 @@ Open tech internships and co-ops in Canada for Winter, Summer and Fall 2026, 202
 
 Updated automatically every 30 minutes by **Frogg**, a Discord bot that delivers new postings to student servers — [add Frogg to your server](https://discord.com/oauth2/authorize?client_id=1538298422807765002).
 
-**381 open** · 378 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
+**380 open** · 379 closed in the last 30 days · Data: [`listings.json`](listings.json) · [`archive.json`](archive.json)
 
 Listings come from [SimplifyJobs' community-maintained internship tracker](https://github.com/SimplifyJobs/Summer2027-Internships) and companies' own career pages (Greenhouse, Lever, Workday). This project isn't affiliated with SimplifyJobs.
 
@@ -280,7 +280,6 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Stripe | Data Analyst Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8194287) | 2026-10-01 | Winter 2027 |
 | Stripe | Data Scientist Intern | Toronto, ON, Canada | [Apply](https://stripe.com/jobs/search?gh_jid=8194285) | 2026-10-01 | – |
 | The Home Depot | Full Stack Software Developer Intern | Toronto, ON, Canada | [Apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) | 2026-10-01 | Winter 2027 |
-| Foresters Financial | Software Engineer Co-op - AI | Toronto, ON, Canada | [Apply](https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2332) | 2026-09-30 | – |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254600/?ats=successfactors) | 2026-09-30 | – |
 | L3Harris Technologies | Manufacturing Engineering Co-op | Waterdown, Hamilton, ON, Canada | [Apply](https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-%28Waterdown,-CAN%29-ON-L9H-0C5/1435254800/?ats=successfactors) | 2026-09-30 | – |
 | Ciena | Hardware Design and Verification Intern - PCBA | Ottawa, ON, Canada | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | 2026-09-29 | Winter 2027 |
@@ -410,6 +409,7 @@ Built and maintained by **Seun Samuel-Ipaye** ([LinkedIn](https://www.linkedin.c
 | Capital Power | 🔒 Student Intern - Data Science | Edmonton, AB, Canada | 🔒 Closed | 2026-11-12 | Summer 2027 |
 | Ciena | 🔒 Hardware Characterization Automation Co-op | Ottawa, ON, Canada | 🔒 Closed | 2026-10-29 | Winter 2027 |
 | Convverge | 🔒 Junior Developer Co-op | Calgary, AB, Canada | 🔒 Closed | 2026-11-21 | – |
+| Foresters Financial | 🔒 Software Engineer Co-op - AI | Toronto, ON, Canada | 🔒 Closed | 2026-09-30 | – |
 | Huawei | 🔒 Engineer Co-op - Intelligent Real-Time Operating System | Ottawa, ON, Canada | 🔒 Closed | 2026-08-04 | – |
 | Huawei | 🔒 Engineer Co-op - Openjiuwen AI Agent Platform | Markham, ON, Canada | 🔒 Closed | 2026-08-05 | – |
 | Huawei | 🔒 Researcher Co-op - AI Computing System | Vancouver, BC, Canada | 🔒 Closed | 2026-04-01 | – |
