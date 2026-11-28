@@ -66,6 +66,94 @@
     "date_closed": null
   },
   {
+    "company": "CAE",
+    "role": "Business Intelligence and Applied AI Intern - Sustainable Procurement",
+    "location": "Montreal, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528",
+    "date_posted": "2026-11-26",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "ABB",
+    "role": "Software Engineer Intern",
+    "location": "Dorval, QC, Canada",
+    "term": "Winter 2027",
+    "link": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/Software-Intern---Winter-2027_JR00053791",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Accounting AI Solution Engineer Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "AI and Quant Devtech Engineering Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Developer Technology Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Finance AI Engineer Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Product Management MBA Intern - GenAI Data Strategy",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Software Engineer Intern - Simulation Technology",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+    "date_posted": "2026-11-25",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Tecsys",
     "role": "Developer Intern",
     "location": "Montreal, QC, Canada",
@@ -73,6 +161,17 @@
     "link": "https://apply.workable.com/tecsys/j/B6D2B7128A/apply",
     "date_posted": "2026-11-25",
     "date_found": "2026-11-25",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "Embedded Solutions Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R03512",
+    "date_posted": "2026-11-24",
+    "date_found": "2026-11-27",
     "status": "open",
     "date_closed": null
   },
@@ -99,6 +198,17 @@
     "date_closed": null
   },
   {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10735",
+    "date_posted": "2026-11-24",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "Brave",
     "role": "Software Development Intern - Web3 Core",
     "location": "Remote in Canada",
@@ -110,11 +220,44 @@
     "date_closed": null
   },
   {
+    "company": "Canadian Tire",
+    "role": "Software Development Student Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Software-Development-Student--4-Months----Winter-2027_JR168222",
+    "date_posted": "2026-11-23",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "iA Financial Group",
     "role": "AI Specialist Intern",
     "location": "Toronto, ON, Canada",
     "term": "Unspecified",
     "link": "https://ia.wd3.myworkdayjobs.com/Professional/job/Toronto-Ontario/AI-Specialist_JR10028300",
+    "date_posted": "2026-11-23",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10703-2",
+    "date_posted": "2026-11-23",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Thales",
+    "role": "Hardware Intern",
+    "location": "Montreal, QC, Canada",
+    "term": "Unspecified",
+    "link": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-hardware_R0348058-1",
     "date_posted": "2026-11-23",
     "date_found": "2026-11-27",
     "status": "open",
@@ -374,6 +517,28 @@
     "date_closed": null
   },
   {
+    "company": "Saputo",
+    "role": "Packaging Data and Sustainability Intern",
+    "location": "Montreal, QC, Canada; Saint-Leonard, Montreal, QC, Canada",
+    "term": "Summer 2027",
+    "link": "https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Saint-Leonard-QC/Stagiaire--dveloppement-durable-et-emballage_JR68362",
+    "date_posted": "2026-11-20",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "Altera",
+    "role": "FPGA Software Engineer Intern",
+    "location": "Toronto, ON, Canada",
+    "term": "Unspecified",
+    "link": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Software-Engineer-Intern_R03445",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-27",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "EUNA Solutions",
     "role": "Associate AI-Enablement Developer Co-op",
     "location": "Oakville, ON, Canada",
@@ -414,6 +579,17 @@
     "link": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101",
     "date_posted": "2026-11-19",
     "date_found": "2026-11-19",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Summer 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10718",
+    "date_posted": "2026-11-19",
+    "date_found": "2026-11-27",
     "status": "open",
     "date_closed": null
   },
@@ -792,6 +968,17 @@
     "date_closed": null
   },
   {
+    "company": "NVIDIA",
+    "role": "Performance Engineering Intern - Platform Performance and Power",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Winter 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+    "date_posted": "2026-11-10",
+    "date_found": "2026-11-10",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "SOTI",
     "role": "Software Developer Intern",
     "location": "Mississauga, ON, Canada",
@@ -1116,6 +1303,17 @@
     "location": "Montreal, QC, Canada",
     "term": "Unspecified",
     "link": "https://www.metacareers.com/jobs/1406585275871250",
+    "date_posted": "2026-11-02",
+    "date_found": "2026-11-02",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Math Libraries Intern",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
     "date_posted": "2026-11-02",
     "date_found": "2026-11-02",
     "status": "open",
@@ -1727,6 +1925,28 @@
     "date_closed": null
   },
   {
+    "company": "NVIDIA",
+    "role": "PhD Research Intern - AI for Climate and Weather Simulation",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "NVIDIA",
+    "role": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
+    "location": "Canada; Santa Clara, CA; United States",
+    "term": "Summer 2027",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
+    "date_posted": "2026-10-21",
+    "date_found": "2026-10-21",
+    "status": "open",
+    "date_closed": null
+  },
+  {
     "company": "GeoSpectrum Technologies",
     "role": "Software Developer Co-op",
     "location": "Dartmouth, NS, Canada",
@@ -2053,6 +2273,17 @@
     "link": "https://huaweicanada.recruitee.com/o/intern-researcher-applied-3d-aigc",
     "date_posted": "2026-10-13",
     "date_found": "2026-11-12",
+    "status": "open",
+    "date_closed": null
+  },
+  {
+    "company": "SOTI",
+    "role": "Software Developer Intern",
+    "location": "Mississauga, ON, Canada",
+    "term": "Winter 2027",
+    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
+    "date_posted": "2026-10-13",
+    "date_found": "2026-10-13",
     "status": "open",
     "date_closed": null
   },
@@ -4587,17 +4818,6 @@
     "date_closed": "2026-11-20"
   },
   {
-    "company": "SOTI",
-    "role": "Software Developer Intern",
-    "location": "Mississauga, ON, Canada",
-    "term": "Winter 2027",
-    "link": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
-    "date_posted": "2026-10-13",
-    "date_found": "2026-10-13",
-    "status": "closed",
-    "date_closed": "2026-11-20"
-  },
-  {
     "company": "Zimmer Biomet Holdings",
     "role": "Software Developer Co-op",
     "location": "Montreal, QC, Canada",
@@ -4660,50 +4880,6 @@
     "link": "https://jobs.l3harris.com/job/Waterdown-FPGA-Software-Tool-Developer-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1430127100/?ats=successfactors",
     "date_posted": "2026-09-15",
     "date_found": "2026-10-05",
-    "status": "closed",
-    "date_closed": "2026-11-19"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "Math Libraries Intern",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Summer 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
-    "date_posted": "2026-11-02",
-    "date_found": "2026-11-02",
-    "status": "closed",
-    "date_closed": "2026-11-19"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "Performance Engineering Intern - Platform Performance and Power",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Winter 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
-    "date_posted": "2026-11-10",
-    "date_found": "2026-11-10",
-    "status": "closed",
-    "date_closed": "2026-11-19"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "PhD Research Intern - AI for Climate and Weather Simulation",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Summer 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
-    "status": "closed",
-    "date_closed": "2026-11-19"
-  },
-  {
-    "company": "NVIDIA",
-    "role": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
-    "location": "Canada; Santa Clara, CA; United States",
-    "term": "Summer 2027",
-    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
-    "date_posted": "2026-10-21",
-    "date_found": "2026-10-21",
     "status": "closed",
     "date_closed": "2026-11-19"
   },
